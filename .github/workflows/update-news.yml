@@ -1,0 +1,41 @@
+# News update every 15 minutes. NOT yet deployed/verified: it only runs after this folder is pushed to a GitHub repository.
+# It assumes the repo root IS the website folder (index.html at the root, news-tools/ inside). Adjust SITE if your layout differs.
+# The commit of the updated news files triggers your host's normal auto-deploy (Netlify / Vercel / GitHub Pages ...).
+name: update-cyber-news
+on:
+  schedule:
+    - cron: "*/15 * * * *"        # every 15 minutes (UTC)
+  workflow_dispatch: {}
+  push:                        # first run happens right after you push the news tools
+    paths: ["news-tools/**", ".github/workflows/update-news.yml"]
+permissions:
+  contents: write
+concurrency:
+  group: update-cyber-news    # prevents overlapping runs
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      SITE: .
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Run news tests
+        run: node --test "news-tools/tests/*.test.mjs"
+      - name: Show real status of every source (for the log)
+        run: node news-tools/diagnose.mjs
+        continue-on-error: true
+      - name: Fetch news
+        run: node news-tools/fetch-news.mjs --site "$SITE"
+        continue-on-error: false     # exits 1 only when EVERY source failed; old data stays untouched on disk
+      - name: Commit changes
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add "$SITE/assets/news.json" "$SITE/assets/news-data.js"
+          git diff --cached --quiet || git commit -m "chore: update cyber news"
+          git push

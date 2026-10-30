@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /research/template/
+
+Sitemap: https://www.example.com/sitemap.xml

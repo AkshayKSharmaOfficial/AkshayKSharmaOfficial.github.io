@@ -1,0 +1,2 @@
+Apni photos is folder (assets/images/gallery) me copy karein.
+Phir assets/gallery-data.js kholkar har photo ki ek line jodein.

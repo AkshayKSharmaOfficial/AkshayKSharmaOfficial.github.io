@@ -1,0 +1,45 @@
+/* ===== EDIT YOUR WEBSITE CONTENT HERE ===== */
+const A=(slug,cat,t,h,s,hs,signs,tips)=>({slug,cat,en:{t,s},hi:{t:h,s:hs},signs,tips});
+window.SITE={
+name:"Akshay Kumar Sharma",
+title:"Cyber Security Educator | Cyber Awareness Trainer | Cyber Security Researcher",
+mission:"Educating People. Advancing Cyber Awareness. Building a Safer Digital India.",
+support:"Making cybersecurity knowledge accessible, practical, and understandable for everyone.",
+heroText:"I work to make cybersecurity knowledge accessible, promote responsible digital behavior, and help people better understand online threats and digital safety.",
+email:"",            // OWNER: add your professional email
+formEndpoint:"",    // OWNER: add Formspree/Web3Forms URL to enable the contact form
+portrait:"",        // OWNER: e.g. "assets/akshay.jpg"
+baseUrl:"https://YOUR-DOMAIN.com",
+social:{LinkedIn:"https://www.linkedin.com/in/akshay-k-sharma/",YouTube:"https://www.youtube.com/@cybersecwithakshay","Company Page":"https://www.linkedin.com/company/cyberbharatofficial/"},
+bio:["Akshay Kumar Sharma is a Cyber Security Educator and Researcher focused on cybersecurity education, digital safety, and public cyber awareness. His mission is to make cybersecurity knowledge easier to understand and help individuals develop safer digital habits.","Through educational content, research-oriented learning, projects, and awareness initiatives, he aims to contribute to a more informed and secure digital society."],
+aboutExtra:{"Education":"To be added by the owner (verify before publishing).","Professional Journey":"To be added by the owner (verify before publishing).","Technical Interests":"To be added by the owner."},
+researchCats:["Phishing Detection","Social Engineering","Cyber Fraud Prevention","AI and Cybersecurity","Digital Privacy","Digital Forensics","Threat Intelligence","Security Awareness"],
+researchTypes:["Published Research","Ongoing Research","Technical Experiment","Proposed Idea"],
+/* Add research like: {slug:"my-paper",cat:"Phishing Detection",type:"Published Research",title:"",summary:"",objective:"",methodology:"",findings:"",conclusion:"",references:[],date:"",author:"Akshay Kumar Sharma",pdf:"",related:[]} */
+research:[],
+projectCats:["Cybersecurity","Web Development","Security Awareness","Research"],
+projects:[
+{slug:"phishing-email-detection",cat:"Cybersecurity",name:"Phishing Email Detection",status:"Concept",description:"A project idea focused on helping identify phishing emails.",problem:"Phishing emails trick people into sharing credentials or money.",tech:[],features:[],demo:"",github:"",live:"",limits:"Status and details must be confirmed by the owner."},
+{slug:"bharat-cyber-shield",cat:"Security Awareness",name:"Bharat Cyber Shield",status:"Concept",description:"A cyber safety and awareness project entry.",problem:"Many users lack simple, practical guidance on online safety.",tech:[],features:[],demo:"",github:"",live:"",limits:"Status and details must be confirmed by the owner."}],
+awarenessCats:["Fraud","Privacy","Accounts","Safety"],
+awareness:[
+A("phishing-fake-websites","Fraud","Phishing and Fake Websites","फ़िशिंग और नकली वेबसाइट","Fake messages and sites imitate trusted brands to steal logins or money.","नकली संदेश और वेबसाइट भरोसेमंद ब्रांड बनकर लॉगिन या पैसे चुराते हैं।",["Urgent threats or prizes","Misspelled web address","Asks for password or OTP"],["Type the website address yourself","Check for the correct domain","Never click unknown links"]),
+A("upi-payment-fraud","Fraud","UPI and Payment Fraud Awareness","UPI और पेमेंट फ्रॉड जागरूकता","Scammers trick people into approving payment requests or scanning QR codes.","ठग लोगों से पेमेंट रिक्वेस्ट मंज़ूर करवाते हैं या QR स्कैन करवाते हैं।",["'Collect' requests sent as refunds","Asked to scan QR to receive money","Pressure to act fast"],["You never need a PIN to receive money","Verify the sender independently","Never share your UPI PIN"]),
+A("otp-social-engineering","Fraud","OTP and Social Engineering","OTP और सोशल इंजीनियरिंग","Attackers manipulate people into revealing OTPs and personal details.","हमलावर लोगों को OTP और निजी जानकारी बताने के लिए बहकाते हैं।",["Caller claims to be bank or KYC staff","Asks you to read out an OTP","Creates fear or urgency"],["Never share OTPs with anyone","Hang up and call the official number","Banks never ask for OTP"]),
+A("job-investment-scams","Fraud","Online Job and Investment Scams","ऑनलाइन जॉब और निवेश स्कैम","Fake offers promise easy income or guaranteed returns.","नकली ऑफ़र आसान कमाई या पक्के मुनाफ़े का वादा करते हैं।",["Guaranteed high returns","Fee demanded before a job","Offers via unknown chat groups"],["Verify the company independently","Never pay to get a job","Avoid unregulated schemes"]),
+A("social-media-security","Accounts","Social Media Security","सोशल मीडिया सुरक्षा","Protect accounts from takeover, impersonation and fake profiles.","अकाउंट हैक, नकली प्रोफ़ाइल और छद्मवेश से बचाव करें।",["Unexpected login alerts","Friend requests from cloned profiles","Messages asking for money"],["Turn on two-step verification","Review privacy settings","Don't accept unknown requests"]),
+A("password-account-security","Accounts","Password and Account Security","पासवर्ड और अकाउंट सुरक्षा","Strong, unique passwords and extra verification protect your accounts.","मज़बूत, अलग पासवर्ड और अतिरिक्त सत्यापन आपके अकाउंट को सुरक्षित रखते हैं।",["Same password everywhere","Reset emails you did not request","Unknown devices logged in"],["Use a password manager","Use long passphrases","Enable two-step verification"]),
+A("digital-footprint-privacy","Privacy","Digital Footprint and Privacy","डिजिटल फुटप्रिंट और गोपनीयता","What you share online can be collected and misused.","आप जो ऑनलाइन साझा करते हैं उसका दुरुपयोग हो सकता है।",["Public profiles with personal details","Apps asking for excess permissions","Oversharing location"],["Limit what you share","Check app permissions","Review privacy settings regularly"]),
+A("ai-based-scams","Fraud","AI-Based Scams","AI आधारित स्कैम","AI can be misused to fake voices, videos and messages.","AI से नकली आवाज़, वीडियो और संदेश बनाए जा सकते हैं।",["Voice call from 'relative' asking money","Unnatural video or audio","Unusual urgency"],["Verify through a second channel","Agree a family code word","Pause before sending money"]),
+A("malware-suspicious-apps","Safety","Malware and Suspicious Applications","मैलवेयर और संदिग्ध ऐप्स","Harmful apps can steal data or lock your device.","हानिकारक ऐप्स डेटा चुरा सकते हैं या डिवाइस लॉक कर सकते हैं।",["Apps from unofficial links/APK files","Excessive permission requests","Phone suddenly slow or ads everywhere"],["Install from official stores only","Keep devices updated","Remove unknown apps"]),
+A("cyber-safety-students-families","Safety","Cyber Safety for Students and Families","छात्रों और परिवारों के लिए साइबर सुरक्षा","Safe habits for young people and families online.","युवाओं और परिवारों के लिए सुरक्षित ऑनलाइन आदतें।",["Contact from strangers","Cyberbullying","Unknown links in games or chats"],["Talk openly about online risks","Use privacy and parental controls","Report bullying and save evidence"])],
+incident:["Stop communicating with the scammer and do not send more money.","If money was lost, call 1930 immediately (financial cyber fraud helpline) and contact your bank.","Report at the National Cyber Crime Reporting Portal.","Save screenshots, transaction IDs and messages as evidence.","Change passwords of affected accounts and enable two-step verification."],
+report:[["National Cyber Crime Reporting Portal","https://cybercrime.gov.in/"]],
+/* Blog: proposed topics only. When you publish, set status:"Published", date:"YYYY-MM-DD", body:["paragraph",...] */
+blog:["Cybersecurity Is More Than Just a Strong Password","How to Recognize Common UPI Scams","Understanding Social Engineering","Protecting Your Digital Footprint","Phishing Emails: Warning Signs Everyone Should Know","AI-Based Scams and Digital Safety","Cyber Safety Tips for Students","What to Do After an Online Financial Fraud"].map((t,i)=>({slug:"post-"+(i+1),cat:["Accounts","Fraud","Fraud","Privacy","Fraud","Fraud","Safety","Fraud"][i],title:t,status:"Proposed",date:"",body:[],readTime:""})),
+/* Book: fill every field to show it. Leave title empty to show placeholder */
+book:{title:"",subtitle:"",cover:"",description:"",audience:"",topics:[],publisher:"",isbn:"",links:[],news:[]},
+/* Add verified items: {title:"",org:"",date:"",desc:"",file:"",link:""} */
+achievements:{"Verified Certifications":[],"Hackathon Participation":[],"Awards and Recognitions":[],"Webinar Participation":[],"Speaking Engagements":[],"Book Publication":[],"Cyber Awareness Initiatives":[],"Professional Collaborations":[]},
+topicsTraining:["Cyber Awareness Workshops","Phishing Awareness","Online Fraud Prevention","Digital Privacy","Cyber Safety for Students","Social Engineering Awareness","Responsible Digital Citizenship"],
+inquiry:["Cyber Awareness Session","Research Collaboration","Media Inquiry","Educational Partnership","Technical Project","General Inquiry"]};

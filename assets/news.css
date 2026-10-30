@@ -1,0 +1,24 @@
+/* Latest Cyber Crime News - everything is scoped under .aksnews / .aksnews-* and reuses the site's colour variables. */
+.aksnews-bar { display: flex; flex-wrap: wrap; gap: .8rem 1rem; align-items: center; justify-content: space-between; margin-bottom: 1rem; }
+.aksnews .search { flex: 1 1 280px; max-width: 460px; }
+.aksnews-updated { margin: 0 0 1rem; color: var(--muted); font-size: .9rem; }
+.aksnews-stale { color: var(--warn); font-weight: 600; }
+.aksnews-count { color: var(--muted); font-size: .9rem; margin: 1rem 0 0; }
+.aksnews .chips { margin-bottom: 1.4rem; }
+.aksnews-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr)); gap: 1.1rem; }
+.aksnews-card { gap: .7rem; }
+.aksnews-card .aksnews-title { font-size: 1.08rem; line-height: 1.35; overflow-wrap: anywhere; }
+.aksnews-meta { color: var(--muted); font-size: .88rem; }
+.aksnews-summary { color: var(--gray); font-size: .95rem; overflow-wrap: anywhere; }
+.aksnews-foot { margin-top: auto; padding-top: .4rem; }
+.aksnews-status { display: flex; align-items: center; gap: .7rem; padding: 1.1rem 1.2rem; border: 1px dashed var(--line-strong); border-radius: var(--radius); color: var(--gray); background: var(--card); }
+.aksnews-error { border-color: var(--err); color: var(--err); }
+.aksnews-spinner { width: 1.1rem; height: 1.1rem; border: 2px solid var(--line-strong); border-top-color: var(--cyan); border-radius: 50%; animation: aksnews-spin .8s linear infinite; flex: none; }
+@keyframes aksnews-spin { to { transform: rotate(360deg); } }
+@media (prefers-reduced-motion: reduce) { .aksnews-spinner { animation: none; } }
+.aksnews-more { display: flex; justify-content: center; margin-top: 1.4rem; }
+.aksnews-more[hidden], .aksnews-status[hidden] { display: none; }
+.aksnews-note { margin-top: 1.6rem; color: var(--muted); font-size: .86rem; }
+.aksnews-home-foot { margin-top: 1.4rem; }
+.aksnews-langbox { margin-top: 1.4rem; }
+.aksnews-stale-note { margin-bottom: 1rem; border-style: solid; color: var(--warn); }

@@ -1,0 +1,13 @@
+{
+  "name": "akshay-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cyber awareness website with an automatically updating cybersecurity news aggregator (no dependencies).",
+  "engines": { "node": ">=20.12" },
+  "scripts": {
+    "start": "node news-tools/serve.mjs",
+    "fetch": "node news-tools/fetch-news.mjs",
+    "diagnose": "node news-tools/diagnose.mjs",
+    "test": "node --test \"news-tools/tests/*.test.mjs\""
+  }
+}
