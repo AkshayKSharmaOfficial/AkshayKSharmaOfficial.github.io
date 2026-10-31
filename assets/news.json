@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-10-31T17:27:56.798Z",
- "lastAttempt": "2026-10-31T17:27:56.798Z",
+ "lastSuccess": "2026-10-31T18:02:13.896Z",
+ "lastAttempt": "2026-10-31T18:02:13.896Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-10-31T17:27:56.798Z",
-   "lastSuccess": "2026-10-31T17:27:56.798Z",
+   "checkedAt": "2026-10-31T18:02:13.896Z",
+   "lastSuccess": "2026-10-31T18:02:13.896Z",
    "etag": null,
    "lastModified": "Sat, 31 Oct 2026 16:21:56 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-10-31T17:27:56.798Z",
-   "lastSuccess": "2026-10-31T17:27:56.798Z",
-   "etag": "5e500f26ccc3612080477a3fc35b399e",
-   "lastModified": "Sat, 31 Oct 2026 17:20:33 GMT"
+   "checkedAt": "2026-10-31T18:02:13.896Z",
+   "lastSuccess": "2026-10-31T18:02:13.896Z",
+   "etag": "34802400e71f03431242c0f8aa61aded",
+   "lastModified": "Sat, 31 Oct 2026 18:01:12 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-10-31T17:27:56.798Z",
-   "lastSuccess": "2026-10-31T17:27:56.798Z",
+   "checkedAt": "2026-10-31T18:02:13.896Z",
+   "lastSuccess": "2026-10-31T18:02:13.896Z",
    "etag": null,
    "lastModified": "Fri, 23 Oct 2026 17:01:08 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-10-31T17:27:56.798Z",
-   "lastSuccess": "2026-10-31T17:27:56.798Z",
-   "etag": "\"060a3955bc590ad433cd770c143cf614\"",
-   "lastModified": "Sat, 31 Oct 2026 11:00:00 GMT"
+   "checkedAt": "2026-10-31T18:02:13.896Z",
+   "lastSuccess": "2026-10-31T18:02:13.896Z",
+   "etag": "\"3993d57f514bef4a6b22628465caf853\"",
+   "lastModified": "Sat, 31 Oct 2026 17:27:01 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-10-31T17:27:56.798Z",
-   "lastSuccess": "2026-10-31T17:27:56.798Z",
+   "checkedAt": "2026-10-31T18:02:13.896Z",
+   "lastSuccess": "2026-10-31T18:02:13.896Z",
    "etag": null,
-   "lastModified": "Sat, 31 Oct 2026 17:27:57 GMT"
+   "lastModified": "Sat, 31 Oct 2026 18:02:14 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-10-31T17:27:56.798Z",
+   "checkedAt": "2026-10-31T18:02:13.896Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "ca28b402f771f3f4",
+   "title": "Northflank security breach leads to abuse of customers' AI API keys",
+   "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+   "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-10-31T18:01:12.000Z",
+   "categories": [
+    "breach",
+    "ai"
+   ],
+   "firstSeen": "2026-10-31T18:02:13.896Z"
+  },
   {
    "id": "1f959e00fab20808",
    "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
