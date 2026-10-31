@@ -25,7 +25,7 @@ jobs:
         with:
           node-version: "22"
       - name: Run news tests
-        run: node --test "news-tools/tests/*.test.mjs"
+        run: node --test news-tools/tests/api.test.mjs news-tools/tests/certs.test.mjs news-tools/tests/client.test.mjs news-tools/tests/news.test.mjs news-tools/tests/sources.test.mjs
       - name: Show real status of every source (for the log)
         run: node news-tools/diagnose.mjs
         continue-on-error: true
