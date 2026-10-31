@@ -3,4 +3,4 @@ Allow: /
 Disallow: /api/
 Disallow: /research/template/
 
-Sitemap: https://akshaykksharmaofficial.github.io/sitemap.xml
+Sitemap: https://akshayksharmaofficial.github.io/sitemap.xml
