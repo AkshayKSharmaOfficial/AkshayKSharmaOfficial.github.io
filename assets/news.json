@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-01T19:34:38.569Z",
- "lastAttempt": "2026-11-01T19:34:38.569Z",
+ "lastSuccess": "2026-11-01T20:14:20.497Z",
+ "lastAttempt": "2026-11-01T20:14:20.497Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T19:34:38.569Z",
-   "lastSuccess": "2026-11-01T19:34:38.569Z",
+   "checkedAt": "2026-11-01T20:14:20.497Z",
+   "lastSuccess": "2026-11-01T20:14:20.497Z",
    "etag": null,
    "lastModified": "Sun, 1 Nov 2026 19:01:22 GMT"
   },
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T19:34:38.569Z",
-   "lastSuccess": "2026-11-01T19:34:38.569Z",
-   "etag": "7a4596a735b93206d8310035718ec7ac",
-   "lastModified": "Sun, 01 Nov 2026 19:33:23 GMT"
+   "checkedAt": "2026-11-01T20:14:20.497Z",
+   "lastSuccess": "2026-11-01T20:14:20.497Z",
+   "etag": "883d48fd69b8cab29964b66bd12a8f7b",
+   "lastModified": "Sun, 01 Nov 2026 20:07:54 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T19:34:38.569Z",
-   "lastSuccess": "2026-11-01T19:34:38.569Z",
+   "checkedAt": "2026-11-01T20:14:20.497Z",
+   "lastSuccess": "2026-11-01T20:14:20.497Z",
    "etag": null,
-   "lastModified": "Sun, 01 Nov 2026 18:53:21 GMT"
+   "lastModified": "Sun, 01 Nov 2026 20:12:03 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T19:34:38.569Z",
-   "lastSuccess": "2026-11-01T19:34:38.569Z",
+   "checkedAt": "2026-11-01T20:14:20.497Z",
+   "lastSuccess": "2026-11-01T20:14:20.497Z",
    "etag": "W/\"2af651faee98c3834486859f913f7d08\"",
    "lastModified": "Sun, 01 Nov 2026 12:57:03 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T19:34:38.569Z",
-   "lastSuccess": "2026-11-01T19:34:38.569Z",
+   "checkedAt": "2026-11-01T20:14:20.497Z",
+   "lastSuccess": "2026-11-01T20:14:20.497Z",
    "etag": null,
-   "lastModified": "Sun, 01 Nov 2026 19:34:39 GMT"
+   "lastModified": "Sun, 01 Nov 2026 20:14:20 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-01T19:34:38.569Z",
+   "checkedAt": "2026-11-01T20:14:20.497Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "f9c20d2275d7819a",
+   "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+   "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+   "summary": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-01T19:57:53.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-01T20:14:20.497Z"
+  },
   {
    "id": "f4828ca80d78cfc6",
    "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
