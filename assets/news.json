@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-01T10:53:21.288Z",
- "lastAttempt": "2026-11-01T10:53:21.288Z",
+ "lastSuccess": "2026-11-01T11:27:36.212Z",
+ "lastAttempt": "2026-11-01T11:27:36.212Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T10:53:21.288Z",
-   "lastSuccess": "2026-11-01T10:53:21.288Z",
+   "checkedAt": "2026-11-01T11:27:36.212Z",
+   "lastSuccess": "2026-11-01T11:27:36.212Z",
    "etag": null,
    "lastModified": "Sun, 1 Nov 2026 10:50:03 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T10:53:21.288Z",
-   "lastSuccess": "2026-11-01T10:53:21.288Z",
-   "etag": "b844199528cfe8c5a167c4a242d6ec1c",
-   "lastModified": "Sun, 01 Nov 2026 10:52:55 GMT"
+   "checkedAt": "2026-11-01T11:27:36.212Z",
+   "lastSuccess": "2026-11-01T11:27:36.212Z",
+   "etag": "49da6b4dda71ee6b5d4c196d8a0204a8",
+   "lastModified": "Sun, 01 Nov 2026 11:22:56 GMT"
   },
   {
    "id": "krebs",
@@ -34,22 +34,22 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T10:53:21.288Z",
-   "lastSuccess": "2026-11-01T10:53:21.288Z",
+   "checkedAt": "2026-11-01T11:27:36.212Z",
+   "lastSuccess": "2026-11-01T11:27:36.212Z",
    "etag": null,
-   "lastModified": "Sun, 01 Nov 2026 10:42:08 GMT"
+   "lastModified": "Sun, 01 Nov 2026 11:22:31 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T10:53:21.288Z",
-   "lastSuccess": "2026-11-01T10:53:21.288Z",
-   "etag": "\"3993d57f514bef4a6b22628465caf853\"",
-   "lastModified": "Sat, 31 Oct 2026 17:27:01 GMT"
+   "checkedAt": "2026-11-01T11:27:36.212Z",
+   "lastSuccess": "2026-11-01T11:27:36.212Z",
+   "etag": "W/\"0aa2d2dc2ddccb3a13b010e3c208e008\"",
+   "lastModified": "Sun, 01 Nov 2026 11:15:00 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T10:53:21.288Z",
-   "lastSuccess": "2026-11-01T10:53:21.288Z",
+   "checkedAt": "2026-11-01T11:27:36.212Z",
+   "lastSuccess": "2026-11-01T11:27:36.212Z",
    "etag": null,
-   "lastModified": "Sun, 01 Nov 2026 10:53:21 GMT"
+   "lastModified": "Sun, 01 Nov 2026 11:27:36 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-01T10:53:21.288Z",
+   "checkedAt": "2026-11-01T11:27:36.212Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "a8a24c23eaa02b67",
+   "title": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
+   "url": "https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/",
+   "summary": "The startup maps how identities, assets and vulnerabilities connect, and uses AI agents to find and fix risky combinations of issues. The post Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-01T11:15:00.000Z",
+   "categories": [
+    "vuln",
+    "ai"
+   ],
+   "firstSeen": "2026-11-01T11:27:36.212Z"
+  },
   {
    "id": "47c9e2c2f127bea1",
    "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
