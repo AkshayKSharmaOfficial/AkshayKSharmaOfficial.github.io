@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-01T13:00:29.408Z",
- "lastAttempt": "2026-11-01T13:00:29.408Z",
+ "lastSuccess": "2026-11-01T13:54:55.478Z",
+ "lastAttempt": "2026-11-01T13:54:55.478Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T13:00:29.408Z",
-   "lastSuccess": "2026-11-01T13:00:29.408Z",
+   "checkedAt": "2026-11-01T13:54:55.478Z",
+   "lastSuccess": "2026-11-01T13:54:55.478Z",
    "etag": null,
-   "lastModified": "Sun, 1 Nov 2026 11:58:32 GMT"
+   "lastModified": "Sun, 1 Nov 2026 13:34:21 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T13:00:29.408Z",
-   "lastSuccess": "2026-11-01T13:00:29.408Z",
-   "etag": "f97790cf333a840f112e3adb67119db4",
-   "lastModified": "Sun, 01 Nov 2026 12:52:59 GMT"
+   "checkedAt": "2026-11-01T13:54:55.478Z",
+   "lastSuccess": "2026-11-01T13:54:55.478Z",
+   "etag": "fbfbe2dadda2911975512ca58134b45c",
+   "lastModified": "Sun, 01 Nov 2026 13:53:11 GMT"
   },
   {
    "id": "krebs",
@@ -34,20 +34,20 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T13:00:29.408Z",
-   "lastSuccess": "2026-11-01T13:00:29.408Z",
+   "checkedAt": "2026-11-01T13:54:55.478Z",
+   "lastSuccess": "2026-11-01T13:54:55.478Z",
    "etag": null,
-   "lastModified": "Sun, 01 Nov 2026 12:57:10 GMT"
+   "lastModified": "Sun, 01 Nov 2026 13:48:28 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T13:00:29.408Z",
-   "lastSuccess": "2026-11-01T13:00:29.408Z",
+   "checkedAt": "2026-11-01T13:54:55.478Z",
+   "lastSuccess": "2026-11-01T13:54:55.478Z",
    "etag": "W/\"2af651faee98c3834486859f913f7d08\"",
    "lastModified": "Sun, 01 Nov 2026 12:57:03 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T13:00:29.408Z",
-   "lastSuccess": "2026-11-01T13:00:29.408Z",
+   "checkedAt": "2026-11-01T13:54:55.478Z",
+   "lastSuccess": "2026-11-01T13:54:55.478Z",
    "etag": null,
-   "lastModified": "Sun, 01 Nov 2026 13:00:30 GMT"
+   "lastModified": "Sun, 01 Nov 2026 13:54:55 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-01T13:00:29.408Z",
+   "checkedAt": "2026-11-01T13:54:55.478Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "a0b4172faac0e032",
+   "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
+   "summary": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-01T13:53:11.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-01T13:54:55.478Z"
+  },
   {
    "id": "a8a24c23eaa02b67",
    "title": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
