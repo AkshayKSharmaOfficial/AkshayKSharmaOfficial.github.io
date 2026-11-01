@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-01T14:30:42.744Z",
- "lastAttempt": "2026-11-01T14:30:42.744Z",
+ "lastSuccess": "2026-11-01T15:16:58.911Z",
+ "lastAttempt": "2026-11-01T15:16:58.911Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T14:30:42.744Z",
-   "lastSuccess": "2026-11-01T14:30:42.744Z",
+   "checkedAt": "2026-11-01T15:16:58.911Z",
+   "lastSuccess": "2026-11-01T15:16:58.911Z",
    "etag": null,
    "lastModified": "Sun, 1 Nov 2026 13:34:21 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T14:30:42.744Z",
-   "lastSuccess": "2026-11-01T14:30:42.744Z",
-   "etag": "4f556814b27b61727168e8b2b8168e5d",
-   "lastModified": "Sun, 01 Nov 2026 14:23:13 GMT"
+   "checkedAt": "2026-11-01T15:16:58.911Z",
+   "lastSuccess": "2026-11-01T15:16:58.911Z",
+   "etag": "42a11f3fdb232b3e37283549499f35cc",
+   "lastModified": "Sun, 01 Nov 2026 15:13:15 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T14:30:42.744Z",
-   "lastSuccess": "2026-11-01T14:30:42.744Z",
+   "checkedAt": "2026-11-01T15:16:58.911Z",
+   "lastSuccess": "2026-11-01T15:16:58.911Z",
    "etag": null,
    "lastModified": "Sun, 01 Nov 2026 13:48:28 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T14:30:42.744Z",
-   "lastSuccess": "2026-11-01T14:30:42.744Z",
+   "checkedAt": "2026-11-01T15:16:58.911Z",
+   "lastSuccess": "2026-11-01T15:16:58.911Z",
    "etag": "W/\"2af651faee98c3834486859f913f7d08\"",
    "lastModified": "Sun, 01 Nov 2026 12:57:03 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T14:30:42.744Z",
-   "lastSuccess": "2026-11-01T14:30:42.744Z",
+   "checkedAt": "2026-11-01T15:16:58.911Z",
+   "lastSuccess": "2026-11-01T15:16:58.911Z",
    "etag": null,
-   "lastModified": "Sun, 01 Nov 2026 14:30:42 GMT"
+   "lastModified": "Sun, 01 Nov 2026 15:16:59 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-01T14:30:42.744Z",
+   "checkedAt": "2026-11-01T15:16:58.911Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "f4828ca80d78cfc6",
+   "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+   "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+   "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-01T15:11:21.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-01T15:16:58.911Z"
+  },
   {
    "id": "a0b4172faac0e032",
    "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
