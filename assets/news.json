@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-01T07:16:57.831Z",
- "lastAttempt": "2026-11-01T07:16:57.831Z",
+ "lastSuccess": "2026-11-01T08:17:19.591Z",
+ "lastAttempt": "2026-11-01T08:17:19.591Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T07:16:57.831Z",
-   "lastSuccess": "2026-11-01T07:16:57.831Z",
+   "checkedAt": "2026-11-01T08:17:19.591Z",
+   "lastSuccess": "2026-11-01T08:17:19.591Z",
    "etag": null,
-   "lastModified": "Sun, 1 Nov 2026 06:28:09 GMT"
+   "lastModified": "Sun, 1 Nov 2026 07:54:42 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T07:16:57.831Z",
-   "lastSuccess": "2026-11-01T07:16:57.831Z",
-   "etag": "b45546cf94e91e0fe82056d9d151c4c5",
-   "lastModified": "Sun, 01 Nov 2026 07:12:48 GMT"
+   "checkedAt": "2026-11-01T08:17:19.591Z",
+   "lastSuccess": "2026-11-01T08:17:19.591Z",
+   "etag": "6195b14ba9beb189b46c99aa08c1ad7f",
+   "lastModified": "Sun, 01 Nov 2026 08:12:50 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T07:16:57.831Z",
-   "lastSuccess": "2026-11-01T07:16:57.831Z",
+   "checkedAt": "2026-11-01T08:17:19.591Z",
+   "lastSuccess": "2026-11-01T08:17:19.591Z",
    "etag": null,
-   "lastModified": "Sun, 01 Nov 2026 07:15:07 GMT"
+   "lastModified": "Sun, 01 Nov 2026 08:07:18 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T07:16:57.831Z",
-   "lastSuccess": "2026-11-01T07:16:57.831Z",
+   "checkedAt": "2026-11-01T08:17:19.591Z",
+   "lastSuccess": "2026-11-01T08:17:19.591Z",
    "etag": "\"3993d57f514bef4a6b22628465caf853\"",
    "lastModified": "Sat, 31 Oct 2026 17:27:01 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T07:16:57.831Z",
-   "lastSuccess": "2026-11-01T07:16:57.831Z",
+   "checkedAt": "2026-11-01T08:17:19.591Z",
+   "lastSuccess": "2026-11-01T08:17:19.591Z",
    "etag": null,
-   "lastModified": "Sun, 01 Nov 2026 07:16:58 GMT"
+   "lastModified": "Sun, 01 Nov 2026 08:17:19 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,55 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-01T07:16:57.831Z",
+   "checkedAt": "2026-11-01T08:17:19.591Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "3c8da2a0b6d392cf",
+   "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
+   "url": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
+   "summary": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside company. Polymarket says it is refunding about…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-01T07:25:40.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-01T08:17:19.591Z"
+  },
+  {
+   "id": "4432f1dbea0caa5b",
+   "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
+   "url": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
+   "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted a custom Windows 10 build used exclusively by government…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-01T07:02:58.000Z",
+   "categories": [
+    "malware"
+   ],
+   "firstSeen": "2026-11-01T08:17:19.591Z"
+  },
+  {
+   "id": "e1dc1203c72851bb",
+   "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+   "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+   "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-01T06:44:27.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-01T08:17:19.591Z"
+  },
   {
    "id": "ca28b402f771f3f4",
    "title": "Northflank security breach leads to abuse of customers' AI API keys",
