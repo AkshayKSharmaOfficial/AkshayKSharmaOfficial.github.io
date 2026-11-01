@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-01T09:15:13.961Z",
- "lastAttempt": "2026-11-01T09:15:13.961Z",
+ "lastSuccess": "2026-11-01T10:12:03.129Z",
+ "lastAttempt": "2026-11-01T10:12:03.129Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T09:15:13.961Z",
-   "lastSuccess": "2026-11-01T09:15:13.961Z",
+   "checkedAt": "2026-11-01T10:12:03.129Z",
+   "lastSuccess": "2026-11-01T10:12:03.129Z",
    "etag": null,
-   "lastModified": "Sun, 1 Nov 2026 07:54:42 GMT"
+   "lastModified": "Sun, 1 Nov 2026 09:35:56 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T09:15:13.961Z",
-   "lastSuccess": "2026-11-01T09:15:13.961Z",
-   "etag": "b794a7e8a0927d44a3d005e11ac0db9d",
-   "lastModified": "Sun, 01 Nov 2026 09:12:52 GMT"
+   "checkedAt": "2026-11-01T10:12:03.129Z",
+   "lastSuccess": "2026-11-01T10:12:03.129Z",
+   "etag": "c68e566b86cd930fae322c735c5338ab",
+   "lastModified": "Sun, 01 Nov 2026 10:02:54 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T09:15:13.961Z",
-   "lastSuccess": "2026-11-01T09:15:13.961Z",
+   "checkedAt": "2026-11-01T10:12:03.129Z",
+   "lastSuccess": "2026-11-01T10:12:03.129Z",
    "etag": null,
-   "lastModified": "Sun, 01 Nov 2026 08:07:18 GMT"
+   "lastModified": "Sun, 01 Nov 2026 10:01:57 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T09:15:13.961Z",
-   "lastSuccess": "2026-11-01T09:15:13.961Z",
+   "checkedAt": "2026-11-01T10:12:03.129Z",
+   "lastSuccess": "2026-11-01T10:12:03.129Z",
    "etag": "\"3993d57f514bef4a6b22628465caf853\"",
    "lastModified": "Sat, 31 Oct 2026 17:27:01 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-01T09:15:13.961Z",
-   "lastSuccess": "2026-11-01T09:15:13.961Z",
+   "checkedAt": "2026-11-01T10:12:03.129Z",
+   "lastSuccess": "2026-11-01T10:12:03.129Z",
    "etag": null,
-   "lastModified": "Sun, 01 Nov 2026 09:15:14 GMT"
+   "lastModified": "Sun, 01 Nov 2026 10:12:03 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-01T09:15:13.961Z",
+   "checkedAt": "2026-11-01T10:12:03.129Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "47c9e2c2f127bea1",
+   "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+   "url": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+   "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's public certificate. Once in, the attacker…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-01T08:51:31.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-01T10:12:03.129Z"
+  },
   {
    "id": "3c8da2a0b6d392cf",
    "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
@@ -86,6 +101,20 @@
    "sourceId": "thn",
    "kind": "media",
    "published": "2026-11-01T07:25:40.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-01T08:17:19.591Z"
+  },
+  {
+   "id": "e1dc1203c72851bb",
+   "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+   "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+   "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-01T07:03:00.000Z",
    "categories": [
     "attack"
    ],
@@ -102,20 +131,6 @@
    "published": "2026-11-01T07:02:58.000Z",
    "categories": [
     "malware"
-   ],
-   "firstSeen": "2026-11-01T08:17:19.591Z"
-  },
-  {
-   "id": "e1dc1203c72851bb",
-   "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-   "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-   "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-01T06:44:27.000Z",
-   "categories": [
-    "attack"
    ],
    "firstSeen": "2026-11-01T08:17:19.591Z"
   },
