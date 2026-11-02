@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-02T10:28:32.784Z",
- "lastAttempt": "2026-11-02T10:28:32.784Z",
+ "lastSuccess": "2026-11-02T11:24:26.903Z",
+ "lastAttempt": "2026-11-02T11:24:26.903Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T10:28:32.784Z",
-   "lastSuccess": "2026-11-02T10:28:32.784Z",
+   "checkedAt": "2026-11-02T11:24:26.903Z",
+   "lastSuccess": "2026-11-02T11:24:26.903Z",
    "etag": null,
    "lastModified": "Mon, 2 Nov 2026 09:50:39 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T10:28:32.784Z",
-   "lastSuccess": "2026-11-02T10:28:32.784Z",
-   "etag": "dc2aa68336eec00e4eab72ded71eb164",
-   "lastModified": "Mon, 02 Nov 2026 10:23:29 GMT"
+   "checkedAt": "2026-11-02T11:24:26.903Z",
+   "lastSuccess": "2026-11-02T11:24:26.903Z",
+   "etag": "61d40c9e7630b2cf9556812ccff13839",
+   "lastModified": "Mon, 02 Nov 2026 11:23:30 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T10:28:32.784Z",
-   "lastSuccess": "2026-11-02T10:28:32.784Z",
+   "checkedAt": "2026-11-02T11:24:26.903Z",
+   "lastSuccess": "2026-11-02T11:24:26.903Z",
    "etag": null,
    "lastModified": "Mon, 02 Nov 2026 08:04:14 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T10:28:32.784Z",
-   "lastSuccess": "2026-11-02T10:28:32.784Z",
-   "etag": "\"420362c607849d47939eb2221285c08e\"",
-   "lastModified": "Mon, 02 Nov 2026 09:33:19 GMT"
+   "checkedAt": "2026-11-02T11:24:26.903Z",
+   "lastSuccess": "2026-11-02T11:24:26.903Z",
+   "etag": "\"2cdde2420339fdbce44dcf4ce03f9a5b\"",
+   "lastModified": "Mon, 02 Nov 2026 10:27:54 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T10:28:32.784Z",
-   "lastSuccess": "2026-11-02T10:28:32.784Z",
+   "checkedAt": "2026-11-02T11:24:26.903Z",
+   "lastSuccess": "2026-11-02T11:24:26.903Z",
    "etag": null,
-   "lastModified": "Mon, 02 Nov 2026 10:28:33 GMT"
+   "lastModified": "Mon, 02 Nov 2026 11:24:27 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,29 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-02T10:28:32.784Z",
+   "checkedAt": "2026-11-02T11:24:26.903Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "b965c14c80e837ae",
+   "title": "Chainalysis Discloses Data Breach Following AI-Driven Cyberattack",
+   "url": "https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/",
+   "summary": "The attackers used offensive agentic techniques to access the company’s systems and internal tools. The post Chainalysis Discloses Data Breach Following AI-Driven Cyberattack appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-02T10:27:49.000Z",
+   "categories": [
+    "breach",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-02T11:24:26.903Z"
+  },
   {
    "id": "67b42c20920f040d",
    "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
