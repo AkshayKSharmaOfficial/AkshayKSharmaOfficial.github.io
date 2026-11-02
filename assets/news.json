@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-02T16:43:11.118Z",
- "lastAttempt": "2026-11-02T16:43:11.118Z",
+ "lastSuccess": "2026-11-02T17:39:48.717Z",
+ "lastAttempt": "2026-11-02T17:39:48.717Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T16:43:11.118Z",
-   "lastSuccess": "2026-11-02T16:43:11.118Z",
+   "checkedAt": "2026-11-02T17:39:48.717Z",
+   "lastSuccess": "2026-11-02T17:39:48.717Z",
    "etag": null,
    "lastModified": "Mon, 2 Nov 2026 16:41:05 GMT"
   },
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T16:43:11.118Z",
-   "lastSuccess": "2026-11-02T16:43:11.118Z",
-   "etag": "05e2da0b840c8d55fd134b177b4ad06a",
-   "lastModified": "Mon, 02 Nov 2026 16:36:07 GMT"
+   "checkedAt": "2026-11-02T17:39:48.717Z",
+   "lastSuccess": "2026-11-02T17:39:48.717Z",
+   "etag": "8034c681a9e9f6e3f0f2c7d48d3f5984",
+   "lastModified": "Mon, 02 Nov 2026 17:36:09 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T16:43:11.118Z",
-   "lastSuccess": "2026-11-02T16:43:11.118Z",
+   "checkedAt": "2026-11-02T17:39:48.717Z",
+   "lastSuccess": "2026-11-02T17:39:48.717Z",
    "etag": null,
    "lastModified": "Mon, 02 Nov 2026 16:41:12 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T16:43:11.118Z",
-   "lastSuccess": "2026-11-02T16:43:11.118Z",
+   "checkedAt": "2026-11-02T17:39:48.717Z",
+   "lastSuccess": "2026-11-02T17:39:48.717Z",
    "etag": "\"ce49b93ecdfd64c2d4570cab60503156\"",
    "lastModified": "Mon, 02 Nov 2026 15:05:31 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T16:43:11.118Z",
-   "lastSuccess": "2026-11-02T16:43:11.118Z",
+   "checkedAt": "2026-11-02T17:39:48.717Z",
+   "lastSuccess": "2026-11-02T17:39:48.717Z",
    "etag": null,
-   "lastModified": "Mon, 02 Nov 2026 16:43:12 GMT"
+   "lastModified": "Mon, 02 Nov 2026 17:39:49 GMT"
   },
   {
    "id": "cisa",
@@ -70,7 +70,7 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-02T16:43:11.118Z",
+   "checkedAt": "2026-11-02T17:39:48.717Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
@@ -193,9 +193,9 @@
   },
   {
    "id": "b95b3932a76164ec",
-   "title": "PapRAT Cyber Espionage Campaign Leaves a 'BITTER' Taste in South Asia",
+   "title": "PapRAT Cyber Espionage Campaign Leaves a 'Bitter' Taste in South Asia",
    "url": "https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia",
-   "summary": "Organizations in the region face attacks from the known India-linked threat group, which leverages legitimate Windows functionality in three distinct attack chains.",
+   "summary": "Organizations in the region face growing cyberattacks from the known India-linked threat group, which leverages legitimate Windows functionality in three distinct attack chains.",
    "source": "Dark Reading",
    "sourceId": "darkreading",
    "kind": "media",
