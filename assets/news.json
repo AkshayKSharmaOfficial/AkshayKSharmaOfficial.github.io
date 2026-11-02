@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-02T08:08:36.524Z",
- "lastAttempt": "2026-11-02T08:08:36.524Z",
+ "lastSuccess": "2026-11-02T09:19:21.622Z",
+ "lastAttempt": "2026-11-02T09:19:21.622Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T08:08:36.524Z",
-   "lastSuccess": "2026-11-02T08:08:36.524Z",
+   "checkedAt": "2026-11-02T09:19:21.622Z",
+   "lastSuccess": "2026-11-02T09:19:21.622Z",
    "etag": null,
    "lastModified": "Mon, 2 Nov 2026 07:26:59 GMT"
   },
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T08:08:36.524Z",
-   "lastSuccess": "2026-11-02T08:08:36.524Z",
-   "etag": "3586155a4dabcb9c8e62e6b52e4c473a",
-   "lastModified": "Mon, 02 Nov 2026 08:00:01 GMT"
+   "checkedAt": "2026-11-02T09:19:21.622Z",
+   "lastSuccess": "2026-11-02T09:19:21.622Z",
+   "etag": "e43df12c183557329e6ac5a5e6f89223",
+   "lastModified": "Mon, 02 Nov 2026 09:10:47 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T08:08:36.524Z",
-   "lastSuccess": "2026-11-02T08:08:36.524Z",
+   "checkedAt": "2026-11-02T09:19:21.622Z",
+   "lastSuccess": "2026-11-02T09:19:21.622Z",
    "etag": null,
    "lastModified": "Mon, 02 Nov 2026 08:04:14 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T08:08:36.524Z",
-   "lastSuccess": "2026-11-02T08:08:36.524Z",
-   "etag": "W/\"fc44fe5b5016145ae307ee472d5381ce\"",
-   "lastModified": "Mon, 02 Nov 2026 07:57:53 GMT"
+   "checkedAt": "2026-11-02T09:19:21.622Z",
+   "lastSuccess": "2026-11-02T09:19:21.622Z",
+   "etag": "\"546cfde42013ef14b45cb43e1daf0b69\"",
+   "lastModified": "Mon, 02 Nov 2026 08:40:42 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T08:08:36.524Z",
-   "lastSuccess": "2026-11-02T08:08:36.524Z",
+   "checkedAt": "2026-11-02T09:19:21.622Z",
+   "lastSuccess": "2026-11-02T09:19:21.622Z",
    "etag": null,
-   "lastModified": "Mon, 02 Nov 2026 08:08:37 GMT"
+   "lastModified": "Mon, 02 Nov 2026 09:19:21 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-02T08:08:36.524Z",
+   "checkedAt": "2026-11-02T09:19:21.622Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "fb900c05a619777c",
+   "title": "FBI Flags Over 600 Addresses Tied to North Korea’s Binance Heist",
+   "url": "https://www.securityweek.com/fbi-flags-over-600-addresses-tied-to-north-koreas-binance-heist/",
+   "summary": "The FBI has officially pinned the $6 billion Binance hack on North Korea’s TraderTraitor as the attackers launder the stolen crypto. The post FBI Flags Over 600 Addresses Tied to North Korea’s Binance Heist appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-02T08:40:36.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-02T09:19:21.622Z"
+  },
   {
    "id": "af88cc876cf1a375",
    "title": "Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain",
