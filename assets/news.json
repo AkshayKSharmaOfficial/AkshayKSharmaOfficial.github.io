@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-02T15:38:36.606Z",
- "lastAttempt": "2026-11-02T15:38:36.606Z",
+ "lastSuccess": "2026-11-02T16:43:11.118Z",
+ "lastAttempt": "2026-11-02T16:43:11.118Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T15:38:36.606Z",
-   "lastSuccess": "2026-11-02T15:38:36.606Z",
+   "checkedAt": "2026-11-02T16:43:11.118Z",
+   "lastSuccess": "2026-11-02T16:43:11.118Z",
    "etag": null,
-   "lastModified": "Mon, 2 Nov 2026 14:55:43 GMT"
+   "lastModified": "Mon, 2 Nov 2026 16:41:05 GMT"
   },
   {
    "id": "bleeping",
@@ -22,32 +22,32 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T15:38:36.606Z",
-   "lastSuccess": "2026-11-02T15:38:36.606Z",
-   "etag": "c4e13bb0e64437f5f0650d095106f29b",
-   "lastModified": "Mon, 02 Nov 2026 15:33:09 GMT"
+   "checkedAt": "2026-11-02T16:43:11.118Z",
+   "lastSuccess": "2026-11-02T16:43:11.118Z",
+   "etag": "05e2da0b840c8d55fd134b177b4ad06a",
+   "lastModified": "Mon, 02 Nov 2026 16:36:07 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T15:38:36.606Z",
-   "lastSuccess": "2026-11-02T15:38:36.606Z",
+   "checkedAt": "2026-11-02T16:43:11.118Z",
+   "lastSuccess": "2026-11-02T16:43:11.118Z",
    "etag": null,
-   "lastModified": "Mon, 02 Nov 2026 14:36:51 GMT"
+   "lastModified": "Mon, 02 Nov 2026 16:41:12 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T15:38:36.606Z",
-   "lastSuccess": "2026-11-02T15:38:36.606Z",
+   "checkedAt": "2026-11-02T16:43:11.118Z",
+   "lastSuccess": "2026-11-02T16:43:11.118Z",
    "etag": "\"ce49b93ecdfd64c2d4570cab60503156\"",
    "lastModified": "Mon, 02 Nov 2026 15:05:31 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T15:38:36.606Z",
-   "lastSuccess": "2026-11-02T15:38:36.606Z",
+   "checkedAt": "2026-11-02T16:43:11.118Z",
+   "lastSuccess": "2026-11-02T16:43:11.118Z",
    "etag": null,
-   "lastModified": "Mon, 02 Nov 2026 15:38:36 GMT"
+   "lastModified": "Mon, 02 Nov 2026 16:43:12 GMT"
   },
   {
    "id": "cisa",
@@ -70,7 +70,7 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-02T15:38:36.606Z",
+   "checkedAt": "2026-11-02T16:43:11.118Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
@@ -78,8 +78,22 @@
  ],
  "articles": [
   {
+   "id": "7a8b5fe3b630ce05",
+   "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+   "url": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+   "summary": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says it is highly confident that device maker Videostrong intentionally put a backdoor in the boxes and sold access to…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-02T15:50:26.000Z",
+   "categories": [
+    "malware"
+   ],
+   "firstSeen": "2026-11-02T16:43:11.118Z"
+  },
+  {
    "id": "27b4dfcb9e6837bd",
-   "title": "BTCPay Server warns of hot wallet thefts targeting outdated instances",
+   "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
    "url": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
    "summary": "The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining \"hot wallets\" on instances running older versions. [...]",
    "source": "BleepingComputer",
