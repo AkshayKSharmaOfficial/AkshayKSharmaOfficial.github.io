@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-02T05:30:53.254Z",
- "lastAttempt": "2026-11-02T05:30:53.254Z",
+ "lastSuccess": "2026-11-02T06:44:49.803Z",
+ "lastAttempt": "2026-11-02T06:44:49.803Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T05:30:53.254Z",
-   "lastSuccess": "2026-11-02T05:30:53.254Z",
+   "checkedAt": "2026-11-02T06:44:49.803Z",
+   "lastSuccess": "2026-11-02T06:44:49.803Z",
    "etag": null,
-   "lastModified": "Mon, 2 Nov 2026 04:17:53 GMT"
+   "lastModified": "Mon, 2 Nov 2026 06:05:56 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T05:30:53.254Z",
-   "lastSuccess": "2026-11-02T05:30:53.254Z",
-   "etag": "5c605744af9e24a08ccd6b2082467d6f",
-   "lastModified": "Mon, 02 Nov 2026 05:29:46 GMT"
+   "checkedAt": "2026-11-02T06:44:49.803Z",
+   "lastSuccess": "2026-11-02T06:44:49.803Z",
+   "etag": "f4e24ae1f76b6c11caf925eb422ff933",
+   "lastModified": "Mon, 02 Nov 2026 06:39:48 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T05:30:53.254Z",
-   "lastSuccess": "2026-11-02T05:30:53.254Z",
+   "checkedAt": "2026-11-02T06:44:49.803Z",
+   "lastSuccess": "2026-11-02T06:44:49.803Z",
    "etag": null,
-   "lastModified": "Mon, 02 Nov 2026 05:29:14 GMT"
+   "lastModified": "Mon, 02 Nov 2026 06:27:59 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T05:30:53.254Z",
-   "lastSuccess": "2026-11-02T05:30:53.254Z",
+   "checkedAt": "2026-11-02T06:44:49.803Z",
+   "lastSuccess": "2026-11-02T06:44:49.803Z",
    "etag": "W/\"2af651faee98c3834486859f913f7d08\"",
    "lastModified": "Sun, 01 Nov 2026 12:57:03 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T05:30:53.254Z",
-   "lastSuccess": "2026-11-02T05:30:53.254Z",
+   "checkedAt": "2026-11-02T06:44:49.803Z",
+   "lastSuccess": "2026-11-02T06:44:49.803Z",
    "etag": null,
-   "lastModified": "Mon, 02 Nov 2026 05:30:53 GMT"
+   "lastModified": "Mon, 02 Nov 2026 06:44:50 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,29 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-02T05:30:53.254Z",
+   "checkedAt": "2026-11-02T06:44:49.803Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "b1c1d30dd8ee58aa",
+   "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+   "url": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
+   "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value. Like other typical stealer families, VOLTA is equipped to…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-02T05:51:07.000Z",
+   "categories": [
+    "breach",
+    "malware",
+    "ai"
+   ],
+   "firstSeen": "2026-11-02T06:44:49.803Z"
+  },
   {
    "id": "f9c20d2275d7819a",
    "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
@@ -168,7 +184,7 @@
    "id": "e1dc1203c72851bb",
    "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
    "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-   "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI…",
+   "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets from Binance to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and…",
    "source": "The Hacker News",
    "sourceId": "thn",
    "kind": "media",
