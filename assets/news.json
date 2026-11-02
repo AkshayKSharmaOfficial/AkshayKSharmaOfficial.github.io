@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-02T14:41:09.871Z",
- "lastAttempt": "2026-11-02T14:41:09.871Z",
+ "lastSuccess": "2026-11-02T15:38:36.606Z",
+ "lastAttempt": "2026-11-02T15:38:36.606Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T14:41:09.871Z",
-   "lastSuccess": "2026-11-02T14:41:09.871Z",
+   "checkedAt": "2026-11-02T15:38:36.606Z",
+   "lastSuccess": "2026-11-02T15:38:36.606Z",
    "etag": null,
-   "lastModified": "Mon, 2 Nov 2026 13:26:01 GMT"
+   "lastModified": "Mon, 2 Nov 2026 14:55:43 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T14:41:09.871Z",
-   "lastSuccess": "2026-11-02T14:41:09.871Z",
-   "etag": "14e2fd9625489f63ff9639c84930f758",
-   "lastModified": "Mon, 02 Nov 2026 14:38:40 GMT"
+   "checkedAt": "2026-11-02T15:38:36.606Z",
+   "lastSuccess": "2026-11-02T15:38:36.606Z",
+   "etag": "c4e13bb0e64437f5f0650d095106f29b",
+   "lastModified": "Mon, 02 Nov 2026 15:33:09 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T14:41:09.871Z",
-   "lastSuccess": "2026-11-02T14:41:09.871Z",
+   "checkedAt": "2026-11-02T15:38:36.606Z",
+   "lastSuccess": "2026-11-02T15:38:36.606Z",
    "etag": null,
    "lastModified": "Mon, 02 Nov 2026 14:36:51 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T14:41:09.871Z",
-   "lastSuccess": "2026-11-02T14:41:09.871Z",
-   "etag": "W/\"af7bf8a9bd022d1ed728c2aa2dc1775f\"",
-   "lastModified": "Mon, 02 Nov 2026 13:35:26 GMT"
+   "checkedAt": "2026-11-02T15:38:36.606Z",
+   "lastSuccess": "2026-11-02T15:38:36.606Z",
+   "etag": "\"ce49b93ecdfd64c2d4570cab60503156\"",
+   "lastModified": "Mon, 02 Nov 2026 15:05:31 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T14:41:09.871Z",
-   "lastSuccess": "2026-11-02T14:41:09.871Z",
+   "checkedAt": "2026-11-02T15:38:36.606Z",
+   "lastSuccess": "2026-11-02T15:38:36.606Z",
    "etag": null,
-   "lastModified": "Mon, 02 Nov 2026 14:41:10 GMT"
+   "lastModified": "Mon, 02 Nov 2026 15:38:36 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,99 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-02T14:41:09.871Z",
+   "checkedAt": "2026-11-02T15:38:36.606Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "27b4dfcb9e6837bd",
+   "title": "BTCPay Server warns of hot wallet thefts targeting outdated instances",
+   "url": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
+   "summary": "The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining \"hot wallets\" on instances running older versions. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-02T15:03:07.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-02T15:38:36.606Z"
+  },
+  {
+   "id": "699f4430c09c8259",
+   "title": "Your Mobile Carrier Stores Your Call Logs for Years",
+   "url": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
+   "summary": "Mobile carriers can retain years of call and text metadata, exposing sensitive details about customers' relationships, locations, and daily routines if breached. Cape examines the privacy risks of long-term telecom data retention and how its mobile service reduces exposure by…",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-02T15:01:11.000Z",
+   "categories": [
+    "breach"
+   ],
+   "firstSeen": "2026-11-02T15:38:36.606Z"
+  },
+  {
+   "id": "26befd03d87ff704",
+   "title": "Cybersecurity M&A Roundup: 37 Deals Announced in October 2026",
+   "url": "https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/",
+   "summary": "Significant cybersecurity deals were announced by Absolute Security, Aikido, Anthropic, Cohere, Hex-Rays, and Proofpoint. The post Cybersecurity M&A Roundup: 37 Deals Announced in October 2026 appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-02T15:01:11.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-02T15:38:36.606Z"
+  },
+  {
+   "id": "8e3716bf85ab7bc2",
+   "title": "Microsoft's AI Risk Report Misses This Key Detail",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss",
+   "summary": "The latest \"Digital Defense Report\" identifies government agencies as prime targets for AI attacks but doesn't mention that they are broadly being targeted through Microsoft bugs.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-02T15:00:00.000Z",
+   "categories": [
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-02T15:38:36.606Z"
+  },
+  {
+   "id": "772d27d38d32d901",
+   "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
+   "url": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
+   "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a report published by Dream Research Labs, the campaign has led…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-02T14:46:05.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-02T15:38:36.606Z"
+  },
+  {
+   "id": "e6a8a89f85143ca1",
+   "title": "Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk",
+   "url": "https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/",
+   "summary": "The Florida Department of Education says SSNs and other personal data may have been exposed in a breach of its financial aid website. The post Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-02T14:44:18.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-02T15:38:36.606Z"
+  },
   {
    "id": "f410984220599761",
    "title": "Hackers disrupt refrigeration systems at European supermarkets",
