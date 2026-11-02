@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-02T21:17:01.028Z",
- "lastAttempt": "2026-11-02T21:17:01.028Z",
+ "lastSuccess": "2026-11-02T22:13:31.418Z",
+ "lastAttempt": "2026-11-02T22:13:31.418Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T21:17:01.028Z",
-   "lastSuccess": "2026-11-02T21:17:01.028Z",
+   "checkedAt": "2026-11-02T22:13:31.418Z",
+   "lastSuccess": "2026-11-02T22:13:31.418Z",
    "etag": null,
-   "lastModified": "Mon, 2 Nov 2026 19:31:56 GMT"
+   "lastModified": "Mon, 2 Nov 2026 21:32:21 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T21:17:01.028Z",
-   "lastSuccess": "2026-11-02T21:17:01.028Z",
-   "etag": "d19407db1e000dfd975704eb706f071a",
-   "lastModified": "Mon, 02 Nov 2026 21:13:49 GMT"
+   "checkedAt": "2026-11-02T22:13:31.418Z",
+   "lastSuccess": "2026-11-02T22:13:31.418Z",
+   "etag": "6c541028de7ac7153959b3334cbc6477",
+   "lastModified": "Mon, 02 Nov 2026 22:10:16 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T21:17:01.028Z",
-   "lastSuccess": "2026-11-02T21:17:01.028Z",
+   "checkedAt": "2026-11-02T22:13:31.418Z",
+   "lastSuccess": "2026-11-02T22:13:31.418Z",
    "etag": null,
-   "lastModified": "Mon, 02 Nov 2026 20:16:12 GMT"
+   "lastModified": "Mon, 02 Nov 2026 22:12:09 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T21:17:01.028Z",
-   "lastSuccess": "2026-11-02T21:17:01.028Z",
+   "checkedAt": "2026-11-02T22:13:31.418Z",
+   "lastSuccess": "2026-11-02T22:13:31.418Z",
    "etag": "\"ce49b93ecdfd64c2d4570cab60503156\"",
    "lastModified": "Mon, 02 Nov 2026 15:05:31 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T21:17:01.028Z",
-   "lastSuccess": "2026-11-02T21:17:01.028Z",
+   "checkedAt": "2026-11-02T22:13:31.418Z",
+   "lastSuccess": "2026-11-02T22:13:31.418Z",
    "etag": null,
-   "lastModified": "Mon, 02 Nov 2026 21:17:01 GMT"
+   "lastModified": "Mon, 02 Nov 2026 22:13:32 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-02T21:17:01.028Z",
+   "checkedAt": "2026-11-02T22:13:31.418Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "1067a360d40402e0",
+   "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+   "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+   "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-02T21:40:14.000Z",
+   "categories": [
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-02T22:13:31.418Z"
+  },
   {
    "id": "451bc84f9c82c5e2",
    "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
