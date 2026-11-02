@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-02T13:41:46.203Z",
- "lastAttempt": "2026-11-02T13:41:46.203Z",
+ "lastSuccess": "2026-11-02T14:41:09.871Z",
+ "lastAttempt": "2026-11-02T14:41:09.871Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T13:41:46.203Z",
-   "lastSuccess": "2026-11-02T13:41:46.203Z",
+   "checkedAt": "2026-11-02T14:41:09.871Z",
+   "lastSuccess": "2026-11-02T14:41:09.871Z",
    "etag": null,
    "lastModified": "Mon, 2 Nov 2026 13:26:01 GMT"
   },
@@ -22,32 +22,32 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T13:41:46.203Z",
-   "lastSuccess": "2026-11-02T13:41:46.203Z",
-   "etag": "7ff48053c978248933f340b46c8fc1b0",
-   "lastModified": "Mon, 02 Nov 2026 13:37:03 GMT"
+   "checkedAt": "2026-11-02T14:41:09.871Z",
+   "lastSuccess": "2026-11-02T14:41:09.871Z",
+   "etag": "14e2fd9625489f63ff9639c84930f758",
+   "lastModified": "Mon, 02 Nov 2026 14:38:40 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T13:41:46.203Z",
-   "lastSuccess": "2026-11-02T13:41:46.203Z",
+   "checkedAt": "2026-11-02T14:41:09.871Z",
+   "lastSuccess": "2026-11-02T14:41:09.871Z",
    "etag": null,
-   "lastModified": "Mon, 02 Nov 2026 08:04:14 GMT"
+   "lastModified": "Mon, 02 Nov 2026 14:36:51 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T13:41:46.203Z",
-   "lastSuccess": "2026-11-02T13:41:46.203Z",
+   "checkedAt": "2026-11-02T14:41:09.871Z",
+   "lastSuccess": "2026-11-02T14:41:09.871Z",
    "etag": "W/\"af7bf8a9bd022d1ed728c2aa2dc1775f\"",
    "lastModified": "Mon, 02 Nov 2026 13:35:26 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T13:41:46.203Z",
-   "lastSuccess": "2026-11-02T13:41:46.203Z",
+   "checkedAt": "2026-11-02T14:41:09.871Z",
+   "lastSuccess": "2026-11-02T14:41:09.871Z",
    "etag": null,
-   "lastModified": "Mon, 02 Nov 2026 13:41:46 GMT"
+   "lastModified": "Mon, 02 Nov 2026 14:41:10 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,54 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-02T13:41:46.203Z",
+   "checkedAt": "2026-11-02T14:41:09.871Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "f410984220599761",
+   "title": "Hackers disrupt refrigeration systems at European supermarkets",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
+   "summary": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-02T14:28:39.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-02T14:41:09.871Z"
+  },
+  {
+   "id": "b95b3932a76164ec",
+   "title": "PapRAT Cyber Espionage Campaign Leaves a 'BITTER' Taste in South Asia",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia",
+   "summary": "Organizations in the region face attacks from the known India-linked threat group, which leverages legitimate Windows functionality in three distinct attack chains.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-02T14:00:00.000Z",
+   "categories": [
+    "attack",
+    "india"
+   ],
+   "firstSeen": "2026-11-02T14:41:09.871Z"
+  },
+  {
+   "id": "ecf295286dcc62fe",
+   "title": "Microsoft fixes Smart App Control broken by October Windows update",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/",
+   "summary": "Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-02T13:57:29.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-02T14:41:09.871Z"
+  },
   {
    "id": "e2479e8594abf2c9",
    "title": "Revolve Data Breach Impacts at Least 180,000 People",
@@ -575,6 +616,18 @@
     "attack"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
+  },
+  {
+   "id": "702e23b32fc00721",
+   "title": "Investors Dish on New Startups & What They'd Back Next",
+   "url": "https://www.darkreading.com/cybersecurity-operations/investors-dish-new-startsup-what-back-next",
+   "summary": "The cybersecurity market is difficult to predict, but a glimpse into the annual DataTribe Challenge shows what's trending and what's not.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-10-30T21:08:25.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-02T14:41:09.871Z"
   },
   {
    "id": "8537b0d901713ef7",
