@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-02T18:35:03.806Z",
- "lastAttempt": "2026-11-02T18:35:03.806Z",
+ "lastSuccess": "2026-11-02T19:38:44.784Z",
+ "lastAttempt": "2026-11-02T19:38:44.784Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T18:35:03.806Z",
-   "lastSuccess": "2026-11-02T18:35:03.806Z",
+   "checkedAt": "2026-11-02T19:38:44.784Z",
+   "lastSuccess": "2026-11-02T19:38:44.784Z",
    "etag": null,
-   "lastModified": "Mon, 2 Nov 2026 18:33:43 GMT"
+   "lastModified": "Mon, 2 Nov 2026 19:31:56 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T18:35:03.806Z",
-   "lastSuccess": "2026-11-02T18:35:03.806Z",
-   "etag": "665c9ade923942258b0317bd77cda521",
-   "lastModified": "Mon, 02 Nov 2026 18:26:34 GMT"
+   "checkedAt": "2026-11-02T19:38:44.784Z",
+   "lastSuccess": "2026-11-02T19:38:44.784Z",
+   "etag": "d9df35fa6efb960d296a6f7eaf159409",
+   "lastModified": "Mon, 02 Nov 2026 19:33:46 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T18:35:03.806Z",
-   "lastSuccess": "2026-11-02T18:35:03.806Z",
+   "checkedAt": "2026-11-02T19:38:44.784Z",
+   "lastSuccess": "2026-11-02T19:38:44.784Z",
    "etag": null,
-   "lastModified": "Mon, 02 Nov 2026 16:41:12 GMT"
+   "lastModified": "Mon, 02 Nov 2026 19:24:33 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T18:35:03.806Z",
-   "lastSuccess": "2026-11-02T18:35:03.806Z",
+   "checkedAt": "2026-11-02T19:38:44.784Z",
+   "lastSuccess": "2026-11-02T19:38:44.784Z",
    "etag": "\"ce49b93ecdfd64c2d4570cab60503156\"",
    "lastModified": "Mon, 02 Nov 2026 15:05:31 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T18:35:03.806Z",
-   "lastSuccess": "2026-11-02T18:35:03.806Z",
+   "checkedAt": "2026-11-02T19:38:44.784Z",
+   "lastSuccess": "2026-11-02T19:38:44.784Z",
    "etag": null,
-   "lastModified": "Mon, 02 Nov 2026 18:35:04 GMT"
+   "lastModified": "Mon, 02 Nov 2026 19:38:45 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-02T18:35:03.806Z",
+   "checkedAt": "2026-11-02T19:38:44.784Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "451bc84f9c82c5e2",
+   "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
+   "url": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+   "summary": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-02T19:00:45.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-02T19:38:44.784Z"
+  },
   {
    "id": "a07209536ed7ba66",
    "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
