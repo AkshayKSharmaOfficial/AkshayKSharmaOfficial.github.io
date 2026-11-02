@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-02T22:57:00.853Z",
- "lastAttempt": "2026-11-02T22:57:00.853Z",
+ "lastSuccess": "2026-11-02T23:35:52.956Z",
+ "lastAttempt": "2026-11-02T23:35:52.956Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T22:57:00.853Z",
-   "lastSuccess": "2026-11-02T22:57:00.853Z",
+   "checkedAt": "2026-11-02T23:35:52.956Z",
+   "lastSuccess": "2026-11-02T23:35:52.956Z",
    "etag": null,
-   "lastModified": "Mon, 2 Nov 2026 21:32:21 GMT"
+   "lastModified": "Mon, 2 Nov 2026 23:19:10 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T22:57:00.853Z",
-   "lastSuccess": "2026-11-02T22:57:00.853Z",
-   "etag": "2c257a31c4118a64fadee550978035df",
-   "lastModified": "Mon, 02 Nov 2026 22:50:17 GMT"
+   "checkedAt": "2026-11-02T23:35:52.956Z",
+   "lastSuccess": "2026-11-02T23:35:52.956Z",
+   "etag": "24f8abfbd342f8ceb0e586c780bd97f3",
+   "lastModified": "Mon, 02 Nov 2026 23:30:18 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T22:57:00.853Z",
-   "lastSuccess": "2026-11-02T22:57:00.853Z",
+   "checkedAt": "2026-11-02T23:35:52.956Z",
+   "lastSuccess": "2026-11-02T23:35:52.956Z",
    "etag": null,
    "lastModified": "Mon, 02 Nov 2026 22:52:21 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T22:57:00.853Z",
-   "lastSuccess": "2026-11-02T22:57:00.853Z",
+   "checkedAt": "2026-11-02T23:35:52.956Z",
+   "lastSuccess": "2026-11-02T23:35:52.956Z",
    "etag": "\"ce49b93ecdfd64c2d4570cab60503156\"",
    "lastModified": "Mon, 02 Nov 2026 15:05:31 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T22:57:00.853Z",
-   "lastSuccess": "2026-11-02T22:57:00.853Z",
+   "checkedAt": "2026-11-02T23:35:52.956Z",
+   "lastSuccess": "2026-11-02T23:35:52.956Z",
    "etag": null,
-   "lastModified": "Mon, 02 Nov 2026 22:57:01 GMT"
+   "lastModified": "Mon, 02 Nov 2026 23:35:53 GMT"
   },
   {
    "id": "cisa",
@@ -70,7 +70,7 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-02T22:57:00.853Z",
+   "checkedAt": "2026-11-02T23:35:52.956Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
@@ -79,14 +79,15 @@
  "articles": [
   {
    "id": "7e6b302a77a5a7c5",
-   "title": "$6.3B Binance Hack Shows the Need to Test Attack Paths",
+   "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
    "url": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
-   "summary": "Understanding how attackers can move through an environment after gaining initial access is key to protecting critical assets, security experts say.",
+   "summary": "The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss.",
    "source": "Dark Reading",
    "sourceId": "darkreading",
    "kind": "media",
    "published": "2026-11-02T22:27:24.000Z",
    "categories": [
+    "breach",
     "attack"
    ],
    "firstSeen": "2026-11-02T22:57:00.853Z"
