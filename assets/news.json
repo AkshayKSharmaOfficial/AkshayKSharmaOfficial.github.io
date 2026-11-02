@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-02T12:22:37.651Z",
- "lastAttempt": "2026-11-02T12:22:37.651Z",
+ "lastSuccess": "2026-11-02T13:41:46.203Z",
+ "lastAttempt": "2026-11-02T13:41:46.203Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T12:22:37.651Z",
-   "lastSuccess": "2026-11-02T12:22:37.651Z",
+   "checkedAt": "2026-11-02T13:41:46.203Z",
+   "lastSuccess": "2026-11-02T13:41:46.203Z",
    "etag": null,
-   "lastModified": "Mon, 2 Nov 2026 11:28:15 GMT"
+   "lastModified": "Mon, 2 Nov 2026 13:26:01 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T12:22:37.651Z",
-   "lastSuccess": "2026-11-02T12:22:37.651Z",
-   "etag": "aff60e1e5f4d24609c657057d76b726b",
-   "lastModified": "Mon, 02 Nov 2026 12:21:21 GMT"
+   "checkedAt": "2026-11-02T13:41:46.203Z",
+   "lastSuccess": "2026-11-02T13:41:46.203Z",
+   "etag": "7ff48053c978248933f340b46c8fc1b0",
+   "lastModified": "Mon, 02 Nov 2026 13:37:03 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T12:22:37.651Z",
-   "lastSuccess": "2026-11-02T12:22:37.651Z",
+   "checkedAt": "2026-11-02T13:41:46.203Z",
+   "lastSuccess": "2026-11-02T13:41:46.203Z",
    "etag": null,
    "lastModified": "Mon, 02 Nov 2026 08:04:14 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T12:22:37.651Z",
-   "lastSuccess": "2026-11-02T12:22:37.651Z",
-   "etag": "\"90d020fa7640e1795ef6cf51a07b5a62\"",
-   "lastModified": "Mon, 02 Nov 2026 11:29:44 GMT"
+   "checkedAt": "2026-11-02T13:41:46.203Z",
+   "lastSuccess": "2026-11-02T13:41:46.203Z",
+   "etag": "W/\"af7bf8a9bd022d1ed728c2aa2dc1775f\"",
+   "lastModified": "Mon, 02 Nov 2026 13:35:26 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T12:22:37.651Z",
-   "lastSuccess": "2026-11-02T12:22:37.651Z",
+   "checkedAt": "2026-11-02T13:41:46.203Z",
+   "lastSuccess": "2026-11-02T13:41:46.203Z",
    "etag": null,
-   "lastModified": "Mon, 02 Nov 2026 12:22:38 GMT"
+   "lastModified": "Mon, 02 Nov 2026 13:41:46 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,85 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-02T12:22:37.651Z",
+   "checkedAt": "2026-11-02T13:41:46.203Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "e2479e8594abf2c9",
+   "title": "Revolve Data Breach Impacts at Least 180,000 People",
+   "url": "https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/",
+   "summary": "Hackers accessed its online shopping platform and stole customers’ personal and payment card information. The post Revolve Data Breach Impacts at Least 180,000 People appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-02T13:35:21.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-02T13:41:46.203Z"
+  },
+  {
+   "id": "bd8b783f1fb0af4b",
+   "title": "Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward",
+   "url": "https://www.securityweek.com/google-introduces-250000-root-in-cloud-bug-bounty-reward/",
+   "summary": "The top payout is for high-impact architectural research demonstrating full administrative control. The post Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-02T13:25:11.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-02T13:41:46.203Z"
+  },
+  {
+   "id": "df25a90dc1d4ec28",
+   "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
+   "summary": "Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-02T12:47:00.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-02T13:41:46.203Z"
+  },
+  {
+   "id": "0bed561f10e179cb",
+   "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
+   "url": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
+   "summary": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week. Langflow is an open-source tool for building AI agents and workflows, and its vulnerability reports go to IBM. Every release from 1.0.0…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-02T11:50:00.000Z",
+   "categories": [
+    "vuln",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-02T13:41:46.203Z"
+  },
+  {
+   "id": "bfff44c21cc75a58",
+   "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
+   "url": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
+   "summary": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CISOs, SOC leaders and practitioners. For the teams still…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-02T11:30:00.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-02T13:41:46.203Z"
+  },
   {
    "id": "5621acfb0e5a1d8b",
    "title": "Malicious Claude Code Extension Served in Cursor Supply Chain Attack",
