@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-02T06:44:49.803Z",
- "lastAttempt": "2026-11-02T06:44:49.803Z",
+ "lastSuccess": "2026-11-02T08:08:36.524Z",
+ "lastAttempt": "2026-11-02T08:08:36.524Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T06:44:49.803Z",
-   "lastSuccess": "2026-11-02T06:44:49.803Z",
+   "checkedAt": "2026-11-02T08:08:36.524Z",
+   "lastSuccess": "2026-11-02T08:08:36.524Z",
    "etag": null,
-   "lastModified": "Mon, 2 Nov 2026 06:05:56 GMT"
+   "lastModified": "Mon, 2 Nov 2026 07:26:59 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T06:44:49.803Z",
-   "lastSuccess": "2026-11-02T06:44:49.803Z",
-   "etag": "f4e24ae1f76b6c11caf925eb422ff933",
-   "lastModified": "Mon, 02 Nov 2026 06:39:48 GMT"
+   "checkedAt": "2026-11-02T08:08:36.524Z",
+   "lastSuccess": "2026-11-02T08:08:36.524Z",
+   "etag": "3586155a4dabcb9c8e62e6b52e4c473a",
+   "lastModified": "Mon, 02 Nov 2026 08:00:01 GMT"
   },
   {
    "id": "krebs",
@@ -34,22 +34,22 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T06:44:49.803Z",
-   "lastSuccess": "2026-11-02T06:44:49.803Z",
+   "checkedAt": "2026-11-02T08:08:36.524Z",
+   "lastSuccess": "2026-11-02T08:08:36.524Z",
    "etag": null,
-   "lastModified": "Mon, 02 Nov 2026 06:27:59 GMT"
+   "lastModified": "Mon, 02 Nov 2026 08:04:14 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T06:44:49.803Z",
-   "lastSuccess": "2026-11-02T06:44:49.803Z",
-   "etag": "W/\"2af651faee98c3834486859f913f7d08\"",
-   "lastModified": "Sun, 01 Nov 2026 12:57:03 GMT"
+   "checkedAt": "2026-11-02T08:08:36.524Z",
+   "lastSuccess": "2026-11-02T08:08:36.524Z",
+   "etag": "W/\"fc44fe5b5016145ae307ee472d5381ce\"",
+   "lastModified": "Mon, 02 Nov 2026 07:57:53 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T06:44:49.803Z",
-   "lastSuccess": "2026-11-02T06:44:49.803Z",
+   "checkedAt": "2026-11-02T08:08:36.524Z",
+   "lastSuccess": "2026-11-02T08:08:36.524Z",
    "etag": null,
-   "lastModified": "Mon, 02 Nov 2026 06:44:50 GMT"
+   "lastModified": "Mon, 02 Nov 2026 08:08:37 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-02T06:44:49.803Z",
+   "checkedAt": "2026-11-02T08:08:36.524Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "af88cc876cf1a375",
+   "title": "Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain",
+   "url": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/",
+   "summary": "CISA has added CVE-2026-111357 and CVE-2026-118527 to its KEV catalog after the Ivanti VPN flaws were chained in zero-day attacks. The post Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-02T07:57:49.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-02T08:08:36.524Z"
+  },
   {
    "id": "b1c1d30dd8ee58aa",
    "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
