@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-02T22:13:31.418Z",
- "lastAttempt": "2026-11-02T22:13:31.418Z",
+ "lastSuccess": "2026-11-02T22:57:00.853Z",
+ "lastAttempt": "2026-11-02T22:57:00.853Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T22:13:31.418Z",
-   "lastSuccess": "2026-11-02T22:13:31.418Z",
+   "checkedAt": "2026-11-02T22:57:00.853Z",
+   "lastSuccess": "2026-11-02T22:57:00.853Z",
    "etag": null,
    "lastModified": "Mon, 2 Nov 2026 21:32:21 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T22:13:31.418Z",
-   "lastSuccess": "2026-11-02T22:13:31.418Z",
-   "etag": "6c541028de7ac7153959b3334cbc6477",
-   "lastModified": "Mon, 02 Nov 2026 22:10:16 GMT"
+   "checkedAt": "2026-11-02T22:57:00.853Z",
+   "lastSuccess": "2026-11-02T22:57:00.853Z",
+   "etag": "2c257a31c4118a64fadee550978035df",
+   "lastModified": "Mon, 02 Nov 2026 22:50:17 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T22:13:31.418Z",
-   "lastSuccess": "2026-11-02T22:13:31.418Z",
+   "checkedAt": "2026-11-02T22:57:00.853Z",
+   "lastSuccess": "2026-11-02T22:57:00.853Z",
    "etag": null,
-   "lastModified": "Mon, 02 Nov 2026 22:12:09 GMT"
+   "lastModified": "Mon, 02 Nov 2026 22:52:21 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T22:13:31.418Z",
-   "lastSuccess": "2026-11-02T22:13:31.418Z",
+   "checkedAt": "2026-11-02T22:57:00.853Z",
+   "lastSuccess": "2026-11-02T22:57:00.853Z",
    "etag": "\"ce49b93ecdfd64c2d4570cab60503156\"",
    "lastModified": "Mon, 02 Nov 2026 15:05:31 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T22:13:31.418Z",
-   "lastSuccess": "2026-11-02T22:13:31.418Z",
+   "checkedAt": "2026-11-02T22:57:00.853Z",
+   "lastSuccess": "2026-11-02T22:57:00.853Z",
    "etag": null,
-   "lastModified": "Mon, 02 Nov 2026 22:13:32 GMT"
+   "lastModified": "Mon, 02 Nov 2026 22:57:01 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-02T22:13:31.418Z",
+   "checkedAt": "2026-11-02T22:57:00.853Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "7e6b302a77a5a7c5",
+   "title": "$6.3B Binance Hack Shows the Need to Test Attack Paths",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
+   "summary": "Understanding how attackers can move through an environment after gaining initial access is key to protecting critical assets, security experts say.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-02T22:27:24.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-02T22:57:00.853Z"
+  },
   {
    "id": "1067a360d40402e0",
    "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
