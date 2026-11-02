@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-02T09:19:21.622Z",
- "lastAttempt": "2026-11-02T09:19:21.622Z",
+ "lastSuccess": "2026-11-02T10:28:32.784Z",
+ "lastAttempt": "2026-11-02T10:28:32.784Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T09:19:21.622Z",
-   "lastSuccess": "2026-11-02T09:19:21.622Z",
+   "checkedAt": "2026-11-02T10:28:32.784Z",
+   "lastSuccess": "2026-11-02T10:28:32.784Z",
    "etag": null,
-   "lastModified": "Mon, 2 Nov 2026 07:26:59 GMT"
+   "lastModified": "Mon, 2 Nov 2026 09:50:39 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T09:19:21.622Z",
-   "lastSuccess": "2026-11-02T09:19:21.622Z",
-   "etag": "e43df12c183557329e6ac5a5e6f89223",
-   "lastModified": "Mon, 02 Nov 2026 09:10:47 GMT"
+   "checkedAt": "2026-11-02T10:28:32.784Z",
+   "lastSuccess": "2026-11-02T10:28:32.784Z",
+   "etag": "dc2aa68336eec00e4eab72ded71eb164",
+   "lastModified": "Mon, 02 Nov 2026 10:23:29 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T09:19:21.622Z",
-   "lastSuccess": "2026-11-02T09:19:21.622Z",
+   "checkedAt": "2026-11-02T10:28:32.784Z",
+   "lastSuccess": "2026-11-02T10:28:32.784Z",
    "etag": null,
    "lastModified": "Mon, 02 Nov 2026 08:04:14 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T09:19:21.622Z",
-   "lastSuccess": "2026-11-02T09:19:21.622Z",
-   "etag": "\"546cfde42013ef14b45cb43e1daf0b69\"",
-   "lastModified": "Mon, 02 Nov 2026 08:40:42 GMT"
+   "checkedAt": "2026-11-02T10:28:32.784Z",
+   "lastSuccess": "2026-11-02T10:28:32.784Z",
+   "etag": "\"420362c607849d47939eb2221285c08e\"",
+   "lastModified": "Mon, 02 Nov 2026 09:33:19 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-02T09:19:21.622Z",
-   "lastSuccess": "2026-11-02T09:19:21.622Z",
+   "checkedAt": "2026-11-02T10:28:32.784Z",
+   "lastSuccess": "2026-11-02T10:28:32.784Z",
    "etag": null,
-   "lastModified": "Mon, 02 Nov 2026 09:19:21 GMT"
+   "lastModified": "Mon, 02 Nov 2026 10:28:33 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,42 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-02T09:19:21.622Z",
+   "checkedAt": "2026-11-02T10:28:32.784Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "67b42c20920f040d",
+   "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
+   "summary": "Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-02T09:33:26.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-02T10:28:32.784Z"
+  },
+  {
+   "id": "1c0272a06965cca1",
+   "title": "Polymarket Returns $3.9 Million to Traders as DebugBear Cites DNS Hijack",
+   "url": "https://www.securityweek.com/polymarket-returns-3-9-million-to-traders-as-debugbear-cites-dns-hijack/",
+   "summary": "DebugBear says its DNS records were compromised via its domain registrar, and early findings show a single customer was targeted. The post Polymarket Returns $3.9 Million to Traders as DebugBear Cites DNS Hijack appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-02T09:33:15.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-02T10:28:32.784Z"
+  },
   {
    "id": "fb900c05a619777c",
    "title": "FBI Flags Over 600 Addresses Tied to North Korea’s Binance Heist",
