@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-03T07:44:14.940Z",
- "lastAttempt": "2026-11-03T07:44:14.940Z",
+ "lastSuccess": "2026-11-03T08:41:23.598Z",
+ "lastAttempt": "2026-11-03T08:41:23.598Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T07:44:14.940Z",
-   "lastSuccess": "2026-11-03T07:44:14.940Z",
+   "checkedAt": "2026-11-03T08:41:23.598Z",
+   "lastSuccess": "2026-11-03T08:41:23.598Z",
    "etag": null,
-   "lastModified": "Tue, 3 Nov 2026 05:35:02 GMT"
+   "lastModified": "Tue, 3 Nov 2026 07:53:20 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T07:44:14.940Z",
-   "lastSuccess": "2026-11-03T07:44:14.940Z",
-   "etag": "44888f405e303472113ec4a2d1cfe6c6",
-   "lastModified": "Tue, 03 Nov 2026 07:40:32 GMT"
+   "checkedAt": "2026-11-03T08:41:23.598Z",
+   "lastSuccess": "2026-11-03T08:41:23.598Z",
+   "etag": "06385d679bb5d8670c5247b3dec96e2a",
+   "lastModified": "Tue, 03 Nov 2026 08:40:48 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T07:44:14.940Z",
-   "lastSuccess": "2026-11-03T07:44:14.940Z",
+   "checkedAt": "2026-11-03T08:41:23.598Z",
+   "lastSuccess": "2026-11-03T08:41:23.598Z",
    "etag": null,
-   "lastModified": "Tue, 03 Nov 2026 07:40:49 GMT"
+   "lastModified": "Tue, 03 Nov 2026 08:37:27 GMT"
   },
   {
    "id": "securityweek",
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T07:44:14.940Z",
-   "lastSuccess": "2026-11-03T07:44:14.940Z",
-   "etag": "\"92beb33d56ee6dfbec7878b89711c819\"",
-   "lastModified": "Tue, 03 Nov 2026 06:22:56 GMT"
+   "checkedAt": "2026-11-03T08:41:23.598Z",
+   "lastSuccess": "2026-11-03T08:41:23.598Z",
+   "etag": "\"cc1f526300878126117c9ae710c2d180\"",
+   "lastModified": "Tue, 03 Nov 2026 07:48:57 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T07:44:14.940Z",
-   "lastSuccess": "2026-11-03T07:44:14.940Z",
+   "checkedAt": "2026-11-03T08:41:23.598Z",
+   "lastSuccess": "2026-11-03T08:41:23.598Z",
    "etag": null,
-   "lastModified": "Tue, 03 Nov 2026 07:44:15 GMT"
+   "lastModified": "Tue, 03 Nov 2026 08:41:24 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,57 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-03T07:44:14.940Z",
+   "checkedAt": "2026-11-03T08:41:23.598Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "9b1f0323e1b39aa1",
+   "title": "Over 100 European Stores Hit as Supermarket Fridge Attacks Return",
+   "url": "https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/",
+   "summary": "Attackers again tampered with internet-exposed refrigeration controllers, this time at stores in Belgium, Sweden, Ireland and beyond. The post Over 100 European Stores Hit as Supermarket Fridge Attacks Return appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-03T07:43:24.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-03T08:41:23.598Z"
+  },
+  {
+   "id": "9c59a38943c4d0ce",
+   "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+   "url": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
+   "summary": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed threat actors exploiting a vulnerability patched in December 2024 to target…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-03T07:43:07.000Z",
+   "categories": [
+    "ransomware",
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-03T08:41:23.598Z"
+  },
+  {
+   "id": "a8dc2b16ab89a42c",
+   "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
+   "url": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
+   "summary": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers. No chain reported more than several dozen affected stores, and some had to…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-03T07:27:07.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-03T08:41:23.598Z"
+  },
   {
    "id": "b9ba4e436fc8e927",
    "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
