@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-03T09:36:44.959Z",
- "lastAttempt": "2026-11-03T09:36:44.959Z",
+ "lastSuccess": "2026-11-03T10:38:25.675Z",
+ "lastAttempt": "2026-11-03T10:38:25.675Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T09:36:44.959Z",
-   "lastSuccess": "2026-11-03T09:36:44.959Z",
+   "checkedAt": "2026-11-03T10:38:25.675Z",
+   "lastSuccess": "2026-11-03T10:38:25.675Z",
    "etag": null,
-   "lastModified": "Tue, 3 Nov 2026 09:16:31 GMT"
+   "lastModified": "Tue, 3 Nov 2026 10:34:46 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T09:36:44.959Z",
-   "lastSuccess": "2026-11-03T09:36:44.959Z",
-   "etag": "dd55e700b7e039ab744c869b95670eca",
-   "lastModified": "Tue, 03 Nov 2026 09:30:50 GMT"
+   "checkedAt": "2026-11-03T10:38:25.675Z",
+   "lastSuccess": "2026-11-03T10:38:25.675Z",
+   "etag": "be639e49e38a46519de8bcb2345ea55d",
+   "lastModified": "Tue, 03 Nov 2026 10:30:51 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T09:36:44.959Z",
-   "lastSuccess": "2026-11-03T09:36:44.959Z",
+   "checkedAt": "2026-11-03T10:38:25.675Z",
+   "lastSuccess": "2026-11-03T10:38:25.675Z",
    "etag": null,
    "lastModified": "Tue, 03 Nov 2026 08:37:27 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T09:36:44.959Z",
-   "lastSuccess": "2026-11-03T09:36:44.959Z",
-   "etag": "\"4f4abb163e5d34e2cf054fde20581bdf\"",
-   "lastModified": "Tue, 03 Nov 2026 09:22:15 GMT"
+   "checkedAt": "2026-11-03T10:38:25.675Z",
+   "lastSuccess": "2026-11-03T10:38:25.675Z",
+   "etag": "\"d4bc98247b47653e22725e68783646d1\"",
+   "lastModified": "Tue, 03 Nov 2026 09:49:23 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T09:36:44.959Z",
-   "lastSuccess": "2026-11-03T09:36:44.959Z",
+   "checkedAt": "2026-11-03T10:38:25.675Z",
+   "lastSuccess": "2026-11-03T10:38:25.675Z",
    "etag": null,
-   "lastModified": "Tue, 03 Nov 2026 09:36:45 GMT"
+   "lastModified": "Tue, 03 Nov 2026 10:38:26 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-03T09:36:44.959Z",
+   "checkedAt": "2026-11-03T10:38:25.675Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "0fc99e77168524c0",
+   "title": "UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028",
+   "url": "https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/",
+   "summary": "The U.K. will likely face AI cyberattacks on its critical infrastructure by 2028 as criminals and states, including China and Russia, increasingly use AI in their cyber activity. The post UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028…",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-03T09:49:12.000Z",
+   "categories": [
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-03T10:38:25.675Z"
+  },
   {
    "id": "8ad3f619cd849f35",
    "title": "Google Dismantles XCPE Botnet of 1.3 Million Android Devices",
