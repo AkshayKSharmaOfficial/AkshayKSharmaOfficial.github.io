@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-03T17:34:31.271Z",
- "lastAttempt": "2026-11-03T17:34:31.271Z",
+ "lastSuccess": "2026-11-03T18:28:00.119Z",
+ "lastAttempt": "2026-11-03T18:28:00.119Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T17:34:31.271Z",
-   "lastSuccess": "2026-11-03T17:34:31.271Z",
+   "checkedAt": "2026-11-03T18:28:00.119Z",
+   "lastSuccess": "2026-11-03T18:28:00.119Z",
    "etag": null,
    "lastModified": "Tue, 3 Nov 2026 17:15:09 GMT"
   },
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T17:34:31.271Z",
-   "lastSuccess": "2026-11-03T17:34:31.271Z",
-   "etag": "4134295b9e668e3bebb842f3207572c9",
-   "lastModified": "Tue, 03 Nov 2026 17:26:21 GMT"
+   "checkedAt": "2026-11-03T18:28:00.119Z",
+   "lastSuccess": "2026-11-03T18:28:00.119Z",
+   "etag": "48cf2f903f7a434cc9cc7d558b039f8a",
+   "lastModified": "Tue, 03 Nov 2026 18:26:23 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T17:34:31.271Z",
-   "lastSuccess": "2026-11-03T17:34:31.271Z",
+   "checkedAt": "2026-11-03T18:28:00.119Z",
+   "lastSuccess": "2026-11-03T18:28:00.119Z",
    "etag": null,
    "lastModified": "Tue, 03 Nov 2026 17:23:49 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T17:34:31.271Z",
-   "lastSuccess": "2026-11-03T17:34:31.271Z",
+   "checkedAt": "2026-11-03T18:28:00.119Z",
+   "lastSuccess": "2026-11-03T18:28:00.119Z",
    "etag": "\"8dfedbdf9fe5a417821f91343040120a\"",
    "lastModified": "Tue, 03 Nov 2026 14:57:10 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T17:34:31.271Z",
-   "lastSuccess": "2026-11-03T17:34:31.271Z",
+   "checkedAt": "2026-11-03T18:28:00.119Z",
+   "lastSuccess": "2026-11-03T18:28:00.119Z",
    "etag": null,
-   "lastModified": "Tue, 03 Nov 2026 17:34:31 GMT"
+   "lastModified": "Tue, 03 Nov 2026 18:28:00 GMT"
   },
   {
    "id": "cisa",
@@ -70,7 +70,7 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-03T17:34:31.271Z",
+   "checkedAt": "2026-11-03T18:28:00.119Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
@@ -124,7 +124,7 @@
   },
   {
    "id": "c79634e1f1f55dbc",
-   "title": "9 Cyber Awareness Tips That Actually Match Today’s Maze of Threats",
+   "title": "9 Cyber Awareness Tips That Actually Match Today's Maze of Threats",
    "url": "https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats",
    "summary": "Practical guidance on safer search, stronger login security, better executive protection, and other habits that help reduce enterprise risk.",
    "source": "Dark Reading",
