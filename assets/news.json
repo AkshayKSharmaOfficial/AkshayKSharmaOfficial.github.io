@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-03T16:36:11.180Z",
- "lastAttempt": "2026-11-03T16:36:11.180Z",
+ "lastSuccess": "2026-11-03T17:34:31.271Z",
+ "lastAttempt": "2026-11-03T17:34:31.271Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T16:36:11.180Z",
-   "lastSuccess": "2026-11-03T16:36:11.180Z",
+   "checkedAt": "2026-11-03T17:34:31.271Z",
+   "lastSuccess": "2026-11-03T17:34:31.271Z",
    "etag": null,
-   "lastModified": "Tue, 3 Nov 2026 15:51:45 GMT"
+   "lastModified": "Tue, 3 Nov 2026 17:15:09 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T16:36:11.180Z",
-   "lastSuccess": "2026-11-03T16:36:11.180Z",
-   "etag": "8fbdd5aeadc4e213af75bd3f3b5d763c",
-   "lastModified": "Tue, 03 Nov 2026 16:26:19 GMT"
+   "checkedAt": "2026-11-03T17:34:31.271Z",
+   "lastSuccess": "2026-11-03T17:34:31.271Z",
+   "etag": "4134295b9e668e3bebb842f3207572c9",
+   "lastModified": "Tue, 03 Nov 2026 17:26:21 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T16:36:11.180Z",
-   "lastSuccess": "2026-11-03T16:36:11.180Z",
+   "checkedAt": "2026-11-03T17:34:31.271Z",
+   "lastSuccess": "2026-11-03T17:34:31.271Z",
    "etag": null,
-   "lastModified": "Tue, 03 Nov 2026 13:11:38 GMT"
+   "lastModified": "Tue, 03 Nov 2026 17:23:49 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T16:36:11.180Z",
-   "lastSuccess": "2026-11-03T16:36:11.180Z",
+   "checkedAt": "2026-11-03T17:34:31.271Z",
+   "lastSuccess": "2026-11-03T17:34:31.271Z",
    "etag": "\"8dfedbdf9fe5a417821f91343040120a\"",
    "lastModified": "Tue, 03 Nov 2026 14:57:10 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T16:36:11.180Z",
-   "lastSuccess": "2026-11-03T16:36:11.180Z",
+   "checkedAt": "2026-11-03T17:34:31.271Z",
+   "lastSuccess": "2026-11-03T17:34:31.271Z",
    "etag": null,
-   "lastModified": "Tue, 03 Nov 2026 16:36:13 GMT"
+   "lastModified": "Tue, 03 Nov 2026 17:34:31 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,42 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-03T16:36:11.180Z",
+   "checkedAt": "2026-11-03T17:34:31.271Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "62e23c789fbfd2f8",
+   "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
+   "url": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
+   "summary": "Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a \"sophisticated, multi-stage campaign\" that involved the use of a tampered Homebrew installation and recruitment-themed social…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-03T16:55:58.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-03T17:34:31.271Z"
+  },
+  {
+   "id": "5350cf64f29cdc8a",
+   "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
+   "url": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
+   "summary": "Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device. The vulnerabilities, a pre-authentication authorization bypass…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-03T15:59:19.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-03T17:34:31.271Z"
+  },
   {
    "id": "c5631e1fe7c280d4",
    "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
