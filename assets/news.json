@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-03T10:38:25.675Z",
- "lastAttempt": "2026-11-03T10:38:25.675Z",
+ "lastSuccess": "2026-11-03T11:34:11.272Z",
+ "lastAttempt": "2026-11-03T11:34:11.272Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T10:38:25.675Z",
-   "lastSuccess": "2026-11-03T10:38:25.675Z",
+   "checkedAt": "2026-11-03T11:34:11.272Z",
+   "lastSuccess": "2026-11-03T11:34:11.272Z",
    "etag": null,
    "lastModified": "Tue, 3 Nov 2026 10:34:46 GMT"
   },
@@ -22,32 +22,32 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T10:38:25.675Z",
-   "lastSuccess": "2026-11-03T10:38:25.675Z",
-   "etag": "be639e49e38a46519de8bcb2345ea55d",
-   "lastModified": "Tue, 03 Nov 2026 10:30:51 GMT"
+   "checkedAt": "2026-11-03T11:34:11.272Z",
+   "lastSuccess": "2026-11-03T11:34:11.272Z",
+   "etag": "32fc7fe2cbb200303e87987127d253e5",
+   "lastModified": "Tue, 03 Nov 2026 11:33:27 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T10:38:25.675Z",
-   "lastSuccess": "2026-11-03T10:38:25.675Z",
+   "checkedAt": "2026-11-03T11:34:11.272Z",
+   "lastSuccess": "2026-11-03T11:34:11.272Z",
    "etag": null,
-   "lastModified": "Tue, 03 Nov 2026 08:37:27 GMT"
+   "lastModified": "Tue, 03 Nov 2026 11:30:14 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T10:38:25.675Z",
-   "lastSuccess": "2026-11-03T10:38:25.675Z",
+   "checkedAt": "2026-11-03T11:34:11.272Z",
+   "lastSuccess": "2026-11-03T11:34:11.272Z",
    "etag": "\"d4bc98247b47653e22725e68783646d1\"",
    "lastModified": "Tue, 03 Nov 2026 09:49:23 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T10:38:25.675Z",
-   "lastSuccess": "2026-11-03T10:38:25.675Z",
+   "checkedAt": "2026-11-03T11:34:11.272Z",
+   "lastSuccess": "2026-11-03T11:34:11.272Z",
    "etag": null,
-   "lastModified": "Tue, 03 Nov 2026 10:38:26 GMT"
+   "lastModified": "Tue, 03 Nov 2026 11:34:11 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-03T10:38:25.675Z",
+   "checkedAt": "2026-11-03T11:34:11.272Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "cbcb25e2d4a8a332",
+   "title": "Harvard University data breach exposed info of 851,000 accounts",
+   "url": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
+   "summary": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-03T10:53:25.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-03T11:34:11.272Z"
+  },
   {
    "id": "0fc99e77168524c0",
    "title": "UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028",
