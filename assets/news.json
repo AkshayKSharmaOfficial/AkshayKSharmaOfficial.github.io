@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-03T06:23:47.129Z",
- "lastAttempt": "2026-11-03T06:23:47.129Z",
+ "lastSuccess": "2026-11-03T07:44:14.940Z",
+ "lastAttempt": "2026-11-03T07:44:14.940Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T06:23:47.129Z",
-   "lastSuccess": "2026-11-03T06:23:47.129Z",
+   "checkedAt": "2026-11-03T07:44:14.940Z",
+   "lastSuccess": "2026-11-03T07:44:14.940Z",
    "etag": null,
    "lastModified": "Tue, 3 Nov 2026 05:35:02 GMT"
   },
@@ -22,34 +22,34 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T06:23:47.129Z",
-   "lastSuccess": "2026-11-03T06:23:47.129Z",
-   "etag": "83a6a44f57973141501f26b0f2cd64b3",
-   "lastModified": "Tue, 03 Nov 2026 06:20:30 GMT"
+   "checkedAt": "2026-11-03T07:44:14.940Z",
+   "lastSuccess": "2026-11-03T07:44:14.940Z",
+   "etag": "44888f405e303472113ec4a2d1cfe6c6",
+   "lastModified": "Tue, 03 Nov 2026 07:40:32 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T06:23:47.129Z",
-   "lastSuccess": "2026-11-03T06:23:47.129Z",
+   "checkedAt": "2026-11-03T07:44:14.940Z",
+   "lastSuccess": "2026-11-03T07:44:14.940Z",
    "etag": null,
-   "lastModified": "Tue, 03 Nov 2026 05:21:50 GMT"
+   "lastModified": "Tue, 03 Nov 2026 07:40:49 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T06:23:47.129Z",
-   "lastSuccess": "2026-11-03T06:23:47.129Z",
-   "etag": "\"18a2c2d4744cc88c6001ec825acbc574\"",
-   "lastModified": "Tue, 03 Nov 2026 04:59:48 GMT"
+   "checkedAt": "2026-11-03T07:44:14.940Z",
+   "lastSuccess": "2026-11-03T07:44:14.940Z",
+   "etag": "\"92beb33d56ee6dfbec7878b89711c819\"",
+   "lastModified": "Tue, 03 Nov 2026 06:22:56 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T06:23:47.129Z",
-   "lastSuccess": "2026-11-03T06:23:47.129Z",
+   "checkedAt": "2026-11-03T07:44:14.940Z",
+   "lastSuccess": "2026-11-03T07:44:14.940Z",
    "etag": null,
-   "lastModified": "Tue, 03 Nov 2026 06:23:47 GMT"
+   "lastModified": "Tue, 03 Nov 2026 07:44:15 GMT"
   },
   {
    "id": "cisa",
@@ -70,7 +70,7 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-03T06:23:47.129Z",
+   "checkedAt": "2026-11-03T07:44:14.940Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
@@ -339,9 +339,9 @@
   },
   {
    "id": "e2479e8594abf2c9",
-   "title": "Revolve Data Breach Impacts at Least 180,000 People",
+   "title": "Revolve Data Breach Impacts at Least 200,000 People",
    "url": "https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/",
-   "summary": "Hackers accessed its online shopping platform and stole customers’ personal and payment card information. The post Revolve Data Breach Impacts at Least 180,000 People appeared first on SecurityWeek .",
+   "summary": "Hackers accessed its online shopping platform and stole customers’ personal and payment card information. The post Revolve Data Breach Impacts at Least 200,000 People appeared first on SecurityWeek .",
    "source": "SecurityWeek",
    "sourceId": "securityweek",
    "kind": "media",
