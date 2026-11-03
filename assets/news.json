@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-03T19:28:31.016Z",
- "lastAttempt": "2026-11-03T19:28:31.016Z",
+ "lastSuccess": "2026-11-03T20:22:58.600Z",
+ "lastAttempt": "2026-11-03T20:22:58.600Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T19:28:31.016Z",
-   "lastSuccess": "2026-11-03T19:28:31.016Z",
+   "checkedAt": "2026-11-03T20:22:58.600Z",
+   "lastSuccess": "2026-11-03T20:22:58.600Z",
    "etag": null,
    "lastModified": "Tue, 3 Nov 2026 18:52:46 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T19:28:31.016Z",
-   "lastSuccess": "2026-11-03T19:28:31.016Z",
-   "etag": "1ba50581fcc1f84e3ddb99aec2ce8693",
-   "lastModified": "Tue, 03 Nov 2026 19:21:05 GMT"
+   "checkedAt": "2026-11-03T20:22:58.600Z",
+   "lastSuccess": "2026-11-03T20:22:58.600Z",
+   "etag": "ec41ba1e3a62cc9344d8e002a010352f",
+   "lastModified": "Tue, 03 Nov 2026 20:15:51 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T19:28:31.016Z",
-   "lastSuccess": "2026-11-03T19:28:31.016Z",
+   "checkedAt": "2026-11-03T20:22:58.600Z",
+   "lastSuccess": "2026-11-03T20:22:58.600Z",
    "etag": null,
    "lastModified": "Tue, 03 Nov 2026 17:23:49 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T19:28:31.016Z",
-   "lastSuccess": "2026-11-03T19:28:31.016Z",
+   "checkedAt": "2026-11-03T20:22:58.600Z",
+   "lastSuccess": "2026-11-03T20:22:58.600Z",
    "etag": "\"8dfedbdf9fe5a417821f91343040120a\"",
    "lastModified": "Tue, 03 Nov 2026 14:57:10 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T19:28:31.016Z",
-   "lastSuccess": "2026-11-03T19:28:31.016Z",
+   "checkedAt": "2026-11-03T20:22:58.600Z",
+   "lastSuccess": "2026-11-03T20:22:58.600Z",
    "etag": null,
-   "lastModified": "Tue, 03 Nov 2026 19:28:31 GMT"
+   "lastModified": "Tue, 03 Nov 2026 20:22:59 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-03T19:28:31.016Z",
+   "checkedAt": "2026-11-03T20:22:58.600Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "77b620329a617303",
+   "title": "Binance says fake job interview led to $6.3 billion crypto heist",
+   "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
+   "summary": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.34 billion in digital assets. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-03T20:05:50.000Z",
+   "categories": [
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-03T20:22:58.600Z"
+  },
   {
    "id": "6d6522adc09e5a24",
    "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
