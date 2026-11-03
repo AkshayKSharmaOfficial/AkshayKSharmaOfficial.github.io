@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-03T11:34:11.272Z",
- "lastAttempt": "2026-11-03T11:34:11.272Z",
+ "lastSuccess": "2026-11-03T12:36:28.295Z",
+ "lastAttempt": "2026-11-03T12:36:28.295Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T11:34:11.272Z",
-   "lastSuccess": "2026-11-03T11:34:11.272Z",
+   "checkedAt": "2026-11-03T12:36:28.295Z",
+   "lastSuccess": "2026-11-03T12:36:28.295Z",
    "etag": null,
    "lastModified": "Tue, 3 Nov 2026 10:34:46 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T11:34:11.272Z",
-   "lastSuccess": "2026-11-03T11:34:11.272Z",
-   "etag": "32fc7fe2cbb200303e87987127d253e5",
-   "lastModified": "Tue, 03 Nov 2026 11:33:27 GMT"
+   "checkedAt": "2026-11-03T12:36:28.295Z",
+   "lastSuccess": "2026-11-03T12:36:28.295Z",
+   "etag": "0e129d7037be09c5894e7039104ab5b0",
+   "lastModified": "Tue, 03 Nov 2026 12:35:54 GMT"
   },
   {
    "id": "krebs",
@@ -34,22 +34,22 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T11:34:11.272Z",
-   "lastSuccess": "2026-11-03T11:34:11.272Z",
+   "checkedAt": "2026-11-03T12:36:28.295Z",
+   "lastSuccess": "2026-11-03T12:36:28.295Z",
    "etag": null,
-   "lastModified": "Tue, 03 Nov 2026 11:30:14 GMT"
+   "lastModified": "Tue, 03 Nov 2026 12:21:37 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T11:34:11.272Z",
-   "lastSuccess": "2026-11-03T11:34:11.272Z",
-   "etag": "\"d4bc98247b47653e22725e68783646d1\"",
-   "lastModified": "Tue, 03 Nov 2026 09:49:23 GMT"
+   "checkedAt": "2026-11-03T12:36:28.295Z",
+   "lastSuccess": "2026-11-03T12:36:28.295Z",
+   "etag": "\"4d9586f808c38494f0a2fb19d9c2a4e1\"",
+   "lastModified": "Tue, 03 Nov 2026 12:22:34 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T11:34:11.272Z",
-   "lastSuccess": "2026-11-03T11:34:11.272Z",
+   "checkedAt": "2026-11-03T12:36:28.295Z",
+   "lastSuccess": "2026-11-03T12:36:28.295Z",
    "etag": null,
-   "lastModified": "Tue, 03 Nov 2026 11:34:11 GMT"
+   "lastModified": "Tue, 03 Nov 2026 12:36:29 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,56 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-03T11:34:11.272Z",
+   "checkedAt": "2026-11-03T12:36:28.295Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "60ed1c1b56633442",
+   "title": "Android’s November 2026 Updates Patch Over 200 Vulnerabilities",
+   "url": "https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/",
+   "summary": "The most severe is a critical flaw in Framework leading to remote code execution without user interaction. The post Android’s November 2026 Updates Patch Over 200 Vulnerabilities appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-03T12:21:49.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-03T12:36:28.295Z"
+  },
+  {
+   "id": "d23a70b3028599a7",
+   "title": "Critical Node-RED Flaw Exploited in Attacks",
+   "url": "https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/",
+   "summary": "Multiple attacks from the same IP address attempted to deploy various payloads, including a Linux bot and webshells. The post Critical Node-RED Flaw Exploited in Attacks appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-03T12:10:19.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-03T12:36:28.295Z"
+  },
+  {
+   "id": "d63d06decd19b714",
+   "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
+   "url": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
+   "summary": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-03T12:05:52.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-03T12:36:28.295Z"
+  },
   {
    "id": "cbcb25e2d4a8a332",
    "title": "Harvard University data breach exposed info of 851,000 accounts",
