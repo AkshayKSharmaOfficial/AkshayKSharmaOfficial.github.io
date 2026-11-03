@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-03T12:36:28.295Z",
- "lastAttempt": "2026-11-03T12:36:28.295Z",
+ "lastSuccess": "2026-11-03T13:54:06.807Z",
+ "lastAttempt": "2026-11-03T13:54:06.807Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T12:36:28.295Z",
-   "lastSuccess": "2026-11-03T12:36:28.295Z",
+   "checkedAt": "2026-11-03T13:54:06.807Z",
+   "lastSuccess": "2026-11-03T13:54:06.807Z",
    "etag": null,
-   "lastModified": "Tue, 3 Nov 2026 10:34:46 GMT"
+   "lastModified": "Tue, 3 Nov 2026 12:47:43 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T12:36:28.295Z",
-   "lastSuccess": "2026-11-03T12:36:28.295Z",
-   "etag": "0e129d7037be09c5894e7039104ab5b0",
-   "lastModified": "Tue, 03 Nov 2026 12:35:54 GMT"
+   "checkedAt": "2026-11-03T13:54:06.807Z",
+   "lastSuccess": "2026-11-03T13:54:06.807Z",
+   "etag": "0004a034c38bc89db8be5435ffccdc23",
+   "lastModified": "Tue, 03 Nov 2026 13:53:49 GMT"
   },
   {
    "id": "krebs",
@@ -34,20 +34,20 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T12:36:28.295Z",
-   "lastSuccess": "2026-11-03T12:36:28.295Z",
+   "checkedAt": "2026-11-03T13:54:06.807Z",
+   "lastSuccess": "2026-11-03T13:54:06.807Z",
    "etag": null,
-   "lastModified": "Tue, 03 Nov 2026 12:21:37 GMT"
+   "lastModified": "Tue, 03 Nov 2026 13:11:38 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T12:36:28.295Z",
-   "lastSuccess": "2026-11-03T12:36:28.295Z",
+   "checkedAt": "2026-11-03T13:54:06.807Z",
+   "lastSuccess": "2026-11-03T13:54:06.807Z",
    "etag": "\"4d9586f808c38494f0a2fb19d9c2a4e1\"",
    "lastModified": "Tue, 03 Nov 2026 12:22:34 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T12:36:28.295Z",
-   "lastSuccess": "2026-11-03T12:36:28.295Z",
+   "checkedAt": "2026-11-03T13:54:06.807Z",
+   "lastSuccess": "2026-11-03T13:54:06.807Z",
    "etag": null,
-   "lastModified": "Tue, 03 Nov 2026 12:36:29 GMT"
+   "lastModified": "Tue, 03 Nov 2026 13:54:07 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-03T12:36:28.295Z",
+   "checkedAt": "2026-11-03T13:54:06.807Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "4060921949ab0c3b",
+   "title": "Police seizes over 100 servers in investment scam crackdown",
+   "url": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
+   "summary": "European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-03T13:33:49.000Z",
+   "categories": [
+    "phishing",
+    "attack"
+   ],
+   "firstSeen": "2026-11-03T13:54:06.807Z"
+  },
   {
    "id": "60ed1c1b56633442",
    "title": "Android’s November 2026 Updates Patch Over 200 Vulnerabilities",
@@ -119,6 +134,52 @@
     "vuln"
    ],
    "firstSeen": "2026-11-03T12:36:28.295Z"
+  },
+  {
+   "id": "b84cad2a2e67203e",
+   "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+   "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
+   "summary": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in testing channel with no date for a regular…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-03T11:23:53.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-03T13:54:06.807Z"
+  },
+  {
+   "id": "e168d5f8ea0683e5",
+   "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
+   "url": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
+   "summary": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waiting in the queue. Gartner®’s report on exposure…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-03T11:18:20.000Z",
+   "categories": [
+    "breach",
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-03T13:54:06.807Z"
+  },
+  {
+   "id": "9dcda68ffbe98570",
+   "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
+   "url": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
+   "summary": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active since at least February 2025, the group has focused exclusively on Ukrainian targets, with a clear preference for law…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-03T11:00:45.000Z",
+   "categories": [
+    "vuln",
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-03T13:54:06.807Z"
   },
   {
    "id": "cbcb25e2d4a8a332",
