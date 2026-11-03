@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-03T21:16:22.164Z",
- "lastAttempt": "2026-11-03T21:16:22.164Z",
+ "lastSuccess": "2026-11-03T22:15:16.126Z",
+ "lastAttempt": "2026-11-03T22:15:16.126Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T21:16:22.164Z",
-   "lastSuccess": "2026-11-03T21:16:22.164Z",
+   "checkedAt": "2026-11-03T22:15:16.126Z",
+   "lastSuccess": "2026-11-03T22:15:16.126Z",
    "etag": null,
-   "lastModified": "Tue, 3 Nov 2026 21:00:46 GMT"
+   "lastModified": "Tue, 3 Nov 2026 22:11:21 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T21:16:22.164Z",
-   "lastSuccess": "2026-11-03T21:16:22.164Z",
-   "etag": "26f3dd84e05053f968cf5d7307bbcbfd",
-   "lastModified": "Tue, 03 Nov 2026 21:15:53 GMT"
+   "checkedAt": "2026-11-03T22:15:16.126Z",
+   "lastSuccess": "2026-11-03T22:15:16.126Z",
+   "etag": "ca0c030ebc8afd3a9b093489a99205d2",
+   "lastModified": "Tue, 03 Nov 2026 22:08:45 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T21:16:22.164Z",
-   "lastSuccess": "2026-11-03T21:16:22.164Z",
+   "checkedAt": "2026-11-03T22:15:16.126Z",
+   "lastSuccess": "2026-11-03T22:15:16.126Z",
    "etag": null,
    "lastModified": "Tue, 03 Nov 2026 17:23:49 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T21:16:22.164Z",
-   "lastSuccess": "2026-11-03T21:16:22.164Z",
+   "checkedAt": "2026-11-03T22:15:16.126Z",
+   "lastSuccess": "2026-11-03T22:15:16.126Z",
    "etag": "\"8dfedbdf9fe5a417821f91343040120a\"",
    "lastModified": "Tue, 03 Nov 2026 14:57:10 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T21:16:22.164Z",
-   "lastSuccess": "2026-11-03T21:16:22.164Z",
+   "checkedAt": "2026-11-03T22:15:16.126Z",
+   "lastSuccess": "2026-11-03T22:15:16.126Z",
    "etag": null,
-   "lastModified": "Tue, 03 Nov 2026 21:16:22 GMT"
+   "lastModified": "Tue, 03 Nov 2026 22:15:16 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,43 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-03T21:16:22.164Z",
+   "checkedAt": "2026-11-03T22:15:16.126Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "f2fffe836ff3cf01",
+   "title": "Germany Busts 'Crime-as-a-Service' Investment Fraud Outfit",
+   "url": "https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud",
+   "summary": "German police led a multinational probe that exposed an alleged crime-as-a-service provider supplying fraudulent trading platforms to investment scammers.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-03T21:57:12.000Z",
+   "categories": [
+    "phishing"
+   ],
+   "firstSeen": "2026-11-03T22:15:16.126Z"
+  },
+  {
+   "id": "c11e4f41af7cb6ca",
+   "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+   "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
+   "summary": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-03T21:28:44.000Z",
+   "categories": [
+    "breach",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-03T22:15:16.126Z"
+  },
   {
    "id": "77b620329a617303",
    "title": "Binance says fake job interview led to $6.3 billion crypto heist",
