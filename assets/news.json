@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-03T05:24:23.781Z",
- "lastAttempt": "2026-11-03T05:24:23.781Z",
+ "lastSuccess": "2026-11-03T06:23:47.129Z",
+ "lastAttempt": "2026-11-03T06:23:47.129Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T05:24:23.781Z",
-   "lastSuccess": "2026-11-03T05:24:23.781Z",
+   "checkedAt": "2026-11-03T06:23:47.129Z",
+   "lastSuccess": "2026-11-03T06:23:47.129Z",
    "etag": null,
-   "lastModified": "Tue, 3 Nov 2026 04:19:26 GMT"
+   "lastModified": "Tue, 3 Nov 2026 05:35:02 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T05:24:23.781Z",
-   "lastSuccess": "2026-11-03T05:24:23.781Z",
-   "etag": "4dbdc1da2d1ada435b23dca6fd806fe6",
-   "lastModified": "Tue, 03 Nov 2026 05:20:28 GMT"
+   "checkedAt": "2026-11-03T06:23:47.129Z",
+   "lastSuccess": "2026-11-03T06:23:47.129Z",
+   "etag": "83a6a44f57973141501f26b0f2cd64b3",
+   "lastModified": "Tue, 03 Nov 2026 06:20:30 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T05:24:23.781Z",
-   "lastSuccess": "2026-11-03T05:24:23.781Z",
+   "checkedAt": "2026-11-03T06:23:47.129Z",
+   "lastSuccess": "2026-11-03T06:23:47.129Z",
    "etag": null,
    "lastModified": "Tue, 03 Nov 2026 05:21:50 GMT"
   },
@@ -43,11 +43,11 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T05:24:23.781Z",
-   "lastSuccess": "2026-11-03T05:24:23.781Z",
+   "checkedAt": "2026-11-03T06:23:47.129Z",
+   "lastSuccess": "2026-11-03T06:23:47.129Z",
    "etag": "\"18a2c2d4744cc88c6001ec825acbc574\"",
    "lastModified": "Tue, 03 Nov 2026 04:59:48 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T05:24:23.781Z",
-   "lastSuccess": "2026-11-03T05:24:23.781Z",
+   "checkedAt": "2026-11-03T06:23:47.129Z",
+   "lastSuccess": "2026-11-03T06:23:47.129Z",
    "etag": null,
-   "lastModified": "Tue, 03 Nov 2026 05:24:24 GMT"
+   "lastModified": "Tue, 03 Nov 2026 06:23:47 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,43 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-03T05:24:23.781Z",
+   "checkedAt": "2026-11-03T06:23:47.129Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "b9ba4e436fc8e927",
+   "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+   "url": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+   "summary": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing authentication for a critical function that…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-03T05:34:41.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-03T06:23:47.129Z"
+  },
+  {
+   "id": "d80473442c7abc76",
+   "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
+   "url": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
+   "summary": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which carries a CVSS score of 10.0. Successful…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-03T05:34:37.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-03T06:23:47.129Z"
+  },
   {
    "id": "5eac2a1ee9b14040",
    "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
