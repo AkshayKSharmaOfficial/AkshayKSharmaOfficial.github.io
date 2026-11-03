@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-03T02:29:11.008Z",
- "lastAttempt": "2026-11-03T02:29:11.008Z",
+ "lastSuccess": "2026-11-03T03:25:16.621Z",
+ "lastAttempt": "2026-11-03T03:25:16.621Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T02:29:11.008Z",
-   "lastSuccess": "2026-11-03T02:29:11.008Z",
+   "checkedAt": "2026-11-03T03:25:16.621Z",
+   "lastSuccess": "2026-11-03T03:25:16.621Z",
    "etag": null,
-   "lastModified": "Tue, 3 Nov 2026 01:26:50 GMT"
+   "lastModified": "Tue, 3 Nov 2026 02:45:27 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T02:29:11.008Z",
-   "lastSuccess": "2026-11-03T02:29:11.008Z",
-   "etag": "ffff87db9d5d8afce8159bd7cbf384d8",
-   "lastModified": "Tue, 03 Nov 2026 02:20:22 GMT"
+   "checkedAt": "2026-11-03T03:25:16.621Z",
+   "lastSuccess": "2026-11-03T03:25:16.621Z",
+   "etag": "b18b32089f8694f2b04b49f173294be7",
+   "lastModified": "Tue, 03 Nov 2026 03:20:24 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T02:29:11.008Z",
-   "lastSuccess": "2026-11-03T02:29:11.008Z",
+   "checkedAt": "2026-11-03T03:25:16.621Z",
+   "lastSuccess": "2026-11-03T03:25:16.621Z",
    "etag": null,
-   "lastModified": "Mon, 02 Nov 2026 22:52:21 GMT"
+   "lastModified": "Tue, 03 Nov 2026 02:39:30 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T02:29:11.008Z",
-   "lastSuccess": "2026-11-03T02:29:11.008Z",
+   "checkedAt": "2026-11-03T03:25:16.621Z",
+   "lastSuccess": "2026-11-03T03:25:16.621Z",
    "etag": "\"ce49b93ecdfd64c2d4570cab60503156\"",
    "lastModified": "Mon, 02 Nov 2026 15:05:31 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T02:29:11.008Z",
-   "lastSuccess": "2026-11-03T02:29:11.008Z",
+   "checkedAt": "2026-11-03T03:25:16.621Z",
+   "lastSuccess": "2026-11-03T03:25:16.621Z",
    "etag": null,
-   "lastModified": "Tue, 03 Nov 2026 02:29:11 GMT"
+   "lastModified": "Tue, 03 Nov 2026 03:25:17 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-03T02:29:11.008Z",
+   "checkedAt": "2026-11-03T03:25:16.621Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "5eac2a1ee9b14040",
+   "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+   "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+   "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts…",
+   "source": "KrebsOnSecurity",
+   "sourceId": "krebs",
+   "kind": "media",
+   "published": "2026-11-03T02:24:31.000Z",
+   "categories": [
+    "malware",
+    "phishing"
+   ],
+   "firstSeen": "2026-11-03T03:25:16.621Z"
+  },
   {
    "id": "7e6b302a77a5a7c5",
    "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
