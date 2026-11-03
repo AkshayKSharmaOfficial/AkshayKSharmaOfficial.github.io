@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-03T15:44:13.860Z",
- "lastAttempt": "2026-11-03T15:44:13.860Z",
+ "lastSuccess": "2026-11-03T16:36:11.180Z",
+ "lastAttempt": "2026-11-03T16:36:11.180Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T15:44:13.860Z",
-   "lastSuccess": "2026-11-03T15:44:13.860Z",
+   "checkedAt": "2026-11-03T16:36:11.180Z",
+   "lastSuccess": "2026-11-03T16:36:11.180Z",
    "etag": null,
-   "lastModified": "Tue, 3 Nov 2026 14:18:26 GMT"
+   "lastModified": "Tue, 3 Nov 2026 15:51:45 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T15:44:13.860Z",
-   "lastSuccess": "2026-11-03T15:44:13.860Z",
-   "etag": "890ba64b017d0542e159a70641d44dc7",
-   "lastModified": "Tue, 03 Nov 2026 15:36:17 GMT"
+   "checkedAt": "2026-11-03T16:36:11.180Z",
+   "lastSuccess": "2026-11-03T16:36:11.180Z",
+   "etag": "8fbdd5aeadc4e213af75bd3f3b5d763c",
+   "lastModified": "Tue, 03 Nov 2026 16:26:19 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T15:44:13.860Z",
-   "lastSuccess": "2026-11-03T15:44:13.860Z",
+   "checkedAt": "2026-11-03T16:36:11.180Z",
+   "lastSuccess": "2026-11-03T16:36:11.180Z",
    "etag": null,
    "lastModified": "Tue, 03 Nov 2026 13:11:38 GMT"
   },
@@ -43,11 +43,11 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T15:44:13.860Z",
-   "lastSuccess": "2026-11-03T15:44:13.860Z",
+   "checkedAt": "2026-11-03T16:36:11.180Z",
+   "lastSuccess": "2026-11-03T16:36:11.180Z",
    "etag": "\"8dfedbdf9fe5a417821f91343040120a\"",
    "lastModified": "Tue, 03 Nov 2026 14:57:10 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-03T15:44:13.860Z",
-   "lastSuccess": "2026-11-03T15:44:13.860Z",
+   "checkedAt": "2026-11-03T16:36:11.180Z",
+   "lastSuccess": "2026-11-03T16:36:11.180Z",
    "etag": null,
-   "lastModified": "Tue, 03 Nov 2026 15:44:14 GMT"
+   "lastModified": "Tue, 03 Nov 2026 16:36:13 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,68 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-03T15:44:13.860Z",
+   "checkedAt": "2026-11-03T16:36:11.180Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "c5631e1fe7c280d4",
+   "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+   "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
+   "summary": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The tactic is called LLMjacking, a form of resource hijacking adapted for the LLM era, where an…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-03T15:41:53.000Z",
+   "categories": [
+    "phishing",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-03T16:36:11.180Z"
+  },
+  {
+   "id": "c79634e1f1f55dbc",
+   "title": "9 Cyber Awareness Tips That Actually Match Today’s Maze of Threats",
+   "url": "https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats",
+   "summary": "Practical guidance on safer search, stronger login security, better executive protection, and other habits that help reduce enterprise risk.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-03T15:38:20.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-03T16:36:11.180Z"
+  },
+  {
+   "id": "4f9a4decd5965e0d",
+   "title": "LLMJacking Emerges as Thriving Cybercriminal Enterprise",
+   "url": "https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise",
+   "summary": "Cybercriminals have turned reselling cloud access to LLMs into a lucrative business model, with some victims paying as much as $1 million in resource consumption before access was revoked.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-03T15:35:50.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-03T16:36:11.180Z"
+  },
+  {
+   "id": "c3e615c4c5d6d791",
+   "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
+   "url": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
+   "summary": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and other sensitive files from servers that ran it, cPGuard…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-03T15:16:32.000Z",
+   "categories": [
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-03T16:36:11.180Z"
+  },
   {
    "id": "9a8ab815e71ccbd0",
    "title": "Barracuda warns of critical flaws allowing root access to devices",
