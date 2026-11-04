@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-04T13:52:19.078Z",
- "lastAttempt": "2026-11-04T13:52:19.078Z",
+ "lastSuccess": "2026-11-04T14:53:20.255Z",
+ "lastAttempt": "2026-11-04T14:53:20.255Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T13:52:19.078Z",
-   "lastSuccess": "2026-11-04T13:52:19.078Z",
+   "checkedAt": "2026-11-04T14:53:20.255Z",
+   "lastSuccess": "2026-11-04T14:53:20.255Z",
    "etag": null,
-   "lastModified": "Wed, 4 Nov 2026 13:42:46 GMT"
+   "lastModified": "Wed, 4 Nov 2026 14:42:34 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T13:52:19.078Z",
-   "lastSuccess": "2026-11-04T13:52:19.078Z",
-   "etag": "38333dfdc9e71872c9902e6c9c06fdfc",
-   "lastModified": "Wed, 04 Nov 2026 13:43:22 GMT"
+   "checkedAt": "2026-11-04T14:53:20.255Z",
+   "lastSuccess": "2026-11-04T14:53:20.255Z",
+   "etag": "6b8d1a140e11b526ab35a18cf00dc838",
+   "lastModified": "Wed, 04 Nov 2026 14:46:06 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T13:52:19.078Z",
-   "lastSuccess": "2026-11-04T13:52:19.078Z",
+   "checkedAt": "2026-11-04T14:53:20.255Z",
+   "lastSuccess": "2026-11-04T14:53:20.255Z",
    "etag": null,
-   "lastModified": "Wed, 04 Nov 2026 08:00:04 GMT"
+   "lastModified": "Wed, 04 Nov 2026 14:45:36 GMT"
   },
   {
    "id": "securityweek",
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T13:52:19.078Z",
-   "lastSuccess": "2026-11-04T13:52:19.078Z",
-   "etag": "\"b4bbd292cebbf6e2de52870fcb2fa1c3\"",
-   "lastModified": "Wed, 04 Nov 2026 12:44:29 GMT"
+   "checkedAt": "2026-11-04T14:53:20.255Z",
+   "lastSuccess": "2026-11-04T14:53:20.255Z",
+   "etag": "\"1e3a98e37f358024721e5293f5943c03\"",
+   "lastModified": "Wed, 04 Nov 2026 14:34:46 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T13:52:19.078Z",
-   "lastSuccess": "2026-11-04T13:52:19.078Z",
+   "checkedAt": "2026-11-04T14:53:20.255Z",
+   "lastSuccess": "2026-11-04T14:53:20.255Z",
    "etag": null,
-   "lastModified": "Wed, 04 Nov 2026 13:52:19 GMT"
+   "lastModified": "Wed, 04 Nov 2026 14:53:20 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,84 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-04T13:52:19.078Z",
+   "checkedAt": "2026-11-04T14:53:20.255Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "0d6958092a1d6824",
+   "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
+   "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
+   "summary": "SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-04T14:42:25.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-04T14:53:20.255Z"
+  },
+  {
+   "id": "efeaff49c38bd608",
+   "title": "Sysdig Adds Runtime Security and Governance for AI Agents",
+   "url": "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
+   "summary": "Sysdig’s platform uses runtime visibility to track AI agent actions and block risky behavior before it reaches production systems. The post Sysdig Adds Runtime Security and Governance for AI Agents appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-04T14:34:44.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-04T14:53:20.255Z"
+  },
+  {
+   "id": "f4b7ff866caa5870",
+   "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
+   "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
+   "summary": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-04T14:27:52.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-04T14:53:20.255Z"
+  },
+  {
+   "id": "77b68f7046a54f46",
+   "title": "Barracuda ESG Authentication Bypass Flaw Opens Path to Root",
+   "url": "https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/",
+   "summary": "An authentication bypass and a command injection flaw can be chained for root access on Barracuda’s Email Security Gateway appliances. The post Barracuda ESG Authentication Bypass Flaw Opens Path to Root appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-04T14:24:54.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-04T14:53:20.255Z"
+  },
+  {
+   "id": "58eee375be59a5e9",
+   "title": "Agentic Data Security Firm Sentra Raises $150 Million",
+   "url": "https://www.securityweek.com/agentic-data-security-firm-sentra-raises-150-million/",
+   "summary": "The company will invest in agentic data security capabilities and expand its go-to-market organization. The post Agentic Data Security Firm Sentra Raises $150 Million appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-04T14:09:20.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-04T14:53:20.255Z"
+  },
   {
    "id": "40b6a7ccf7e4d44d",
    "title": "US charges two Canadians accused of hacking US universities",
@@ -2904,82 +2975,6 @@
     "vuln"
    ],
    "firstSeen": "2026-10-29T08:30:00.000Z"
-  },
-  {
-   "id": "6f87cbc13acbfa54",
-   "title": "Trust Is Not What It Seems — and Fraudsters Are Counting on It",
-   "url": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
-   "summary": "Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a little help from artificial intelligence.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-23T20:57:56.000Z",
-   "categories": [
-    "breach",
-    "malware",
-    "phishing",
-    "ai"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "567b13496413a08e",
-   "title": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice",
-   "url": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
-   "summary": "Fixing the critical PHP flaws is not as simple as clicking \"Update.\" Here's how to assess your risk, and what you can do to protect yourself.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-23T19:41:23.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "6fb95eceef2a89d9",
-   "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
-   "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
-   "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups.",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-23T17:50:47.000Z",
-   "categories": [
-    "ransomware",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-10-29T08:30:00.000Z"
-  },
-  {
-   "id": "98e8693243e3f0d0",
-   "title": "AI Tools Are Generating Massive Attacks for Little Cost",
-   "url": "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost",
-   "summary": "One campaign targets 105 sites using open-weight models; in another, public models gained full domain control for $12. Cyber-defense will have to change.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-23T17:26:59.000Z",
-   "categories": [
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "2639800892f713ef",
-   "title": "Why Caribbean Threats Cascade Into Global Cyber-Risk",
-   "url": "https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk",
-   "summary": "The region is demonstrating what happens when exploits accelerate but assurance does not.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-23T14:00:00.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
   }
  ]
 }
