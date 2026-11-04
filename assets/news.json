@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-04T01:53:01.383Z",
- "lastAttempt": "2026-11-04T01:53:01.383Z",
+ "lastSuccess": "2026-11-04T02:42:46.668Z",
+ "lastAttempt": "2026-11-04T02:42:46.668Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T01:53:01.383Z",
-   "lastSuccess": "2026-11-04T01:53:01.383Z",
+   "checkedAt": "2026-11-04T02:42:46.668Z",
+   "lastSuccess": "2026-11-04T02:42:46.668Z",
    "etag": null,
    "lastModified": "Wed, 4 Nov 2026 01:08:33 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T01:53:01.383Z",
-   "lastSuccess": "2026-11-04T01:53:01.383Z",
-   "etag": "19db321597e7f62b9e21edc4f6cf8d5d",
-   "lastModified": "Wed, 04 Nov 2026 01:48:56 GMT"
+   "checkedAt": "2026-11-04T02:42:46.668Z",
+   "lastSuccess": "2026-11-04T02:42:46.668Z",
+   "etag": "62ae879fdf8f7b81bf8019a38eac6d5a",
+   "lastModified": "Wed, 04 Nov 2026 02:38:57 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T01:53:01.383Z",
-   "lastSuccess": "2026-11-04T01:53:01.383Z",
+   "checkedAt": "2026-11-04T02:42:46.668Z",
+   "lastSuccess": "2026-11-04T02:42:46.668Z",
    "etag": null,
-   "lastModified": "Wed, 04 Nov 2026 01:44:27 GMT"
+   "lastModified": "Wed, 04 Nov 2026 02:38:17 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T01:53:01.383Z",
-   "lastSuccess": "2026-11-04T01:53:01.383Z",
+   "checkedAt": "2026-11-04T02:42:46.668Z",
+   "lastSuccess": "2026-11-04T02:42:46.668Z",
    "etag": "\"8dfedbdf9fe5a417821f91343040120a\"",
    "lastModified": "Tue, 03 Nov 2026 14:57:10 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T01:53:01.383Z",
-   "lastSuccess": "2026-11-04T01:53:01.383Z",
+   "checkedAt": "2026-11-04T02:42:46.668Z",
+   "lastSuccess": "2026-11-04T02:42:46.668Z",
    "etag": null,
-   "lastModified": "Wed, 04 Nov 2026 01:53:01 GMT"
+   "lastModified": "Wed, 04 Nov 2026 02:42:47 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-04T01:53:01.383Z",
+   "checkedAt": "2026-11-04T02:42:46.668Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "e4c0107f91d9dfc5",
+   "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
+   "summary": "An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-04T02:00:00.000Z",
+   "categories": [
+    "breach"
+   ],
+   "firstSeen": "2026-11-04T02:42:46.668Z"
+  },
   {
    "id": "811bc1def3b69c20",
    "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
@@ -2962,20 +2976,6 @@
    "published": "2026-09-28T15:08:57.000Z",
    "categories": [
     "ransomware",
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "7efd22e6a5bb8d15",
-   "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
-   "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
-   "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in…",
-   "source": "KrebsOnSecurity",
-   "sourceId": "krebs",
-   "kind": "media",
-   "published": "2026-09-25T21:44:40.000Z",
-   "categories": [
     "attack"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
