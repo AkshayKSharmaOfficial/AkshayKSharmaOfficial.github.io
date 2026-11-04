@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-04T14:53:20.255Z",
- "lastAttempt": "2026-11-04T14:53:20.255Z",
+ "lastSuccess": "2026-11-04T15:50:07.631Z",
+ "lastAttempt": "2026-11-04T15:50:07.631Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T14:53:20.255Z",
-   "lastSuccess": "2026-11-04T14:53:20.255Z",
+   "checkedAt": "2026-11-04T15:50:07.631Z",
+   "lastSuccess": "2026-11-04T15:50:07.631Z",
    "etag": null,
    "lastModified": "Wed, 4 Nov 2026 14:42:34 GMT"
   },
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T14:53:20.255Z",
-   "lastSuccess": "2026-11-04T14:53:20.255Z",
-   "etag": "6b8d1a140e11b526ab35a18cf00dc838",
-   "lastModified": "Wed, 04 Nov 2026 14:46:06 GMT"
+   "checkedAt": "2026-11-04T15:50:07.631Z",
+   "lastSuccess": "2026-11-04T15:50:07.631Z",
+   "etag": "c282d3123286ebac60704d19e11dd2ca",
+   "lastModified": "Wed, 04 Nov 2026 15:46:07 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T14:53:20.255Z",
-   "lastSuccess": "2026-11-04T14:53:20.255Z",
+   "checkedAt": "2026-11-04T15:50:07.631Z",
+   "lastSuccess": "2026-11-04T15:50:07.631Z",
    "etag": null,
    "lastModified": "Wed, 04 Nov 2026 14:45:36 GMT"
   },
@@ -43,11 +43,11 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T14:53:20.255Z",
-   "lastSuccess": "2026-11-04T14:53:20.255Z",
+   "checkedAt": "2026-11-04T15:50:07.631Z",
+   "lastSuccess": "2026-11-04T15:50:07.631Z",
    "etag": "\"1e3a98e37f358024721e5293f5943c03\"",
    "lastModified": "Wed, 04 Nov 2026 14:34:46 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T14:53:20.255Z",
-   "lastSuccess": "2026-11-04T14:53:20.255Z",
+   "checkedAt": "2026-11-04T15:50:07.631Z",
+   "lastSuccess": "2026-11-04T15:50:07.631Z",
    "etag": null,
-   "lastModified": "Wed, 04 Nov 2026 14:53:20 GMT"
+   "lastModified": "Wed, 04 Nov 2026 15:50:08 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-04T14:53:20.255Z",
+   "checkedAt": "2026-11-04T15:50:07.631Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "a84a71a695a97e8c",
+   "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
+   "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
+   "summary": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked malicious messages, and helped take down…",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-04T15:00:10.000Z",
+   "categories": [
+    "phishing",
+    "attack"
+   ],
+   "firstSeen": "2026-11-04T15:50:07.631Z"
+  },
   {
    "id": "0d6958092a1d6824",
    "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
@@ -133,6 +148,18 @@
     "vuln"
    ],
    "firstSeen": "2026-11-04T14:53:20.255Z"
+  },
+  {
+   "id": "1d3c909048792ac2",
+   "title": "Incidents Move Too Fast for Pen & Paper",
+   "url": "https://www.darkreading.com/cybersecurity-operations/incidents-move-fast-pen-paper",
+   "summary": "Organizations may not be ready for completely autonomous communication processes, but there are places where automating information updates would alleviate pressure.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-04T14:17:00.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-04T15:50:07.631Z"
   },
   {
    "id": "58eee375be59a5e9",
@@ -2947,34 +2974,6 @@
     "attack"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "b4cc413dc0dd447a",
-   "title": "'Gheist' Weaponizes GitHub Tokens to Steal Cloud Secrets",
-   "url": "https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets",
-   "summary": "An ongoing supply chain attack is harvesting credentials and sensitive data from thousands of developer repositories.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-26T18:01:40.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "6d4e5fd7e25c922d",
-   "title": "10 Software Security Practices Built for the Next 250 Years",
-   "url": "https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years",
-   "summary": "This Cybersecurity Awareness Month's theme, \"Securing the Next 250,\" asks us to look beyond vulnerabilities and consider what will make our digital systems resilient for generations.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-26T14:00:00.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-10-29T08:30:00.000Z"
   }
  ]
 }
