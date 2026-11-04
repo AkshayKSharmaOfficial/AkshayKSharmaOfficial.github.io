@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-04T15:50:07.631Z",
- "lastAttempt": "2026-11-04T15:50:07.631Z",
+ "lastSuccess": "2026-11-04T16:49:36.753Z",
+ "lastAttempt": "2026-11-04T16:49:36.753Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T15:50:07.631Z",
-   "lastSuccess": "2026-11-04T15:50:07.631Z",
+   "checkedAt": "2026-11-04T16:49:36.753Z",
+   "lastSuccess": "2026-11-04T16:49:36.753Z",
    "etag": null,
    "lastModified": "Wed, 4 Nov 2026 14:42:34 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T15:50:07.631Z",
-   "lastSuccess": "2026-11-04T15:50:07.631Z",
-   "etag": "c282d3123286ebac60704d19e11dd2ca",
-   "lastModified": "Wed, 04 Nov 2026 15:46:07 GMT"
+   "checkedAt": "2026-11-04T16:49:36.753Z",
+   "lastSuccess": "2026-11-04T16:49:36.753Z",
+   "etag": "85303a431da6b425be502c39dd79a6fe",
+   "lastModified": "Wed, 04 Nov 2026 16:40:21 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T15:50:07.631Z",
-   "lastSuccess": "2026-11-04T15:50:07.631Z",
+   "checkedAt": "2026-11-04T16:49:36.753Z",
+   "lastSuccess": "2026-11-04T16:49:36.753Z",
    "etag": null,
    "lastModified": "Wed, 04 Nov 2026 14:45:36 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T15:50:07.631Z",
-   "lastSuccess": "2026-11-04T15:50:07.631Z",
+   "checkedAt": "2026-11-04T16:49:36.753Z",
+   "lastSuccess": "2026-11-04T16:49:36.753Z",
    "etag": "\"1e3a98e37f358024721e5293f5943c03\"",
    "lastModified": "Wed, 04 Nov 2026 14:34:46 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T15:50:07.631Z",
-   "lastSuccess": "2026-11-04T15:50:07.631Z",
+   "checkedAt": "2026-11-04T16:49:36.753Z",
+   "lastSuccess": "2026-11-04T16:49:36.753Z",
    "etag": null,
-   "lastModified": "Wed, 04 Nov 2026 15:50:08 GMT"
+   "lastModified": "Wed, 04 Nov 2026 16:49:37 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,41 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-04T15:50:07.631Z",
+   "checkedAt": "2026-11-04T16:49:36.753Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "1b40fa83116b7019",
+   "title": "Google, Partners Disrupts 1.3 Million-Device-Strong XCPE Botnet",
+   "url": "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
+   "summary": "Google alleges that Android device manufacturer Videostrong ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-04T16:24:08.000Z",
+   "categories": [
+    "malware"
+   ],
+   "firstSeen": "2026-11-04T16:49:36.753Z"
+  },
+  {
+   "id": "5ee60ad2da85a8a9",
+   "title": "mSecure password manager hack prompts password reset warnings",
+   "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
+   "summary": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-04T16:00:18.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-04T16:49:36.753Z"
+  },
   {
    "id": "a84a71a695a97e8c",
    "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
@@ -2942,36 +2970,6 @@
    "published": "2026-10-27T00:26:50.000Z",
    "categories": [
     "ai"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "69ceca2573d0ca30",
-   "title": "Risks & Rewards: How AI Is Redefining the CISO's Role",
-   "url": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
-   "summary": "Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI's pros and cons, and ensure those deploying it own the risks.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-26T21:44:33.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "3090830309a2bfb1",
-   "title": "In-the-Wild Attack Abuses AI Agents' Trust in Markdown",
-   "url": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
-   "summary": "A new AI agent prompt injection technique exploits how coding assistants consume local instruction files, blurring the line between text documents and executable actions.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-26T20:59:26.000Z",
-   "categories": [
-    "vuln",
-    "ai",
-    "attack"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
   }
