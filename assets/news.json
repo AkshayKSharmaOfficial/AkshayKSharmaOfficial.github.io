@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-04T08:00:26.231Z",
- "lastAttempt": "2026-11-04T08:00:26.231Z",
+ "lastSuccess": "2026-11-04T09:08:26.001Z",
+ "lastAttempt": "2026-11-04T09:08:26.001Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T08:00:26.231Z",
-   "lastSuccess": "2026-11-04T08:00:26.231Z",
+   "checkedAt": "2026-11-04T09:08:26.001Z",
+   "lastSuccess": "2026-11-04T09:08:26.001Z",
    "etag": null,
-   "lastModified": "Wed, 4 Nov 2026 07:14:00 GMT"
+   "lastModified": "Wed, 4 Nov 2026 09:07:30 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T08:00:26.231Z",
-   "lastSuccess": "2026-11-04T08:00:26.231Z",
-   "etag": "ae69aef9c83c47eaf86960d76dfec742",
-   "lastModified": "Wed, 04 Nov 2026 07:59:07 GMT"
+   "checkedAt": "2026-11-04T09:08:26.001Z",
+   "lastSuccess": "2026-11-04T09:08:26.001Z",
+   "etag": "e018ce0678b495bf316f7ec8c318d485",
+   "lastModified": "Wed, 04 Nov 2026 08:59:10 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T08:00:26.231Z",
-   "lastSuccess": "2026-11-04T08:00:26.231Z",
+   "checkedAt": "2026-11-04T09:08:26.001Z",
+   "lastSuccess": "2026-11-04T09:08:26.001Z",
    "etag": null,
    "lastModified": "Wed, 04 Nov 2026 08:00:04 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T08:00:26.231Z",
-   "lastSuccess": "2026-11-04T08:00:26.231Z",
-   "etag": "\"5ad2126fce5f876ec3d2995bf3ea87d2\"",
-   "lastModified": "Wed, 04 Nov 2026 06:50:54 GMT"
+   "checkedAt": "2026-11-04T09:08:26.001Z",
+   "lastSuccess": "2026-11-04T09:08:26.001Z",
+   "etag": "W/\"218d5e834f66fb0f919f4d9f269a7937\"",
+   "lastModified": "Wed, 04 Nov 2026 09:00:25 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T08:00:26.231Z",
-   "lastSuccess": "2026-11-04T08:00:26.231Z",
+   "checkedAt": "2026-11-04T09:08:26.001Z",
+   "lastSuccess": "2026-11-04T09:08:26.001Z",
    "etag": null,
-   "lastModified": "Wed, 04 Nov 2026 08:00:26 GMT"
+   "lastModified": "Wed, 04 Nov 2026 09:08:26 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,56 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-04T08:00:26.231Z",
+   "checkedAt": "2026-11-04T09:08:26.001Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "2d06d9bae830126c",
+   "title": "Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million",
+   "url": "https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/",
+   "summary": "A $300,000 award went to a pre-launch flaw that exposed conversations and tokens on internal Muse test VMs used by Meta staff. The post Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-04T08:27:05.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-04T09:08:26.001Z"
+  },
+  {
+   "id": "595e0a9dfde72e64",
+   "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
+   "url": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
+   "summary": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of targeting Russian and international companies since 2016. The Ministry of…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-04T08:17:11.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-04T09:08:26.001Z"
+  },
+  {
+   "id": "226d22a423412bf1",
+   "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+   "url": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
+   "summary": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin. The flaw, CVE-2026-58868, affects Android 14 through 17. Phones get the fix with security patch level 2026-11-01 or later…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-04T07:46:15.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-04T09:08:26.001Z"
+  },
   {
    "id": "0f2962e63e089703",
    "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
@@ -2932,51 +2975,6 @@
    "categories": [
     "ransomware",
     "phishing"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "b01cba4b27718bfc",
-   "title": "Microsoft Patches More Than 1,400 Security Flaws",
-   "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
-   "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from…",
-   "source": "KrebsOnSecurity",
-   "sourceId": "krebs",
-   "kind": "media",
-   "published": "2026-10-13T23:24:53.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-10-29T08:30:00.000Z"
-  },
-  {
-   "id": "9bfc1e2b37ef9165",
-   "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
-   "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
-   "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple…",
-   "source": "KrebsOnSecurity",
-   "sourceId": "krebs",
-   "kind": "media",
-   "published": "2026-10-10T00:17:42.000Z",
-   "categories": [
-    "ransomware",
-    "attack"
-   ],
-   "firstSeen": "2026-10-29T08:30:00.000Z"
-  },
-  {
-   "id": "773ed0132b3c7a3a",
-   "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
-   "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-   "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the…",
-   "source": "KrebsOnSecurity",
-   "sourceId": "krebs",
-   "kind": "media",
-   "published": "2026-10-07T13:48:45.000Z",
-   "categories": [
-    "ransomware",
-    "breach",
-    "attack"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
   }
