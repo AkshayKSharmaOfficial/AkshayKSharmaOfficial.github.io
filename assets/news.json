@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-04T11:30:56.124Z",
- "lastAttempt": "2026-11-04T11:30:56.124Z",
+ "lastSuccess": "2026-11-04T12:30:36.017Z",
+ "lastAttempt": "2026-11-04T12:30:36.017Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T11:30:56.124Z",
-   "lastSuccess": "2026-11-04T11:30:56.124Z",
+   "checkedAt": "2026-11-04T12:30:36.017Z",
+   "lastSuccess": "2026-11-04T12:30:36.017Z",
    "etag": null,
-   "lastModified": "Wed, 4 Nov 2026 09:50:29 GMT"
+   "lastModified": "Wed, 4 Nov 2026 12:12:05 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T11:30:56.124Z",
-   "lastSuccess": "2026-11-04T11:30:56.124Z",
-   "etag": "43ea6c425a83fe24b0e7e83638b5eb76",
-   "lastModified": "Wed, 04 Nov 2026 11:22:59 GMT"
+   "checkedAt": "2026-11-04T12:30:36.017Z",
+   "lastSuccess": "2026-11-04T12:30:36.017Z",
+   "etag": "b5380917379a47e281794aad3822ab1b",
+   "lastModified": "Wed, 04 Nov 2026 12:21:07 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T11:30:56.124Z",
-   "lastSuccess": "2026-11-04T11:30:56.124Z",
+   "checkedAt": "2026-11-04T12:30:36.017Z",
+   "lastSuccess": "2026-11-04T12:30:36.017Z",
    "etag": null,
    "lastModified": "Wed, 04 Nov 2026 08:00:04 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T11:30:56.124Z",
-   "lastSuccess": "2026-11-04T11:30:56.124Z",
-   "etag": "\"39434733e75107b68cc05d518cd53f1c\"",
-   "lastModified": "Wed, 04 Nov 2026 10:54:52 GMT"
+   "checkedAt": "2026-11-04T12:30:36.017Z",
+   "lastSuccess": "2026-11-04T12:30:36.017Z",
+   "etag": "W/\"1334962aa9a748e3ade0289a4ffa44dc\"",
+   "lastModified": "Wed, 04 Nov 2026 12:28:03 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T11:30:56.124Z",
-   "lastSuccess": "2026-11-04T11:30:56.124Z",
+   "checkedAt": "2026-11-04T12:30:36.017Z",
+   "lastSuccess": "2026-11-04T12:30:36.017Z",
    "etag": null,
-   "lastModified": "Wed, 04 Nov 2026 11:30:56 GMT"
+   "lastModified": "Wed, 04 Nov 2026 12:30:36 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,98 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-04T11:30:56.124Z",
+   "checkedAt": "2026-11-04T12:30:36.017Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "26c0c0e5334a1339",
+   "title": "Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers",
+   "url": "https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/",
+   "summary": "A federal grand jury indicted two Canadian men for hijacking university supercomputers to secretly mine Electroneum cryptocurrency. The post Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-04T12:27:58.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-04T12:30:36.017Z"
+  },
+  {
+   "id": "f81fec5e51d50eef",
+   "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
+   "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-04T12:11:05.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-04T12:30:36.017Z"
+  },
+  {
+   "id": "eeeb8b0c17d40904",
+   "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
+   "url": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
+   "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in an advisory and fixed it in versions 8.1.4.1…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-04T12:07:04.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-04T12:30:36.017Z"
+  },
+  {
+   "id": "a60c29c498ad06a8",
+   "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
+   "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
+   "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages the others. Patches are out, and there is no known…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-04T11:46:27.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-04T12:30:36.017Z"
+  },
+  {
+   "id": "6cb0374f8d770396",
+   "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
+   "url": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
+   "summary": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns. Most agents never touch one. One recent case shows what…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-04T11:34:20.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-04T12:30:36.017Z"
+  },
+  {
+   "id": "73251ea6fbbb9651",
+   "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
+   "url": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
+   "summary": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surveillance campaign designed to deploy an implant called…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-04T11:24:31.000Z",
+   "categories": [
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-04T12:30:36.017Z"
+  },
   {
    "id": "ec8adc9c27297ccb",
    "title": "Malicious cPGuard Updates Served in OpsShield Supply Chain Attack",
@@ -2894,87 +2979,6 @@
     "india"
    ],
    "firstSeen": "2026-10-29T08:30:00.000Z"
-  },
-  {
-   "id": "58f1655fb7c0fa9f",
-   "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
-   "url": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
-   "summary": "The China-linked actor used an AI-enabled penetration-testing tool to automate and accelerate its attack on more than 2,200 tenants.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-22T20:42:17.000Z",
-   "categories": [
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "6cb68d48b88ab4a9",
-   "title": "What We Missed: Feds Lasso Texas Laptop Farms",
-   "url": "https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers",
-   "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from busting up North Korea's stateside infrastructure in \"Operation Lonestar Justice\" to Staples' gift card bonanza.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-22T20:33:10.000Z",
-   "categories": [],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "bd7145fc14f89abc",
-   "title": "Les supermarchés de l'UE paient d'un firmware de réfrigérateur non mis à jour",
-   "url": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french",
-   "summary": "Des centaines de magasins ont subi des pertes se chiffrant en millions d'euros parce qu'ils avaient fait appel à des tiers pour gérer le micrologiciel OT obsolète qui pilotait leurs systèmes de climatisation.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-22T19:30:20.000Z",
-   "categories": [],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "2f08a87d6482f37e",
-   "title": "As AI Risks Grow, Insurers Split on Covering the Damage",
-   "url": "https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage",
-   "summary": "Some build specialized agentic AI coverage, while major carriers quietly exclude it — leaving enterprises exposed without their knowledge.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-22T14:21:22.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "6620f8d64742201d",
-   "title": "UAE Transitions 50% of Government Services to Agentic AI",
-   "url": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
-   "summary": "The United Arab Emirates says it's creating a foundation of security and safety as it transforms its public service footprint.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-22T05:00:00.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "235e9d69ac896b9c",
-   "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
-   "url": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
-   "summary": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the unseen information comes to light.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-21T21:15:39.000Z",
-   "categories": [
-    "breach"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
   }
  ]
 }
