@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-04T06:44:17.655Z",
- "lastAttempt": "2026-11-04T06:44:17.655Z",
+ "lastSuccess": "2026-11-04T08:00:26.231Z",
+ "lastAttempt": "2026-11-04T08:00:26.231Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T06:44:17.655Z",
-   "lastSuccess": "2026-11-04T06:44:17.655Z",
+   "checkedAt": "2026-11-04T08:00:26.231Z",
+   "lastSuccess": "2026-11-04T08:00:26.231Z",
    "etag": null,
-   "lastModified": "Wed, 4 Nov 2026 05:39:43 GMT"
+   "lastModified": "Wed, 4 Nov 2026 07:14:00 GMT"
   },
   {
    "id": "bleeping",
@@ -22,34 +22,34 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T06:44:17.655Z",
-   "lastSuccess": "2026-11-04T06:44:17.655Z",
-   "etag": "26e245534512c1e5a31e1b627491bdf4",
-   "lastModified": "Wed, 04 Nov 2026 06:39:05 GMT"
+   "checkedAt": "2026-11-04T08:00:26.231Z",
+   "lastSuccess": "2026-11-04T08:00:26.231Z",
+   "etag": "ae69aef9c83c47eaf86960d76dfec742",
+   "lastModified": "Wed, 04 Nov 2026 07:59:07 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T06:44:17.655Z",
-   "lastSuccess": "2026-11-04T06:44:17.655Z",
+   "checkedAt": "2026-11-04T08:00:26.231Z",
+   "lastSuccess": "2026-11-04T08:00:26.231Z",
    "etag": null,
-   "lastModified": "Wed, 04 Nov 2026 03:29:16 GMT"
+   "lastModified": "Wed, 04 Nov 2026 08:00:04 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T06:44:17.655Z",
-   "lastSuccess": "2026-11-04T06:44:17.655Z",
-   "etag": "\"8dfedbdf9fe5a417821f91343040120a\"",
-   "lastModified": "Tue, 03 Nov 2026 14:57:10 GMT"
+   "checkedAt": "2026-11-04T08:00:26.231Z",
+   "lastSuccess": "2026-11-04T08:00:26.231Z",
+   "etag": "\"5ad2126fce5f876ec3d2995bf3ea87d2\"",
+   "lastModified": "Wed, 04 Nov 2026 06:50:54 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T06:44:17.655Z",
-   "lastSuccess": "2026-11-04T06:44:17.655Z",
+   "checkedAt": "2026-11-04T08:00:26.231Z",
+   "lastSuccess": "2026-11-04T08:00:26.231Z",
    "etag": null,
-   "lastModified": "Wed, 04 Nov 2026 06:44:17 GMT"
+   "lastModified": "Wed, 04 Nov 2026 08:00:26 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-04T06:44:17.655Z",
+   "checkedAt": "2026-11-04T08:00:26.231Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "0f2962e63e089703",
+   "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+   "url": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The high-severity vulnerability, tracked as CVE-2026-119977 (CVSS score…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-04T05:43:11.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-04T08:00:26.231Z"
+  },
   {
    "id": "e4c0107f91d9dfc5",
    "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
@@ -2961,21 +2976,6 @@
    "categories": [
     "ransomware",
     "breach",
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "d8ad1159bda78d61",
-   "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
-   "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
-   "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically…",
-   "source": "KrebsOnSecurity",
-   "sourceId": "krebs",
-   "kind": "media",
-   "published": "2026-09-28T15:08:57.000Z",
-   "categories": [
-    "ransomware",
     "attack"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
