@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-04T21:43:34.989Z",
- "lastAttempt": "2026-11-04T21:43:34.989Z",
+ "lastSuccess": "2026-11-04T22:30:31.796Z",
+ "lastAttempt": "2026-11-04T22:30:31.796Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T21:43:34.989Z",
-   "lastSuccess": "2026-11-04T21:43:34.989Z",
+   "checkedAt": "2026-11-04T22:30:31.796Z",
+   "lastSuccess": "2026-11-04T22:30:31.796Z",
    "etag": null,
-   "lastModified": "Wed, 4 Nov 2026 21:08:59 GMT"
+   "lastModified": "Wed, 4 Nov 2026 22:06:12 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T21:43:34.989Z",
-   "lastSuccess": "2026-11-04T21:43:34.989Z",
-   "etag": "354a6ca897fb85b31956b95c6f888211",
-   "lastModified": "Wed, 04 Nov 2026 21:41:19 GMT"
+   "checkedAt": "2026-11-04T22:30:31.796Z",
+   "lastSuccess": "2026-11-04T22:30:31.796Z",
+   "etag": "168abaa601a60ab10c1ace0297671683",
+   "lastModified": "Wed, 04 Nov 2026 22:21:20 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T21:43:34.989Z",
-   "lastSuccess": "2026-11-04T21:43:34.989Z",
+   "checkedAt": "2026-11-04T22:30:31.796Z",
+   "lastSuccess": "2026-11-04T22:30:31.796Z",
    "etag": null,
-   "lastModified": "Wed, 04 Nov 2026 20:44:30 GMT"
+   "lastModified": "Wed, 04 Nov 2026 22:25:27 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T21:43:34.989Z",
-   "lastSuccess": "2026-11-04T21:43:34.989Z",
+   "checkedAt": "2026-11-04T22:30:31.796Z",
+   "lastSuccess": "2026-11-04T22:30:31.796Z",
    "etag": "\"e4e26507dac00a5ed8d851f84a1e4958\"",
    "lastModified": "Wed, 04 Nov 2026 17:56:45 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T21:43:34.989Z",
-   "lastSuccess": "2026-11-04T21:43:34.989Z",
+   "checkedAt": "2026-11-04T22:30:31.796Z",
+   "lastSuccess": "2026-11-04T22:30:31.796Z",
    "etag": null,
-   "lastModified": "Wed, 04 Nov 2026 21:43:35 GMT"
+   "lastModified": "Wed, 04 Nov 2026 22:30:32 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 0,
    "rejected": 0,
    "error": "HTTP 403",
-   "checkedAt": "2026-11-04T21:43:34.989Z",
+   "checkedAt": "2026-11-04T22:30:31.796Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "468b20361a18f4a6",
+   "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
+   "url": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
+   "summary": "An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-04T21:48:18.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-04T22:30:31.796Z"
+  },
   {
    "id": "0e6e0d2f07b2b6fd",
    "title": "Vercel rolls out new protection against stolen session cookie attacks",
@@ -2956,20 +2970,6 @@
     "ai"
    ],
    "firstSeen": "2026-10-29T08:30:00.000Z"
-  },
-  {
-   "id": "2982c933539d209f",
-   "title": "3 Frameworks to Protect CISOs & Orgs Against AI Liability",
-   "url": "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
-   "summary": "Cyber leaders can get ahead of AI liability with rigorous documentation, transparency, and smart contract negotiations with AI vendors.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-27T21:15:03.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
   }
  ]
 }
