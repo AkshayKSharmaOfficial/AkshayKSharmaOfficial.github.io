@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-04T17:47:26.182Z",
- "lastAttempt": "2026-11-04T17:47:26.182Z",
+ "lastSuccess": "2026-11-04T18:50:31.611Z",
+ "lastAttempt": "2026-11-04T18:50:31.611Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T17:47:26.182Z",
-   "lastSuccess": "2026-11-04T17:47:26.182Z",
+   "checkedAt": "2026-11-04T18:50:31.611Z",
+   "lastSuccess": "2026-11-04T18:50:31.611Z",
    "etag": null,
    "lastModified": "Wed, 4 Nov 2026 17:21:54 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T17:47:26.182Z",
-   "lastSuccess": "2026-11-04T17:47:26.182Z",
-   "etag": "ff3af3eaf50bd4597a0dd7787eb3a533",
-   "lastModified": "Wed, 04 Nov 2026 17:38:47 GMT"
+   "checkedAt": "2026-11-04T18:50:31.611Z",
+   "lastSuccess": "2026-11-04T18:50:31.611Z",
+   "etag": "7bde84a54646bdca491de561472e9097",
+   "lastModified": "Wed, 04 Nov 2026 18:42:58 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T17:47:26.182Z",
-   "lastSuccess": "2026-11-04T17:47:26.182Z",
+   "checkedAt": "2026-11-04T18:50:31.611Z",
+   "lastSuccess": "2026-11-04T18:50:31.611Z",
    "etag": null,
    "lastModified": "Wed, 04 Nov 2026 14:45:36 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T17:47:26.182Z",
-   "lastSuccess": "2026-11-04T17:47:26.182Z",
-   "etag": "\"6adc87f22f152d50fb14f6a957cb518e\"",
-   "lastModified": "Wed, 04 Nov 2026 17:32:36 GMT"
+   "checkedAt": "2026-11-04T18:50:31.611Z",
+   "lastSuccess": "2026-11-04T18:50:31.611Z",
+   "etag": "\"e4e26507dac00a5ed8d851f84a1e4958\"",
+   "lastModified": "Wed, 04 Nov 2026 17:56:45 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T17:47:26.182Z",
-   "lastSuccess": "2026-11-04T17:47:26.182Z",
+   "checkedAt": "2026-11-04T18:50:31.611Z",
+   "lastSuccess": "2026-11-04T18:50:31.611Z",
    "etag": null,
-   "lastModified": "Wed, 04 Nov 2026 17:47:26 GMT"
+   "lastModified": "Wed, 04 Nov 2026 18:50:32 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 0,
    "rejected": 0,
    "error": "HTTP 403",
-   "checkedAt": "2026-11-04T17:47:26.182Z",
+   "checkedAt": "2026-11-04T18:50:31.611Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "097ef63c2b4df488",
+   "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+   "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
+   "summary": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-04T18:02:56.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-04T18:50:31.611Z"
+  },
   {
    "id": "f72f567cab23b3cb",
    "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
@@ -123,7 +137,7 @@
   },
   {
    "id": "1b40fa83116b7019",
-   "title": "Google, Partners Disrupts 1.3 Million-Device-Strong XCPE Botnet",
+   "title": "Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet",
    "url": "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
    "summary": "Google alleges that Android device manufacturer Videostrong ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity.",
    "source": "Dark Reading",
@@ -2955,21 +2969,6 @@
     "attack"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "061bd1e6e0783cfc",
-   "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
-   "summary": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-10-27T18:20:28.000Z",
-   "categories": [
-    "attack",
-    "india"
-   ],
-   "firstSeen": "2026-10-29T08:30:00.000Z"
   }
  ]
 }
