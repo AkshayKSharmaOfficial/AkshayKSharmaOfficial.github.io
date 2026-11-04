@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-04T09:08:26.001Z",
- "lastAttempt": "2026-11-04T09:08:26.001Z",
+ "lastSuccess": "2026-11-04T11:30:56.124Z",
+ "lastAttempt": "2026-11-04T11:30:56.124Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T09:08:26.001Z",
-   "lastSuccess": "2026-11-04T09:08:26.001Z",
+   "checkedAt": "2026-11-04T11:30:56.124Z",
+   "lastSuccess": "2026-11-04T11:30:56.124Z",
    "etag": null,
-   "lastModified": "Wed, 4 Nov 2026 09:07:30 GMT"
+   "lastModified": "Wed, 4 Nov 2026 09:50:29 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T09:08:26.001Z",
-   "lastSuccess": "2026-11-04T09:08:26.001Z",
-   "etag": "e018ce0678b495bf316f7ec8c318d485",
-   "lastModified": "Wed, 04 Nov 2026 08:59:10 GMT"
+   "checkedAt": "2026-11-04T11:30:56.124Z",
+   "lastSuccess": "2026-11-04T11:30:56.124Z",
+   "etag": "43ea6c425a83fe24b0e7e83638b5eb76",
+   "lastModified": "Wed, 04 Nov 2026 11:22:59 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T09:08:26.001Z",
-   "lastSuccess": "2026-11-04T09:08:26.001Z",
+   "checkedAt": "2026-11-04T11:30:56.124Z",
+   "lastSuccess": "2026-11-04T11:30:56.124Z",
    "etag": null,
    "lastModified": "Wed, 04 Nov 2026 08:00:04 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T09:08:26.001Z",
-   "lastSuccess": "2026-11-04T09:08:26.001Z",
-   "etag": "W/\"218d5e834f66fb0f919f4d9f269a7937\"",
-   "lastModified": "Wed, 04 Nov 2026 09:00:25 GMT"
+   "checkedAt": "2026-11-04T11:30:56.124Z",
+   "lastSuccess": "2026-11-04T11:30:56.124Z",
+   "etag": "\"39434733e75107b68cc05d518cd53f1c\"",
+   "lastModified": "Wed, 04 Nov 2026 10:54:52 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-04T09:08:26.001Z",
-   "lastSuccess": "2026-11-04T09:08:26.001Z",
+   "checkedAt": "2026-11-04T11:30:56.124Z",
+   "lastSuccess": "2026-11-04T11:30:56.124Z",
    "etag": null,
-   "lastModified": "Wed, 04 Nov 2026 09:08:26 GMT"
+   "lastModified": "Wed, 04 Nov 2026 11:30:56 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,83 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-04T09:08:26.001Z",
+   "checkedAt": "2026-11-04T11:30:56.124Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "ec8adc9c27297ccb",
+   "title": "Malicious cPGuard Updates Served in OpsShield Supply Chain Attack",
+   "url": "https://www.securityweek.com/malicious-cpguard-updates-served-in-opsshield-supply-chain-attack/",
+   "summary": "Using compromised credentials, the attackers accessed OpsShield’s update servers and poisoned multiple cPGuard versions. The post Malicious cPGuard Updates Served in OpsShield Supply Chain Attack appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-04T10:54:48.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-04T11:30:56.124Z"
+  },
+  {
+   "id": "13006025064dbc2e",
+   "title": "Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical",
+   "url": "https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/",
+   "summary": "The browser update resolves dozens of memory safety bugs and incorrect/missing authorization issues. The post Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-04T10:38:46.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-04T11:30:56.124Z"
+  },
+  {
+   "id": "842011994b3ece3b",
+   "title": "Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billion Binance Heist",
+   "url": "https://www.securityweek.com/rigged-coding-assignment-abused-ai-tool-opened-path-to-6-billion-binance-heist/",
+   "summary": "Binance’s first incident report traces the record theft to a months-long campaign that compromised three engineers’ computers. The post Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billion Binance Heist appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-04T10:36:32.000Z",
+   "categories": [
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-04T11:30:56.124Z"
+  },
+  {
+   "id": "7873a06e93d5603d",
+   "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
+   "summary": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-04T09:39:54.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-04T11:30:56.124Z"
+  },
+  {
+   "id": "43efef13811d9f82",
+   "title": "North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack",
+   "url": "https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/",
+   "summary": "In recent months, North Korea has accelerated its weapons tests in a likely bid to increase its leverage in potential diplomacy with the US. The post North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack appeared first on…",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-04T09:23:22.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-04T11:30:56.124Z"
+  },
   {
    "id": "2d06d9bae830126c",
    "title": "Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million",
@@ -2903,78 +2973,6 @@
    "published": "2026-10-21T21:15:39.000Z",
    "categories": [
     "breach"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "28b54089dea1bde9",
-   "title": "Marvell, Microsoft & Oracle Work to Standardize Data Center Hardware Security",
-   "url": "https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security",
-   "summary": "The effort is aimed at standardizing a NIST FIPS 140-3 Level 3 integrated HSM for cloud and hyperscale data center infrastructure.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-21T20:14:42.000Z",
-   "categories": [],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "415f3f977f0a65a5",
-   "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
-   "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
-   "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working…",
-   "source": "KrebsOnSecurity",
-   "sourceId": "krebs",
-   "kind": "media",
-   "published": "2026-10-21T15:26:07.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-10-29T08:30:00.000Z"
-  },
-  {
-   "id": "2682e81e40702c50",
-   "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
-   "url": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
-   "summary": "Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it's unclear how the keys were compromised.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-20T21:45:47.000Z",
-   "categories": [
-    "attack",
-    "india"
-   ],
-   "firstSeen": "2026-10-29T08:30:00.000Z"
-  },
-  {
-   "id": "7fac30bf1b34c205",
-   "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
-   "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-   "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity…",
-   "source": "KrebsOnSecurity",
-   "sourceId": "krebs",
-   "kind": "media",
-   "published": "2026-10-19T13:48:56.000Z",
-   "categories": [
-    "ransomware",
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "9f4f6d187aa848d7",
-   "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
-   "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
-   "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent…",
-   "source": "KrebsOnSecurity",
-   "sourceId": "krebs",
-   "kind": "media",
-   "published": "2026-10-14T14:22:49.000Z",
-   "categories": [
-    "ransomware",
-    "phishing"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
   }
