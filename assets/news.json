@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-05T07:58:48.618Z",
- "lastAttempt": "2026-11-05T07:58:48.618Z",
+ "lastSuccess": "2026-11-05T08:57:50.085Z",
+ "lastAttempt": "2026-11-05T08:57:50.085Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T07:58:48.618Z",
-   "lastSuccess": "2026-11-05T07:58:48.618Z",
+   "checkedAt": "2026-11-05T08:57:50.085Z",
+   "lastSuccess": "2026-11-05T08:57:50.085Z",
    "etag": null,
-   "lastModified": "Thu, 5 Nov 2026 06:11:05 GMT"
+   "lastModified": "Thu, 5 Nov 2026 08:21:21 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T07:58:48.618Z",
-   "lastSuccess": "2026-11-05T07:58:48.618Z",
-   "etag": "0ca1228c788358ac546af6395debeab8",
-   "lastModified": "Thu, 05 Nov 2026 07:55:35 GMT"
+   "checkedAt": "2026-11-05T08:57:50.085Z",
+   "lastSuccess": "2026-11-05T08:57:50.085Z",
+   "etag": "8bd6ea03349b23d447aba11bdc1217f7",
+   "lastModified": "Thu, 05 Nov 2026 08:55:36 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T07:58:48.618Z",
-   "lastSuccess": "2026-11-05T07:58:48.618Z",
+   "checkedAt": "2026-11-05T08:57:50.085Z",
+   "lastSuccess": "2026-11-05T08:57:50.085Z",
    "etag": null,
-   "lastModified": "Thu, 05 Nov 2026 07:56:55 GMT"
+   "lastModified": "Thu, 05 Nov 2026 08:44:12 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T07:58:48.618Z",
-   "lastSuccess": "2026-11-05T07:58:48.618Z",
+   "checkedAt": "2026-11-05T08:57:50.085Z",
+   "lastSuccess": "2026-11-05T08:57:50.085Z",
    "etag": "\"e4e26507dac00a5ed8d851f84a1e4958\"",
    "lastModified": "Wed, 04 Nov 2026 17:56:45 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T07:58:48.618Z",
-   "lastSuccess": "2026-11-05T07:58:48.618Z",
+   "checkedAt": "2026-11-05T08:57:50.085Z",
+   "lastSuccess": "2026-11-05T08:57:50.085Z",
    "etag": null,
-   "lastModified": "Thu, 05 Nov 2026 07:58:48 GMT"
+   "lastModified": "Thu, 05 Nov 2026 08:57:50 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "HTTP 403",
-   "checkedAt": "2026-11-05T07:58:48.618Z",
+   "checkedAt": "2026-11-05T08:57:50.085Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "d2b8633e1a6f94d6",
+   "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+   "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+   "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web management interface run commands on it without…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-05T07:06:33.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-05T08:57:50.085Z"
+  },
   {
    "id": "16bf85bfb533fefe",
    "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
@@ -2956,20 +2971,6 @@
    "categories": [
     "vuln",
     "ai"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "3c6de304e8f9b719",
-   "title": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
-   "url": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
-   "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine. The move was in response to the service being used to commit and facilitate prolific criminal activity, including \"the…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-28T07:37:50.000Z",
-   "categories": [
-    "attack"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
   }
