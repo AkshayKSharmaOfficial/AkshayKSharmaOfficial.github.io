@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-05T19:27:45.323Z",
- "lastAttempt": "2026-11-05T19:27:45.323Z",
+ "lastSuccess": "2026-11-05T20:19:03.544Z",
+ "lastAttempt": "2026-11-05T20:19:03.544Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T19:27:45.323Z",
-   "lastSuccess": "2026-11-05T19:27:45.323Z",
+   "checkedAt": "2026-11-05T20:19:03.544Z",
+   "lastSuccess": "2026-11-05T20:19:03.544Z",
    "etag": null,
    "lastModified": "Thu, 5 Nov 2026 15:25:24 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T19:27:45.323Z",
-   "lastSuccess": "2026-11-05T19:27:45.323Z",
-   "etag": "84c2f601a81473b9b30d2e65a8f59973",
-   "lastModified": "Thu, 05 Nov 2026 19:24:26 GMT"
+   "checkedAt": "2026-11-05T20:19:03.544Z",
+   "lastSuccess": "2026-11-05T20:19:03.544Z",
+   "etag": "5d75b335b9ffd03f998feccefdd06158",
+   "lastModified": "Thu, 05 Nov 2026 20:15:09 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T19:27:45.323Z",
-   "lastSuccess": "2026-11-05T19:27:45.323Z",
+   "checkedAt": "2026-11-05T20:19:03.544Z",
+   "lastSuccess": "2026-11-05T20:19:03.544Z",
    "etag": null,
-   "lastModified": "Thu, 05 Nov 2026 19:22:25 GMT"
+   "lastModified": "Thu, 05 Nov 2026 20:10:54 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T19:27:45.323Z",
-   "lastSuccess": "2026-11-05T19:27:45.323Z",
+   "checkedAt": "2026-11-05T20:19:03.544Z",
+   "lastSuccess": "2026-11-05T20:19:03.544Z",
    "etag": "W/\"6223767466247aa239f950e8d229ad63\"",
    "lastModified": "Thu, 05 Nov 2026 17:32:42 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T19:27:45.323Z",
-   "lastSuccess": "2026-11-05T19:27:45.323Z",
+   "checkedAt": "2026-11-05T20:19:03.544Z",
+   "lastSuccess": "2026-11-05T20:19:03.544Z",
    "etag": null,
-   "lastModified": "Thu, 05 Nov 2026 19:27:45 GMT"
+   "lastModified": "Thu, 05 Nov 2026 20:19:03 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,25 @@
    "count": 0,
    "rejected": 0,
    "error": "HTTP 403",
-   "checkedAt": "2026-11-05T19:27:45.323Z",
+   "checkedAt": "2026-11-05T20:19:03.544Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "52f5dccff3a6d143",
+   "title": "Truffle Security launches program to revoke 1.4 million live secrets",
+   "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
+   "summary": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-05T20:15:08.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-05T20:19:03.544Z"
+  },
   {
    "id": "02cba505dce1d64e",
    "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
@@ -90,6 +102,20 @@
     "ai"
    ],
    "firstSeen": "2026-11-05T19:27:45.323Z"
+  },
+  {
+   "id": "e2dbb7a12bc75083",
+   "title": "APT29's Watering Holes Target Thousands of Mobile Users",
+   "url": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
+   "summary": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-05T18:08:31.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-05T20:19:03.544Z"
   },
   {
    "id": "3d2efa777c4ed403",
@@ -2942,32 +2968,6 @@
    "published": "2026-10-29T10:44:46.000Z",
    "categories": [
     "vuln"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "193f5a35878b3318",
-   "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
-   "url": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
-   "summary": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time. \"The firewall inspects both metadata requests and package downloads for signs of malicious activity, acting as an…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-29T10:26:33.000Z",
-   "categories": [],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "310f01b2d095f884",
-   "title": "Shadowy AI Relay Disables OpenAI Codex, Claude Code Sandboxes",
-   "url": "https://www.darkreading.com/threat-intelligence/ai-relay-service-openai-codex-claude-code-sandboxes",
-   "summary": "The enigmatic service is providing popular AI coding tools to mainland China and other regions where OpenAI and Anthropic products are not officially for sale — but with key security features turned off.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-29T10:00:00.000Z",
-   "categories": [
-    "ai"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
   }
