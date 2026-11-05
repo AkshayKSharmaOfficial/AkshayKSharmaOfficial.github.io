@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-05T16:35:51.381Z",
- "lastAttempt": "2026-11-05T16:35:51.381Z",
+ "lastSuccess": "2026-11-05T17:39:54.207Z",
+ "lastAttempt": "2026-11-05T17:39:54.207Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T16:35:51.381Z",
-   "lastSuccess": "2026-11-05T16:35:51.381Z",
+   "checkedAt": "2026-11-05T17:39:54.207Z",
+   "lastSuccess": "2026-11-05T17:39:54.207Z",
    "etag": null,
    "lastModified": "Thu, 5 Nov 2026 15:25:24 GMT"
   },
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T16:35:51.381Z",
-   "lastSuccess": "2026-11-05T16:35:51.381Z",
-   "etag": "9bbd9310b55a02f200329a494f18b9f0",
-   "lastModified": "Thu, 05 Nov 2026 16:34:28 GMT"
+   "checkedAt": "2026-11-05T17:39:54.207Z",
+   "lastSuccess": "2026-11-05T17:39:54.207Z",
+   "etag": "0523e9324422cde13b2eb14511b44236",
+   "lastModified": "Thu, 05 Nov 2026 17:34:30 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T16:35:51.381Z",
-   "lastSuccess": "2026-11-05T16:35:51.381Z",
+   "checkedAt": "2026-11-05T17:39:54.207Z",
+   "lastSuccess": "2026-11-05T17:39:54.207Z",
    "etag": null,
    "lastModified": "Thu, 05 Nov 2026 16:19:27 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T16:35:51.381Z",
-   "lastSuccess": "2026-11-05T16:35:51.381Z",
-   "etag": "\"51efe701cc40ee3e9849f2fa515a4fe3\"",
-   "lastModified": "Thu, 05 Nov 2026 13:25:57 GMT"
+   "checkedAt": "2026-11-05T17:39:54.207Z",
+   "lastSuccess": "2026-11-05T17:39:54.207Z",
+   "etag": "W/\"6223767466247aa239f950e8d229ad63\"",
+   "lastModified": "Thu, 05 Nov 2026 17:32:42 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T16:35:51.381Z",
-   "lastSuccess": "2026-11-05T16:35:51.381Z",
+   "checkedAt": "2026-11-05T17:39:54.207Z",
+   "lastSuccess": "2026-11-05T17:39:54.207Z",
    "etag": null,
-   "lastModified": "Thu, 05 Nov 2026 16:35:51 GMT"
+   "lastModified": "Thu, 05 Nov 2026 17:39:54 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,42 @@
    "count": 0,
    "rejected": 0,
    "error": "HTTP 403",
-   "checkedAt": "2026-11-05T16:35:51.381Z",
+   "checkedAt": "2026-11-05T17:39:54.207Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "c7684ffd2ef0fea4",
+   "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
+   "url": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
+   "summary": "An unreleased OpenAI cyber model found and exploited 948 distinct Linux kernel privilege escalation bugs for about $1.2 million. The post AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-05T17:32:37.000Z",
+   "categories": [
+    "vuln",
+    "ai"
+   ],
+   "firstSeen": "2026-11-05T17:39:54.207Z"
+  },
+  {
+   "id": "10b06a67659854da",
+   "title": "SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era",
+   "url": "https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era",
+   "summary": "The ungated resource explains how security data pipelines reduce SIEM ingestion costs, preserve detection coverage, and prepare the data layer for AI-driven security operations.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-05T16:48:36.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-05T17:39:54.207Z"
+  },
   {
    "id": "a171d748c3cae587",
    "title": "Hackers backdoor Linux servers using trojanized CWP web server",
@@ -2940,35 +2969,6 @@
    "categories": [
     "vuln",
     "malware",
-    "attack"
-   ],
-   "firstSeen": "2026-10-29T08:30:00.000Z"
-  },
-  {
-   "id": "2898c69209701724",
-   "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause",
-   "url": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy",
-   "summary": "Researchers can't quite explain why cyber threats look so different in Italy compared with everywhere else.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-29T08:00:00.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "48f467fc9990539a",
-   "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
-   "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a China-nexus threat actor known as…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-29T06:22:33.000Z",
-   "categories": [
-    "vuln",
     "attack"
    ],
    "firstSeen": "2026-10-29T08:30:00.000Z"
