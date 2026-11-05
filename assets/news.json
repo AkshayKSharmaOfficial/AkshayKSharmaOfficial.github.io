@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-05T08:57:50.085Z",
- "lastAttempt": "2026-11-05T08:57:50.085Z",
+ "lastSuccess": "2026-11-05T09:58:36.455Z",
+ "lastAttempt": "2026-11-05T09:58:36.455Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T08:57:50.085Z",
-   "lastSuccess": "2026-11-05T08:57:50.085Z",
+   "checkedAt": "2026-11-05T09:58:36.455Z",
+   "lastSuccess": "2026-11-05T09:58:36.455Z",
    "etag": null,
-   "lastModified": "Thu, 5 Nov 2026 08:21:21 GMT"
+   "lastModified": "Thu, 5 Nov 2026 09:33:21 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T08:57:50.085Z",
-   "lastSuccess": "2026-11-05T08:57:50.085Z",
-   "etag": "8bd6ea03349b23d447aba11bdc1217f7",
-   "lastModified": "Thu, 05 Nov 2026 08:55:36 GMT"
+   "checkedAt": "2026-11-05T09:58:36.455Z",
+   "lastSuccess": "2026-11-05T09:58:36.455Z",
+   "etag": "cf7e0594d8044ffc7e4bead1eb520665",
+   "lastModified": "Thu, 05 Nov 2026 09:50:25 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T08:57:50.085Z",
-   "lastSuccess": "2026-11-05T08:57:50.085Z",
+   "checkedAt": "2026-11-05T09:58:36.455Z",
+   "lastSuccess": "2026-11-05T09:58:36.455Z",
    "etag": null,
    "lastModified": "Thu, 05 Nov 2026 08:44:12 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T08:57:50.085Z",
-   "lastSuccess": "2026-11-05T08:57:50.085Z",
+   "checkedAt": "2026-11-05T09:58:36.455Z",
+   "lastSuccess": "2026-11-05T09:58:36.455Z",
    "etag": "\"e4e26507dac00a5ed8d851f84a1e4958\"",
    "lastModified": "Wed, 04 Nov 2026 17:56:45 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T08:57:50.085Z",
-   "lastSuccess": "2026-11-05T08:57:50.085Z",
+   "checkedAt": "2026-11-05T09:58:36.455Z",
+   "lastSuccess": "2026-11-05T09:58:36.455Z",
    "etag": null,
-   "lastModified": "Thu, 05 Nov 2026 08:57:50 GMT"
+   "lastModified": "Thu, 05 Nov 2026 09:58:36 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,57 @@
    "count": 0,
    "rejected": 0,
    "error": "HTTP 403",
-   "checkedAt": "2026-11-05T08:57:50.085Z",
+   "checkedAt": "2026-11-05T09:58:36.455Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "6825fbff57c870af",
+   "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+   "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
+   "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-05T09:18:29.000Z",
+   "categories": [
+    "vuln",
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-05T09:58:36.455Z"
+  },
+  {
+   "id": "51d9a5c499abff0e",
+   "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
+   "url": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
+   "summary": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users share iCloud content, such as photos in iCloud Photos or files…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-05T09:13:28.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-05T09:58:36.455Z"
+  },
+  {
+   "id": "9fb3d806b5214e2e",
+   "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+   "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+   "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country. Describing the…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-05T08:42:03.000Z",
+   "categories": [
+    "ai",
+    "attack",
+    "india"
+   ],
+   "firstSeen": "2026-11-05T09:58:36.455Z"
+  },
   {
    "id": "d2b8633e1a6f94d6",
    "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
@@ -2926,51 +2970,6 @@
    "published": "2026-10-28T11:15:51.000Z",
    "categories": [
     "vuln"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "2e5063d5ddc42334",
-   "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
-   "url": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
-   "summary": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to gain access to corporate accounts while leaving fewer…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-28T10:30:00.000Z",
-   "categories": [
-    "phishing",
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "afdd42ad1ea0fdaf",
-   "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
-   "url": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
-   "summary": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-10-28T09:43:15.000Z",
-   "categories": [
-    "ransomware",
-    "attack"
-   ],
-   "firstSeen": "2026-10-29T08:30:00.000Z"
-  },
-  {
-   "id": "dd9aab4f2b42a45e",
-   "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
-   "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
-   "summary": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report. The exploits were built in the lab after the model was prompted, not seen in any…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-28T08:15:07.000Z",
-   "categories": [
-    "vuln",
-    "ai"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
   }
