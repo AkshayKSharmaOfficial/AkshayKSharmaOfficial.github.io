@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-05T11:56:39.021Z",
- "lastAttempt": "2026-11-05T11:56:39.021Z",
+ "lastSuccess": "2026-11-05T13:00:27.812Z",
+ "lastAttempt": "2026-11-05T13:00:27.812Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T11:56:39.021Z",
-   "lastSuccess": "2026-11-05T11:56:39.021Z",
+   "checkedAt": "2026-11-05T13:00:27.812Z",
+   "lastSuccess": "2026-11-05T13:00:27.812Z",
    "etag": null,
-   "lastModified": "Thu, 5 Nov 2026 10:48:14 GMT"
+   "lastModified": "Thu, 5 Nov 2026 12:12:30 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T11:56:39.021Z",
-   "lastSuccess": "2026-11-05T11:56:39.021Z",
-   "etag": "dcceaa579d92bba6cd100288d040346a",
-   "lastModified": "Thu, 05 Nov 2026 11:47:33 GMT"
+   "checkedAt": "2026-11-05T13:00:27.812Z",
+   "lastSuccess": "2026-11-05T13:00:27.812Z",
+   "etag": "e8c3427e926dec869d2a3ec965825d3a",
+   "lastModified": "Thu, 05 Nov 2026 12:59:53 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T11:56:39.021Z",
-   "lastSuccess": "2026-11-05T11:56:39.021Z",
+   "checkedAt": "2026-11-05T13:00:27.812Z",
+   "lastSuccess": "2026-11-05T13:00:27.812Z",
    "etag": null,
-   "lastModified": "Thu, 05 Nov 2026 11:45:38 GMT"
+   "lastModified": "Thu, 05 Nov 2026 12:49:04 GMT"
   },
   {
    "id": "securityweek",
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T11:56:39.021Z",
-   "lastSuccess": "2026-11-05T11:56:39.021Z",
-   "etag": "\"b8733489e3628fa9b08098e83a39922f\"",
-   "lastModified": "Thu, 05 Nov 2026 11:00:00 GMT"
+   "checkedAt": "2026-11-05T13:00:27.812Z",
+   "lastSuccess": "2026-11-05T13:00:27.812Z",
+   "etag": "\"609843d290137d5c9f4ccc5ca23d0436\"",
+   "lastModified": "Thu, 05 Nov 2026 12:33:54 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T11:56:39.021Z",
-   "lastSuccess": "2026-11-05T11:56:39.021Z",
+   "checkedAt": "2026-11-05T13:00:27.812Z",
+   "lastSuccess": "2026-11-05T13:00:27.812Z",
    "etag": null,
-   "lastModified": "Thu, 05 Nov 2026 11:56:40 GMT"
+   "lastModified": "Thu, 05 Nov 2026 13:00:28 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,56 @@
    "count": 0,
    "rejected": 0,
    "error": "HTTP 403",
-   "checkedAt": "2026-11-05T11:56:39.021Z",
+   "checkedAt": "2026-11-05T13:00:27.812Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "852989f1750e5329",
+   "title": "Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws",
+   "url": "https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/",
+   "summary": "Cisco patched an RCE in UCS Central Software; WatchGuard fixed authentication and MitM flaws. The post Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-05T12:33:49.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-05T13:00:27.812Z"
+  },
+  {
+   "id": "c7e59b0d46842b63",
+   "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+   "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+   "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-05T12:08:54.000Z",
+   "categories": [
+    "vuln",
+    "ai"
+   ],
+   "firstSeen": "2026-11-05T05:30:08.849Z"
+  },
+  {
+   "id": "8f1a9cf52f58cf09",
+   "title": "The Agent Smith Dilemma: Governing Agentic Identities",
+   "url": "https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/",
+   "summary": "Every autonomous AI agent deployed across your enterprise today is a new proxy identity operating inside your perimeter. The post The Agent Smith Dilemma: Governing Agentic Identities appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-05T11:15:00.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-05T13:00:27.812Z"
+  },
   {
    "id": "3f7c6c9428a5a728",
    "title": "CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality",
@@ -236,21 +279,6 @@
    "kind": "media",
    "published": "2026-11-05T04:36:17.000Z",
    "categories": [],
-   "firstSeen": "2026-11-05T05:30:08.849Z"
-  },
-  {
-   "id": "c7e59b0d46842b63",
-   "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-   "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-   "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-05T04:31:16.000Z",
-   "categories": [
-    "vuln",
-    "ai"
-   ],
    "firstSeen": "2026-11-05T05:30:08.849Z"
   },
   {
@@ -2939,37 +2967,6 @@
    "published": "2026-10-28T16:23:34.000Z",
    "categories": [
     "vuln"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "257599f0048efc91",
-   "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
-   "url": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
-   "summary": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed systems. The activity, which was…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-28T16:02:45.000Z",
-   "categories": [
-    "breach",
-    "vuln",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "2e986792758dfa13",
-   "title": "AI Takes Root in Hospital Corridors, Raises Security Stakes",
-   "url": "https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes",
-   "summary": "Artificial intelligence is everywhere in healthcare, from doctors' intake forms to cancer screenings. But in some cases, life-and-death uses are outpacing cybersecurity.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-28T15:29:06.000Z",
-   "categories": [
-    "ai"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
   }
