@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-05T18:26:53.076Z",
- "lastAttempt": "2026-11-05T18:26:53.076Z",
+ "lastSuccess": "2026-11-05T19:27:45.323Z",
+ "lastAttempt": "2026-11-05T19:27:45.323Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T18:26:53.076Z",
-   "lastSuccess": "2026-11-05T18:26:53.076Z",
+   "checkedAt": "2026-11-05T19:27:45.323Z",
+   "lastSuccess": "2026-11-05T19:27:45.323Z",
    "etag": null,
    "lastModified": "Thu, 5 Nov 2026 15:25:24 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T18:26:53.076Z",
-   "lastSuccess": "2026-11-05T18:26:53.076Z",
-   "etag": "148cdd51fb03202872db45aeacb0faa8",
-   "lastModified": "Thu, 05 Nov 2026 18:24:58 GMT"
+   "checkedAt": "2026-11-05T19:27:45.323Z",
+   "lastSuccess": "2026-11-05T19:27:45.323Z",
+   "etag": "84c2f601a81473b9b30d2e65a8f59973",
+   "lastModified": "Thu, 05 Nov 2026 19:24:26 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T18:26:53.076Z",
-   "lastSuccess": "2026-11-05T18:26:53.076Z",
+   "checkedAt": "2026-11-05T19:27:45.323Z",
+   "lastSuccess": "2026-11-05T19:27:45.323Z",
    "etag": null,
-   "lastModified": "Thu, 05 Nov 2026 18:20:46 GMT"
+   "lastModified": "Thu, 05 Nov 2026 19:22:25 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T18:26:53.076Z",
-   "lastSuccess": "2026-11-05T18:26:53.076Z",
+   "checkedAt": "2026-11-05T19:27:45.323Z",
+   "lastSuccess": "2026-11-05T19:27:45.323Z",
    "etag": "W/\"6223767466247aa239f950e8d229ad63\"",
    "lastModified": "Thu, 05 Nov 2026 17:32:42 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T18:26:53.076Z",
-   "lastSuccess": "2026-11-05T18:26:53.076Z",
+   "checkedAt": "2026-11-05T19:27:45.323Z",
+   "lastSuccess": "2026-11-05T19:27:45.323Z",
    "etag": null,
-   "lastModified": "Thu, 05 Nov 2026 18:26:53 GMT"
+   "lastModified": "Thu, 05 Nov 2026 19:27:45 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 0,
    "rejected": 0,
    "error": "HTTP 403",
-   "checkedAt": "2026-11-05T18:26:53.076Z",
+   "checkedAt": "2026-11-05T19:27:45.323Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "02cba505dce1d64e",
+   "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
+   "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
+   "summary": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-05T19:24:26.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-05T19:27:45.323Z"
+  },
   {
    "id": "3d2efa777c4ed403",
    "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
@@ -2954,21 +2968,6 @@
    "published": "2026-10-29T10:00:00.000Z",
    "categories": [
     "ai"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "b36cbddd30558fea",
-   "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
-   "url": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
-   "summary": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October. The flaw, CVE-2026-97229 (CVSS score: 10.0), can let an attacker run code on a GitLab server through…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-29T09:05:39.000Z",
-   "categories": [
-    "vuln",
-    "attack"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
   }
