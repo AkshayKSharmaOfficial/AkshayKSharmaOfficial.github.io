@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-05T11:00:01.753Z",
- "lastAttempt": "2026-11-05T11:00:01.753Z",
+ "lastSuccess": "2026-11-05T11:56:39.021Z",
+ "lastAttempt": "2026-11-05T11:56:39.021Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T11:00:01.753Z",
-   "lastSuccess": "2026-11-05T11:00:01.753Z",
+   "checkedAt": "2026-11-05T11:56:39.021Z",
+   "lastSuccess": "2026-11-05T11:56:39.021Z",
    "etag": null,
    "lastModified": "Thu, 5 Nov 2026 10:48:14 GMT"
   },
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T11:00:01.753Z",
-   "lastSuccess": "2026-11-05T11:00:01.753Z",
-   "etag": "a8b6c42369305a81e0c9834b3c5bd6c2",
-   "lastModified": "Thu, 05 Nov 2026 10:57:32 GMT"
+   "checkedAt": "2026-11-05T11:56:39.021Z",
+   "lastSuccess": "2026-11-05T11:56:39.021Z",
+   "etag": "dcceaa579d92bba6cd100288d040346a",
+   "lastModified": "Thu, 05 Nov 2026 11:47:33 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T11:00:01.753Z",
-   "lastSuccess": "2026-11-05T11:00:01.753Z",
+   "checkedAt": "2026-11-05T11:56:39.021Z",
+   "lastSuccess": "2026-11-05T11:56:39.021Z",
    "etag": null,
-   "lastModified": "Thu, 05 Nov 2026 08:44:12 GMT"
+   "lastModified": "Thu, 05 Nov 2026 11:45:38 GMT"
   },
   {
    "id": "securityweek",
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T11:00:01.753Z",
-   "lastSuccess": "2026-11-05T11:00:01.753Z",
-   "etag": "W/\"ef3a874683cd41f4647bfb51e8e29336\"",
-   "lastModified": "Thu, 05 Nov 2026 10:56:45 GMT"
+   "checkedAt": "2026-11-05T11:56:39.021Z",
+   "lastSuccess": "2026-11-05T11:56:39.021Z",
+   "etag": "\"b8733489e3628fa9b08098e83a39922f\"",
+   "lastModified": "Thu, 05 Nov 2026 11:00:00 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T11:00:01.753Z",
-   "lastSuccess": "2026-11-05T11:00:01.753Z",
+   "checkedAt": "2026-11-05T11:56:39.021Z",
+   "lastSuccess": "2026-11-05T11:56:39.021Z",
    "etag": null,
-   "lastModified": "Thu, 05 Nov 2026 11:00:04 GMT"
+   "lastModified": "Thu, 05 Nov 2026 11:56:40 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "HTTP 403",
-   "checkedAt": "2026-11-05T11:00:01.753Z",
+   "checkedAt": "2026-11-05T11:56:39.021Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "3f7c6c9428a5a728",
+   "title": "CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality",
+   "url": "https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/",
+   "summary": "Ryan Davis went from hacking his school’s network to running security at New Charter Technologies. What worries him now is shadow AI. The post CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-05T11:00:00.000Z",
+   "categories": [
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-05T11:56:39.021Z"
+  },
   {
    "id": "8c497df889d2832b",
    "title": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day",
@@ -2957,22 +2972,6 @@
     "ai"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "e1ee5b6890e52289",
-   "title": "Attacker Relentlessly Scans for Credentials by Impersonating AI Bots",
-   "url": "https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials",
-   "summary": "The threat actor lurked behind bots posing as agents from OpenAI, Anthropic, Meta, and others to find exposed data.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-28T14:37:52.000Z",
-   "categories": [
-    "breach",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-10-29T08:30:00.000Z"
   }
  ]
 }
