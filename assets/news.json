@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-05T04:27:33.256Z",
- "lastAttempt": "2026-11-05T04:27:33.256Z",
+ "lastSuccess": "2026-11-05T05:30:08.849Z",
+ "lastAttempt": "2026-11-05T05:30:08.849Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T04:27:33.256Z",
-   "lastSuccess": "2026-11-05T04:27:33.256Z",
+   "checkedAt": "2026-11-05T05:30:08.849Z",
+   "lastSuccess": "2026-11-05T05:30:08.849Z",
    "etag": null,
-   "lastModified": "Thu, 5 Nov 2026 02:19:21 GMT"
+   "lastModified": "Thu, 5 Nov 2026 05:04:39 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T04:27:33.256Z",
-   "lastSuccess": "2026-11-05T04:27:33.256Z",
-   "etag": "da622d9962371d1cd57b5377afb3e837",
-   "lastModified": "Thu, 05 Nov 2026 04:21:30 GMT"
+   "checkedAt": "2026-11-05T05:30:08.849Z",
+   "lastSuccess": "2026-11-05T05:30:08.849Z",
+   "etag": "e7e8aef61d19e3773fc09df802a60781",
+   "lastModified": "Thu, 05 Nov 2026 05:21:32 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T04:27:33.256Z",
-   "lastSuccess": "2026-11-05T04:27:33.256Z",
+   "checkedAt": "2026-11-05T05:30:08.849Z",
+   "lastSuccess": "2026-11-05T05:30:08.849Z",
    "etag": null,
-   "lastModified": "Thu, 05 Nov 2026 00:05:37 GMT"
+   "lastModified": "Thu, 05 Nov 2026 04:47:33 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T04:27:33.256Z",
-   "lastSuccess": "2026-11-05T04:27:33.256Z",
+   "checkedAt": "2026-11-05T05:30:08.849Z",
+   "lastSuccess": "2026-11-05T05:30:08.849Z",
    "etag": "\"e4e26507dac00a5ed8d851f84a1e4958\"",
    "lastModified": "Wed, 04 Nov 2026 17:56:45 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T04:27:33.256Z",
-   "lastSuccess": "2026-11-05T04:27:33.256Z",
+   "checkedAt": "2026-11-05T05:30:08.849Z",
+   "lastSuccess": "2026-11-05T05:30:08.849Z",
    "etag": null,
-   "lastModified": "Thu, 05 Nov 2026 04:27:33 GMT"
+   "lastModified": "Thu, 05 Nov 2026 05:30:09 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,40 @@
    "count": 0,
    "rejected": 0,
    "error": "HTTP 403",
-   "checkedAt": "2026-11-05T04:27:33.256Z",
+   "checkedAt": "2026-11-05T05:30:08.849Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "1a337c0792b44b25",
+   "title": "Want to Rent an Internet Address at the White House?",
+   "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+   "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web…",
+   "source": "KrebsOnSecurity",
+   "sourceId": "krebs",
+   "kind": "media",
+   "published": "2026-11-05T04:36:17.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-05T05:30:08.849Z"
+  },
+  {
+   "id": "c7e59b0d46842b63",
+   "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+   "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+   "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-05T04:31:16.000Z",
+   "categories": [
+    "vuln",
+    "ai"
+   ],
+   "firstSeen": "2026-11-05T05:30:08.849Z"
+  },
   {
    "id": "468b20361a18f4a6",
    "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
@@ -283,7 +310,7 @@
    "id": "f4b7ff866caa5870",
    "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
    "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-   "summary": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker…",
+   "summary": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO…",
    "source": "The Hacker News",
    "sourceId": "thn",
    "kind": "media",
@@ -2944,32 +2971,6 @@
     "attack"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "7a7698ae8addf20c",
-   "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature",
-   "url": "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature",
-   "summary": "Interpol's annual Operation Serengeti, now in its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-28T06:00:00.000Z",
-   "categories": [],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "dd348176a25551a9",
-   "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
-   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
-   "summary": "OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-10-27T22:43:27.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-10-29T08:30:00.000Z"
   }
  ]
 }
