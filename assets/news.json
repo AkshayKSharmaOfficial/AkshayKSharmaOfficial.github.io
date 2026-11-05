@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-05T21:16:05.121Z",
- "lastAttempt": "2026-11-05T21:16:05.121Z",
+ "lastSuccess": "2026-11-05T22:17:05.936Z",
+ "lastAttempt": "2026-11-05T22:17:05.936Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T21:16:05.121Z",
-   "lastSuccess": "2026-11-05T21:16:05.121Z",
+   "checkedAt": "2026-11-05T22:17:05.936Z",
+   "lastSuccess": "2026-11-05T22:17:05.936Z",
    "etag": null,
-   "lastModified": "Thu, 5 Nov 2026 15:25:24 GMT"
+   "lastModified": "Thu, 5 Nov 2026 21:29:43 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T21:16:05.121Z",
-   "lastSuccess": "2026-11-05T21:16:05.121Z",
-   "etag": "c64d6b9a7be5a873cd1dd6cc93d73f64",
-   "lastModified": "Thu, 05 Nov 2026 21:11:14 GMT"
+   "checkedAt": "2026-11-05T22:17:05.936Z",
+   "lastSuccess": "2026-11-05T22:17:05.936Z",
+   "etag": "410981bf5b8fd5e03d21ef08b7d70965",
+   "lastModified": "Thu, 05 Nov 2026 22:10:33 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T21:16:05.121Z",
-   "lastSuccess": "2026-11-05T21:16:05.121Z",
+   "checkedAt": "2026-11-05T22:17:05.936Z",
+   "lastSuccess": "2026-11-05T22:17:05.936Z",
    "etag": null,
    "lastModified": "Thu, 05 Nov 2026 20:59:30 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T21:16:05.121Z",
-   "lastSuccess": "2026-11-05T21:16:05.121Z",
+   "checkedAt": "2026-11-05T22:17:05.936Z",
+   "lastSuccess": "2026-11-05T22:17:05.936Z",
    "etag": "W/\"6223767466247aa239f950e8d229ad63\"",
    "lastModified": "Thu, 05 Nov 2026 17:32:42 GMT"
   },
@@ -58,25 +58,70 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T21:16:05.121Z",
-   "lastSuccess": "2026-11-05T21:16:05.121Z",
+   "checkedAt": "2026-11-05T22:17:05.936Z",
+   "lastSuccess": "2026-11-05T22:17:05.936Z",
    "etag": null,
-   "lastModified": "Thu, 05 Nov 2026 21:16:05 GMT"
+   "lastModified": "Thu, 05 Nov 2026 22:17:06 GMT"
   },
   {
    "id": "cisa",
    "name": "CISA Cybersecurity Advisories",
-   "ok": false,
-   "count": 0,
+   "ok": true,
+   "count": 30,
    "rejected": 0,
-   "error": "HTTP 403",
-   "checkedAt": "2026-11-05T21:16:05.121Z",
-   "lastSuccess": null,
+   "error": null,
+   "checkedAt": "2026-11-05T22:17:05.936Z",
+   "lastSuccess": "2026-11-05T22:17:05.936Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "31381108dc8e2256",
+   "title": "US Government Email Systems Open to Abuse Thanks to Typos",
+   "url": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
+   "summary": "Erroneous or outdated DNS records can give attackers surprising powers over organizations' email systems.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-05T21:35:05.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-05T22:17:05.936Z"
+  },
+  {
+   "id": "0792a0829b75846b",
+   "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+   "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+   "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-05T21:30:30.000Z",
+   "categories": [
+    "phishing",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-05T22:17:05.936Z"
+  },
+  {
+   "id": "395fba3131666a74",
+   "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
+   "url": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
+   "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-05T21:00:47.000Z",
+   "categories": [
+    "phishing",
+    "attack"
+   ],
+   "firstSeen": "2026-11-05T22:17:05.936Z"
+  },
   {
    "id": "52f5dccff3a6d143",
    "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
@@ -160,6 +205,37 @@
     "ai"
    ],
    "firstSeen": "2026-11-05T17:39:54.207Z"
+  },
+  {
+   "id": "90a9e74aa19bf7e0",
+   "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+   "url": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+   "summary": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password between 257 and 1,024 bytes long. OpenSSH…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-05T16:42:46.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-05T22:17:05.936Z"
+  },
+  {
+   "id": "dd9d10ec61939a97",
+   "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+   "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+   "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-05T16:42:32.000Z",
+   "categories": [
+    "breach",
+    "vuln",
+    "ai"
+   ],
+   "firstSeen": "2026-11-05T22:17:05.936Z"
   },
   {
    "id": "a171d748c3cae587",
@@ -291,6 +367,34 @@
     "ai"
    ],
    "firstSeen": "2026-11-05T05:30:08.849Z"
+  },
+  {
+   "id": "5889c81bf93c9d68",
+   "title": "Post-Quantum Questions to Ask Your Vendors",
+   "url": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
+   "summary": "CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness for transitioning to post-quantum…",
+   "source": "CISA (US government)",
+   "sourceId": "cisa",
+   "kind": "official",
+   "published": "2026-11-05T12:00:00.000Z",
+   "categories": [
+    "advisory"
+   ],
+   "firstSeen": "2026-11-05T22:17:05.936Z"
+  },
+  {
+   "id": "890eff173762f513",
+   "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
+   "url": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
+   "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring…",
+   "source": "CISA (US government)",
+   "sourceId": "cisa",
+   "kind": "official",
+   "published": "2026-11-05T12:00:00.000Z",
+   "categories": [
+    "advisory"
+   ],
+   "firstSeen": "2026-11-05T22:17:05.936Z"
   },
   {
    "id": "8f1a9cf52f58cf09",
@@ -797,6 +901,22 @@
     "attack"
    ],
    "firstSeen": "2026-11-04T12:30:36.017Z"
+  },
+  {
+   "id": "1eba5135d8c802ad",
+   "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+   "url": "https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog",
+   "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-27834 Apple Multiple Products Improper Authentication Vulnerability This type of vulnerability is a frequent attack vector for…",
+   "source": "CISA (US government)",
+   "sourceId": "cisa",
+   "kind": "official",
+   "published": "2026-11-04T12:00:00.000Z",
+   "categories": [
+    "advisory",
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-05T22:17:05.936Z"
   },
   {
    "id": "a60c29c498ad06a8",
@@ -1347,6 +1467,22 @@
     "vuln"
    ],
    "firstSeen": "2026-11-03T12:36:28.295Z"
+  },
+  {
+   "id": "3d17c5f194760d87",
+   "title": "Subnet Solutions PowerSYSTEM Center",
+   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-307-01",
+   "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute unauthorized SQL commands and gain access to unauthorized resources. The following versions of Subnet Solutions PowerSYSTEM Center are affected: PowerSYSTEM Center 2020 =5.29.x…",
+   "source": "CISA (US government)",
+   "sourceId": "cisa",
+   "kind": "official",
+   "published": "2026-11-03T12:00:00.000Z",
+   "categories": [
+    "advisory",
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-05T22:17:05.936Z"
   },
   {
    "id": "b84cad2a2e67203e",
@@ -2529,6 +2665,21 @@
    "firstSeen": "2026-10-31T17:20:17.242Z"
   },
   {
+   "id": "e96f50097ecf77aa",
+   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+   "url": "https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+   "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability CVE-2026-118527 Ivanti Connect Secure…",
+   "source": "CISA (US government)",
+   "sourceId": "cisa",
+   "kind": "official",
+   "published": "2026-10-30T12:00:00.000Z",
+   "categories": [
+    "advisory",
+    "vuln"
+   ],
+   "firstSeen": "2026-11-05T22:17:05.936Z"
+  },
+  {
    "id": "67deeb1099f33e56",
    "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
    "url": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
@@ -2824,150 +2975,6 @@
    "categories": [
     "vuln",
     "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "984c4be68c94323b",
-   "title": "Claude Model Builds Exploits Across Major Browsers & OSes",
-   "url": "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
-   "summary": "An unreleased version of the AI model has found and chained multiple vulnerabilities in Chrome, Safari, Android, Windows, and Linux, Anthropic says.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-29T18:15:59.000Z",
-   "categories": [
-    "vuln",
-    "ai"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "1be6a1df25ca72b4",
-   "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-   "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
-   "summary": "A flaw in the Linux kernel's TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale. Anthropic said on October 27 that its AI model wrote an exploit…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-29T15:57:05.000Z",
-   "categories": [
-    "vuln",
-    "ai"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "5315e22d8becf2e0",
-   "title": "Threat Modeling With 4 Simple Questions on a White Board",
-   "url": "https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions",
-   "summary": "A four-question exercise that CISOs can use to create a threat model that promises results, without a big spend.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-29T15:44:04.000Z",
-   "categories": [],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "d9e7c9ddc0eb7fb8",
-   "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
-   "url": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
-   "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba. The activity involves creating fake GitHub projects that…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-29T15:20:29.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "17b1ed18b9db9df1",
-   "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
-   "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
-   "summary": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows significant gains across coding and agentic tasks as well as across key capabilities critical for cybersecurity…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-29T13:42:40.000Z",
-   "categories": [
-    "vuln",
-    "ai"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "89ba8a41a1ee0be0",
-   "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
-   "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-   "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through weaknesses faster than…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-29T11:39:41.000Z",
-   "categories": [
-    "vuln",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "b35772fb4a040698",
-   "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
-   "url": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
-   "summary": "A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. Telegram fixed the flaw in…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-29T11:39:18.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "ff04f1caf15467be",
-   "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
-   "url": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
-   "summary": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing response actions are becoming tasks that AI systems can perform on their own. As…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-29T11:33:41.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "026f7c77fb5eab48",
-   "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
-   "url": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
-   "summary": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it. Independent researcher Ben Zimmermann found them by scanning 7.25 million public…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-29T11:33:15.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "7d482c1bcf9fa313",
-   "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
-   "url": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
-   "summary": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-76418, is…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-29T10:44:46.000Z",
-   "categories": [
-    "vuln"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
   }
