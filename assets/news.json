@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-05T20:19:03.544Z",
- "lastAttempt": "2026-11-05T20:19:03.544Z",
+ "lastSuccess": "2026-11-05T21:16:05.121Z",
+ "lastAttempt": "2026-11-05T21:16:05.121Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T20:19:03.544Z",
-   "lastSuccess": "2026-11-05T20:19:03.544Z",
+   "checkedAt": "2026-11-05T21:16:05.121Z",
+   "lastSuccess": "2026-11-05T21:16:05.121Z",
    "etag": null,
    "lastModified": "Thu, 5 Nov 2026 15:25:24 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T20:19:03.544Z",
-   "lastSuccess": "2026-11-05T20:19:03.544Z",
-   "etag": "5d75b335b9ffd03f998feccefdd06158",
-   "lastModified": "Thu, 05 Nov 2026 20:15:09 GMT"
+   "checkedAt": "2026-11-05T21:16:05.121Z",
+   "lastSuccess": "2026-11-05T21:16:05.121Z",
+   "etag": "c64d6b9a7be5a873cd1dd6cc93d73f64",
+   "lastModified": "Thu, 05 Nov 2026 21:11:14 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T20:19:03.544Z",
-   "lastSuccess": "2026-11-05T20:19:03.544Z",
+   "checkedAt": "2026-11-05T21:16:05.121Z",
+   "lastSuccess": "2026-11-05T21:16:05.121Z",
    "etag": null,
-   "lastModified": "Thu, 05 Nov 2026 20:10:54 GMT"
+   "lastModified": "Thu, 05 Nov 2026 20:59:30 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T20:19:03.544Z",
-   "lastSuccess": "2026-11-05T20:19:03.544Z",
+   "checkedAt": "2026-11-05T21:16:05.121Z",
+   "lastSuccess": "2026-11-05T21:16:05.121Z",
    "etag": "W/\"6223767466247aa239f950e8d229ad63\"",
    "lastModified": "Thu, 05 Nov 2026 17:32:42 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T20:19:03.544Z",
-   "lastSuccess": "2026-11-05T20:19:03.544Z",
+   "checkedAt": "2026-11-05T21:16:05.121Z",
+   "lastSuccess": "2026-11-05T21:16:05.121Z",
    "etag": null,
-   "lastModified": "Thu, 05 Nov 2026 20:19:03 GMT"
+   "lastModified": "Thu, 05 Nov 2026 21:16:05 GMT"
   },
   {
    "id": "cisa",
@@ -70,7 +70,7 @@
    "count": 0,
    "rejected": 0,
    "error": "HTTP 403",
-   "checkedAt": "2026-11-05T20:19:03.544Z",
+   "checkedAt": "2026-11-05T21:16:05.121Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
@@ -79,7 +79,7 @@
  "articles": [
   {
    "id": "52f5dccff3a6d143",
-   "title": "Truffle Security launches program to revoke 1.4 million live secrets",
+   "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
    "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
    "summary": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
    "source": "BleepingComputer",
@@ -87,6 +87,20 @@
    "kind": "media",
    "published": "2026-11-05T20:15:08.000Z",
    "categories": [],
+   "firstSeen": "2026-11-05T20:19:03.544Z"
+  },
+  {
+   "id": "e2dbb7a12bc75083",
+   "title": "APT29's Watering Holes Target Thousands of Mobile Users",
+   "url": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
+   "summary": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-05T20:05:39.000Z",
+   "categories": [
+    "attack"
+   ],
    "firstSeen": "2026-11-05T20:19:03.544Z"
   },
   {
@@ -102,20 +116,6 @@
     "ai"
    ],
    "firstSeen": "2026-11-05T19:27:45.323Z"
-  },
-  {
-   "id": "e2dbb7a12bc75083",
-   "title": "APT29's Watering Holes Target Thousands of Mobile Users",
-   "url": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
-   "summary": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-05T18:08:31.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-05T20:19:03.544Z"
   },
   {
    "id": "3d2efa777c4ed403",
