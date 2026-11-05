@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-05T09:58:36.455Z",
- "lastAttempt": "2026-11-05T09:58:36.455Z",
+ "lastSuccess": "2026-11-05T11:00:01.753Z",
+ "lastAttempt": "2026-11-05T11:00:01.753Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T09:58:36.455Z",
-   "lastSuccess": "2026-11-05T09:58:36.455Z",
+   "checkedAt": "2026-11-05T11:00:01.753Z",
+   "lastSuccess": "2026-11-05T11:00:01.753Z",
    "etag": null,
-   "lastModified": "Thu, 5 Nov 2026 09:33:21 GMT"
+   "lastModified": "Thu, 5 Nov 2026 10:48:14 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T09:58:36.455Z",
-   "lastSuccess": "2026-11-05T09:58:36.455Z",
-   "etag": "cf7e0594d8044ffc7e4bead1eb520665",
-   "lastModified": "Thu, 05 Nov 2026 09:50:25 GMT"
+   "checkedAt": "2026-11-05T11:00:01.753Z",
+   "lastSuccess": "2026-11-05T11:00:01.753Z",
+   "etag": "a8b6c42369305a81e0c9834b3c5bd6c2",
+   "lastModified": "Thu, 05 Nov 2026 10:57:32 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T09:58:36.455Z",
-   "lastSuccess": "2026-11-05T09:58:36.455Z",
+   "checkedAt": "2026-11-05T11:00:01.753Z",
+   "lastSuccess": "2026-11-05T11:00:01.753Z",
    "etag": null,
    "lastModified": "Thu, 05 Nov 2026 08:44:12 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T09:58:36.455Z",
-   "lastSuccess": "2026-11-05T09:58:36.455Z",
-   "etag": "\"e4e26507dac00a5ed8d851f84a1e4958\"",
-   "lastModified": "Wed, 04 Nov 2026 17:56:45 GMT"
+   "checkedAt": "2026-11-05T11:00:01.753Z",
+   "lastSuccess": "2026-11-05T11:00:01.753Z",
+   "etag": "W/\"ef3a874683cd41f4647bfb51e8e29336\"",
+   "lastModified": "Thu, 05 Nov 2026 10:56:45 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T09:58:36.455Z",
-   "lastSuccess": "2026-11-05T09:58:36.455Z",
+   "checkedAt": "2026-11-05T11:00:01.753Z",
+   "lastSuccess": "2026-11-05T11:00:01.753Z",
    "etag": null,
-   "lastModified": "Thu, 05 Nov 2026 09:58:36 GMT"
+   "lastModified": "Thu, 05 Nov 2026 11:00:04 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,72 @@
    "count": 0,
    "rejected": 0,
    "error": "HTTP 403",
-   "checkedAt": "2026-11-05T09:58:36.455Z",
+   "checkedAt": "2026-11-05T11:00:01.753Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "8c497df889d2832b",
+   "title": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day",
+   "url": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/",
+   "summary": "Tracked as CVE-2026-107441, the out-of-bounds write flaw could allow attackers to execute OS commands via crafted HTTP requests. The post Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-05T10:56:41.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-05T11:00:01.753Z"
+  },
+  {
+   "id": "900751f07c83a490",
+   "title": "Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes",
+   "url": "https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/",
+   "summary": "The large-scale watering hole campaign has been targeting entities in the US and Europe, mainly in Ukraine. The post Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-05T10:37:13.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-05T11:00:01.753Z"
+  },
+  {
+   "id": "e5838da8e52e7046",
+   "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+   "url": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
+   "summary": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond individual security incidents…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-05T10:06:19.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-05T11:00:01.753Z"
+  },
+  {
+   "id": "d48d16eb01f6ef73",
+   "title": "OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks",
+   "url": "https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/",
+   "summary": "OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently. The post OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-05T10:02:00.000Z",
+   "categories": [
+    "vuln",
+    "ai"
+   ],
+   "firstSeen": "2026-11-05T11:00:01.753Z"
+  },
   {
    "id": "6825fbff57c870af",
    "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
@@ -2914,64 +2973,6 @@
     "attack"
    ],
    "firstSeen": "2026-10-29T08:30:00.000Z"
-  },
-  {
-   "id": "f83598082f121f26",
-   "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
-   "url": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
-   "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) , a case of improper authentication in the…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-28T12:48:03.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "9590ed7a40f8b7a4",
-   "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
-   "url": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
-   "summary": "A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the machine is booting over the network. UEFI firmware is the…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-28T11:50:00.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "be06f9a5da472d1c",
-   "title": "Wazuh and AI for Enhanced SOC Workflows",
-   "url": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
-   "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-28T11:30:00.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "d4f5d5baa8252d3b",
-   "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
-   "url": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
-   "summary": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation. The list of eight vulnerabilities is as follows…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-28T11:15:51.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
   }
  ]
 }
