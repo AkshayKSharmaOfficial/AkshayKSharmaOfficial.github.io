@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-05T13:00:27.812Z",
- "lastAttempt": "2026-11-05T13:00:27.812Z",
+ "lastSuccess": "2026-11-05T14:27:19.999Z",
+ "lastAttempt": "2026-11-05T14:27:19.999Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T13:00:27.812Z",
-   "lastSuccess": "2026-11-05T13:00:27.812Z",
+   "checkedAt": "2026-11-05T14:27:19.999Z",
+   "lastSuccess": "2026-11-05T14:27:19.999Z",
    "etag": null,
-   "lastModified": "Thu, 5 Nov 2026 12:12:30 GMT"
+   "lastModified": "Thu, 5 Nov 2026 13:39:14 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T13:00:27.812Z",
-   "lastSuccess": "2026-11-05T13:00:27.812Z",
-   "etag": "e8c3427e926dec869d2a3ec965825d3a",
-   "lastModified": "Thu, 05 Nov 2026 12:59:53 GMT"
+   "checkedAt": "2026-11-05T14:27:19.999Z",
+   "lastSuccess": "2026-11-05T14:27:19.999Z",
+   "etag": "bcaa405811ab538519ca375280862001",
+   "lastModified": "Thu, 05 Nov 2026 14:19:55 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T13:00:27.812Z",
-   "lastSuccess": "2026-11-05T13:00:27.812Z",
+   "checkedAt": "2026-11-05T14:27:19.999Z",
+   "lastSuccess": "2026-11-05T14:27:19.999Z",
    "etag": null,
    "lastModified": "Thu, 05 Nov 2026 12:49:04 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T13:00:27.812Z",
-   "lastSuccess": "2026-11-05T13:00:27.812Z",
-   "etag": "\"609843d290137d5c9f4ccc5ca23d0436\"",
-   "lastModified": "Thu, 05 Nov 2026 12:33:54 GMT"
+   "checkedAt": "2026-11-05T14:27:19.999Z",
+   "lastSuccess": "2026-11-05T14:27:19.999Z",
+   "etag": "\"51efe701cc40ee3e9849f2fa515a4fe3\"",
+   "lastModified": "Thu, 05 Nov 2026 13:25:57 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T13:00:27.812Z",
-   "lastSuccess": "2026-11-05T13:00:27.812Z",
+   "checkedAt": "2026-11-05T14:27:19.999Z",
+   "lastSuccess": "2026-11-05T14:27:19.999Z",
    "etag": null,
-   "lastModified": "Thu, 05 Nov 2026 13:00:28 GMT"
+   "lastModified": "Thu, 05 Nov 2026 14:27:20 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,41 @@
    "count": 0,
    "rejected": 0,
    "error": "HTTP 403",
-   "checkedAt": "2026-11-05T13:00:27.812Z",
+   "checkedAt": "2026-11-05T14:27:19.999Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "b609cb24272123d8",
+   "title": "Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns",
+   "url": "https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/",
+   "summary": "More than 200 sites were seen serving phishing content to first-time visitors but not to those who revisit. The post Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-05T13:22:12.000Z",
+   "categories": [
+    "phishing"
+   ],
+   "firstSeen": "2026-11-05T14:27:19.999Z"
+  },
+  {
+   "id": "e4ccf840a0db682c",
+   "title": "Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised",
+   "url": "https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/",
+   "summary": "The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up after they were remotely hacked. The post Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised appeared first on…",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-05T12:58:32.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-05T14:27:19.999Z"
+  },
   {
    "id": "852989f1750e5329",
    "title": "Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws",
@@ -90,6 +118,21 @@
     "vuln"
    ],
    "firstSeen": "2026-11-05T13:00:27.812Z"
+  },
+  {
+   "id": "1bd927d85a48e504",
+   "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+   "url": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
+   "summary": "A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who owns the system, whether attackers can…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-05T12:25:00.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-05T14:27:19.999Z"
   },
   {
    "id": "c7e59b0d46842b63",
@@ -2928,47 +2971,6 @@
     "attack"
    ],
    "firstSeen": "2026-10-29T08:30:00.000Z"
-  },
-  {
-   "id": "346aefdaad097d5a",
-   "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
-   "url": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
-   "summary": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background. To qualify, a store must pass identity checks and send Google its full catalog, along with…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-28T17:08:09.000Z",
-   "categories": [],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "63b1f5fefa794ced",
-   "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
-   "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
-   "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-10-28T16:45:47.000Z",
-   "categories": [
-    "breach",
-    "attack"
-   ],
-   "firstSeen": "2026-10-29T08:30:00.000Z"
-  },
-  {
-   "id": "4abc2dcf4334fae9",
-   "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
-   "url": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
-   "summary": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown. Orange Tsai of DEVCORE published the full method on October 28, five months after the…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-28T16:23:34.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
   }
  ]
 }
