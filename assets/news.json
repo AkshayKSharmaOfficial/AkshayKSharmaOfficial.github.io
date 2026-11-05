@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-05T05:30:08.849Z",
- "lastAttempt": "2026-11-05T05:30:08.849Z",
+ "lastSuccess": "2026-11-05T06:33:54.868Z",
+ "lastAttempt": "2026-11-05T06:33:54.868Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T05:30:08.849Z",
-   "lastSuccess": "2026-11-05T05:30:08.849Z",
+   "checkedAt": "2026-11-05T06:33:54.868Z",
+   "lastSuccess": "2026-11-05T06:33:54.868Z",
    "etag": null,
-   "lastModified": "Thu, 5 Nov 2026 05:04:39 GMT"
+   "lastModified": "Thu, 5 Nov 2026 06:11:05 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T05:30:08.849Z",
-   "lastSuccess": "2026-11-05T05:30:08.849Z",
-   "etag": "e7e8aef61d19e3773fc09df802a60781",
-   "lastModified": "Thu, 05 Nov 2026 05:21:32 GMT"
+   "checkedAt": "2026-11-05T06:33:54.868Z",
+   "lastSuccess": "2026-11-05T06:33:54.868Z",
+   "etag": "67546cdc9a7f3c64795af00d9d4d1ed8",
+   "lastModified": "Thu, 05 Nov 2026 06:25:32 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T05:30:08.849Z",
-   "lastSuccess": "2026-11-05T05:30:08.849Z",
+   "checkedAt": "2026-11-05T06:33:54.868Z",
+   "lastSuccess": "2026-11-05T06:33:54.868Z",
    "etag": null,
    "lastModified": "Thu, 05 Nov 2026 04:47:33 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T05:30:08.849Z",
-   "lastSuccess": "2026-11-05T05:30:08.849Z",
+   "checkedAt": "2026-11-05T06:33:54.868Z",
+   "lastSuccess": "2026-11-05T06:33:54.868Z",
    "etag": "\"e4e26507dac00a5ed8d851f84a1e4958\"",
    "lastModified": "Wed, 04 Nov 2026 17:56:45 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T05:30:08.849Z",
-   "lastSuccess": "2026-11-05T05:30:08.849Z",
+   "checkedAt": "2026-11-05T06:33:54.868Z",
+   "lastSuccess": "2026-11-05T06:33:54.868Z",
    "etag": null,
-   "lastModified": "Thu, 05 Nov 2026 05:30:09 GMT"
+   "lastModified": "Thu, 05 Nov 2026 06:33:55 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,29 @@
    "count": 0,
    "rejected": 0,
    "error": "HTTP 403",
-   "checkedAt": "2026-11-05T05:30:08.849Z",
+   "checkedAt": "2026-11-05T06:33:54.868Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "16bf85bfb533fefe",
+   "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability in…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-05T05:17:04.000Z",
+   "categories": [
+    "vuln",
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-05T06:33:54.868Z"
+  },
   {
    "id": "1a337c0792b44b25",
    "title": "Want to Rent an Internet Address at the White House?",
@@ -2953,21 +2969,6 @@
    "kind": "media",
    "published": "2026-10-28T07:37:50.000Z",
    "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "54629371f074818d",
-   "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
-   "url": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
-   "summary": "Japan's GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand. The reward program opened on October 28 and pays only if a tip helps lead to an…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-28T07:13:21.000Z",
-   "categories": [
-    "breach",
     "attack"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
