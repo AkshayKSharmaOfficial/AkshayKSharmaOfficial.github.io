@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-05T17:39:54.207Z",
- "lastAttempt": "2026-11-05T17:39:54.207Z",
+ "lastSuccess": "2026-11-05T18:26:53.076Z",
+ "lastAttempt": "2026-11-05T18:26:53.076Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T17:39:54.207Z",
-   "lastSuccess": "2026-11-05T17:39:54.207Z",
+   "checkedAt": "2026-11-05T18:26:53.076Z",
+   "lastSuccess": "2026-11-05T18:26:53.076Z",
    "etag": null,
    "lastModified": "Thu, 5 Nov 2026 15:25:24 GMT"
   },
@@ -22,32 +22,32 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T17:39:54.207Z",
-   "lastSuccess": "2026-11-05T17:39:54.207Z",
-   "etag": "0523e9324422cde13b2eb14511b44236",
-   "lastModified": "Thu, 05 Nov 2026 17:34:30 GMT"
+   "checkedAt": "2026-11-05T18:26:53.076Z",
+   "lastSuccess": "2026-11-05T18:26:53.076Z",
+   "etag": "148cdd51fb03202872db45aeacb0faa8",
+   "lastModified": "Thu, 05 Nov 2026 18:24:58 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T17:39:54.207Z",
-   "lastSuccess": "2026-11-05T17:39:54.207Z",
+   "checkedAt": "2026-11-05T18:26:53.076Z",
+   "lastSuccess": "2026-11-05T18:26:53.076Z",
    "etag": null,
-   "lastModified": "Thu, 05 Nov 2026 16:19:27 GMT"
+   "lastModified": "Thu, 05 Nov 2026 18:20:46 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T17:39:54.207Z",
-   "lastSuccess": "2026-11-05T17:39:54.207Z",
+   "checkedAt": "2026-11-05T18:26:53.076Z",
+   "lastSuccess": "2026-11-05T18:26:53.076Z",
    "etag": "W/\"6223767466247aa239f950e8d229ad63\"",
    "lastModified": "Thu, 05 Nov 2026 17:32:42 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T17:39:54.207Z",
-   "lastSuccess": "2026-11-05T17:39:54.207Z",
+   "checkedAt": "2026-11-05T18:26:53.076Z",
+   "lastSuccess": "2026-11-05T18:26:53.076Z",
    "etag": null,
-   "lastModified": "Thu, 05 Nov 2026 17:39:54 GMT"
+   "lastModified": "Thu, 05 Nov 2026 18:26:53 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "HTTP 403",
-   "checkedAt": "2026-11-05T17:39:54.207Z",
+   "checkedAt": "2026-11-05T18:26:53.076Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "3d2efa777c4ed403",
+   "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+   "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
+   "summary": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-05T17:45:29.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-05T18:26:53.076Z"
+  },
   {
    "id": "c7684ffd2ef0fea4",
    "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
@@ -2956,22 +2971,6 @@
     "attack"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "96402b0bba36a553",
-   "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
-   "url": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
-   "summary": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network. The malware, called KeyDrift, is designed to copy the keys that encrypt traffic between sites and store them for…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-29T08:24:22.000Z",
-   "categories": [
-    "vuln",
-    "malware",
-    "attack"
-   ],
-   "firstSeen": "2026-10-29T08:30:00.000Z"
   }
  ]
 }
