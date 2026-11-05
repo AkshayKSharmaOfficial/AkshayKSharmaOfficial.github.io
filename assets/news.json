@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-05T14:27:19.999Z",
- "lastAttempt": "2026-11-05T14:27:19.999Z",
+ "lastSuccess": "2026-11-05T15:27:11.681Z",
+ "lastAttempt": "2026-11-05T15:27:11.681Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T14:27:19.999Z",
-   "lastSuccess": "2026-11-05T14:27:19.999Z",
+   "checkedAt": "2026-11-05T15:27:11.681Z",
+   "lastSuccess": "2026-11-05T15:27:11.681Z",
    "etag": null,
-   "lastModified": "Thu, 5 Nov 2026 13:39:14 GMT"
+   "lastModified": "Thu, 5 Nov 2026 15:25:24 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T14:27:19.999Z",
-   "lastSuccess": "2026-11-05T14:27:19.999Z",
-   "etag": "bcaa405811ab538519ca375280862001",
-   "lastModified": "Thu, 05 Nov 2026 14:19:55 GMT"
+   "checkedAt": "2026-11-05T15:27:11.681Z",
+   "lastSuccess": "2026-11-05T15:27:11.681Z",
+   "etag": "707d48710c704037532c076e8e87c5c9",
+   "lastModified": "Thu, 05 Nov 2026 15:19:56 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T14:27:19.999Z",
-   "lastSuccess": "2026-11-05T14:27:19.999Z",
+   "checkedAt": "2026-11-05T15:27:11.681Z",
+   "lastSuccess": "2026-11-05T15:27:11.681Z",
    "etag": null,
    "lastModified": "Thu, 05 Nov 2026 12:49:04 GMT"
   },
@@ -43,11 +43,11 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T14:27:19.999Z",
-   "lastSuccess": "2026-11-05T14:27:19.999Z",
+   "checkedAt": "2026-11-05T15:27:11.681Z",
+   "lastSuccess": "2026-11-05T15:27:11.681Z",
    "etag": "\"51efe701cc40ee3e9849f2fa515a4fe3\"",
    "lastModified": "Thu, 05 Nov 2026 13:25:57 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T14:27:19.999Z",
-   "lastSuccess": "2026-11-05T14:27:19.999Z",
+   "checkedAt": "2026-11-05T15:27:11.681Z",
+   "lastSuccess": "2026-11-05T15:27:11.681Z",
    "etag": null,
-   "lastModified": "Thu, 05 Nov 2026 14:27:20 GMT"
+   "lastModified": "Thu, 05 Nov 2026 15:27:12 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,43 @@
    "count": 0,
    "rejected": 0,
    "error": "HTTP 403",
-   "checkedAt": "2026-11-05T14:27:19.999Z",
+   "checkedAt": "2026-11-05T15:27:11.681Z",
    "lastSuccess": null,
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "4ca0ae22a33ae9f7",
+   "title": "Closing the Identity Gap at the Service Desk",
+   "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
+   "summary": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can…",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-05T15:00:10.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-05T15:27:11.681Z"
+  },
+  {
+   "id": "7d3fdba5d29111d0",
+   "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+   "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+   "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new tools are helping find…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-05T14:41:10.000Z",
+   "categories": [
+    "breach",
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-05T15:27:11.681Z"
+  },
   {
    "id": "b609cb24272123d8",
    "title": "Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns",
@@ -2939,35 +2969,6 @@
    "kind": "media",
    "published": "2026-10-28T20:47:22.000Z",
    "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-10-29T08:30:00.000Z"
-  },
-  {
-   "id": "e835b6b88d327e3e",
-   "title": "GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub",
-   "url": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
-   "summary": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-28T19:39:00.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-10-29T08:30:00.000Z"
-  },
-  {
-   "id": "3402ef3be45eaaf5",
-   "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
-   "url": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
-   "summary": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic access. \"First identified in late 2023, Silent Train uses rotating…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-28T18:08:33.000Z",
-   "categories": [
-    "vuln",
     "attack"
    ],
    "firstSeen": "2026-10-29T08:30:00.000Z"
