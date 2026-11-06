@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-06T03:01:58.251Z",
- "lastAttempt": "2026-11-06T03:01:58.251Z",
+ "lastSuccess": "2026-11-06T04:04:12.857Z",
+ "lastAttempt": "2026-11-06T04:04:12.857Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T03:01:58.251Z",
-   "lastSuccess": "2026-11-06T03:01:58.251Z",
+   "checkedAt": "2026-11-06T04:04:12.857Z",
+   "lastSuccess": "2026-11-06T04:04:12.857Z",
    "etag": null,
-   "lastModified": "Fri, 6 Nov 2026 02:19:06 GMT"
+   "lastModified": "Fri, 6 Nov 2026 03:17:28 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T03:01:58.251Z",
-   "lastSuccess": "2026-11-06T03:01:58.251Z",
-   "etag": "5c1fe0f13d6ce569e86bd1cb4b6b16d4",
-   "lastModified": "Fri, 06 Nov 2026 02:57:25 GMT"
+   "checkedAt": "2026-11-06T04:04:12.857Z",
+   "lastSuccess": "2026-11-06T04:04:12.857Z",
+   "etag": "87475dd26af74bb2006f77437cb9ab05",
+   "lastModified": "Fri, 06 Nov 2026 03:57:26 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T03:01:58.251Z",
-   "lastSuccess": "2026-11-06T03:01:58.251Z",
+   "checkedAt": "2026-11-06T04:04:12.857Z",
+   "lastSuccess": "2026-11-06T04:04:12.857Z",
    "etag": null,
    "lastModified": "Fri, 06 Nov 2026 02:55:04 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T03:01:58.251Z",
-   "lastSuccess": "2026-11-06T03:01:58.251Z",
-   "etag": "W/\"6223767466247aa239f950e8d229ad63\"",
-   "lastModified": "Thu, 05 Nov 2026 17:32:42 GMT"
+   "checkedAt": "2026-11-06T04:04:12.857Z",
+   "lastSuccess": "2026-11-06T04:04:12.857Z",
+   "etag": "\"490807466bc11b1e6e6c42d18ecd9dbc\"",
+   "lastModified": "Fri, 06 Nov 2026 03:03:35 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T03:01:58.251Z",
-   "lastSuccess": "2026-11-06T03:01:58.251Z",
+   "checkedAt": "2026-11-06T04:04:12.857Z",
+   "lastSuccess": "2026-11-06T04:04:12.857Z",
    "etag": null,
-   "lastModified": "Fri, 06 Nov 2026 03:01:58 GMT"
+   "lastModified": "Fri, 06 Nov 2026 04:04:13 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T03:01:58.251Z",
-   "lastSuccess": "2026-11-06T03:01:58.251Z",
+   "checkedAt": "2026-11-06T04:04:12.857Z",
+   "lastSuccess": "2026-11-06T04:04:12.857Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "13aac5edda1f8218",
+   "title": "3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million",
+   "url": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
+   "summary": "The trio, who have nicknames that include “Rocky Balboa,” “Superman Cash” and “Fat Boy,” often targeted the companies’ accounting departments. The post 3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-06T03:03:29.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-06T04:04:12.857Z"
+  },
   {
    "id": "d342cd18f09ce42d",
    "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
@@ -2958,20 +2972,6 @@
    "sourceId": "darkreading",
    "kind": "media",
    "published": "2026-10-29T20:15:37.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "3263eb53782c9154",
-   "title": "Why CTF Competitions May Be More Important Than Ever",
-   "url": "https://www.darkreading.com/cybersecurity-operations/why-ctf-more-important-than-ever",
-   "summary": "As artificial intelligence squeezes early-career learning opportunities, capture-the-flag contests could be one way to help pick up the slack.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-29T19:56:44.000Z",
    "categories": [
     "ai"
    ],
