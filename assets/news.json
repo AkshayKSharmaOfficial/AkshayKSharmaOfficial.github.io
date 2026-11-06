@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-06T13:54:46.013Z",
- "lastAttempt": "2026-11-06T13:54:46.013Z",
+ "lastSuccess": "2026-11-06T14:49:54.178Z",
+ "lastAttempt": "2026-11-06T14:49:54.178Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T13:54:46.013Z",
-   "lastSuccess": "2026-11-06T13:54:46.013Z",
+   "checkedAt": "2026-11-06T14:49:54.178Z",
+   "lastSuccess": "2026-11-06T14:49:54.178Z",
    "etag": null,
-   "lastModified": "Fri, 6 Nov 2026 12:50:38 GMT"
+   "lastModified": "Fri, 6 Nov 2026 14:20:56 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T13:54:46.013Z",
-   "lastSuccess": "2026-11-06T13:54:46.013Z",
-   "etag": "c3590151bea6a64452cd4611ac2d5482",
-   "lastModified": "Fri, 06 Nov 2026 13:53:55 GMT"
+   "checkedAt": "2026-11-06T14:49:54.178Z",
+   "lastSuccess": "2026-11-06T14:49:54.178Z",
+   "etag": "bce2c7835674ec8db72bb9e4f00f139f",
+   "lastModified": "Fri, 06 Nov 2026 14:47:09 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T13:54:46.013Z",
-   "lastSuccess": "2026-11-06T13:54:46.013Z",
+   "checkedAt": "2026-11-06T14:49:54.178Z",
+   "lastSuccess": "2026-11-06T14:49:54.178Z",
    "etag": null,
    "lastModified": "Fri, 06 Nov 2026 13:39:10 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T13:54:46.013Z",
-   "lastSuccess": "2026-11-06T13:54:46.013Z",
-   "etag": "\"dabc855c91a33eeeacf589bbaf1d49c4\"",
-   "lastModified": "Fri, 06 Nov 2026 13:19:57 GMT"
+   "checkedAt": "2026-11-06T14:49:54.178Z",
+   "lastSuccess": "2026-11-06T14:49:54.178Z",
+   "etag": "W/\"c440c6979b50b428d61881700b548704\"",
+   "lastModified": "Fri, 06 Nov 2026 14:40:23 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T13:54:46.013Z",
-   "lastSuccess": "2026-11-06T13:54:46.013Z",
+   "checkedAt": "2026-11-06T14:49:54.178Z",
+   "lastSuccess": "2026-11-06T14:49:54.178Z",
    "etag": null,
-   "lastModified": "Fri, 06 Nov 2026 13:54:46 GMT"
+   "lastModified": "Fri, 06 Nov 2026 14:49:54 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,72 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T13:54:46.013Z",
-   "lastSuccess": "2026-11-06T13:54:46.013Z",
+   "checkedAt": "2026-11-06T14:49:54.178Z",
+   "lastSuccess": "2026-11-06T14:49:54.178Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "3f203573bd777148",
+   "title": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days",
+   "url": "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
+   "summary": "Noteworthy stories that might have slipped under the radar: Synology warns about NAS ransomware attacks, Flowise ‘hello’ attacks, Chainalysis breach impact expands. The post In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days appeared first…",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-06T14:40:09.000Z",
+   "categories": [
+    "ransomware",
+    "breach",
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-06T14:49:54.178Z"
+  },
+  {
+   "id": "c018f69d1570a81d",
+   "title": "Chainalysis says breach exposed credentials for all customers",
+   "url": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
+   "summary": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-06T14:17:07.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-06T14:49:54.178Z"
+  },
+  {
+   "id": "63efb5a9b6c127ba",
+   "title": "DigiCert Data Breach Impacts Business Customer Information",
+   "url": "https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/",
+   "summary": "Hackers created an account on an internal system and accessed names, email addresses, phone numbers, and business addresses. The post DigiCert Data Breach Impacts Business Customer Information appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-06T14:00:07.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-06T14:49:54.178Z"
+  },
+  {
+   "id": "1757d2736510a741",
+   "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
+   "url": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
+   "summary": "Europe's supermarket freezer hacks show how security issues can cascade across an industry, disrupting supply chains at scale.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-06T14:00:00.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-06T14:49:54.178Z"
+  },
   {
    "id": "c152decf6a580a3e",
    "title": "OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line",
@@ -2919,58 +2978,6 @@
     "vuln"
    ],
    "firstSeen": "2026-11-05T22:17:05.936Z"
-  },
-  {
-   "id": "67deeb1099f33e56",
-   "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
-   "url": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
-   "summary": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won’t break anything. Their concerns are practical. An IPS protection could block…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-30T11:58:53.000Z",
-   "categories": [],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "470731b17c5a3579",
-   "title": "Microsoft finally fixes VPN issues caused by September updates",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
-   "summary": "Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-10-30T11:20:26.000Z",
-   "categories": [],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "5c60fdcb179e6bf1",
-   "title": "Drupal Commerce Core Vulnerability Exploited Against Online Stores",
-   "url": "https://www.securityweek.com/drupal-commerce-core-vulnerability-exploited-against-online-stores/",
-   "summary": "Drupal says a highly critical Commerce Core access bypass is exploited in the wild and urges store owners to audit their orders. The post Drupal Commerce Core Vulnerability Exploited Against Online Stores appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-10-30T11:07:11.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "e93de4dec38c1d3f",
-   "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
-   "url": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
-   "summary": "Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been sentenced by a U.S. federal court to 42 months in prison for his role in a hacking conspiracy that targeted Western news outlets. The conspiracy was organized and led by members of former Syrian…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-30T10:40:45.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
   }
  ]
 }
