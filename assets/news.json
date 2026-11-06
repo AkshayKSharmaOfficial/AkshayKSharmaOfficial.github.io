@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-06T18:31:33.985Z",
- "lastAttempt": "2026-11-06T18:31:33.985Z",
+ "lastSuccess": "2026-11-06T19:36:58.148Z",
+ "lastAttempt": "2026-11-06T19:36:58.148Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T18:31:33.985Z",
-   "lastSuccess": "2026-11-06T18:31:33.985Z",
+   "checkedAt": "2026-11-06T19:36:58.148Z",
+   "lastSuccess": "2026-11-06T19:36:58.148Z",
    "etag": null,
-   "lastModified": "Fri, 6 Nov 2026 18:16:46 GMT"
+   "lastModified": "Fri, 6 Nov 2026 19:29:01 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T18:31:33.985Z",
-   "lastSuccess": "2026-11-06T18:31:33.985Z",
-   "etag": "97bb764a595bcd629783c30b0569dab7",
-   "lastModified": "Fri, 06 Nov 2026 18:24:26 GMT"
+   "checkedAt": "2026-11-06T19:36:58.148Z",
+   "lastSuccess": "2026-11-06T19:36:58.148Z",
+   "etag": "f773d6ef7a44e71a40a79a3826b62c77",
+   "lastModified": "Fri, 06 Nov 2026 19:36:54 GMT"
   },
   {
    "id": "krebs",
@@ -34,22 +34,22 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T18:31:33.985Z",
-   "lastSuccess": "2026-11-06T18:31:33.985Z",
+   "checkedAt": "2026-11-06T19:36:58.148Z",
+   "lastSuccess": "2026-11-06T19:36:58.148Z",
    "etag": null,
-   "lastModified": "Fri, 06 Nov 2026 18:22:38 GMT"
+   "lastModified": "Fri, 06 Nov 2026 19:32:59 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T18:31:33.985Z",
-   "lastSuccess": "2026-11-06T18:31:33.985Z",
-   "etag": "\"8808e695d27bdb3f60e99b1667cc1de0\"",
-   "lastModified": "Fri, 06 Nov 2026 14:42:49 GMT"
+   "checkedAt": "2026-11-06T19:36:58.148Z",
+   "lastSuccess": "2026-11-06T19:36:58.148Z",
+   "etag": "\"18834b354bfba635551860220579dfed\"",
+   "lastModified": "Fri, 06 Nov 2026 18:28:44 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T18:31:33.985Z",
-   "lastSuccess": "2026-11-06T18:31:33.985Z",
+   "checkedAt": "2026-11-06T19:36:58.148Z",
+   "lastSuccess": "2026-11-06T19:36:58.148Z",
    "etag": null,
-   "lastModified": "Fri, 06 Nov 2026 18:31:34 GMT"
+   "lastModified": "Fri, 06 Nov 2026 19:36:59 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,55 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T18:31:33.985Z",
-   "lastSuccess": "2026-11-06T18:31:33.985Z",
+   "checkedAt": "2026-11-06T19:36:58.148Z",
+   "lastSuccess": "2026-11-06T19:36:58.148Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "6e832e0a535990c0",
+   "title": "Fake security tools on GitHub push backdoors and infostealers",
+   "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
+   "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-06T18:46:52.000Z",
+   "categories": [
+    "malware"
+   ],
+   "firstSeen": "2026-11-06T19:36:58.148Z"
+  },
+  {
+   "id": "0065644152dc79f8",
+   "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
+   "url": "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/",
+   "summary": "The emergency package comes after dozens of companies and government agencies were hit by unauthorized access to their systems and leaks of client data, prompting uneasiness across Japan. The post Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks…",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-06T18:28:41.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-06T19:36:58.148Z"
+  },
+  {
+   "id": "bfeda1d286ef09eb",
+   "title": "AI Gave Your Incident Archive a Second Job",
+   "url": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
+   "summary": "Security records are increasingly being used by vendors to train their models, creating new risks for enterprises.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-06T18:27:30.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-06T19:36:58.148Z"
+  },
   {
    "id": "106849994d7b973f",
    "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
@@ -2930,51 +2972,6 @@
    "categories": [
     "malware",
     "ai"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "fb6c3088c25dc893",
-   "title": "Undead Software Projects Continue to Raise Security Risks",
-   "url": "https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
-   "summary": "A security firm patched a decade-old app to prevent the takeover of millions of machines, highlighting that abandoned domains remain a boon to attackers.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-30T14:10:37.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "8fc971e55b17c65a",
-   "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
-   "url": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
-   "summary": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. The vulnerability, which does not have a CVE identifier, relates to a case of remote code execution impacting WordPress Core versions 4.7…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-30T14:08:14.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "57a589e9ea63a18e",
-   "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
-   "url": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
-   "summary": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit trust between networks and how its…",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-10-30T14:00:10.000Z",
-   "categories": [
-    "vuln",
-    "attack"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
   }
