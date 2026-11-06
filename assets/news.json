@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-06T15:43:09.294Z",
- "lastAttempt": "2026-11-06T15:43:09.294Z",
+ "lastSuccess": "2026-11-06T16:32:14.697Z",
+ "lastAttempt": "2026-11-06T16:32:14.697Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T15:43:09.294Z",
-   "lastSuccess": "2026-11-06T15:43:09.294Z",
+   "checkedAt": "2026-11-06T16:32:14.697Z",
+   "lastSuccess": "2026-11-06T16:32:14.697Z",
    "etag": null,
    "lastModified": "Fri, 6 Nov 2026 14:53:41 GMT"
   },
@@ -22,32 +22,32 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T15:43:09.294Z",
-   "lastSuccess": "2026-11-06T15:43:09.294Z",
-   "etag": "ef642abd1bd479672cb7240b6753cc1a",
-   "lastModified": "Fri, 06 Nov 2026 15:35:33 GMT"
+   "checkedAt": "2026-11-06T16:32:14.697Z",
+   "lastSuccess": "2026-11-06T16:32:14.697Z",
+   "etag": "7efd50e01fd10a3a8eb5574889f9b518",
+   "lastModified": "Fri, 06 Nov 2026 16:25:35 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T15:43:09.294Z",
-   "lastSuccess": "2026-11-06T15:43:09.294Z",
+   "checkedAt": "2026-11-06T16:32:14.697Z",
+   "lastSuccess": "2026-11-06T16:32:14.697Z",
    "etag": null,
-   "lastModified": "Fri, 06 Nov 2026 13:39:10 GMT"
+   "lastModified": "Fri, 06 Nov 2026 16:25:18 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T15:43:09.294Z",
-   "lastSuccess": "2026-11-06T15:43:09.294Z",
+   "checkedAt": "2026-11-06T16:32:14.697Z",
+   "lastSuccess": "2026-11-06T16:32:14.697Z",
    "etag": "\"8808e695d27bdb3f60e99b1667cc1de0\"",
    "lastModified": "Fri, 06 Nov 2026 14:42:49 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T15:43:09.294Z",
-   "lastSuccess": "2026-11-06T15:43:09.294Z",
+   "checkedAt": "2026-11-06T16:32:14.697Z",
+   "lastSuccess": "2026-11-06T16:32:14.697Z",
    "etag": null,
-   "lastModified": "Fri, 06 Nov 2026 15:43:09 GMT"
+   "lastModified": "Fri, 06 Nov 2026 16:32:15 GMT"
   },
   {
    "id": "cisa",
@@ -70,8 +70,8 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T15:43:09.294Z",
-   "lastSuccess": "2026-11-06T15:43:09.294Z",
+   "checkedAt": "2026-11-06T16:32:14.697Z",
+   "lastSuccess": "2026-11-06T16:32:14.697Z",
    "etag": null,
    "lastModified": null
   }
@@ -1018,7 +1018,7 @@
    "id": "1b40fa83116b7019",
    "title": "Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet",
    "url": "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
-   "summary": "Google alleges that Android device manufacturer Videostrong ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity.",
+   "summary": "Android device manufacturer Videostrong allegedly ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity.",
    "source": "Dark Reading",
    "sourceId": "darkreading",
    "kind": "media",
@@ -1431,7 +1431,7 @@
    "id": "9fc2d7e49d0f2325",
    "title": "Phishing-Resistant Isn't Enough; Yubico Takes Aim at Identity-Verification Gap",
    "url": "https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap",
-   "summary": "The new YubiID service bridges identity verification with credential enrollment and recovery across existing identity platforms, closing a phishing-resistant authentication gap. Plus: post-quantum YubiKey beta.",
+   "summary": "The new YubiID service bridges identity verification with credential enrollment and recovery across existing identity platforms, closing an important authentication gap. Plus: post-quantum YubiKey beta.",
    "source": "Dark Reading",
    "sourceId": "darkreading",
    "kind": "media",
@@ -2152,7 +2152,7 @@
    "id": "8e3716bf85ab7bc2",
    "title": "Microsoft's AI Risk Report Misses This Key Detail",
    "url": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss",
-   "summary": "The latest \"Digital Defense Report\" identifies government agencies as prime targets for AI attacks but doesn't mention that they are broadly being targeted through Microsoft bugs.",
+   "summary": "The latest \"Digital Defense Report\" identifies government agencies as prime targets for AI attacks, but it doesn't mention that they are broadly being targeted through Microsoft bugs.",
    "source": "Dark Reading",
    "sourceId": "darkreading",
    "kind": "media",
