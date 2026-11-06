@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-06T07:32:12.752Z",
- "lastAttempt": "2026-11-06T07:32:12.752Z",
+ "lastSuccess": "2026-11-06T08:37:54.623Z",
+ "lastAttempt": "2026-11-06T08:37:54.623Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T07:32:12.752Z",
-   "lastSuccess": "2026-11-06T07:32:12.752Z",
+   "checkedAt": "2026-11-06T08:37:54.623Z",
+   "lastSuccess": "2026-11-06T08:37:54.623Z",
    "etag": null,
-   "lastModified": "Fri, 6 Nov 2026 07:02:44 GMT"
+   "lastModified": "Fri, 6 Nov 2026 08:35:20 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T07:32:12.752Z",
-   "lastSuccess": "2026-11-06T07:32:12.752Z",
-   "etag": "cd9336634e9ce6619efa7a16334cc051",
-   "lastModified": "Fri, 06 Nov 2026 07:27:32 GMT"
+   "checkedAt": "2026-11-06T08:37:54.623Z",
+   "lastSuccess": "2026-11-06T08:37:54.623Z",
+   "etag": "87aff1d9abdf9e2a8ff88ca73f494456",
+   "lastModified": "Fri, 06 Nov 2026 08:37:34 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T07:32:12.752Z",
-   "lastSuccess": "2026-11-06T07:32:12.752Z",
+   "checkedAt": "2026-11-06T08:37:54.623Z",
+   "lastSuccess": "2026-11-06T08:37:54.623Z",
    "etag": null,
    "lastModified": "Fri, 06 Nov 2026 06:02:16 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T07:32:12.752Z",
-   "lastSuccess": "2026-11-06T07:32:12.752Z",
+   "checkedAt": "2026-11-06T08:37:54.623Z",
+   "lastSuccess": "2026-11-06T08:37:54.623Z",
    "etag": "\"5a1d439f4913e8edf2a48e02b3a70683\"",
    "lastModified": "Fri, 06 Nov 2026 05:06:41 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T07:32:12.752Z",
-   "lastSuccess": "2026-11-06T07:32:12.752Z",
+   "checkedAt": "2026-11-06T08:37:54.623Z",
+   "lastSuccess": "2026-11-06T08:37:54.623Z",
    "etag": null,
-   "lastModified": "Fri, 06 Nov 2026 07:32:13 GMT"
+   "lastModified": "Fri, 06 Nov 2026 08:37:55 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,29 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T07:32:12.752Z",
-   "lastSuccess": "2026-11-06T07:32:12.752Z",
+   "checkedAt": "2026-11-06T08:37:54.623Z",
+   "lastSuccess": "2026-11-06T08:37:54.623Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "a3b94f1fb170a2b6",
+   "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
+   "url": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
+   "summary": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. \"While we investigated, we removed access to Reactor and Data…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-06T08:04:49.000Z",
+   "categories": [
+    "breach",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-06T08:37:54.623Z"
+  },
   {
    "id": "97fd8de188fcd37e",
    "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
@@ -2958,22 +2974,6 @@
    "published": "2026-10-29T22:45:23.000Z",
    "categories": [
     "breach",
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "d6743add1691c2e3",
-   "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
-   "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
-   "summary": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHub is positioned to trick AI coding agents into installing…",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-10-29T22:09:24.000Z",
-   "categories": [
-    "malware",
-    "ai",
     "attack"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
