@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-05T23:57:38.704Z",
- "lastAttempt": "2026-11-05T23:57:38.704Z",
+ "lastSuccess": "2026-11-06T00:59:25.999Z",
+ "lastAttempt": "2026-11-06T00:59:25.999Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T23:57:38.704Z",
-   "lastSuccess": "2026-11-05T23:57:38.704Z",
+   "checkedAt": "2026-11-06T00:59:25.999Z",
+   "lastSuccess": "2026-11-06T00:59:25.999Z",
    "etag": null,
-   "lastModified": "Thu, 5 Nov 2026 23:53:57 GMT"
+   "lastModified": "Fri, 6 Nov 2026 00:34:56 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T23:57:38.704Z",
-   "lastSuccess": "2026-11-05T23:57:38.704Z",
-   "etag": "83572da1efc8050508df2555d6609100",
-   "lastModified": "Thu, 05 Nov 2026 23:50:36 GMT"
+   "checkedAt": "2026-11-06T00:59:25.999Z",
+   "lastSuccess": "2026-11-06T00:59:25.999Z",
+   "etag": "1ffb235a66bae2dd9ae2aa9fd16f1110",
+   "lastModified": "Fri, 06 Nov 2026 00:57:21 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T23:57:38.704Z",
-   "lastSuccess": "2026-11-05T23:57:38.704Z",
+   "checkedAt": "2026-11-06T00:59:25.999Z",
+   "lastSuccess": "2026-11-06T00:59:25.999Z",
    "etag": null,
-   "lastModified": "Thu, 05 Nov 2026 23:53:04 GMT"
+   "lastModified": "Fri, 06 Nov 2026 00:56:53 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T23:57:38.704Z",
-   "lastSuccess": "2026-11-05T23:57:38.704Z",
+   "checkedAt": "2026-11-06T00:59:25.999Z",
+   "lastSuccess": "2026-11-06T00:59:25.999Z",
    "etag": "W/\"6223767466247aa239f950e8d229ad63\"",
    "lastModified": "Thu, 05 Nov 2026 17:32:42 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T23:57:38.704Z",
-   "lastSuccess": "2026-11-05T23:57:38.704Z",
+   "checkedAt": "2026-11-06T00:59:25.999Z",
+   "lastSuccess": "2026-11-06T00:59:25.999Z",
    "etag": null,
-   "lastModified": "Thu, 05 Nov 2026 23:57:39 GMT"
+   "lastModified": "Fri, 06 Nov 2026 00:59:26 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-05T23:57:38.704Z",
-   "lastSuccess": "2026-11-05T23:57:38.704Z",
+   "checkedAt": "2026-11-06T00:59:25.999Z",
+   "lastSuccess": "2026-11-06T00:59:25.999Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "d342cd18f09ce42d",
+   "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+   "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+   "summary": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-06T00:56:44.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-06T00:59:25.999Z"
+  },
   {
    "id": "31381108dc8e2256",
    "title": "US Government Email Systems Open to Abuse Thanks to Typos",
@@ -2960,21 +2974,6 @@
    "published": "2026-10-29T19:56:44.000Z",
    "categories": [
     "ai"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "7f056f665bfe428e",
-   "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
-   "url": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
-   "summary": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't. There's a strange mix of clever tricks and careless mistakes. Hackers are…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-29T19:11:58.000Z",
-   "categories": [
-    "vuln",
-    "attack"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
   }
