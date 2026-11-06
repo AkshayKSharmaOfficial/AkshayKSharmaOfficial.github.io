@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-06T21:15:10.955Z",
- "lastAttempt": "2026-11-06T21:15:10.955Z",
+ "lastSuccess": "2026-11-06T22:10:29.413Z",
+ "lastAttempt": "2026-11-06T22:10:29.413Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T21:15:10.955Z",
-   "lastSuccess": "2026-11-06T21:15:10.955Z",
+   "checkedAt": "2026-11-06T22:10:29.413Z",
+   "lastSuccess": "2026-11-06T22:10:29.413Z",
    "etag": null,
-   "lastModified": "Fri, 6 Nov 2026 19:29:01 GMT"
+   "lastModified": "Fri, 6 Nov 2026 21:18:27 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T21:15:10.955Z",
-   "lastSuccess": "2026-11-06T21:15:10.955Z",
-   "etag": "cbf59d0b3e13fcdf677270cf80e58f75",
-   "lastModified": "Fri, 06 Nov 2026 21:14:21 GMT"
+   "checkedAt": "2026-11-06T22:10:29.413Z",
+   "lastSuccess": "2026-11-06T22:10:29.413Z",
+   "etag": "c1ea8951cf7ac84551eb82d81587ec51",
+   "lastModified": "Fri, 06 Nov 2026 22:04:23 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T21:15:10.955Z",
-   "lastSuccess": "2026-11-06T21:15:10.955Z",
+   "checkedAt": "2026-11-06T22:10:29.413Z",
+   "lastSuccess": "2026-11-06T22:10:29.413Z",
    "etag": null,
    "lastModified": "Fri, 06 Nov 2026 20:59:15 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T21:15:10.955Z",
-   "lastSuccess": "2026-11-06T21:15:10.955Z",
+   "checkedAt": "2026-11-06T22:10:29.413Z",
+   "lastSuccess": "2026-11-06T22:10:29.413Z",
    "etag": "\"18834b354bfba635551860220579dfed\"",
    "lastModified": "Fri, 06 Nov 2026 18:28:44 GMT"
   },
@@ -58,25 +58,39 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T21:15:10.955Z",
-   "lastSuccess": "2026-11-06T21:15:10.955Z",
+   "checkedAt": "2026-11-06T22:10:29.413Z",
+   "lastSuccess": "2026-11-06T22:10:29.413Z",
    "etag": null,
-   "lastModified": "Fri, 06 Nov 2026 21:15:11 GMT"
+   "lastModified": "Fri, 06 Nov 2026 22:10:29 GMT"
   },
   {
    "id": "cisa",
    "name": "CISA Cybersecurity Advisories",
-   "ok": true,
-   "count": 30,
+   "ok": false,
+   "count": 0,
    "rejected": 0,
-   "error": null,
-   "checkedAt": "2026-11-06T21:15:10.955Z",
+   "error": "response too large",
+   "checkedAt": "2026-11-06T22:10:29.413Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "8ab75538e81a3d1f",
+   "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
+   "url": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
+   "summary": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-06T21:27:36.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-06T22:10:29.413Z"
+  },
   {
    "id": "475a426314ccb743",
    "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
@@ -519,6 +533,18 @@
     "attack"
    ],
    "firstSeen": "2026-11-06T00:59:25.999Z"
+  },
+  {
+   "id": "4da5fc4c968adc56",
+   "title": "Operação de influência russa tem como alvo generalizado a América Latina",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina",
+   "summary": "A operação, que contou com o uso de inteligência artificial, utilizou e-mails falsos, documentos governamentais falsificados e a criação de uma organização local para atacar escolas no Peru e no Equador, entre outras ações.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-05T22:13:23.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-06T22:10:29.413Z"
   },
   {
    "id": "31381108dc8e2256",
@@ -2940,38 +2966,6 @@
    "categories": [
     "vuln",
     "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "efc8ea367183e21c",
-   "title": "PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress",
-   "url": "https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/",
-   "summary": "Over 22.6 million exposed instances are potentially affected by the critical PHP flaws that have been targeted for over a week. The post PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-10-30T15:09:25.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "2b995e8e8e63f09e",
-   "title": "In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak",
-   "url": "https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
-   "summary": "Noteworthy stories that might have slipped under the radar: Iran eyed in military freezer hacks, Copenhagen University breach, AI-powered malware. The post In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak appeared first on…",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-10-30T14:41:35.000Z",
-   "categories": [
-    "breach",
-    "vuln",
-    "malware",
-    "ai"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
   }
