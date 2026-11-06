@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-06T08:37:54.623Z",
- "lastAttempt": "2026-11-06T08:37:54.623Z",
+ "lastSuccess": "2026-11-06T09:42:00.719Z",
+ "lastAttempt": "2026-11-06T09:42:00.719Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T08:37:54.623Z",
-   "lastSuccess": "2026-11-06T08:37:54.623Z",
+   "checkedAt": "2026-11-06T09:42:00.719Z",
+   "lastSuccess": "2026-11-06T09:42:00.719Z",
    "etag": null,
    "lastModified": "Fri, 6 Nov 2026 08:35:20 GMT"
   },
@@ -22,34 +22,34 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T08:37:54.623Z",
-   "lastSuccess": "2026-11-06T08:37:54.623Z",
-   "etag": "87aff1d9abdf9e2a8ff88ca73f494456",
-   "lastModified": "Fri, 06 Nov 2026 08:37:34 GMT"
+   "checkedAt": "2026-11-06T09:42:00.719Z",
+   "lastSuccess": "2026-11-06T09:42:00.719Z",
+   "etag": "8f9b418c70cfe52c6e755ccc1250b9c5",
+   "lastModified": "Fri, 06 Nov 2026 09:32:30 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T08:37:54.623Z",
-   "lastSuccess": "2026-11-06T08:37:54.623Z",
+   "checkedAt": "2026-11-06T09:42:00.719Z",
+   "lastSuccess": "2026-11-06T09:42:00.719Z",
    "etag": null,
-   "lastModified": "Fri, 06 Nov 2026 06:02:16 GMT"
+   "lastModified": "Fri, 06 Nov 2026 09:28:14 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T08:37:54.623Z",
-   "lastSuccess": "2026-11-06T08:37:54.623Z",
-   "etag": "\"5a1d439f4913e8edf2a48e02b3a70683\"",
-   "lastModified": "Fri, 06 Nov 2026 05:06:41 GMT"
+   "checkedAt": "2026-11-06T09:42:00.719Z",
+   "lastSuccess": "2026-11-06T09:42:00.719Z",
+   "etag": "W/\"ed6cecab358e642cab552524b492e808\"",
+   "lastModified": "Fri, 06 Nov 2026 09:33:51 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T08:37:54.623Z",
-   "lastSuccess": "2026-11-06T08:37:54.623Z",
+   "checkedAt": "2026-11-06T09:42:00.719Z",
+   "lastSuccess": "2026-11-06T09:42:00.719Z",
    "etag": null,
-   "lastModified": "Fri, 06 Nov 2026 08:37:55 GMT"
+   "lastModified": "Fri, 06 Nov 2026 09:42:01 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,55 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T08:37:54.623Z",
-   "lastSuccess": "2026-11-06T08:37:54.623Z",
+   "checkedAt": "2026-11-06T09:42:00.719Z",
+   "lastSuccess": "2026-11-06T09:42:00.719Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "42a8ea9ffb1107ed",
+   "title": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
+   "url": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
+   "summary": "After its sandbox proxy failed, an internal OpenAI model crafted raw packets and probed AWS services trying to reach the internet. The post OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-06T09:33:51.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-06T09:42:00.719Z"
+  },
+  {
+   "id": "23520724a41ef6eb",
+   "title": "MetaMask says recent attack didn't affect wallet infrastructure",
+   "url": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
+   "summary": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-06T09:22:28.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-06T09:42:00.719Z"
+  },
+  {
+   "id": "5088a55d4a3b5367",
+   "title": "UK Warns Its Critical Infrastructure Faces Grave Risk",
+   "url": "https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk",
+   "summary": "Britain's new Labour-led government is making a concerted push to get ahead of the AI risks to its national networks and the industrial complex.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-06T09:00:00.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-06T09:42:00.719Z"
+  },
   {
    "id": "a3b94f1fb170a2b6",
    "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
@@ -2932,49 +2974,6 @@
    "published": "2026-10-30T07:27:05.000Z",
    "categories": [
     "vuln"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "d563e9e1aaec1f91",
-   "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
-   "url": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
-   "summary": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets. The world's biggest cryptocurrency exchange said nearly $3 billion of those assets have been frozen on-chain so far. Tether and Circle said…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-30T04:14:59.000Z",
-   "categories": [
-    "breach"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "71529f9886c2833a",
-   "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
-   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
-   "summary": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-10-29T23:35:52.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "ae46b0650d6477f0",
-   "title": "Binance probes potential $5.8 billion crypto-theft hack",
-   "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
-   "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-10-29T22:45:23.000Z",
-   "categories": [
-    "breach",
-    "attack"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
   }
