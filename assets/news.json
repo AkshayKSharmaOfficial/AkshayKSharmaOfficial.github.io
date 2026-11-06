@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-06T14:49:54.178Z",
- "lastAttempt": "2026-11-06T14:49:54.178Z",
+ "lastSuccess": "2026-11-06T15:43:09.294Z",
+ "lastAttempt": "2026-11-06T15:43:09.294Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T14:49:54.178Z",
-   "lastSuccess": "2026-11-06T14:49:54.178Z",
+   "checkedAt": "2026-11-06T15:43:09.294Z",
+   "lastSuccess": "2026-11-06T15:43:09.294Z",
    "etag": null,
-   "lastModified": "Fri, 6 Nov 2026 14:20:56 GMT"
+   "lastModified": "Fri, 6 Nov 2026 14:53:41 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T14:49:54.178Z",
-   "lastSuccess": "2026-11-06T14:49:54.178Z",
-   "etag": "bce2c7835674ec8db72bb9e4f00f139f",
-   "lastModified": "Fri, 06 Nov 2026 14:47:09 GMT"
+   "checkedAt": "2026-11-06T15:43:09.294Z",
+   "lastSuccess": "2026-11-06T15:43:09.294Z",
+   "etag": "ef642abd1bd479672cb7240b6753cc1a",
+   "lastModified": "Fri, 06 Nov 2026 15:35:33 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T14:49:54.178Z",
-   "lastSuccess": "2026-11-06T14:49:54.178Z",
+   "checkedAt": "2026-11-06T15:43:09.294Z",
+   "lastSuccess": "2026-11-06T15:43:09.294Z",
    "etag": null,
    "lastModified": "Fri, 06 Nov 2026 13:39:10 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T14:49:54.178Z",
-   "lastSuccess": "2026-11-06T14:49:54.178Z",
-   "etag": "W/\"c440c6979b50b428d61881700b548704\"",
-   "lastModified": "Fri, 06 Nov 2026 14:40:23 GMT"
+   "checkedAt": "2026-11-06T15:43:09.294Z",
+   "lastSuccess": "2026-11-06T15:43:09.294Z",
+   "etag": "\"8808e695d27bdb3f60e99b1667cc1de0\"",
+   "lastModified": "Fri, 06 Nov 2026 14:42:49 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T14:49:54.178Z",
-   "lastSuccess": "2026-11-06T14:49:54.178Z",
+   "checkedAt": "2026-11-06T15:43:09.294Z",
+   "lastSuccess": "2026-11-06T15:43:09.294Z",
    "etag": null,
-   "lastModified": "Fri, 06 Nov 2026 14:49:54 GMT"
+   "lastModified": "Fri, 06 Nov 2026 15:43:09 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,39 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T14:49:54.178Z",
-   "lastSuccess": "2026-11-06T14:49:54.178Z",
+   "checkedAt": "2026-11-06T15:43:09.294Z",
+   "lastSuccess": "2026-11-06T15:43:09.294Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "087fd582871194e3",
+   "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
+   "url": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
+   "summary": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-06T15:25:31.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-06T15:43:09.294Z"
+  },
+  {
+   "id": "7a969703f07df2fa",
+   "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
+   "url": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
+   "summary": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-06T15:00:10.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-06T15:43:09.294Z"
+  },
   {
    "id": "3f203573bd777148",
    "title": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days",
@@ -2948,36 +2974,6 @@
    "published": "2026-10-30T12:21:56.000Z",
    "categories": [],
    "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "30bec461d1d2a308",
-   "title": "Fresh WordPress Vulnerability in Attackers’ Crosshairs",
-   "url": "https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/",
-   "summary": "Threat actors are attempting to exploit a high-severity unauthenticated race condition leading to remote code execution. The post Fresh WordPress Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-10-30T12:04:13.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "e96f50097ecf77aa",
-   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-   "url": "https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-   "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability CVE-2026-118527 Ivanti Connect Secure…",
-   "source": "CISA (US government)",
-   "sourceId": "cisa",
-   "kind": "official",
-   "published": "2026-10-30T12:00:00.000Z",
-   "categories": [
-    "advisory",
-    "vuln"
-   ],
-   "firstSeen": "2026-11-05T22:17:05.936Z"
   }
  ]
 }
