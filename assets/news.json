@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-06T10:44:03.876Z",
- "lastAttempt": "2026-11-06T10:44:03.876Z",
+ "lastSuccess": "2026-11-06T11:38:00.462Z",
+ "lastAttempt": "2026-11-06T11:38:00.462Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T10:44:03.876Z",
-   "lastSuccess": "2026-11-06T10:44:03.876Z",
+   "checkedAt": "2026-11-06T11:38:00.462Z",
+   "lastSuccess": "2026-11-06T11:38:00.462Z",
    "etag": null,
-   "lastModified": "Fri, 6 Nov 2026 09:51:14 GMT"
+   "lastModified": "Fri, 6 Nov 2026 11:36:26 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T10:44:03.876Z",
-   "lastSuccess": "2026-11-06T10:44:03.876Z",
-   "etag": "421b54ffb0341826a2ede305ace54735",
-   "lastModified": "Fri, 06 Nov 2026 10:42:32 GMT"
+   "checkedAt": "2026-11-06T11:38:00.462Z",
+   "lastSuccess": "2026-11-06T11:38:00.462Z",
+   "etag": "bdad58f33ba4500b07db5db93e758842",
+   "lastModified": "Fri, 06 Nov 2026 11:32:33 GMT"
   },
   {
    "id": "krebs",
@@ -34,22 +34,22 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T10:44:03.876Z",
-   "lastSuccess": "2026-11-06T10:44:03.876Z",
+   "checkedAt": "2026-11-06T11:38:00.462Z",
+   "lastSuccess": "2026-11-06T11:38:00.462Z",
    "etag": null,
-   "lastModified": "Fri, 06 Nov 2026 10:26:59 GMT"
+   "lastModified": "Fri, 06 Nov 2026 11:36:20 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T10:44:03.876Z",
-   "lastSuccess": "2026-11-06T10:44:03.876Z",
-   "etag": "W/\"ed6cecab358e642cab552524b492e808\"",
-   "lastModified": "Fri, 06 Nov 2026 09:33:51 GMT"
+   "checkedAt": "2026-11-06T11:38:00.462Z",
+   "lastSuccess": "2026-11-06T11:38:00.462Z",
+   "etag": "\"fa8171595bd60709b8c1232d8a190beb\"",
+   "lastModified": "Fri, 06 Nov 2026 10:39:04 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T10:44:03.876Z",
-   "lastSuccess": "2026-11-06T10:44:03.876Z",
+   "checkedAt": "2026-11-06T11:38:00.462Z",
+   "lastSuccess": "2026-11-06T11:38:00.462Z",
    "etag": null,
-   "lastModified": "Fri, 06 Nov 2026 10:44:04 GMT"
+   "lastModified": "Fri, 06 Nov 2026 11:38:00 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,25 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T10:44:03.876Z",
-   "lastSuccess": "2026-11-06T10:44:03.876Z",
+   "checkedAt": "2026-11-06T11:38:00.462Z",
+   "lastSuccess": "2026-11-06T11:38:00.462Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "be398781c151cc44",
+   "title": "The Flood is Coming And The Pipes Were Already Full",
+   "url": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
+   "summary": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these models find, and the gap he describes between what…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-06T11:30:00.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-06T11:38:00.462Z"
+  },
   {
    "id": "42a8ea9ffb1107ed",
    "title": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
@@ -2960,20 +2972,6 @@
    "categories": [
     "vuln",
     "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "8927f234f52baad7",
-   "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-   "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-97229…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-30T07:27:05.000Z",
-   "categories": [
-    "vuln"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
   }
