@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-06T12:37:54.024Z",
- "lastAttempt": "2026-11-06T12:37:54.024Z",
+ "lastSuccess": "2026-11-06T13:54:46.013Z",
+ "lastAttempt": "2026-11-06T13:54:46.013Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T12:37:54.024Z",
-   "lastSuccess": "2026-11-06T12:37:54.024Z",
+   "checkedAt": "2026-11-06T13:54:46.013Z",
+   "lastSuccess": "2026-11-06T13:54:46.013Z",
    "etag": null,
-   "lastModified": "Fri, 6 Nov 2026 11:36:26 GMT"
+   "lastModified": "Fri, 6 Nov 2026 12:50:38 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T12:37:54.024Z",
-   "lastSuccess": "2026-11-06T12:37:54.024Z",
-   "etag": "7cd25f1dd0ae84483358c97257f75d6c",
-   "lastModified": "Fri, 06 Nov 2026 12:37:22 GMT"
+   "checkedAt": "2026-11-06T13:54:46.013Z",
+   "lastSuccess": "2026-11-06T13:54:46.013Z",
+   "etag": "c3590151bea6a64452cd4611ac2d5482",
+   "lastModified": "Fri, 06 Nov 2026 13:53:55 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T12:37:54.024Z",
-   "lastSuccess": "2026-11-06T12:37:54.024Z",
+   "checkedAt": "2026-11-06T13:54:46.013Z",
+   "lastSuccess": "2026-11-06T13:54:46.013Z",
    "etag": null,
-   "lastModified": "Fri, 06 Nov 2026 11:36:20 GMT"
+   "lastModified": "Fri, 06 Nov 2026 13:39:10 GMT"
   },
   {
    "id": "securityweek",
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T12:37:54.024Z",
-   "lastSuccess": "2026-11-06T12:37:54.024Z",
-   "etag": "\"4286fde619879328abc943ca2531f8e4\"",
-   "lastModified": "Fri, 06 Nov 2026 12:16:17 GMT"
+   "checkedAt": "2026-11-06T13:54:46.013Z",
+   "lastSuccess": "2026-11-06T13:54:46.013Z",
+   "etag": "\"dabc855c91a33eeeacf589bbaf1d49c4\"",
+   "lastModified": "Fri, 06 Nov 2026 13:19:57 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T12:37:54.024Z",
-   "lastSuccess": "2026-11-06T12:37:54.024Z",
+   "checkedAt": "2026-11-06T13:54:46.013Z",
+   "lastSuccess": "2026-11-06T13:54:46.013Z",
    "etag": null,
-   "lastModified": "Fri, 06 Nov 2026 12:37:54 GMT"
+   "lastModified": "Fri, 06 Nov 2026 13:54:46 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,56 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T12:37:54.024Z",
-   "lastSuccess": "2026-11-06T12:37:54.024Z",
+   "checkedAt": "2026-11-06T13:54:46.013Z",
+   "lastSuccess": "2026-11-06T13:54:46.013Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "c152decf6a580a3e",
+   "title": "OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line",
+   "url": "https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/",
+   "summary": "Rated Critical for cybersecurity, OpenAI’s new model beats GPT-5.6 Cyber at exploitation while staying in scope more reliably. The post OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-06T13:19:52.000Z",
+   "categories": [
+    "vuln",
+    "ai"
+   ],
+   "firstSeen": "2026-11-06T13:54:46.013Z"
+  },
+  {
+   "id": "f701ddfe14b3fe7a",
+   "title": "US Agencies Urge Organizations to Harden Refrigeration Controllers",
+   "url": "https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/",
+   "summary": "The recommendations come amid attacks targeting fridges and freezers in supermarkets and blood banks in Europe. The post US Agencies Urge Organizations to Harden Refrigeration Controllers appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-06T13:02:26.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-06T13:54:46.013Z"
+  },
+  {
+   "id": "633c9dbcc2a808c5",
+   "title": "Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack",
+   "url": "https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/",
+   "summary": "The October incident will cut fourth-quarter sales by up to €250 million and has led Ahold Delhaize to lower its 2026 outlook. The post Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-06T12:47:55.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-06T13:54:46.013Z"
+  },
   {
    "id": "b2d97596ca12b7dd",
    "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
@@ -116,6 +159,36 @@
     "vuln"
    ],
    "firstSeen": "2026-11-06T12:37:54.024Z"
+  },
+  {
+   "id": "0b7161df55d908be",
+   "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
+   "url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+   "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build, 11.2609.401.0, was the newest Paint build in all ten countries The Hacker News…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-06T12:06:43.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-06T13:54:46.013Z"
+  },
+  {
+   "id": "bf3ff9f08f48ce87",
+   "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
+   "url": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
+   "summary": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispatch, a Claude feature that lets people send tasks from their…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-06T12:06:35.000Z",
+   "categories": [
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-06T13:54:46.013Z"
   },
   {
    "id": "be398781c151cc44",
@@ -2896,79 +2969,6 @@
    "published": "2026-10-30T10:40:45.000Z",
    "categories": [
     "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "3cbc97b6aa19cfe2",
-   "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
-   "summary": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-10-30T10:16:07.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "39d6a7f6ead7f2a3",
-   "title": "$2 Million+ Drained From Polymarket Traders in New Supply Chain Attack",
-   "url": "https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/",
-   "summary": "Malicious code linked to a website monitoring tool was designed to hijack logged-in Polymarket sessions and siphon user funds. The post $2 Million+ Drained From Polymarket Traders in New Supply Chain Attack appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-10-30T09:41:36.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "41afcfcd79a71253",
-   "title": "Max-Severity GitLab Vulnerability Exploited Against Alpine Linux",
-   "url": "https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/",
-   "summary": "Tracked as CVE-2026-97229, the bug allows unauthenticated attackers to execute arbitrary code on the server. The post Max-Severity GitLab Vulnerability Exploited Against Alpine Linux appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-10-30T09:32:27.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "c8c08faa4edd2a10",
-   "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
-   "url": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
-   "summary": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-10-30T09:18:13.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "4b53227f9f3bab60",
-   "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
-   "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
-   "summary": "Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent SSH backdoor on affected systems. The malicious update…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-30T08:55:47.000Z",
-   "categories": [
-    "malware",
-    "ai"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
   }
