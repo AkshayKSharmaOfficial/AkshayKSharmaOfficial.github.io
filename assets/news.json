@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-06T06:11:40.027Z",
- "lastAttempt": "2026-11-06T06:11:40.027Z",
+ "lastSuccess": "2026-11-06T07:32:12.752Z",
+ "lastAttempt": "2026-11-06T07:32:12.752Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T06:11:40.027Z",
-   "lastSuccess": "2026-11-06T06:11:40.027Z",
+   "checkedAt": "2026-11-06T07:32:12.752Z",
+   "lastSuccess": "2026-11-06T07:32:12.752Z",
    "etag": null,
-   "lastModified": "Fri, 6 Nov 2026 05:29:44 GMT"
+   "lastModified": "Fri, 6 Nov 2026 07:02:44 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T06:11:40.027Z",
-   "lastSuccess": "2026-11-06T06:11:40.027Z",
-   "etag": "a90c3db11281c7a10874ea16e0751c46",
-   "lastModified": "Fri, 06 Nov 2026 06:07:30 GMT"
+   "checkedAt": "2026-11-06T07:32:12.752Z",
+   "lastSuccess": "2026-11-06T07:32:12.752Z",
+   "etag": "cd9336634e9ce6619efa7a16334cc051",
+   "lastModified": "Fri, 06 Nov 2026 07:27:32 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T06:11:40.027Z",
-   "lastSuccess": "2026-11-06T06:11:40.027Z",
+   "checkedAt": "2026-11-06T07:32:12.752Z",
+   "lastSuccess": "2026-11-06T07:32:12.752Z",
    "etag": null,
    "lastModified": "Fri, 06 Nov 2026 06:02:16 GMT"
   },
@@ -43,11 +43,11 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T06:11:40.027Z",
-   "lastSuccess": "2026-11-06T06:11:40.027Z",
+   "checkedAt": "2026-11-06T07:32:12.752Z",
+   "lastSuccess": "2026-11-06T07:32:12.752Z",
    "etag": "\"5a1d439f4913e8edf2a48e02b3a70683\"",
    "lastModified": "Fri, 06 Nov 2026 05:06:41 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T06:11:40.027Z",
-   "lastSuccess": "2026-11-06T06:11:40.027Z",
+   "checkedAt": "2026-11-06T07:32:12.752Z",
+   "lastSuccess": "2026-11-06T07:32:12.752Z",
    "etag": null,
-   "lastModified": "Fri, 06 Nov 2026 06:11:40 GMT"
+   "lastModified": "Fri, 06 Nov 2026 07:32:13 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,43 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T06:11:40.027Z",
-   "lastSuccess": "2026-11-06T06:11:40.027Z",
+   "checkedAt": "2026-11-06T07:32:12.752Z",
+   "lastSuccess": "2026-11-06T07:32:12.752Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "97fd8de188fcd37e",
+   "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
+   "url": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
+   "summary": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes commands that attackers send via web requests, and those…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-06T05:58:54.000Z",
+   "categories": [
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-06T07:32:12.752Z"
+  },
+  {
+   "id": "985aa680f8ad9f7c",
+   "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
+   "url": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
+   "summary": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released patches on Monday, and the security firm watchTowr detailed the attack chain on…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-06T05:39:10.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-06T07:32:12.752Z"
+  },
   {
    "id": "13aac5edda1f8218",
    "title": "3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million",
@@ -2945,35 +2975,6 @@
     "malware",
     "ai",
     "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "7c9755a72d25d988",
-   "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
-   "url": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
-   "summary": "Obvious phishing emails with numerous red flags are somehow getting past some of the industry-leading secure email gateway (SEG) products.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-29T21:21:56.000Z",
-   "categories": [
-    "phishing",
-    "ai"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "c68ebfdf4bf59380",
-   "title": "Rethinking Cybersecurity Awareness in the AI Era",
-   "url": "https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era",
-   "summary": "This installment of the Reporters' Notebook video series discusses some of the trends and topics from Cybersecurity Awareness Month, from using AI for better training to educating next-generation workforces on modern risks and emerging threats.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-29T20:15:37.000Z",
-   "categories": [
-    "ai"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
   }
