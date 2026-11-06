@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-06T19:36:58.148Z",
- "lastAttempt": "2026-11-06T19:36:58.148Z",
+ "lastSuccess": "2026-11-06T20:28:11.354Z",
+ "lastAttempt": "2026-11-06T20:28:11.354Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T19:36:58.148Z",
-   "lastSuccess": "2026-11-06T19:36:58.148Z",
+   "checkedAt": "2026-11-06T20:28:11.354Z",
+   "lastSuccess": "2026-11-06T20:28:11.354Z",
    "etag": null,
    "lastModified": "Fri, 6 Nov 2026 19:29:01 GMT"
   },
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T19:36:58.148Z",
-   "lastSuccess": "2026-11-06T19:36:58.148Z",
-   "etag": "f773d6ef7a44e71a40a79a3826b62c77",
-   "lastModified": "Fri, 06 Nov 2026 19:36:54 GMT"
+   "checkedAt": "2026-11-06T20:28:11.354Z",
+   "lastSuccess": "2026-11-06T20:28:11.354Z",
+   "etag": "cdd158428bd24676ed74bad3cba4eb6c",
+   "lastModified": "Fri, 06 Nov 2026 20:24:20 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T19:36:58.148Z",
-   "lastSuccess": "2026-11-06T19:36:58.148Z",
+   "checkedAt": "2026-11-06T20:28:11.354Z",
+   "lastSuccess": "2026-11-06T20:28:11.354Z",
    "etag": null,
    "lastModified": "Fri, 06 Nov 2026 19:32:59 GMT"
   },
@@ -43,11 +43,11 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T19:36:58.148Z",
-   "lastSuccess": "2026-11-06T19:36:58.148Z",
+   "checkedAt": "2026-11-06T20:28:11.354Z",
+   "lastSuccess": "2026-11-06T20:28:11.354Z",
    "etag": "\"18834b354bfba635551860220579dfed\"",
    "lastModified": "Fri, 06 Nov 2026 18:28:44 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T19:36:58.148Z",
-   "lastSuccess": "2026-11-06T19:36:58.148Z",
+   "checkedAt": "2026-11-06T20:28:11.354Z",
+   "lastSuccess": "2026-11-06T20:28:11.354Z",
    "etag": null,
-   "lastModified": "Fri, 06 Nov 2026 19:36:59 GMT"
+   "lastModified": "Fri, 06 Nov 2026 20:28:11 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T19:36:58.148Z",
-   "lastSuccess": "2026-11-06T19:36:58.148Z",
+   "checkedAt": "2026-11-06T20:28:11.354Z",
+   "lastSuccess": "2026-11-06T20:28:11.354Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "475a426314ccb743",
+   "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+   "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+   "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-06T20:24:19.000Z",
+   "categories": [
+    "vuln",
+    "ai"
+   ],
+   "firstSeen": "2026-11-06T20:28:11.354Z"
+  },
   {
    "id": "6e832e0a535990c0",
    "title": "Fake security tools on GitHub push backdoors and infostealers",
@@ -2955,21 +2970,6 @@
    "categories": [
     "breach",
     "vuln",
-    "malware",
-    "ai"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "b400bfb43e9f4bf1",
-   "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
-   "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
-   "summary": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH backdoors. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-10-30T14:36:54.000Z",
-   "categories": [
     "malware",
     "ai"
    ],
