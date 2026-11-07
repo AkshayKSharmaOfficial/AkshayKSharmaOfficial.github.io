@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-07T07:33:18.029Z",
- "lastAttempt": "2026-11-07T07:33:18.029Z",
+ "lastSuccess": "2026-11-07T08:29:42.566Z",
+ "lastAttempt": "2026-11-07T08:29:42.566Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-07T07:33:18.029Z",
-   "lastSuccess": "2026-11-07T07:33:18.029Z",
+   "checkedAt": "2026-11-07T08:29:42.566Z",
+   "lastSuccess": "2026-11-07T08:29:42.566Z",
    "etag": null,
-   "lastModified": "Sat, 7 Nov 2026 06:28:43 GMT"
+   "lastModified": "Sat, 7 Nov 2026 08:19:53 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-07T07:33:18.029Z",
-   "lastSuccess": "2026-11-07T07:33:18.029Z",
-   "etag": "892df62104e639c69619d1d38f23176f",
-   "lastModified": "Sat, 07 Nov 2026 07:31:09 GMT"
+   "checkedAt": "2026-11-07T08:29:42.566Z",
+   "lastSuccess": "2026-11-07T08:29:42.566Z",
+   "etag": "844d12fd0583dc659f8a115d2917ff44",
+   "lastModified": "Sat, 07 Nov 2026 08:21:10 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-07T07:33:18.029Z",
-   "lastSuccess": "2026-11-07T07:33:18.029Z",
+   "checkedAt": "2026-11-07T08:29:42.566Z",
+   "lastSuccess": "2026-11-07T08:29:42.566Z",
    "etag": null,
    "lastModified": "Sat, 07 Nov 2026 03:15:51 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-07T07:33:18.029Z",
-   "lastSuccess": "2026-11-07T07:33:18.029Z",
+   "checkedAt": "2026-11-07T08:29:42.566Z",
+   "lastSuccess": "2026-11-07T08:29:42.566Z",
    "etag": "\"18834b354bfba635551860220579dfed\"",
    "lastModified": "Fri, 06 Nov 2026 18:28:44 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-07T07:33:18.029Z",
-   "lastSuccess": "2026-11-07T07:33:18.029Z",
+   "checkedAt": "2026-11-07T08:29:42.566Z",
+   "lastSuccess": "2026-11-07T08:29:42.566Z",
    "etag": null,
-   "lastModified": "Sat, 07 Nov 2026 07:33:18 GMT"
+   "lastModified": "Sat, 07 Nov 2026 08:29:42 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-07T07:33:18.029Z",
+   "checkedAt": "2026-11-07T08:29:42.566Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "9989e939e148877e",
+   "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+   "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+   "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-07T06:44:17.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-07T08:29:42.566Z"
+  },
   {
    "id": "861b6673b06bfc81",
    "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
@@ -2959,18 +2973,6 @@
     "ai",
     "attack"
    ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "779acaa6d3ce1805",
-   "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
-   "url": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
-   "summary": "Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-10-30T15:58:20.000Z",
-   "categories": [],
    "firstSeen": "2026-10-31T17:20:17.242Z"
   }
  ]
