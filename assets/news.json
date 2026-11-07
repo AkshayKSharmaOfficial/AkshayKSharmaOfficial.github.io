@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-06T23:31:51.129Z",
- "lastAttempt": "2026-11-06T23:31:51.129Z",
+ "lastSuccess": "2026-11-07T00:18:34.042Z",
+ "lastAttempt": "2026-11-07T00:18:34.042Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T23:31:51.129Z",
-   "lastSuccess": "2026-11-06T23:31:51.129Z",
+   "checkedAt": "2026-11-07T00:18:34.042Z",
+   "lastSuccess": "2026-11-07T00:18:34.042Z",
    "etag": null,
-   "lastModified": "Fri, 6 Nov 2026 22:19:06 GMT"
+   "lastModified": "Fri, 6 Nov 2026 23:45:13 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T23:31:51.129Z",
-   "lastSuccess": "2026-11-06T23:31:51.129Z",
-   "etag": "7d04782dd666bc8caf271fd31abed40a",
-   "lastModified": "Fri, 06 Nov 2026 23:27:28 GMT"
+   "checkedAt": "2026-11-07T00:18:34.042Z",
+   "lastSuccess": "2026-11-07T00:18:34.042Z",
+   "etag": "69d96d88a828dfac3c7e92f49ebee400",
+   "lastModified": "Sat, 07 Nov 2026 00:10:55 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T23:31:51.129Z",
-   "lastSuccess": "2026-11-06T23:31:51.129Z",
+   "checkedAt": "2026-11-07T00:18:34.042Z",
+   "lastSuccess": "2026-11-07T00:18:34.042Z",
    "etag": null,
-   "lastModified": "Fri, 06 Nov 2026 20:59:15 GMT"
+   "lastModified": "Sat, 07 Nov 2026 00:05:38 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T23:31:51.129Z",
-   "lastSuccess": "2026-11-06T23:31:51.129Z",
+   "checkedAt": "2026-11-07T00:18:34.042Z",
+   "lastSuccess": "2026-11-07T00:18:34.042Z",
    "etag": "\"18834b354bfba635551860220579dfed\"",
    "lastModified": "Fri, 06 Nov 2026 18:28:44 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-06T23:31:51.129Z",
-   "lastSuccess": "2026-11-06T23:31:51.129Z",
+   "checkedAt": "2026-11-07T00:18:34.042Z",
+   "lastSuccess": "2026-11-07T00:18:34.042Z",
    "etag": null,
-   "lastModified": "Fri, 06 Nov 2026 23:31:51 GMT"
+   "lastModified": "Sat, 07 Nov 2026 00:18:34 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-06T23:31:51.129Z",
+   "checkedAt": "2026-11-07T00:18:34.042Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "861b6673b06bfc81",
+   "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+   "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-07T00:00:55.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-07T00:18:34.042Z"
+  },
   {
    "id": "1d7d8563b7aa14eb",
    "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
@@ -2955,18 +2970,6 @@
    "sourceId": "bleeping",
    "kind": "media",
    "published": "2026-10-30T15:58:20.000Z",
-   "categories": [],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "dd96dcb1c441c704",
-   "title": "L’Italia è afflitta da vulnerabilità informatiche, senza una causa chiara",
-   "url": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian",
-   "summary": "I ricercatori non riescono a spiegare del tutto perché le minacce informatiche in Italia siano così diverse rispetto a quelle di qualsiasi altro Paese.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-30T15:39:54.000Z",
    "categories": [],
    "firstSeen": "2026-10-31T17:20:17.242Z"
   }
