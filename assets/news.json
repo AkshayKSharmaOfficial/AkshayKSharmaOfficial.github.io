@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-07T13:25:56.075Z",
- "lastAttempt": "2026-11-07T13:25:56.075Z",
+ "lastSuccess": "2026-11-07T14:15:15.759Z",
+ "lastAttempt": "2026-11-07T14:15:15.759Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-07T13:25:56.075Z",
-   "lastSuccess": "2026-11-07T13:25:56.075Z",
+   "checkedAt": "2026-11-07T14:15:15.759Z",
+   "lastSuccess": "2026-11-07T14:15:15.759Z",
    "etag": null,
-   "lastModified": "Sat, 7 Nov 2026 12:30:23 GMT"
+   "lastModified": "Sat, 7 Nov 2026 13:38:39 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-07T13:25:56.075Z",
-   "lastSuccess": "2026-11-07T13:25:56.075Z",
-   "etag": "bb72933e52fd50fb5eaf4cbc13275cd3",
-   "lastModified": "Sat, 07 Nov 2026 13:21:19 GMT"
+   "checkedAt": "2026-11-07T14:15:15.759Z",
+   "lastSuccess": "2026-11-07T14:15:15.759Z",
+   "etag": "708cd0069506efc3506f391166430024",
+   "lastModified": "Sat, 07 Nov 2026 14:11:21 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-07T13:25:56.075Z",
-   "lastSuccess": "2026-11-07T13:25:56.075Z",
+   "checkedAt": "2026-11-07T14:15:15.759Z",
+   "lastSuccess": "2026-11-07T14:15:15.759Z",
    "etag": null,
    "lastModified": "Sat, 07 Nov 2026 11:20:29 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-07T13:25:56.075Z",
-   "lastSuccess": "2026-11-07T13:25:56.075Z",
+   "checkedAt": "2026-11-07T14:15:15.759Z",
+   "lastSuccess": "2026-11-07T14:15:15.759Z",
    "etag": "\"c57b47138e4e64ec335d9d584185f742\"",
    "lastModified": "Sat, 07 Nov 2026 10:22:43 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-07T13:25:56.075Z",
-   "lastSuccess": "2026-11-07T13:25:56.075Z",
+   "checkedAt": "2026-11-07T14:15:15.759Z",
+   "lastSuccess": "2026-11-07T14:15:15.759Z",
    "etag": null,
-   "lastModified": "Sat, 07 Nov 2026 13:25:56 GMT"
+   "lastModified": "Sat, 07 Nov 2026 14:15:16 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-07T13:25:56.075Z",
+   "checkedAt": "2026-11-07T14:15:15.759Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "6ce803e7c24ab6cd",
+   "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+   "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+   "summary": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification steps and affiliate networks to generate…",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-07T14:10:19.000Z",
+   "categories": [
+    "phishing"
+   ],
+   "firstSeen": "2026-11-07T14:15:15.759Z"
+  },
   {
    "id": "95f744e469bb2d9f",
    "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
@@ -2958,20 +2972,6 @@
    "published": "2026-10-30T20:05:58.000Z",
    "categories": [
     "ai"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "27d47eaf2781d4fd",
-   "title": "Behind the Scenes of How Operation Blackout Went Down",
-   "url": "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
-   "summary": "A recent law enforcement operation to dismantle harmful scam centers was a big success. A threat intelligence expert walks us through what happened and why he wants more of the same.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-10-30T19:46:08.000Z",
-   "categories": [
-    "phishing"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
   }
