@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-08T15:09:26.573Z",
- "lastAttempt": "2026-11-08T15:09:26.573Z",
+ "lastSuccess": "2026-11-08T15:48:16.879Z",
+ "lastAttempt": "2026-11-08T15:48:16.879Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-08T15:09:26.573Z",
-   "lastSuccess": "2026-11-08T15:09:26.573Z",
+   "checkedAt": "2026-11-08T15:48:16.879Z",
+   "lastSuccess": "2026-11-08T15:48:16.879Z",
    "etag": null,
-   "lastModified": "Sun, 8 Nov 2026 15:06:51 GMT"
+   "lastModified": "Sun, 8 Nov 2026 15:40:50 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-08T15:09:26.573Z",
-   "lastSuccess": "2026-11-08T15:09:26.573Z",
-   "etag": "217942665b1f7f444830f93aeec23f56",
-   "lastModified": "Sun, 08 Nov 2026 15:02:06 GMT"
+   "checkedAt": "2026-11-08T15:48:16.879Z",
+   "lastSuccess": "2026-11-08T15:48:16.879Z",
+   "etag": "dabe5a608e75b6044d676e7e53df0256",
+   "lastModified": "Sun, 08 Nov 2026 15:43:08 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-08T15:09:26.573Z",
-   "lastSuccess": "2026-11-08T15:09:26.573Z",
+   "checkedAt": "2026-11-08T15:48:16.879Z",
+   "lastSuccess": "2026-11-08T15:48:16.879Z",
    "etag": null,
    "lastModified": "Sun, 08 Nov 2026 14:17:31 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-08T15:09:26.573Z",
-   "lastSuccess": "2026-11-08T15:09:26.573Z",
+   "checkedAt": "2026-11-08T15:48:16.879Z",
+   "lastSuccess": "2026-11-08T15:48:16.879Z",
    "etag": "\"e29887b61a21c90975f0fe2eda79050c\"",
    "lastModified": "Sun, 08 Nov 2026 12:14:00 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-08T15:09:26.573Z",
-   "lastSuccess": "2026-11-08T15:09:26.573Z",
+   "checkedAt": "2026-11-08T15:48:16.879Z",
+   "lastSuccess": "2026-11-08T15:48:16.879Z",
    "etag": null,
-   "lastModified": "Sun, 08 Nov 2026 15:09:27 GMT"
+   "lastModified": "Sun, 08 Nov 2026 15:48:17 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-08T15:09:26.573Z",
+   "checkedAt": "2026-11-08T15:48:16.879Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "a1a0bc62a0fefbfb",
+   "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+   "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+   "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-08T15:43:08.000Z",
+   "categories": [
+    "breach"
+   ],
+   "firstSeen": "2026-11-08T15:48:16.879Z"
+  },
   {
    "id": "7a3cca9331495d22",
    "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
@@ -2959,22 +2973,6 @@
    "kind": "media",
    "published": "2026-10-31T04:56:12.000Z",
    "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "a0383c3361960393",
-   "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
-   "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
-   "summary": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-10-30T21:09:46.000Z",
-   "categories": [
-    "vuln",
-    "ai",
     "attack"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
