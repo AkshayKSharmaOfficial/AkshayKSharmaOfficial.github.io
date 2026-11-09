@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-09T16:58:32.639Z",
- "lastAttempt": "2026-11-09T16:58:32.639Z",
+ "lastSuccess": "2026-11-09T17:55:26.366Z",
+ "lastAttempt": "2026-11-09T17:55:26.366Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T16:58:32.639Z",
-   "lastSuccess": "2026-11-09T16:58:32.639Z",
+   "checkedAt": "2026-11-09T17:55:26.366Z",
+   "lastSuccess": "2026-11-09T17:55:26.366Z",
    "etag": null,
-   "lastModified": "Mon, 9 Nov 2026 16:07:46 GMT"
+   "lastModified": "Mon, 9 Nov 2026 17:00:29 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T16:58:32.639Z",
-   "lastSuccess": "2026-11-09T16:58:32.639Z",
-   "etag": "7b6567767d19fbb16e34512b9e655ec2",
-   "lastModified": "Mon, 09 Nov 2026 16:52:41 GMT"
+   "checkedAt": "2026-11-09T17:55:26.366Z",
+   "lastSuccess": "2026-11-09T17:55:26.366Z",
+   "etag": "ef72814d5964d8bee37428c8650cf0f7",
+   "lastModified": "Mon, 09 Nov 2026 17:50:33 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T16:58:32.639Z",
-   "lastSuccess": "2026-11-09T16:58:32.639Z",
+   "checkedAt": "2026-11-09T17:55:26.366Z",
+   "lastSuccess": "2026-11-09T17:55:26.366Z",
    "etag": null,
    "lastModified": "Mon, 09 Nov 2026 12:38:08 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T16:58:32.639Z",
-   "lastSuccess": "2026-11-09T16:58:32.639Z",
+   "checkedAt": "2026-11-09T17:55:26.366Z",
+   "lastSuccess": "2026-11-09T17:55:26.366Z",
    "etag": "\"827f389a98a40de7f867c04437b8d425\"",
    "lastModified": "Mon, 09 Nov 2026 14:08:12 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T16:58:32.639Z",
-   "lastSuccess": "2026-11-09T16:58:32.639Z",
+   "checkedAt": "2026-11-09T17:55:26.366Z",
+   "lastSuccess": "2026-11-09T17:55:26.366Z",
    "etag": null,
-   "lastModified": "Mon, 09 Nov 2026 16:58:33 GMT"
+   "lastModified": "Mon, 09 Nov 2026 17:55:27 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,42 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-09T16:58:32.639Z",
+   "checkedAt": "2026-11-09T17:55:26.366Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "42f0acbca6ef4f21",
+   "title": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
+   "url": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
+   "summary": "A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-09T17:50:32.000Z",
+   "categories": [
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-09T17:55:26.366Z"
+  },
+  {
+   "id": "b2934cf8195cf227",
+   "title": "PwC's CISO on AI, Robots & What's Next for Security",
+   "url": "https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security",
+   "summary": "As AI accelerates change across the enterprise, PwC's James Shira explains why security teams must rethink their approach to risk and adapt their strategies.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-09T17:17:23.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-09T17:55:26.366Z"
+  },
   {
    "id": "aa639e32fd08dfd4",
    "title": "Binance denies data breach after alleged ShinyHunters claims",
@@ -2941,35 +2970,6 @@
    "published": "2026-11-02T11:28:42.000Z",
    "categories": [
     "ransomware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-02T12:22:37.651Z"
-  },
-  {
-   "id": "f801cd5ccac777b3",
-   "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
-   "url": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
-   "summary": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates for privileged accounts, including one for a domain…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-02T11:08:45.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-02T12:22:37.651Z"
-  },
-  {
-   "id": "6aca75eb89cc0e00",
-   "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
-   "url": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
-   "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure. The activity, observed by Palo Alto Networks Unit 42 between October 2025 and…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-02T10:49:59.000Z",
-   "categories": [
-    "ai",
     "attack"
    ],
    "firstSeen": "2026-11-02T12:22:37.651Z"
