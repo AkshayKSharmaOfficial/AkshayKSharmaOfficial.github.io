@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-09T10:34:08.096Z",
- "lastAttempt": "2026-11-09T10:34:08.096Z",
+ "lastSuccess": "2026-11-09T11:37:42.172Z",
+ "lastAttempt": "2026-11-09T11:37:42.172Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T10:34:08.096Z",
-   "lastSuccess": "2026-11-09T10:34:08.096Z",
+   "checkedAt": "2026-11-09T11:37:42.172Z",
+   "lastSuccess": "2026-11-09T11:37:42.172Z",
    "etag": null,
-   "lastModified": "Mon, 9 Nov 2026 09:48:37 GMT"
+   "lastModified": "Mon, 9 Nov 2026 10:50:11 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T10:34:08.096Z",
-   "lastSuccess": "2026-11-09T10:34:08.096Z",
-   "etag": "f662950342746018f55edf9d2bed278d",
-   "lastModified": "Mon, 09 Nov 2026 10:31:12 GMT"
+   "checkedAt": "2026-11-09T11:37:42.172Z",
+   "lastSuccess": "2026-11-09T11:37:42.172Z",
+   "etag": "f04f02ab1e94fdf0f3b87622be2f8586",
+   "lastModified": "Mon, 09 Nov 2026 11:31:13 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T10:34:08.096Z",
-   "lastSuccess": "2026-11-09T10:34:08.096Z",
+   "checkedAt": "2026-11-09T11:37:42.172Z",
+   "lastSuccess": "2026-11-09T11:37:42.172Z",
    "etag": null,
    "lastModified": "Mon, 09 Nov 2026 10:25:38 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T10:34:08.096Z",
-   "lastSuccess": "2026-11-09T10:34:08.096Z",
-   "etag": "\"ec8b90b751ca26f39f2551c6840687b5\"",
-   "lastModified": "Mon, 09 Nov 2026 10:10:44 GMT"
+   "checkedAt": "2026-11-09T11:37:42.172Z",
+   "lastSuccess": "2026-11-09T11:37:42.172Z",
+   "etag": "\"65b5720aeddfd77d876ccbd2765d319f\"",
+   "lastModified": "Mon, 09 Nov 2026 11:20:14 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T10:34:08.096Z",
-   "lastSuccess": "2026-11-09T10:34:08.096Z",
+   "checkedAt": "2026-11-09T11:37:42.172Z",
+   "lastSuccess": "2026-11-09T11:37:42.172Z",
    "etag": null,
-   "lastModified": "Mon, 09 Nov 2026 10:34:08 GMT"
+   "lastModified": "Mon, 09 Nov 2026 11:37:42 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-09T10:34:08.096Z",
+   "checkedAt": "2026-11-09T11:37:42.172Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "646d9cab774eeee1",
+   "title": "Amplifon Americas Data Breach Impacts 1.3 Million",
+   "url": "https://www.securityweek.com/amplifon-americas-data-breach-impacts-1-3-million/",
+   "summary": "Hackers stole personal, health, and insurance information, including Social Security numbers, from the company’s internal systems. The post Amplifon Americas Data Breach Impacts 1.3 Million appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-09T11:20:09.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-09T11:37:42.172Z"
+  },
   {
    "id": "f3159fcedf3c2873",
    "title": "Over 3 Million People Hit by Frontline Education Data Breach",
@@ -90,6 +105,20 @@
     "breach"
    ],
    "firstSeen": "2026-11-09T10:34:08.096Z"
+  },
+  {
+   "id": "4cf8ced66f8a8e1b",
+   "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
+   "url": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
+   "summary": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday. It has several security fixes to release and asked operators to be careful until they are out. One operator…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-09T10:01:21.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-09T11:37:42.172Z"
   },
   {
    "id": "b6da29b835091ff5",
@@ -2945,33 +2974,6 @@
    "categories": [
     "vuln",
     "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "cec9da9a076c451c",
-   "title": "Reddit to lock content behind logins to fight scrapers",
-   "url": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
-   "summary": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-10-31T14:05:15.000Z",
-   "categories": [],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "d1cb96f523f5f929",
-   "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
-   "url": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
-   "summary": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity skills, use AI responsibly, and produce reproducible…",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-10-31T13:10:19.000Z",
-   "categories": [
-    "vuln",
-    "ai"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
   }
