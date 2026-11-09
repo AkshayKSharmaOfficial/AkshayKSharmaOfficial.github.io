@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-09T21:43:42.145Z",
- "lastAttempt": "2026-11-09T21:43:42.145Z",
+ "lastSuccess": "2026-11-09T22:29:53.859Z",
+ "lastAttempt": "2026-11-09T22:29:53.859Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T21:43:42.145Z",
-   "lastSuccess": "2026-11-09T21:43:42.145Z",
+   "checkedAt": "2026-11-09T22:29:53.859Z",
+   "lastSuccess": "2026-11-09T22:29:53.859Z",
    "etag": null,
    "lastModified": "Mon, 9 Nov 2026 21:28:08 GMT"
   },
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T21:43:42.145Z",
-   "lastSuccess": "2026-11-09T21:43:42.145Z",
-   "etag": "81818d64a8a50e211ba3e90f2cf00c4e",
-   "lastModified": "Mon, 09 Nov 2026 21:36:39 GMT"
+   "checkedAt": "2026-11-09T22:29:53.859Z",
+   "lastSuccess": "2026-11-09T22:29:53.859Z",
+   "etag": "18a0067590c52191629a2ff9e2c028bc",
+   "lastModified": "Mon, 09 Nov 2026 22:29:35 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T21:43:42.145Z",
-   "lastSuccess": "2026-11-09T21:43:42.145Z",
+   "checkedAt": "2026-11-09T22:29:53.859Z",
+   "lastSuccess": "2026-11-09T22:29:53.859Z",
    "etag": null,
    "lastModified": "Mon, 09 Nov 2026 21:42:08 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T21:43:42.145Z",
-   "lastSuccess": "2026-11-09T21:43:42.145Z",
+   "checkedAt": "2026-11-09T22:29:53.859Z",
+   "lastSuccess": "2026-11-09T22:29:53.859Z",
    "etag": "\"827f389a98a40de7f867c04437b8d425\"",
    "lastModified": "Mon, 09 Nov 2026 14:08:12 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T21:43:42.145Z",
-   "lastSuccess": "2026-11-09T21:43:42.145Z",
+   "checkedAt": "2026-11-09T22:29:53.859Z",
+   "lastSuccess": "2026-11-09T22:29:53.859Z",
    "etag": null,
-   "lastModified": "Mon, 09 Nov 2026 21:43:42 GMT"
+   "lastModified": "Mon, 09 Nov 2026 22:29:54 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-09T21:43:42.145Z",
+   "checkedAt": "2026-11-09T22:29:53.859Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "2ca0ba214d210ba6",
+   "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
+   "url": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+   "summary": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-09T22:09:33.000Z",
+   "categories": [
+    "breach"
+   ],
+   "firstSeen": "2026-11-09T22:29:53.859Z"
+  },
   {
    "id": "b2067806401f2439",
    "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
@@ -2960,20 +2974,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-02T15:38:36.606Z"
-  },
-  {
-   "id": "f410984220599761",
-   "title": "Hackers disrupt refrigeration systems at European supermarkets",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
-   "summary": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-02T14:28:39.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-02T14:41:09.871Z"
   }
  ]
 }
