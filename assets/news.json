@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-09T06:50:04.561Z",
- "lastAttempt": "2026-11-09T06:50:04.561Z",
+ "lastSuccess": "2026-11-09T08:21:42.025Z",
+ "lastAttempt": "2026-11-09T08:21:42.025Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T06:50:04.561Z",
-   "lastSuccess": "2026-11-09T06:50:04.561Z",
+   "checkedAt": "2026-11-09T08:21:42.025Z",
+   "lastSuccess": "2026-11-09T08:21:42.025Z",
    "etag": null,
-   "lastModified": "Mon, 9 Nov 2026 06:06:37 GMT"
+   "lastModified": "Mon, 9 Nov 2026 07:53:05 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T06:50:04.561Z",
-   "lastSuccess": "2026-11-09T06:50:04.561Z",
-   "etag": "708c7c2c4fed46fe644f6338c2d421f0",
-   "lastModified": "Mon, 09 Nov 2026 06:43:36 GMT"
+   "checkedAt": "2026-11-09T08:21:42.025Z",
+   "lastSuccess": "2026-11-09T08:21:42.025Z",
+   "etag": "15335314d5b92bba2fd23d3db0355b80",
+   "lastModified": "Mon, 09 Nov 2026 08:13:39 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T06:50:04.561Z",
-   "lastSuccess": "2026-11-09T06:50:04.561Z",
+   "checkedAt": "2026-11-09T08:21:42.025Z",
+   "lastSuccess": "2026-11-09T08:21:42.025Z",
    "etag": null,
-   "lastModified": "Mon, 09 Nov 2026 06:41:45 GMT"
+   "lastModified": "Mon, 09 Nov 2026 08:14:03 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T06:50:04.561Z",
-   "lastSuccess": "2026-11-09T06:50:04.561Z",
+   "checkedAt": "2026-11-09T08:21:42.025Z",
+   "lastSuccess": "2026-11-09T08:21:42.025Z",
    "etag": "\"e29887b61a21c90975f0fe2eda79050c\"",
    "lastModified": "Sun, 08 Nov 2026 12:14:00 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T06:50:04.561Z",
-   "lastSuccess": "2026-11-09T06:50:04.561Z",
+   "checkedAt": "2026-11-09T08:21:42.025Z",
+   "lastSuccess": "2026-11-09T08:21:42.025Z",
    "etag": null,
-   "lastModified": "Mon, 09 Nov 2026 06:50:05 GMT"
+   "lastModified": "Mon, 09 Nov 2026 08:21:42 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,42 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-09T06:50:04.561Z",
+   "checkedAt": "2026-11-09T08:21:42.025Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "403a72428fe29edd",
+   "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+   "url": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+   "summary": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made an appearance in San Francisco federal…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-09T07:05:48.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-09T08:21:42.025Z"
+  },
+  {
+   "id": "58a4982824420547",
+   "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
+   "url": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
+   "summary": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inventory. \"The actors may exploit vulnerabilities or…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-09T06:15:10.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-09T08:21:42.025Z"
+  },
   {
    "id": "4d02c260bfd3474b",
    "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
@@ -2943,37 +2972,6 @@
    "kind": "media",
    "published": "2026-10-31T11:00:00.000Z",
    "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "c305d693e177d5ef",
-   "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
-   "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild. The vulnerabilities are listed below…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-31T08:27:43.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "09f142bd2640f272",
-   "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
-   "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
-   "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed. The researchers reported the flaw through OpenAI's bug bounty…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-31T05:33:41.000Z",
-   "categories": [
-    "vuln",
-    "ai",
     "attack"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
