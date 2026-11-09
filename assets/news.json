@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-09T14:54:00.492Z",
- "lastAttempt": "2026-11-09T14:54:00.492Z",
+ "lastSuccess": "2026-11-09T15:53:51.590Z",
+ "lastAttempt": "2026-11-09T15:53:51.590Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T14:54:00.492Z",
-   "lastSuccess": "2026-11-09T14:54:00.492Z",
+   "checkedAt": "2026-11-09T15:53:51.590Z",
+   "lastSuccess": "2026-11-09T15:53:51.590Z",
    "etag": null,
-   "lastModified": "Mon, 9 Nov 2026 14:19:56 GMT"
+   "lastModified": "Mon, 9 Nov 2026 15:22:00 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T14:54:00.492Z",
-   "lastSuccess": "2026-11-09T14:54:00.492Z",
-   "etag": "8738936a03286126c9beaa769743afc4",
-   "lastModified": "Mon, 09 Nov 2026 14:44:05 GMT"
+   "checkedAt": "2026-11-09T15:53:51.590Z",
+   "lastSuccess": "2026-11-09T15:53:51.590Z",
+   "etag": "aef8b97e1f99cbe890928e8007201b8b",
+   "lastModified": "Mon, 09 Nov 2026 15:47:13 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T14:54:00.492Z",
-   "lastSuccess": "2026-11-09T14:54:00.492Z",
+   "checkedAt": "2026-11-09T15:53:51.590Z",
+   "lastSuccess": "2026-11-09T15:53:51.590Z",
    "etag": null,
    "lastModified": "Mon, 09 Nov 2026 12:38:08 GMT"
   },
@@ -43,11 +43,11 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T14:54:00.492Z",
-   "lastSuccess": "2026-11-09T14:54:00.492Z",
+   "checkedAt": "2026-11-09T15:53:51.590Z",
+   "lastSuccess": "2026-11-09T15:53:51.590Z",
    "etag": "\"827f389a98a40de7f867c04437b8d425\"",
    "lastModified": "Mon, 09 Nov 2026 14:08:12 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T14:54:00.492Z",
-   "lastSuccess": "2026-11-09T14:54:00.492Z",
+   "checkedAt": "2026-11-09T15:53:51.590Z",
+   "lastSuccess": "2026-11-09T15:53:51.590Z",
    "etag": null,
-   "lastModified": "Mon, 09 Nov 2026 14:54:00 GMT"
+   "lastModified": "Mon, 09 Nov 2026 15:53:52 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-09T14:54:00.492Z",
+   "checkedAt": "2026-11-09T15:53:51.590Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "1757fa2edacdf9d9",
+   "title": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
+   "url": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
+   "summary": "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC workplace: data literacy, agent governance, and communication. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-09T15:05:15.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-09T15:53:51.590Z"
+  },
   {
    "id": "43d753ff40f1d434",
    "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
@@ -91,6 +105,21 @@
     "attack"
    ],
    "firstSeen": "2026-11-09T14:54:00.492Z"
+  },
+  {
+   "id": "99ca2ce9ce5fc1e7",
+   "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
+   "url": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
+   "summary": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote access trojan called PapRAT. \"PapRAT has both C++ and Rust…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-09T14:31:29.000Z",
+   "categories": [
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-09T15:53:51.590Z"
   },
   {
    "id": "d1f3cbdb07a892e4",
@@ -2946,35 +2975,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-02T10:28:32.784Z"
-  },
-  {
-   "id": "fb900c05a619777c",
-   "title": "FBI Flags Over 600 Addresses Tied to North Korea’s Binance Heist",
-   "url": "https://www.securityweek.com/fbi-flags-over-600-addresses-tied-to-north-koreas-binance-heist/",
-   "summary": "The FBI has officially pinned the $6 billion Binance hack on North Korea’s TraderTraitor as the attackers launder the stolen crypto. The post FBI Flags Over 600 Addresses Tied to North Korea’s Binance Heist appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-02T08:40:36.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-02T09:19:21.622Z"
-  },
-  {
-   "id": "af88cc876cf1a375",
-   "title": "Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain",
-   "url": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/",
-   "summary": "CISA has added CVE-2026-111357 and CVE-2026-118527 to its KEV catalog after the Ivanti VPN flaws were chained in zero-day attacks. The post Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-02T07:57:49.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-02T08:08:36.524Z"
   }
  ]
 }
