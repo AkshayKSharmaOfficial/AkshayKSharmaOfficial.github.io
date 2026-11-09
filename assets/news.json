@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-09T17:55:26.366Z",
- "lastAttempt": "2026-11-09T17:55:26.366Z",
+ "lastSuccess": "2026-11-09T18:48:35.269Z",
+ "lastAttempt": "2026-11-09T18:48:35.269Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T17:55:26.366Z",
-   "lastSuccess": "2026-11-09T17:55:26.366Z",
+   "checkedAt": "2026-11-09T18:48:35.269Z",
+   "lastSuccess": "2026-11-09T18:48:35.269Z",
    "etag": null,
-   "lastModified": "Mon, 9 Nov 2026 17:00:29 GMT"
+   "lastModified": "Mon, 9 Nov 2026 18:01:10 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T17:55:26.366Z",
-   "lastSuccess": "2026-11-09T17:55:26.366Z",
-   "etag": "ef72814d5964d8bee37428c8650cf0f7",
-   "lastModified": "Mon, 09 Nov 2026 17:50:33 GMT"
+   "checkedAt": "2026-11-09T18:48:35.269Z",
+   "lastSuccess": "2026-11-09T18:48:35.269Z",
+   "etag": "517d67184993aeca755051dd21a0c8e4",
+   "lastModified": "Mon, 09 Nov 2026 18:43:17 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T17:55:26.366Z",
-   "lastSuccess": "2026-11-09T17:55:26.366Z",
+   "checkedAt": "2026-11-09T18:48:35.269Z",
+   "lastSuccess": "2026-11-09T18:48:35.269Z",
    "etag": null,
    "lastModified": "Mon, 09 Nov 2026 12:38:08 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T17:55:26.366Z",
-   "lastSuccess": "2026-11-09T17:55:26.366Z",
+   "checkedAt": "2026-11-09T18:48:35.269Z",
+   "lastSuccess": "2026-11-09T18:48:35.269Z",
    "etag": "\"827f389a98a40de7f867c04437b8d425\"",
    "lastModified": "Mon, 09 Nov 2026 14:08:12 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T17:55:26.366Z",
-   "lastSuccess": "2026-11-09T17:55:26.366Z",
+   "checkedAt": "2026-11-09T18:48:35.269Z",
+   "lastSuccess": "2026-11-09T18:48:35.269Z",
    "etag": null,
-   "lastModified": "Mon, 09 Nov 2026 17:55:27 GMT"
+   "lastModified": "Mon, 09 Nov 2026 18:48:35 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,59 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-09T17:55:26.366Z",
+   "checkedAt": "2026-11-09T18:48:35.269Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "2b5ae2d2ad027187",
+   "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
+   "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
+   "summary": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at least 15 fires. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-09T18:32:42.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-09T18:48:35.269Z"
+  },
+  {
+   "id": "df5936412b6b7e21",
+   "title": "Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux",
+   "url": "https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux",
+   "summary": "Attackers can exploit a flaw in Claude's document-processing tool by creating a temporary file that Anthropic's AI assistant can access and run on a user's machine.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-09T18:08:30.000Z",
+   "categories": [
+    "vuln",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-09T18:48:35.269Z"
+  },
+  {
+   "id": "ee5e2ceda03abe1e",
+   "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
+   "summary": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The attacker used credentials for an AWS account that Qubole's platform uses to reach those…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-09T17:51:21.000Z",
+   "categories": [
+    "breach",
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-09T18:48:35.269Z"
+  },
   {
    "id": "42f0acbca6ef4f21",
    "title": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
@@ -91,6 +137,21 @@
     "attack"
    ],
    "firstSeen": "2026-11-09T17:55:26.366Z"
+  },
+  {
+   "id": "2ba6cb1be9af9cf5",
+   "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
+   "url": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
+   "summary": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2. Both releases download and run code built to steal the wallet key that Swarm…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-09T17:36:28.000Z",
+   "categories": [
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-09T18:48:35.269Z"
   },
   {
    "id": "b2934cf8195cf227",
@@ -2913,66 +2974,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-02T13:41:46.203Z"
-  },
-  {
-   "id": "0bed561f10e179cb",
-   "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
-   "url": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
-   "summary": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week. Langflow is an open-source tool for building AI agents and workflows, and its vulnerability reports go to IBM. Every release from 1.0.0…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-02T11:50:00.000Z",
-   "categories": [
-    "vuln",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-02T13:41:46.203Z"
-  },
-  {
-   "id": "bfff44c21cc75a58",
-   "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
-   "url": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
-   "summary": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CISOs, SOC leaders and practitioners. For the teams still…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-02T11:30:00.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-02T13:41:46.203Z"
-  },
-  {
-   "id": "5621acfb0e5a1d8b",
-   "title": "Malicious Claude Code Extension Served in Cursor Supply Chain Attack",
-   "url": "https://www.securityweek.com/malicious-claude-code-extension-served-in-cursor-supply-chain-attack/",
-   "summary": "The extension performed host reconnaissance and attempted to create a reverse SSH tunnel. The post Malicious Claude Code Extension Served in Cursor Supply Chain Attack appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-02T11:29:39.000Z",
-   "categories": [
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-02T12:22:37.651Z"
-  },
-  {
-   "id": "7d44eab8fbe22475",
-   "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
-   "url": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
-   "summary": "Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-02T11:28:42.000Z",
-   "categories": [
-    "ransomware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-02T12:22:37.651Z"
   }
  ]
 }
