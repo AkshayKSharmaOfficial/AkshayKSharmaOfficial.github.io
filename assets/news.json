@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-09T15:53:51.590Z",
- "lastAttempt": "2026-11-09T15:53:51.590Z",
+ "lastSuccess": "2026-11-09T16:58:32.639Z",
+ "lastAttempt": "2026-11-09T16:58:32.639Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T15:53:51.590Z",
-   "lastSuccess": "2026-11-09T15:53:51.590Z",
+   "checkedAt": "2026-11-09T16:58:32.639Z",
+   "lastSuccess": "2026-11-09T16:58:32.639Z",
    "etag": null,
-   "lastModified": "Mon, 9 Nov 2026 15:22:00 GMT"
+   "lastModified": "Mon, 9 Nov 2026 16:07:46 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T15:53:51.590Z",
-   "lastSuccess": "2026-11-09T15:53:51.590Z",
-   "etag": "aef8b97e1f99cbe890928e8007201b8b",
-   "lastModified": "Mon, 09 Nov 2026 15:47:13 GMT"
+   "checkedAt": "2026-11-09T16:58:32.639Z",
+   "lastSuccess": "2026-11-09T16:58:32.639Z",
+   "etag": "7b6567767d19fbb16e34512b9e655ec2",
+   "lastModified": "Mon, 09 Nov 2026 16:52:41 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T15:53:51.590Z",
-   "lastSuccess": "2026-11-09T15:53:51.590Z",
+   "checkedAt": "2026-11-09T16:58:32.639Z",
+   "lastSuccess": "2026-11-09T16:58:32.639Z",
    "etag": null,
    "lastModified": "Mon, 09 Nov 2026 12:38:08 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T15:53:51.590Z",
-   "lastSuccess": "2026-11-09T15:53:51.590Z",
+   "checkedAt": "2026-11-09T16:58:32.639Z",
+   "lastSuccess": "2026-11-09T16:58:32.639Z",
    "etag": "\"827f389a98a40de7f867c04437b8d425\"",
    "lastModified": "Mon, 09 Nov 2026 14:08:12 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T15:53:51.590Z",
-   "lastSuccess": "2026-11-09T15:53:51.590Z",
+   "checkedAt": "2026-11-09T16:58:32.639Z",
+   "lastSuccess": "2026-11-09T16:58:32.639Z",
    "etag": null,
-   "lastModified": "Mon, 09 Nov 2026 15:53:52 GMT"
+   "lastModified": "Mon, 09 Nov 2026 16:58:33 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,56 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-09T15:53:51.590Z",
+   "checkedAt": "2026-11-09T16:58:32.639Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "aa639e32fd08dfd4",
+   "title": "Binance denies data breach after alleged ShinyHunters claims",
+   "url": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
+   "summary": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-09T16:12:39.000Z",
+   "categories": [
+    "ransomware",
+    "breach"
+   ],
+   "firstSeen": "2026-11-09T16:58:32.639Z"
+  },
+  {
+   "id": "372550c6ad43d960",
+   "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
+   "summary": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-09T16:04:57.000Z",
+   "categories": [
+    "breach",
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-09T16:58:32.639Z"
+  },
+  {
+   "id": "6a957e07c84def22",
+   "title": "NIST: Solo Shouldn't Mean Less Secure",
+   "url": "https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure",
+   "summary": "New guidance provides a basic framework for less-technical solo business owners, but it may miss the mark on how to secure technology that requires no human oversight.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-09T15:46:10.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-09T16:58:32.639Z"
+  },
   {
    "id": "1757fa2edacdf9d9",
    "title": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
@@ -2930,51 +2973,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-02T12:22:37.651Z"
-  },
-  {
-   "id": "b965c14c80e837ae",
-   "title": "Chainalysis Discloses Data Breach Following AI-Driven Cyberattack",
-   "url": "https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/",
-   "summary": "The attackers used offensive agentic techniques to access the company’s systems and internal tools. The post Chainalysis Discloses Data Breach Following AI-Driven Cyberattack appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-02T10:27:49.000Z",
-   "categories": [
-    "breach",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-02T11:24:26.903Z"
-  },
-  {
-   "id": "67b42c20920f040d",
-   "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
-   "summary": "Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-02T09:33:26.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-02T10:28:32.784Z"
-  },
-  {
-   "id": "1c0272a06965cca1",
-   "title": "Polymarket Returns $3.9 Million to Traders as DebugBear Cites DNS Hijack",
-   "url": "https://www.securityweek.com/polymarket-returns-3-9-million-to-traders-as-debugbear-cites-dns-hijack/",
-   "summary": "DebugBear says its DNS records were compromised via its domain registrar, and early findings show a single customer was targeted. The post Polymarket Returns $3.9 Million to Traders as DebugBear Cites DNS Hijack appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-02T09:33:15.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-02T10:28:32.784Z"
   }
  ]
 }
