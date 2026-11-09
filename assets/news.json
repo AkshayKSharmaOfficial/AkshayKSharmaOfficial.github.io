@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-09T12:42:02.788Z",
- "lastAttempt": "2026-11-09T12:42:02.788Z",
+ "lastSuccess": "2026-11-09T13:58:19.443Z",
+ "lastAttempt": "2026-11-09T13:58:19.443Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T12:42:02.788Z",
-   "lastSuccess": "2026-11-09T12:42:02.788Z",
+   "checkedAt": "2026-11-09T13:58:19.443Z",
+   "lastSuccess": "2026-11-09T13:58:19.443Z",
    "etag": null,
-   "lastModified": "Mon, 9 Nov 2026 12:39:10 GMT"
+   "lastModified": "Mon, 9 Nov 2026 13:02:22 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T12:42:02.788Z",
-   "lastSuccess": "2026-11-09T12:42:02.788Z",
-   "etag": "bbf8994360bbe498832818be650ba8f9",
-   "lastModified": "Mon, 09 Nov 2026 12:36:15 GMT"
+   "checkedAt": "2026-11-09T13:58:19.443Z",
+   "lastSuccess": "2026-11-09T13:58:19.443Z",
+   "etag": "cb29cc60d5190fa2b90ad9593a726ca1",
+   "lastModified": "Mon, 09 Nov 2026 13:56:18 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T12:42:02.788Z",
-   "lastSuccess": "2026-11-09T12:42:02.788Z",
+   "checkedAt": "2026-11-09T13:58:19.443Z",
+   "lastSuccess": "2026-11-09T13:58:19.443Z",
    "etag": null,
    "lastModified": "Mon, 09 Nov 2026 12:38:08 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T12:42:02.788Z",
-   "lastSuccess": "2026-11-09T12:42:02.788Z",
-   "etag": "\"f141d2a2f5d2a2ee562359bfe066e389\"",
-   "lastModified": "Mon, 09 Nov 2026 12:22:18 GMT"
+   "checkedAt": "2026-11-09T13:58:19.443Z",
+   "lastSuccess": "2026-11-09T13:58:19.443Z",
+   "etag": "\"f3ed95be3a1ab5c33ad607ce3b6dd716\"",
+   "lastModified": "Mon, 09 Nov 2026 13:13:33 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T12:42:02.788Z",
-   "lastSuccess": "2026-11-09T12:42:02.788Z",
+   "checkedAt": "2026-11-09T13:58:19.443Z",
+   "lastSuccess": "2026-11-09T13:58:19.443Z",
    "etag": null,
-   "lastModified": "Mon, 09 Nov 2026 12:42:04 GMT"
+   "lastModified": "Mon, 09 Nov 2026 13:58:19 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,55 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-09T12:42:02.788Z",
+   "checkedAt": "2026-11-09T13:58:19.443Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "7ea315c54c226b5b",
+   "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
+   "url": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
+   "summary": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-09T13:28:56.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-09T13:58:19.443Z"
+  },
+  {
+   "id": "0771611e46288b10",
+   "title": "Plex2Shell Exploited Against QNAP NAS Users",
+   "url": "https://www.securityweek.com/plex2shell-exploited-against-qnap-nas-users/",
+   "summary": "Threat actors are exploiting the four-flaw chain to hack the Plex Media Server application on QNAP NAS devices. The post Plex2Shell Exploited Against QNAP NAS Users appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-09T13:13:28.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-09T13:58:19.443Z"
+  },
+  {
+   "id": "d262e085a8d24ad6",
+   "title": "Iris Plaza Breach May Have Exposed Data of 7.7 Million Customers",
+   "url": "https://www.securityweek.com/iris-plaza-breach-may-have-exposed-data-of-7-7-million-customers/",
+   "summary": "Hackers compromised an external cloud service used by the shopping platform and may have stolen personal information from it. The post Iris Plaza Breach May Have Exposed Data of 7.7 Million Customers appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-09T12:41:27.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-09T13:58:19.443Z"
+  },
   {
    "id": "acaa9feda323fd6f",
    "title": "Italy’s Meloni Blames Pro-Russian Hackers for Leak of Foreign Minister’s Data on the Dark Web",
@@ -2933,50 +2975,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-01T15:16:58.911Z"
-  },
-  {
-   "id": "a0b4172faac0e032",
-   "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
-   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
-   "summary": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-01T13:53:11.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-01T13:54:55.478Z"
-  },
-  {
-   "id": "a8a24c23eaa02b67",
-   "title": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
-   "url": "https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/",
-   "summary": "The startup maps how identities, assets and vulnerabilities connect, and uses AI agents to find and fix risky combinations of issues. The post Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-01T11:15:00.000Z",
-   "categories": [
-    "vuln",
-    "ai"
-   ],
-   "firstSeen": "2026-11-01T11:27:36.212Z"
-  },
-  {
-   "id": "47c9e2c2f127bea1",
-   "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
-   "url": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
-   "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's public certificate. Once in, the attacker…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-01T08:51:31.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-01T10:12:03.129Z"
   }
  ]
 }
