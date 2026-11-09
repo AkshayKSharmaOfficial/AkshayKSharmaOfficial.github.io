@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-09T08:21:42.025Z",
- "lastAttempt": "2026-11-09T08:21:42.025Z",
+ "lastSuccess": "2026-11-09T09:37:27.884Z",
+ "lastAttempt": "2026-11-09T09:37:27.884Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T08:21:42.025Z",
-   "lastSuccess": "2026-11-09T08:21:42.025Z",
+   "checkedAt": "2026-11-09T09:37:27.884Z",
+   "lastSuccess": "2026-11-09T09:37:27.884Z",
    "etag": null,
-   "lastModified": "Mon, 9 Nov 2026 07:53:05 GMT"
+   "lastModified": "Mon, 9 Nov 2026 08:46:17 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T08:21:42.025Z",
-   "lastSuccess": "2026-11-09T08:21:42.025Z",
-   "etag": "15335314d5b92bba2fd23d3db0355b80",
-   "lastModified": "Mon, 09 Nov 2026 08:13:39 GMT"
+   "checkedAt": "2026-11-09T09:37:27.884Z",
+   "lastSuccess": "2026-11-09T09:37:27.884Z",
+   "etag": "3e5149a69124bec187185cdad1e01d29",
+   "lastModified": "Mon, 09 Nov 2026 09:31:10 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T08:21:42.025Z",
-   "lastSuccess": "2026-11-09T08:21:42.025Z",
+   "checkedAt": "2026-11-09T09:37:27.884Z",
+   "lastSuccess": "2026-11-09T09:37:27.884Z",
    "etag": null,
    "lastModified": "Mon, 09 Nov 2026 08:14:03 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T08:21:42.025Z",
-   "lastSuccess": "2026-11-09T08:21:42.025Z",
-   "etag": "\"e29887b61a21c90975f0fe2eda79050c\"",
-   "lastModified": "Sun, 08 Nov 2026 12:14:00 GMT"
+   "checkedAt": "2026-11-09T09:37:27.884Z",
+   "lastSuccess": "2026-11-09T09:37:27.884Z",
+   "etag": "\"7a9b2a68095ec16b00cf501301def9b1\"",
+   "lastModified": "Mon, 09 Nov 2026 08:35:54 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T08:21:42.025Z",
-   "lastSuccess": "2026-11-09T08:21:42.025Z",
+   "checkedAt": "2026-11-09T09:37:27.884Z",
+   "lastSuccess": "2026-11-09T09:37:27.884Z",
    "etag": null,
-   "lastModified": "Mon, 09 Nov 2026 08:21:42 GMT"
+   "lastModified": "Mon, 09 Nov 2026 09:37:28 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-09T08:21:42.025Z",
+   "checkedAt": "2026-11-09T09:37:27.884Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "f8d93521633dd397",
+   "title": "Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack",
+   "url": "https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/",
+   "summary": "Working with cryptographers, DeepMind’s AI agents cut the cost of forging RSA-1024 signatures and found a cheaper way to factor keys. The post Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-09T08:35:50.000Z",
+   "categories": [
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-09T09:37:27.884Z"
+  },
   {
    "id": "403a72428fe29edd",
    "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
@@ -2958,20 +2973,6 @@
    "published": "2026-10-31T12:01:56.000Z",
    "categories": [
     "breach",
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "18c59f644fb7f5b4",
-   "title": "Syrian Hacker Gets Prison Time in US After Over a Decade on the Run",
-   "url": "https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/",
-   "summary": "A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities. The post Syrian Hacker Gets Prison Time in US After Over a Decade on the Run appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-10-31T11:00:00.000Z",
-   "categories": [
     "attack"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
