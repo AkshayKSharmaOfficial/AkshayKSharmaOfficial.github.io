@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-09T13:58:19.443Z",
- "lastAttempt": "2026-11-09T13:58:19.443Z",
+ "lastSuccess": "2026-11-09T14:54:00.492Z",
+ "lastAttempt": "2026-11-09T14:54:00.492Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T13:58:19.443Z",
-   "lastSuccess": "2026-11-09T13:58:19.443Z",
+   "checkedAt": "2026-11-09T14:54:00.492Z",
+   "lastSuccess": "2026-11-09T14:54:00.492Z",
    "etag": null,
-   "lastModified": "Mon, 9 Nov 2026 13:02:22 GMT"
+   "lastModified": "Mon, 9 Nov 2026 14:19:56 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T13:58:19.443Z",
-   "lastSuccess": "2026-11-09T13:58:19.443Z",
-   "etag": "cb29cc60d5190fa2b90ad9593a726ca1",
-   "lastModified": "Mon, 09 Nov 2026 13:56:18 GMT"
+   "checkedAt": "2026-11-09T14:54:00.492Z",
+   "lastSuccess": "2026-11-09T14:54:00.492Z",
+   "etag": "8738936a03286126c9beaa769743afc4",
+   "lastModified": "Mon, 09 Nov 2026 14:44:05 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T13:58:19.443Z",
-   "lastSuccess": "2026-11-09T13:58:19.443Z",
+   "checkedAt": "2026-11-09T14:54:00.492Z",
+   "lastSuccess": "2026-11-09T14:54:00.492Z",
    "etag": null,
    "lastModified": "Mon, 09 Nov 2026 12:38:08 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T13:58:19.443Z",
-   "lastSuccess": "2026-11-09T13:58:19.443Z",
-   "etag": "\"f3ed95be3a1ab5c33ad607ce3b6dd716\"",
-   "lastModified": "Mon, 09 Nov 2026 13:13:33 GMT"
+   "checkedAt": "2026-11-09T14:54:00.492Z",
+   "lastSuccess": "2026-11-09T14:54:00.492Z",
+   "etag": "\"827f389a98a40de7f867c04437b8d425\"",
+   "lastModified": "Mon, 09 Nov 2026 14:08:12 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T13:58:19.443Z",
-   "lastSuccess": "2026-11-09T13:58:19.443Z",
+   "checkedAt": "2026-11-09T14:54:00.492Z",
+   "lastSuccess": "2026-11-09T14:54:00.492Z",
    "etag": null,
-   "lastModified": "Mon, 09 Nov 2026 13:58:19 GMT"
+   "lastModified": "Mon, 09 Nov 2026 14:54:00 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,43 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-09T13:58:19.443Z",
+   "checkedAt": "2026-11-09T14:54:00.492Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "43d753ff40f1d434",
+   "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
+   "url": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
+   "summary": "A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-09T14:34:03.000Z",
+   "categories": [
+    "phishing",
+    "attack"
+   ],
+   "firstSeen": "2026-11-09T14:54:00.492Z"
+  },
+  {
+   "id": "d1f3cbdb07a892e4",
+   "title": "Revolve Puts Data Breach Victim Count at 1.5 Million",
+   "url": "https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million/",
+   "summary": "Online fashion retailer Revolve has told regulators that the September cyberattack affected more than 1.5 million individuals. The post Revolve Puts Data Breach Victim Count at 1.5 Million appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-09T14:08:08.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-09T14:54:00.492Z"
+  },
   {
    "id": "7ea315c54c226b5b",
    "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
@@ -88,6 +118,21 @@
    "published": "2026-11-09T13:28:56.000Z",
    "categories": [],
    "firstSeen": "2026-11-09T13:58:19.443Z"
+  },
+  {
+   "id": "dca9748487c3dfb8",
+   "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
+   "url": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
+   "summary": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or running safely become part of the attack. Elsewhere, attackers…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-09T13:28:25.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-09T14:54:00.492Z"
   },
   {
    "id": "0771611e46288b10",
@@ -2930,51 +2975,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-02T08:08:36.524Z"
-  },
-  {
-   "id": "b1c1d30dd8ee58aa",
-   "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
-   "url": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
-   "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value. Like other typical stealer families, VOLTA is equipped to…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-02T05:51:07.000Z",
-   "categories": [
-    "breach",
-    "malware",
-    "ai"
-   ],
-   "firstSeen": "2026-11-02T06:44:49.803Z"
-  },
-  {
-   "id": "f9c20d2275d7819a",
-   "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
-   "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
-   "summary": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-01T19:57:53.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-01T20:14:20.497Z"
-  },
-  {
-   "id": "f4828ca80d78cfc6",
-   "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
-   "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
-   "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-01T15:11:21.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-01T15:16:58.911Z"
   }
  ]
 }
