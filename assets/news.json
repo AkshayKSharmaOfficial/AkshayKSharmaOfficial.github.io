@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-09T11:37:42.172Z",
- "lastAttempt": "2026-11-09T11:37:42.172Z",
+ "lastSuccess": "2026-11-09T12:42:02.788Z",
+ "lastAttempt": "2026-11-09T12:42:02.788Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T11:37:42.172Z",
-   "lastSuccess": "2026-11-09T11:37:42.172Z",
+   "checkedAt": "2026-11-09T12:42:02.788Z",
+   "lastSuccess": "2026-11-09T12:42:02.788Z",
    "etag": null,
-   "lastModified": "Mon, 9 Nov 2026 10:50:11 GMT"
+   "lastModified": "Mon, 9 Nov 2026 12:39:10 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T11:37:42.172Z",
-   "lastSuccess": "2026-11-09T11:37:42.172Z",
-   "etag": "f04f02ab1e94fdf0f3b87622be2f8586",
-   "lastModified": "Mon, 09 Nov 2026 11:31:13 GMT"
+   "checkedAt": "2026-11-09T12:42:02.788Z",
+   "lastSuccess": "2026-11-09T12:42:02.788Z",
+   "etag": "bbf8994360bbe498832818be650ba8f9",
+   "lastModified": "Mon, 09 Nov 2026 12:36:15 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T11:37:42.172Z",
-   "lastSuccess": "2026-11-09T11:37:42.172Z",
+   "checkedAt": "2026-11-09T12:42:02.788Z",
+   "lastSuccess": "2026-11-09T12:42:02.788Z",
    "etag": null,
-   "lastModified": "Mon, 09 Nov 2026 10:25:38 GMT"
+   "lastModified": "Mon, 09 Nov 2026 12:38:08 GMT"
   },
   {
    "id": "securityweek",
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T11:37:42.172Z",
-   "lastSuccess": "2026-11-09T11:37:42.172Z",
-   "etag": "\"65b5720aeddfd77d876ccbd2765d319f\"",
-   "lastModified": "Mon, 09 Nov 2026 11:20:14 GMT"
+   "checkedAt": "2026-11-09T12:42:02.788Z",
+   "lastSuccess": "2026-11-09T12:42:02.788Z",
+   "etag": "\"f141d2a2f5d2a2ee562359bfe066e389\"",
+   "lastModified": "Mon, 09 Nov 2026 12:22:18 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T11:37:42.172Z",
-   "lastSuccess": "2026-11-09T11:37:42.172Z",
+   "checkedAt": "2026-11-09T12:42:02.788Z",
+   "lastSuccess": "2026-11-09T12:42:02.788Z",
    "etag": null,
-   "lastModified": "Mon, 09 Nov 2026 11:37:42 GMT"
+   "lastModified": "Mon, 09 Nov 2026 12:42:04 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,71 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-09T11:37:42.172Z",
+   "checkedAt": "2026-11-09T12:42:02.788Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "acaa9feda323fd6f",
+   "title": "Italy’s Meloni Blames Pro-Russian Hackers for Leak of Foreign Minister’s Data on the Dark Web",
+   "url": "https://www.securityweek.com/italys-meloni-blames-pro-russian-hackers-for-leak-of-foreign-ministers-data-on-the-dark-web/",
+   "summary": "Italian Foreign Minister Antonio Tajani said Saturday that his personal data had been disseminated on the dark web. The post Italy’s Meloni Blames Pro-Russian Hackers for Leak of Foreign Minister’s Data on the Dark Web appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-09T12:22:12.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-09T12:42:02.788Z"
+  },
+  {
+   "id": "1d439b4605ef2661",
+   "title": "Ukraine dismantles crypto scam network that stole €4.3 million",
+   "url": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/",
+   "summary": "Ukrainian law enforcement arrested four suspects in a case involving the theft of more than €4.3 million using a network of cryptocurrency investment scam call centers. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-09T12:16:13.000Z",
+   "categories": [
+    "phishing"
+   ],
+   "firstSeen": "2026-11-09T12:42:02.788Z"
+  },
+  {
+   "id": "dc1c6a19f46b22f7",
+   "title": "Hackers Exploiting ‘SSHole’ Authentication Bypass in OpenSSH",
+   "url": "https://www.securityweek.com/hackers-exploiting-sshole-authentication-bypass-in-openssh/",
+   "summary": "The initial exploitation attempts are attributed to botnets and crypto miners, but other threat actors are expected to follow suit. The post Hackers Exploiting ‘SSHole’ Authentication Bypass in OpenSSH appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-09T12:13:32.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-09T12:42:02.788Z"
+  },
+  {
+   "id": "3b71139034dea396",
+   "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
+   "url": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
+   "summary": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the doors and start the engine. Both apps signed customers in…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-09T11:27:53.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-09T12:42:02.788Z"
+  },
   {
    "id": "646d9cab774eeee1",
    "title": "Amplifon Americas Data Breach Impacts 1.3 Million",
@@ -91,6 +149,21 @@
     "attack"
    ],
    "firstSeen": "2026-11-09T11:37:42.172Z"
+  },
+  {
+   "id": "ea46f00bd91b0c65",
+   "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
+   "url": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
+   "summary": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker. Keplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a security flaw at that company to reach the wallets, both…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-09T10:56:25.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-09T12:42:02.788Z"
   },
   {
    "id": "f3159fcedf3c2873",
@@ -2904,78 +2977,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-01T10:12:03.129Z"
-  },
-  {
-   "id": "3c8da2a0b6d392cf",
-   "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
-   "url": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
-   "summary": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside company. Polymarket says it is refunding about…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-01T07:25:40.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-01T08:17:19.591Z"
-  },
-  {
-   "id": "e1dc1203c72851bb",
-   "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-   "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-   "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets from Binance to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-01T07:03:00.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-01T08:17:19.591Z"
-  },
-  {
-   "id": "4432f1dbea0caa5b",
-   "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
-   "url": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
-   "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted a custom Windows 10 build used exclusively by government…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-01T07:02:58.000Z",
-   "categories": [
-    "malware"
-   ],
-   "firstSeen": "2026-11-01T08:17:19.591Z"
-  },
-  {
-   "id": "ca28b402f771f3f4",
-   "title": "Northflank security breach leads to abuse of customers' AI API keys",
-   "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
-   "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-10-31T18:01:12.000Z",
-   "categories": [
-    "breach",
-    "ai"
-   ],
-   "firstSeen": "2026-10-31T18:02:13.896Z"
-  },
-  {
-   "id": "1f959e00fab20808",
-   "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
-   "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
-   "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message…",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-10-31T15:35:11.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
   }
  ]
 }
