@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-09T05:42:22.469Z",
- "lastAttempt": "2026-11-09T05:42:22.469Z",
+ "lastSuccess": "2026-11-09T06:50:04.561Z",
+ "lastAttempt": "2026-11-09T06:50:04.561Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T05:42:22.469Z",
-   "lastSuccess": "2026-11-09T05:42:22.469Z",
+   "checkedAt": "2026-11-09T06:50:04.561Z",
+   "lastSuccess": "2026-11-09T06:50:04.561Z",
    "etag": null,
-   "lastModified": "Mon, 9 Nov 2026 05:38:30 GMT"
+   "lastModified": "Mon, 9 Nov 2026 06:06:37 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T05:42:22.469Z",
-   "lastSuccess": "2026-11-09T05:42:22.469Z",
-   "etag": "75c87931f4bff3b70ed84417e090fd00",
-   "lastModified": "Mon, 09 Nov 2026 05:33:34 GMT"
+   "checkedAt": "2026-11-09T06:50:04.561Z",
+   "lastSuccess": "2026-11-09T06:50:04.561Z",
+   "etag": "708c7c2c4fed46fe644f6338c2d421f0",
+   "lastModified": "Mon, 09 Nov 2026 06:43:36 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T05:42:22.469Z",
-   "lastSuccess": "2026-11-09T05:42:22.469Z",
+   "checkedAt": "2026-11-09T06:50:04.561Z",
+   "lastSuccess": "2026-11-09T06:50:04.561Z",
    "etag": null,
-   "lastModified": "Mon, 09 Nov 2026 03:14:29 GMT"
+   "lastModified": "Mon, 09 Nov 2026 06:41:45 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T05:42:22.469Z",
-   "lastSuccess": "2026-11-09T05:42:22.469Z",
+   "checkedAt": "2026-11-09T06:50:04.561Z",
+   "lastSuccess": "2026-11-09T06:50:04.561Z",
    "etag": "\"e29887b61a21c90975f0fe2eda79050c\"",
    "lastModified": "Sun, 08 Nov 2026 12:14:00 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T05:42:22.469Z",
-   "lastSuccess": "2026-11-09T05:42:22.469Z",
+   "checkedAt": "2026-11-09T06:50:04.561Z",
+   "lastSuccess": "2026-11-09T06:50:04.561Z",
    "etag": null,
-   "lastModified": "Mon, 09 Nov 2026 05:42:22 GMT"
+   "lastModified": "Mon, 09 Nov 2026 06:50:05 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-09T05:42:22.469Z",
+   "checkedAt": "2026-11-09T06:50:04.561Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "4d02c260bfd3474b",
+   "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
+   "url": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploited in real-world attacks. The…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-09T06:05:24.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-09T06:50:04.561Z"
+  },
   {
    "id": "a1a0bc62a0fefbfb",
    "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
@@ -2959,20 +2974,6 @@
    "categories": [
     "vuln",
     "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "293569318dde9da7",
-   "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
-   "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
-   "summary": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 million network-layer (L3) DDoS attacks and 14.4 trillion…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-31T04:56:12.000Z",
-   "categories": [
     "attack"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
