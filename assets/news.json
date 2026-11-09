@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-09T09:37:27.884Z",
- "lastAttempt": "2026-11-09T09:37:27.884Z",
+ "lastSuccess": "2026-11-09T10:34:08.096Z",
+ "lastAttempt": "2026-11-09T10:34:08.096Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T09:37:27.884Z",
-   "lastSuccess": "2026-11-09T09:37:27.884Z",
+   "checkedAt": "2026-11-09T10:34:08.096Z",
+   "lastSuccess": "2026-11-09T10:34:08.096Z",
    "etag": null,
-   "lastModified": "Mon, 9 Nov 2026 08:46:17 GMT"
+   "lastModified": "Mon, 9 Nov 2026 09:48:37 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T09:37:27.884Z",
-   "lastSuccess": "2026-11-09T09:37:27.884Z",
-   "etag": "3e5149a69124bec187185cdad1e01d29",
-   "lastModified": "Mon, 09 Nov 2026 09:31:10 GMT"
+   "checkedAt": "2026-11-09T10:34:08.096Z",
+   "lastSuccess": "2026-11-09T10:34:08.096Z",
+   "etag": "f662950342746018f55edf9d2bed278d",
+   "lastModified": "Mon, 09 Nov 2026 10:31:12 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T09:37:27.884Z",
-   "lastSuccess": "2026-11-09T09:37:27.884Z",
+   "checkedAt": "2026-11-09T10:34:08.096Z",
+   "lastSuccess": "2026-11-09T10:34:08.096Z",
    "etag": null,
-   "lastModified": "Mon, 09 Nov 2026 08:14:03 GMT"
+   "lastModified": "Mon, 09 Nov 2026 10:25:38 GMT"
   },
   {
    "id": "securityweek",
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T09:37:27.884Z",
-   "lastSuccess": "2026-11-09T09:37:27.884Z",
-   "etag": "\"7a9b2a68095ec16b00cf501301def9b1\"",
-   "lastModified": "Mon, 09 Nov 2026 08:35:54 GMT"
+   "checkedAt": "2026-11-09T10:34:08.096Z",
+   "lastSuccess": "2026-11-09T10:34:08.096Z",
+   "etag": "\"ec8b90b751ca26f39f2551c6840687b5\"",
+   "lastModified": "Mon, 09 Nov 2026 10:10:44 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T09:37:27.884Z",
-   "lastSuccess": "2026-11-09T09:37:27.884Z",
+   "checkedAt": "2026-11-09T10:34:08.096Z",
+   "lastSuccess": "2026-11-09T10:34:08.096Z",
    "etag": null,
-   "lastModified": "Mon, 09 Nov 2026 09:37:28 GMT"
+   "lastModified": "Mon, 09 Nov 2026 10:34:08 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,42 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-09T09:37:27.884Z",
+   "checkedAt": "2026-11-09T10:34:08.096Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "f3159fcedf3c2873",
+   "title": "Over 3 Million People Hit by Frontline Education Data Breach",
+   "url": "https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/",
+   "summary": "Frontline Education told Indiana regulators that its August data breach affected over 3 million school district staff and students. The post Over 3 Million People Hit by Frontline Education Data Breach appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-09T10:09:02.000Z",
+   "categories": [
+    "breach"
+   ],
+   "firstSeen": "2026-11-09T10:34:08.096Z"
+  },
+  {
+   "id": "b6da29b835091ff5",
+   "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
+   "url": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
+   "summary": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week. The agents also found a Taipei fire department platform exposing patient data from 2018, including ECG readings and…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-09T09:01:50.000Z",
+   "categories": [
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-09T10:34:08.096Z"
+  },
   {
    "id": "f8d93521633dd397",
    "title": "Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack",
@@ -2943,37 +2972,6 @@
    "categories": [
     "vuln",
     "ai"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "5dd0a980fbff6e2e",
-   "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
-   "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
-   "summary": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organizational roles. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-10-31T12:50:09.000Z",
-   "categories": [
-    "breach",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-10-31T17:20:17.242Z"
-  },
-  {
-   "id": "b84dfe472134279a",
-   "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
-   "url": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
-   "summary": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data. However, the company noted that the breach did not result in unauthorized access to its investigation content…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-10-31T12:01:56.000Z",
-   "categories": [
-    "breach",
-    "attack"
    ],
    "firstSeen": "2026-10-31T17:20:17.242Z"
   }
