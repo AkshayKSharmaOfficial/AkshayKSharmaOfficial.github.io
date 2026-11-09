@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-09T20:46:23.966Z",
- "lastAttempt": "2026-11-09T20:46:23.966Z",
+ "lastSuccess": "2026-11-09T21:43:42.145Z",
+ "lastAttempt": "2026-11-09T21:43:42.145Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T20:46:23.966Z",
-   "lastSuccess": "2026-11-09T20:46:23.966Z",
+   "checkedAt": "2026-11-09T21:43:42.145Z",
+   "lastSuccess": "2026-11-09T21:43:42.145Z",
    "etag": null,
-   "lastModified": "Mon, 9 Nov 2026 20:24:08 GMT"
+   "lastModified": "Mon, 9 Nov 2026 21:28:08 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T20:46:23.966Z",
-   "lastSuccess": "2026-11-09T20:46:23.966Z",
-   "etag": "15cd36cf97099fa58f6a1ada89cdddaf",
-   "lastModified": "Mon, 09 Nov 2026 20:43:20 GMT"
+   "checkedAt": "2026-11-09T21:43:42.145Z",
+   "lastSuccess": "2026-11-09T21:43:42.145Z",
+   "etag": "81818d64a8a50e211ba3e90f2cf00c4e",
+   "lastModified": "Mon, 09 Nov 2026 21:36:39 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T20:46:23.966Z",
-   "lastSuccess": "2026-11-09T20:46:23.966Z",
+   "checkedAt": "2026-11-09T21:43:42.145Z",
+   "lastSuccess": "2026-11-09T21:43:42.145Z",
    "etag": null,
-   "lastModified": "Mon, 09 Nov 2026 12:38:08 GMT"
+   "lastModified": "Mon, 09 Nov 2026 21:42:08 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T20:46:23.966Z",
-   "lastSuccess": "2026-11-09T20:46:23.966Z",
+   "checkedAt": "2026-11-09T21:43:42.145Z",
+   "lastSuccess": "2026-11-09T21:43:42.145Z",
    "etag": "\"827f389a98a40de7f867c04437b8d425\"",
    "lastModified": "Mon, 09 Nov 2026 14:08:12 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T20:46:23.966Z",
-   "lastSuccess": "2026-11-09T20:46:23.966Z",
+   "checkedAt": "2026-11-09T21:43:42.145Z",
+   "lastSuccess": "2026-11-09T21:43:42.145Z",
    "etag": null,
-   "lastModified": "Mon, 09 Nov 2026 20:46:24 GMT"
+   "lastModified": "Mon, 09 Nov 2026 21:43:42 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,82 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-09T20:46:23.966Z",
+   "checkedAt": "2026-11-09T21:43:42.145Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "b2067806401f2439",
+   "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents",
+   "summary": "New questionnaire captures critical data and information that improves the agency’s ability to assess incidents, identify trends and prioritize response actions.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-09T21:38:20.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-09T21:43:42.145Z"
+  },
+  {
+   "id": "8a6b387258571e43",
+   "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+   "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+   "summary": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let attackers take over vulnerable…",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-09T21:26:25.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-09T21:43:42.145Z"
+  },
+  {
+   "id": "e681d06942a2ab8d",
+   "title": "York University breach exposed personal information dating to 2007",
+   "url": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+   "summary": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-09T21:22:31.000Z",
+   "categories": [
+    "breach"
+   ],
+   "firstSeen": "2026-11-09T21:43:42.145Z"
+  },
+  {
+   "id": "5f50f249472baa62",
+   "title": "Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion",
+   "url": "https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion",
+   "summary": "Last month, Microsoft disclosed a vulnerability in Microsoft Paint, but messaging regarding a patch was unclear.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-09T21:12:24.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-09T21:43:42.145Z"
+  },
+  {
+   "id": "9c9b529485c66127",
+   "title": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India",
+   "url": "https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut",
+   "summary": "Inaugural edition by Informa Markets in India brings together leading researchers, security practitioners and industry decision makers for four days of cutting-edge research, technical exchange and strategic dialogue.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-09T20:19:56.000Z",
+   "categories": [
+    "india"
+   ],
+   "firstSeen": "2026-11-09T21:43:42.145Z"
+  },
   {
    "id": "2b5ae2d2ad027187",
    "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
@@ -2905,75 +2974,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-02T14:41:09.871Z"
-  },
-  {
-   "id": "b95b3932a76164ec",
-   "title": "PapRAT Cyber-Espionage Campaign Leaves a 'Bitter' Taste in South Asia",
-   "url": "https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia",
-   "summary": "Organizations in the region face growing cyberattacks from the known India-linked threat group, which leverages legitimate Windows functionality in three distinct attack chains.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-02T14:00:00.000Z",
-   "categories": [
-    "attack",
-    "india"
-   ],
-   "firstSeen": "2026-11-02T14:41:09.871Z"
-  },
-  {
-   "id": "ecf295286dcc62fe",
-   "title": "Microsoft fixes Smart App Control broken by October Windows update",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/",
-   "summary": "Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-02T13:57:29.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-02T14:41:09.871Z"
-  },
-  {
-   "id": "e2479e8594abf2c9",
-   "title": "Revolve Data Breach Impacts at Least 200,000 People",
-   "url": "https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/",
-   "summary": "Hackers accessed its online shopping platform and stole customers’ personal and payment card information. The post Revolve Data Breach Impacts at Least 200,000 People appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-02T13:35:21.000Z",
-   "categories": [
-    "breach",
-    "attack"
-   ],
-   "firstSeen": "2026-11-02T13:41:46.203Z"
-  },
-  {
-   "id": "bd8b783f1fb0af4b",
-   "title": "Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward",
-   "url": "https://www.securityweek.com/google-introduces-250000-root-in-cloud-bug-bounty-reward/",
-   "summary": "The top payout is for high-impact architectural research demonstrating full administrative control. The post Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-02T13:25:11.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-02T13:41:46.203Z"
-  },
-  {
-   "id": "df25a90dc1d4ec28",
-   "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
-   "summary": "Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-02T12:47:00.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-02T13:41:46.203Z"
   }
  ]
 }
