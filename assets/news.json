@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-10T14:49:18.655Z",
- "lastAttempt": "2026-11-10T14:49:18.655Z",
+ "lastSuccess": "2026-11-10T15:41:22.885Z",
+ "lastAttempt": "2026-11-10T15:41:22.885Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T14:49:18.655Z",
-   "lastSuccess": "2026-11-10T14:49:18.655Z",
+   "checkedAt": "2026-11-10T15:41:22.885Z",
+   "lastSuccess": "2026-11-10T15:41:22.885Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 13:40:21 GMT"
+   "lastModified": "Tue, 10 Nov 2026 15:02:53 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T14:49:18.655Z",
-   "lastSuccess": "2026-11-10T14:49:18.655Z",
-   "etag": "311b83309cc3bd22b077b2f8b9aef13b",
-   "lastModified": "Tue, 10 Nov 2026 14:39:39 GMT"
+   "checkedAt": "2026-11-10T15:41:22.885Z",
+   "lastSuccess": "2026-11-10T15:41:22.885Z",
+   "etag": "3ffb6fe802719bfe70411571e56557be",
+   "lastModified": "Tue, 10 Nov 2026 15:39:40 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T14:49:18.655Z",
-   "lastSuccess": "2026-11-10T14:49:18.655Z",
+   "checkedAt": "2026-11-10T15:41:22.885Z",
+   "lastSuccess": "2026-11-10T15:41:22.885Z",
    "etag": null,
    "lastModified": "Tue, 10 Nov 2026 10:37:09 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T14:49:18.655Z",
-   "lastSuccess": "2026-11-10T14:49:18.655Z",
-   "etag": "W/\"ff55b7208845a553bef1a9a364543140\"",
-   "lastModified": "Tue, 10 Nov 2026 14:46:37 GMT"
+   "checkedAt": "2026-11-10T15:41:22.885Z",
+   "lastSuccess": "2026-11-10T15:41:22.885Z",
+   "etag": "\"1dff176fdbe0c73b535bf2955fbece34\"",
+   "lastModified": "Tue, 10 Nov 2026 15:18:58 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T14:49:18.655Z",
-   "lastSuccess": "2026-11-10T14:49:18.655Z",
+   "checkedAt": "2026-11-10T15:41:22.885Z",
+   "lastSuccess": "2026-11-10T15:41:22.885Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 14:49:18 GMT"
+   "lastModified": "Tue, 10 Nov 2026 15:41:23 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,53 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-10T14:49:18.655Z",
+   "checkedAt": "2026-11-10T15:41:22.885Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "f5fadb4e0a64bf5c",
+   "title": "Ransomware recovery is now a client retention metric",
+   "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
+   "summary": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated workflows can improve response…",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-10T15:01:11.000Z",
+   "categories": [
+    "ransomware"
+   ],
+   "firstSeen": "2026-11-10T15:41:22.885Z"
+  },
+  {
+   "id": "419bbcadccbc2ef3",
+   "title": "Today: CISO Forum Virtual Summit 2026 – Join Global Cybersecurity Leaders",
+   "url": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
+   "summary": "Designed for cybersecurity leaders, this immersive two-day virtual event is your premier destination to discuss, share, and learn innovative risk management and defense strategies defining the modern enterprise. The post Today: CISO Forum Virtual Summit 2026 – Join Global…",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-10T15:00:00.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-10T15:41:22.885Z"
+  },
+  {
+   "id": "5f53ee8f3ce627ef",
+   "title": "WhiteMatter Raises $20 Million in Series A Funding",
+   "url": "https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/",
+   "summary": "The cybersecurity startup deploys a dedicated guardian agent for every AI agent in an organization’s environment. The post WhiteMatter Raises $20 Million in Series A Funding appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-10T14:58:19.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-10T15:41:22.885Z"
+  },
   {
    "id": "bc8d0735c275e458",
    "title": "SAP Patches Critical ICM2SHELL, ProxyGate Vulnerabilities",
@@ -2926,52 +2966,6 @@
     "vuln"
    ],
    "firstSeen": "2026-11-03T12:36:28.295Z"
-  },
-  {
-   "id": "3d17c5f194760d87",
-   "title": "Subnet Solutions PowerSYSTEM Center",
-   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-307-01",
-   "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute unauthorized SQL commands and gain access to unauthorized resources. The following versions of Subnet Solutions PowerSYSTEM Center are affected: PowerSYSTEM Center 2020 =5.29.x…",
-   "source": "CISA (US government)",
-   "sourceId": "cisa",
-   "kind": "official",
-   "published": "2026-11-03T12:00:00.000Z",
-   "categories": [
-    "advisory",
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-05T22:17:05.936Z"
-  },
-  {
-   "id": "b84cad2a2e67203e",
-   "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
-   "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
-   "summary": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in testing channel with no date for a regular…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-03T11:23:53.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-03T13:54:06.807Z"
-  },
-  {
-   "id": "e168d5f8ea0683e5",
-   "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
-   "url": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
-   "summary": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waiting in the queue. Gartner®’s report on exposure…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-03T11:18:20.000Z",
-   "categories": [
-    "breach",
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-03T13:54:06.807Z"
   }
  ]
 }
