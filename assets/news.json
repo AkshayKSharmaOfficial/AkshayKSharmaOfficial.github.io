@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-09T23:17:31.430Z",
- "lastAttempt": "2026-11-09T23:17:31.430Z",
+ "lastSuccess": "2026-11-10T00:04:13.080Z",
+ "lastAttempt": "2026-11-10T00:04:13.080Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T23:17:31.430Z",
-   "lastSuccess": "2026-11-09T23:17:31.430Z",
+   "checkedAt": "2026-11-10T00:04:13.080Z",
+   "lastSuccess": "2026-11-10T00:04:13.080Z",
    "etag": null,
    "lastModified": "Mon, 9 Nov 2026 23:15:48 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T23:17:31.430Z",
-   "lastSuccess": "2026-11-09T23:17:31.430Z",
-   "etag": "83b67e2398b83b5fd25b9c09c1fad3e5",
-   "lastModified": "Mon, 09 Nov 2026 23:09:36 GMT"
+   "checkedAt": "2026-11-10T00:04:13.080Z",
+   "lastSuccess": "2026-11-10T00:04:13.080Z",
+   "etag": "00964aba41f6e4c70cc68a4001e223c4",
+   "lastModified": "Tue, 10 Nov 2026 00:02:14 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T23:17:31.430Z",
-   "lastSuccess": "2026-11-09T23:17:31.430Z",
+   "checkedAt": "2026-11-10T00:04:13.080Z",
+   "lastSuccess": "2026-11-10T00:04:13.080Z",
    "etag": null,
-   "lastModified": "Mon, 09 Nov 2026 23:07:29 GMT"
+   "lastModified": "Mon, 09 Nov 2026 23:58:03 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T23:17:31.430Z",
-   "lastSuccess": "2026-11-09T23:17:31.430Z",
+   "checkedAt": "2026-11-10T00:04:13.080Z",
+   "lastSuccess": "2026-11-10T00:04:13.080Z",
    "etag": "\"827f389a98a40de7f867c04437b8d425\"",
    "lastModified": "Mon, 09 Nov 2026 14:08:12 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-09T23:17:31.430Z",
-   "lastSuccess": "2026-11-09T23:17:31.430Z",
+   "checkedAt": "2026-11-10T00:04:13.080Z",
+   "lastSuccess": "2026-11-10T00:04:13.080Z",
    "etag": null,
-   "lastModified": "Mon, 09 Nov 2026 23:17:31 GMT"
+   "lastModified": "Tue, 10 Nov 2026 00:04:13 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,29 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-09T23:17:31.430Z",
+   "checkedAt": "2026-11-10T00:04:13.080Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "d0d7853f2472dd1e",
+   "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+   "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+   "summary": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-09T23:52:12.000Z",
+   "categories": [
+    "ransomware",
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-10T00:04:13.080Z"
+  },
   {
    "id": "2ca0ba214d210ba6",
    "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
@@ -2956,21 +2972,6 @@
    "kind": "media",
    "published": "2026-11-02T14:46:05.000Z",
    "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-02T15:38:36.606Z"
-  },
-  {
-   "id": "e6a8a89f85143ca1",
-   "title": "Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk",
-   "url": "https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/",
-   "summary": "The Florida Department of Education says SSNs and other personal data may have been exposed in a breach of its financial aid website. The post Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-02T14:44:18.000Z",
-   "categories": [
-    "breach",
     "attack"
    ],
    "firstSeen": "2026-11-02T15:38:36.606Z"
