@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-10T19:28:02.037Z",
- "lastAttempt": "2026-11-10T19:28:02.037Z",
+ "lastSuccess": "2026-11-10T20:20:46.570Z",
+ "lastAttempt": "2026-11-10T20:20:46.570Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T19:28:02.037Z",
-   "lastSuccess": "2026-11-10T19:28:02.037Z",
+   "checkedAt": "2026-11-10T20:20:46.570Z",
+   "lastSuccess": "2026-11-10T20:20:46.570Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 17:24:13 GMT"
+   "lastModified": "Tue, 10 Nov 2026 19:32:18 GMT"
   },
   {
    "id": "bleeping",
@@ -22,32 +22,32 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T19:28:02.037Z",
-   "lastSuccess": "2026-11-10T19:28:02.037Z",
-   "etag": "a8564a66fa2d4ba556c7129258c8de1f",
-   "lastModified": "Tue, 10 Nov 2026 19:27:53 GMT"
+   "checkedAt": "2026-11-10T20:20:46.570Z",
+   "lastSuccess": "2026-11-10T20:20:46.570Z",
+   "etag": "8947d61e2a44cf99098156ce00dac80b",
+   "lastModified": "Tue, 10 Nov 2026 20:11:35 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T19:28:02.037Z",
-   "lastSuccess": "2026-11-10T19:28:02.037Z",
+   "checkedAt": "2026-11-10T20:20:46.570Z",
+   "lastSuccess": "2026-11-10T20:20:46.570Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 17:16:03 GMT"
+   "lastModified": "Tue, 10 Nov 2026 20:15:03 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T19:28:02.037Z",
-   "lastSuccess": "2026-11-10T19:28:02.037Z",
+   "checkedAt": "2026-11-10T20:20:46.570Z",
+   "lastSuccess": "2026-11-10T20:20:46.570Z",
    "etag": "W/\"c85d7bfa840a277f8a6b47a5e13de351\"",
    "lastModified": "Tue, 10 Nov 2026 19:19:53 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T19:28:02.037Z",
-   "lastSuccess": "2026-11-10T19:28:02.037Z",
+   "checkedAt": "2026-11-10T20:20:46.570Z",
+   "lastSuccess": "2026-11-10T20:20:46.570Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 19:28:03 GMT"
+   "lastModified": "Tue, 10 Nov 2026 20:20:47 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,58 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-10T19:28:02.037Z",
+   "checkedAt": "2026-11-10T20:20:46.570Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "abeaeb95e7964697",
+   "title": "Microsoft releases Windows 10 KB5131096 extended security update",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
+   "summary": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-10T20:04:36.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-10T20:20:46.570Z"
+  },
+  {
+   "id": "f8a1e729f1141b35",
+   "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
+   "summary": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-10T19:31:11.000Z",
+   "categories": [
+    "breach",
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-10T20:20:46.570Z"
+  },
+  {
+   "id": "98e4d72a559c644f",
+   "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+   "url": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+   "summary": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-10T19:23:10.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-10T20:20:46.570Z"
+  },
   {
    "id": "e0acd21b078974d3",
    "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
@@ -90,6 +135,23 @@
     "vuln"
    ],
    "firstSeen": "2026-11-10T19:28:02.037Z"
+  },
+  {
+   "id": "12e10543ab563fdd",
+   "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+   "url": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+   "summary": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday. The attacker could also have seen requests being processed on that server that day, including requests sent in…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-10T19:19:39.000Z",
+   "categories": [
+    "breach",
+    "vuln",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-10T20:20:46.570Z"
   },
   {
    "id": "c038b360cce0a6f0",
@@ -134,6 +196,21 @@
    "firstSeen": "2026-11-10T19:28:02.037Z"
   },
   {
+   "id": "452012a5ab466238",
+   "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+   "summary": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild. The authentication bypass flaw, which does not yet have a CVE identifier, is tracked as VSA-2026-062. \"REST cookie parsing…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-10T18:12:21.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-10T20:20:46.570Z"
+  },
+  {
    "id": "ce20ffa5c728f4f5",
    "title": "Adobe Patches 110 Vulnerabilities Across 9 Products",
    "url": "https://www.securityweek.com/adobe-patches-110-vulnerabilities-across-9-products/",
@@ -146,6 +223,21 @@
     "vuln"
    ],
    "firstSeen": "2026-11-10T18:25:12.152Z"
+  },
+  {
+   "id": "f020d812e8ed826c",
+   "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
+   "url": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
+   "summary": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and critical infrastructure across Latin America…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-10T17:43:23.000Z",
+   "categories": [
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-10T20:20:46.570Z"
   },
   {
    "id": "abac9eed34a89dd4",
@@ -195,7 +287,7 @@
    "id": "db01d072adb842da",
    "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
    "url": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
-   "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in October 2026, involves the exploitation of a chain comprising CVE-2026-105133 and…",
+   "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in early October 2026, involves the exploitation of a chain comprising CVE-2026-105133…",
    "source": "The Hacker News",
    "sourceId": "thn",
    "kind": "media",
@@ -238,7 +330,7 @@
   },
   {
    "id": "78de25647db1bd8e",
-   "title": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
+   "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
    "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
    "summary": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a \"limited set of accounts.\"…",
    "source": "The Hacker News",
@@ -640,6 +732,20 @@
     "attack"
    ],
    "firstSeen": "2026-11-10T00:04:13.080Z"
+  },
+  {
+   "id": "6421cf20ae9d3d9d",
+   "title": "People Are Getting Weird About AI",
+   "url": "https://www.darkreading.com/cyber-risk/people-are-getting-weird-about-ai",
+   "summary": "Dark Reading Confidential Episode 22: You can love AI without being blind to cybersecurity being sacrificed for utility.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-09T23:06:22.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-10T20:20:46.570Z"
   },
   {
    "id": "2ca0ba214d210ba6",
@@ -2862,107 +2968,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-03T20:22:58.600Z"
-  },
-  {
-   "id": "6d6522adc09e5a24",
-   "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
-   "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
-   "summary": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-03T18:51:04.000Z",
-   "categories": [
-    "phishing",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-03T19:28:31.016Z"
-  },
-  {
-   "id": "e357dd7a35d8f16c",
-   "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
-   "url": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
-   "summary": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passkeys. The warning came in an email sent on November 3 in…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-03T18:46:38.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-03T19:28:31.016Z"
-  },
-  {
-   "id": "49acf98068f7a42d",
-   "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
-   "url": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
-   "summary": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure. The incident is assessed to be part of a large-scale, artificial intelligence…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-03T18:16:19.000Z",
-   "categories": [
-    "breach",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-03T19:28:31.016Z"
-  },
-  {
-   "id": "62e23c789fbfd2f8",
-   "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
-   "url": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
-   "summary": "Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a \"sophisticated, multi-stage campaign\" that involved the use of a tampered Homebrew installation and recruitment-themed social…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-03T16:55:58.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-03T17:34:31.271Z"
-  },
-  {
-   "id": "5350cf64f29cdc8a",
-   "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
-   "url": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
-   "summary": "Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device. The vulnerabilities, a pre-authentication authorization bypass…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-03T15:59:19.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-03T17:34:31.271Z"
-  },
-  {
-   "id": "c5631e1fe7c280d4",
-   "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
-   "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
-   "summary": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The tactic is called LLMjacking, a form of resource hijacking adapted for the LLM era, where an…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-03T15:41:53.000Z",
-   "categories": [
-    "phishing",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-03T16:36:11.180Z"
-  },
-  {
-   "id": "c79634e1f1f55dbc",
-   "title": "9 Cyber Awareness Tips That Actually Match Today's Maze of Threats",
-   "url": "https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats",
-   "summary": "Practical guidance on safer search, stronger login security, better executive protection, and other habits can reduce enterprise risk.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-03T15:38:20.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-03T16:36:11.180Z"
   }
  ]
 }
