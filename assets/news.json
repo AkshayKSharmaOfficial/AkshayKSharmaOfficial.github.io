@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-10T08:40:53.237Z",
- "lastAttempt": "2026-11-10T08:40:53.237Z",
+ "lastSuccess": "2026-11-10T09:37:28.395Z",
+ "lastAttempt": "2026-11-10T09:37:28.395Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T08:40:53.237Z",
-   "lastSuccess": "2026-11-10T08:40:53.237Z",
+   "checkedAt": "2026-11-10T09:37:28.395Z",
+   "lastSuccess": "2026-11-10T09:37:28.395Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 08:30:36 GMT"
+   "lastModified": "Tue, 10 Nov 2026 09:10:44 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T08:40:53.237Z",
-   "lastSuccess": "2026-11-10T08:40:53.237Z",
-   "etag": "ba43af2f3ba11be20d92cc9797a366af",
-   "lastModified": "Tue, 10 Nov 2026 08:32:56 GMT"
+   "checkedAt": "2026-11-10T09:37:28.395Z",
+   "lastSuccess": "2026-11-10T09:37:28.395Z",
+   "etag": "1e8364b06aa3ddca60bec51073528f5a",
+   "lastModified": "Tue, 10 Nov 2026 09:32:14 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T08:40:53.237Z",
-   "lastSuccess": "2026-11-10T08:40:53.237Z",
+   "checkedAt": "2026-11-10T09:37:28.395Z",
+   "lastSuccess": "2026-11-10T09:37:28.395Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 08:30:39 GMT"
+   "lastModified": "Tue, 10 Nov 2026 09:35:07 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T08:40:53.237Z",
-   "lastSuccess": "2026-11-10T08:40:53.237Z",
+   "checkedAt": "2026-11-10T09:37:28.395Z",
+   "lastSuccess": "2026-11-10T09:37:28.395Z",
    "etag": "W/\"d85e75ace96e170b19cbb95afc80f275\"",
    "lastModified": "Tue, 10 Nov 2026 07:35:11 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T08:40:53.237Z",
-   "lastSuccess": "2026-11-10T08:40:53.237Z",
+   "checkedAt": "2026-11-10T09:37:28.395Z",
+   "lastSuccess": "2026-11-10T09:37:28.395Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 08:40:54 GMT"
+   "lastModified": "Tue, 10 Nov 2026 09:37:28 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,42 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-10T08:40:53.237Z",
+   "checkedAt": "2026-11-10T09:37:28.395Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "db918bafa08cb13b",
+   "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
+   "url": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
+   "summary": "An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday. The attackers broke into controllers on the night of October 11 and…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-10T09:08:20.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-10T09:37:28.395Z"
+  },
+  {
+   "id": "72dde80af1c8a5ac",
+   "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
+   "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
+   "summary": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-10T08:51:25.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-10T09:37:28.395Z"
+  },
   {
    "id": "324a5559d0e2e6e6",
    "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
@@ -2948,34 +2977,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-02T22:13:31.418Z"
-  },
-  {
-   "id": "451bc84f9c82c5e2",
-   "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
-   "url": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
-   "summary": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-02T19:00:45.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-02T19:38:44.784Z"
-  },
-  {
-   "id": "a07209536ed7ba66",
-   "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
-   "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
-   "summary": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate revenue through cybercrime activities. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-02T18:16:34.000Z",
-   "categories": [
-    "malware"
-   ],
-   "firstSeen": "2026-11-02T18:35:03.806Z"
   }
  ]
 }
