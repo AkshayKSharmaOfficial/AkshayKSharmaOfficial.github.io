@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-10T15:41:22.885Z",
- "lastAttempt": "2026-11-10T15:41:22.885Z",
+ "lastSuccess": "2026-11-10T17:30:25.858Z",
+ "lastAttempt": "2026-11-10T17:30:25.858Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T15:41:22.885Z",
-   "lastSuccess": "2026-11-10T15:41:22.885Z",
+   "checkedAt": "2026-11-10T17:30:25.858Z",
+   "lastSuccess": "2026-11-10T17:30:25.858Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 15:02:53 GMT"
+   "lastModified": "Tue, 10 Nov 2026 17:24:13 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T15:41:22.885Z",
-   "lastSuccess": "2026-11-10T15:41:22.885Z",
-   "etag": "3ffb6fe802719bfe70411571e56557be",
-   "lastModified": "Tue, 10 Nov 2026 15:39:40 GMT"
+   "checkedAt": "2026-11-10T17:30:25.858Z",
+   "lastSuccess": "2026-11-10T17:30:25.858Z",
+   "etag": "ae21be20256256047476593ccc15857b",
+   "lastModified": "Tue, 10 Nov 2026 17:24:45 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T15:41:22.885Z",
-   "lastSuccess": "2026-11-10T15:41:22.885Z",
+   "checkedAt": "2026-11-10T17:30:25.858Z",
+   "lastSuccess": "2026-11-10T17:30:25.858Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 10:37:09 GMT"
+   "lastModified": "Tue, 10 Nov 2026 17:16:03 GMT"
   },
   {
    "id": "securityweek",
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T15:41:22.885Z",
-   "lastSuccess": "2026-11-10T15:41:22.885Z",
-   "etag": "\"1dff176fdbe0c73b535bf2955fbece34\"",
-   "lastModified": "Tue, 10 Nov 2026 15:18:58 GMT"
+   "checkedAt": "2026-11-10T17:30:25.858Z",
+   "lastSuccess": "2026-11-10T17:30:25.858Z",
+   "etag": "\"35626e583da5510d511a2a271f15fbe9\"",
+   "lastModified": "Tue, 10 Nov 2026 16:47:52 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T15:41:22.885Z",
-   "lastSuccess": "2026-11-10T15:41:22.885Z",
+   "checkedAt": "2026-11-10T17:30:25.858Z",
+   "lastSuccess": "2026-11-10T17:30:25.858Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 15:41:23 GMT"
+   "lastModified": "Tue, 10 Nov 2026 17:30:26 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,117 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-10T15:41:22.885Z",
+   "checkedAt": "2026-11-10T17:30:25.858Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "abac9eed34a89dd4",
+   "title": "Software Transparency Is Changing: Allan Friedman on SBOM, AI BOMs and What Comes Next",
+   "url": "https://www.securityweek.com/software-transparency-is-changing-allan-friedman-on-sbom-ai-boms-and-what-comes-next/",
+   "summary": "SBOM pioneer Allan Friedman joined the SecurityWeek Podcast to discuss why knowing what is inside software is only the beginning, how AI is complicating software supply chain visibility, and what organizations should be doing with SBOM data once they have it. The post Software…",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-10T16:45:00.000Z",
+   "categories": [
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-10T17:30:25.858Z"
+  },
+  {
+   "id": "5c34c2457382c87e",
+   "title": "Google Widens Gemini 4 Carbon Access After AI Agents Verify Signal Code",
+   "url": "https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/",
+   "summary": "Google opened Carbon to paying developers and businesses as DeepMind used agents built on it to prove libsignal security guarantees. The post Google Widens Gemini 4 Carbon Access After AI Agents Verify Signal Code appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-10T16:42:02.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-10T17:30:25.858Z"
+  },
+  {
+   "id": "5d73eb52bcf668c3",
+   "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
+   "url": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
+   "summary": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-10T16:17:16.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-10T17:30:25.858Z"
+  },
+  {
+   "id": "db01d072adb842da",
+   "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
+   "url": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
+   "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in October 2026, involves the exploitation of a chain comprising CVE-2026-105133 and…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-10T16:00:55.000Z",
+   "categories": [
+    "vuln",
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-10T17:30:25.858Z"
+  },
+  {
+   "id": "9154e248fbd42384",
+   "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
+   "url": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
+   "summary": "Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and login credentials. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-10T15:59:19.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-10T17:30:25.858Z"
+  },
+  {
+   "id": "af8c1df07c8f17c5",
+   "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
+   "url": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
+   "summary": "The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that shares its lineage with AsyncRAT and DCRat. \"The campaign…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-10T15:58:44.000Z",
+   "categories": [
+    "malware",
+    "phishing"
+   ],
+   "firstSeen": "2026-11-10T17:30:25.858Z"
+  },
+  {
+   "id": "78de25647db1bd8e",
+   "title": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
+   "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
+   "summary": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a \"limited set of accounts.\"…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-10T15:33:59.000Z",
+   "categories": [
+    "breach",
+    "ai"
+   ],
+   "firstSeen": "2026-11-10T17:30:25.858Z"
+  },
   {
    "id": "f5fadb4e0a64bf5c",
    "title": "Ransomware recovery is now a client retention metric",
@@ -2861,111 +2965,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-03T15:44:13.860Z"
-  },
-  {
-   "id": "4156e6a8140b9371",
-   "title": "CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode",
-   "url": "https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/",
-   "summary": "The acquisitions will add AI agent observability and automated AI security testing capabilities to the CrowdStrike Falcon platform. The post CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-03T14:12:44.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-03T15:44:13.860Z"
-  },
-  {
-   "id": "4192ceee81e07f25",
-   "title": "3AM Affiliate Embraces AI-Like Loops in European School Attack",
-   "url": "https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack",
-   "summary": "Evidence suggests a model may have generated and revised commands during the ransom gang's breach, though researchers stopped short of claiming full automation.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-03T14:00:00.000Z",
-   "categories": [
-    "ransomware",
-    "breach",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-03T15:44:13.860Z"
-  },
-  {
-   "id": "940ff819aa028fc1",
-   "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
-   "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
-   "summary": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-03T14:00:00.000Z",
-   "categories": [
-    "ransomware",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-03T15:44:13.860Z"
-  },
-  {
-   "id": "4060921949ab0c3b",
-   "title": "Police seizes over 100 servers in investment scam crackdown",
-   "url": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
-   "summary": "European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-03T13:33:49.000Z",
-   "categories": [
-    "phishing",
-    "attack"
-   ],
-   "firstSeen": "2026-11-03T13:54:06.807Z"
-  },
-  {
-   "id": "60ed1c1b56633442",
-   "title": "Android’s November 2026 Updates Patch Over 200 Vulnerabilities",
-   "url": "https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/",
-   "summary": "The most severe is a critical flaw in Framework leading to remote code execution without user interaction. The post Android’s November 2026 Updates Patch Over 200 Vulnerabilities appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-03T12:21:49.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-03T12:36:28.295Z"
-  },
-  {
-   "id": "d23a70b3028599a7",
-   "title": "Critical Node-RED Flaw Exploited in Attacks",
-   "url": "https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/",
-   "summary": "Multiple attacks from the same IP address attempted to deploy various payloads, including a Linux bot and webshells. The post Critical Node-RED Flaw Exploited in Attacks appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-03T12:10:19.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-03T12:36:28.295Z"
-  },
-  {
-   "id": "d63d06decd19b714",
-   "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
-   "url": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
-   "summary": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-03T12:05:52.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-03T12:36:28.295Z"
   }
  ]
 }
