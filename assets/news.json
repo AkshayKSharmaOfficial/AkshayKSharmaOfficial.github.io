@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-10T22:12:48.329Z",
- "lastAttempt": "2026-11-10T22:12:48.329Z",
+ "lastSuccess": "2026-11-10T22:57:05.139Z",
+ "lastAttempt": "2026-11-10T22:57:05.139Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T22:12:48.329Z",
-   "lastSuccess": "2026-11-10T22:12:48.329Z",
+   "checkedAt": "2026-11-10T22:57:05.139Z",
+   "lastSuccess": "2026-11-10T22:57:05.139Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 21:44:19 GMT"
+   "lastModified": "Tue, 10 Nov 2026 22:45:36 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T22:12:48.329Z",
-   "lastSuccess": "2026-11-10T22:12:48.329Z",
-   "etag": "59f63bc60ac7accd5bc5e68e3c045682",
-   "lastModified": "Tue, 10 Nov 2026 22:04:57 GMT"
+   "checkedAt": "2026-11-10T22:57:05.139Z",
+   "lastSuccess": "2026-11-10T22:57:05.139Z",
+   "etag": "2e6447e2f91e4d2a65e4785b43bf9c9b",
+   "lastModified": "Tue, 10 Nov 2026 22:50:21 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T22:12:48.329Z",
-   "lastSuccess": "2026-11-10T22:12:48.329Z",
+   "checkedAt": "2026-11-10T22:57:05.139Z",
+   "lastSuccess": "2026-11-10T22:57:05.139Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 22:07:41 GMT"
+   "lastModified": "Tue, 10 Nov 2026 22:48:05 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T22:12:48.329Z",
-   "lastSuccess": "2026-11-10T22:12:48.329Z",
+   "checkedAt": "2026-11-10T22:57:05.139Z",
+   "lastSuccess": "2026-11-10T22:57:05.139Z",
    "etag": "W/\"c85d7bfa840a277f8a6b47a5e13de351\"",
    "lastModified": "Tue, 10 Nov 2026 19:19:53 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T22:12:48.329Z",
-   "lastSuccess": "2026-11-10T22:12:48.329Z",
+   "checkedAt": "2026-11-10T22:57:05.139Z",
+   "lastSuccess": "2026-11-10T22:57:05.139Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 22:12:48 GMT"
+   "lastModified": "Tue, 10 Nov 2026 22:57:05 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,45 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T22:12:48.329Z",
-   "lastSuccess": "2026-11-10T22:12:48.329Z",
+   "checkedAt": "2026-11-10T22:57:05.139Z",
+   "lastSuccess": "2026-11-10T22:57:05.139Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "09c3ab4e941ff4ba",
+   "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
+   "url": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
+   "summary": "Microsoft serves up an actively exploited Outlook zero-day, and a wave of critical Exchange, SharePoint, Windows Search, and LDAP bugs that exhausted defenders need to prioritize fast.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-10T22:26:51.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-10T22:57:05.139Z"
+  },
+  {
+   "id": "5f12a83239447932",
+   "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+   "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+   "summary": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-10T22:20:19.000Z",
+   "categories": [
+    "breach",
+    "vuln",
+    "phishing",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-10T22:57:05.139Z"
+  },
   {
    "id": "56e8f28d1062a8e8",
    "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
@@ -2934,35 +2966,6 @@
    "published": "2026-11-04T08:27:05.000Z",
    "categories": [
     "vuln"
-   ],
-   "firstSeen": "2026-11-04T09:08:26.001Z"
-  },
-  {
-   "id": "595e0a9dfde72e64",
-   "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
-   "url": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
-   "summary": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of targeting Russian and international companies since 2016. The Ministry of…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-04T08:17:11.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-04T09:08:26.001Z"
-  },
-  {
-   "id": "226d22a423412bf1",
-   "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
-   "url": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
-   "summary": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin. The flaw, CVE-2026-58868, affects Android 14 through 17. Phones get the fix with security patch level 2026-11-01 or later…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-04T07:46:15.000Z",
-   "categories": [
-    "vuln",
-    "attack"
    ],
    "firstSeen": "2026-11-04T09:08:26.001Z"
   }
