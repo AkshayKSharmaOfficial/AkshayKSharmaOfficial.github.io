@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-10T12:37:02.490Z",
- "lastAttempt": "2026-11-10T12:37:02.490Z",
+ "lastSuccess": "2026-11-10T13:53:22.254Z",
+ "lastAttempt": "2026-11-10T13:53:22.254Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T12:37:02.490Z",
-   "lastSuccess": "2026-11-10T12:37:02.490Z",
+   "checkedAt": "2026-11-10T13:53:22.254Z",
+   "lastSuccess": "2026-11-10T13:53:22.254Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 11:56:23 GMT"
+   "lastModified": "Tue, 10 Nov 2026 13:40:21 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T12:37:02.490Z",
-   "lastSuccess": "2026-11-10T12:37:02.490Z",
-   "etag": "7ff5e35231f75abdac75c62b55ce077a",
-   "lastModified": "Tue, 10 Nov 2026 12:29:36 GMT"
+   "checkedAt": "2026-11-10T13:53:22.254Z",
+   "lastSuccess": "2026-11-10T13:53:22.254Z",
+   "etag": "84a7ea69df7e0c85ed1f685bfdd7e1d4",
+   "lastModified": "Tue, 10 Nov 2026 13:49:38 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T12:37:02.490Z",
-   "lastSuccess": "2026-11-10T12:37:02.490Z",
+   "checkedAt": "2026-11-10T13:53:22.254Z",
+   "lastSuccess": "2026-11-10T13:53:22.254Z",
    "etag": null,
    "lastModified": "Tue, 10 Nov 2026 10:37:09 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T12:37:02.490Z",
-   "lastSuccess": "2026-11-10T12:37:02.490Z",
-   "etag": "\"db27d2653919bf9fe4c29a2f221e1928\"",
-   "lastModified": "Tue, 10 Nov 2026 12:18:27 GMT"
+   "checkedAt": "2026-11-10T13:53:22.254Z",
+   "lastSuccess": "2026-11-10T13:53:22.254Z",
+   "etag": "\"d09c7bf54392b3cd6756e4be79569e05\"",
+   "lastModified": "Tue, 10 Nov 2026 13:28:08 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T12:37:02.490Z",
-   "lastSuccess": "2026-11-10T12:37:02.490Z",
+   "checkedAt": "2026-11-10T13:53:22.254Z",
+   "lastSuccess": "2026-11-10T13:53:22.254Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 12:37:03 GMT"
+   "lastModified": "Tue, 10 Nov 2026 13:53:22 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,42 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-10T12:37:02.490Z",
+   "checkedAt": "2026-11-10T13:53:22.254Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "b27ae4ae529c7401",
+   "title": "Over a Dozen Organizations Hit in Qubole Supply Chain Attack",
+   "url": "https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/",
+   "summary": "Hackers used compromised Qubole IAM credentials to steal customer files, secrets, keys, environment variables, and credentials. The post Over a Dozen Organizations Hit in Qubole Supply Chain Attack appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-10T13:27:44.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-10T13:53:22.254Z"
+  },
+  {
+   "id": "4606ba7f8bef4db9",
+   "title": "AI Makes Reverse Engineering Mainstream Software & Malware Far Easier",
+   "url": "https://www.darkreading.com/application-security/ai-reverse-engineering-apps",
+   "summary": "Researchers unpacked, mapped, and recreated complex software and the Turla malware, raising fresh concerns for defenders.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-10T13:00:00.000Z",
+   "categories": [
+    "malware",
+    "ai"
+   ],
+   "firstSeen": "2026-11-10T13:53:22.254Z"
+  },
   {
    "id": "be32db521ac90c12",
    "title": "Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes",
@@ -91,6 +120,18 @@
     "ai"
    ],
    "firstSeen": "2026-11-10T12:37:02.490Z"
+  },
+  {
+   "id": "d195f153eca00984",
+   "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
+   "url": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
+   "summary": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today. Apple's updates for iOS 26 and 27, released…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-10T12:15:31.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-10T13:53:22.254Z"
   },
   {
    "id": "3627b6078668f7a0",
@@ -2933,50 +2974,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-03T13:54:06.807Z"
-  },
-  {
-   "id": "cbcb25e2d4a8a332",
-   "title": "Harvard University data breach exposed info of 851,000 accounts",
-   "url": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
-   "summary": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-03T10:53:25.000Z",
-   "categories": [
-    "breach",
-    "attack"
-   ],
-   "firstSeen": "2026-11-03T11:34:11.272Z"
-  },
-  {
-   "id": "0fc99e77168524c0",
-   "title": "UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028",
-   "url": "https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/",
-   "summary": "The U.K. will likely face AI cyberattacks on its critical infrastructure by 2028 as criminals and states, including China and Russia, increasingly use AI in their cyber activity. The post UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028…",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-03T09:49:12.000Z",
-   "categories": [
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-03T10:38:25.675Z"
-  },
-  {
-   "id": "8ad3f619cd849f35",
-   "title": "Google Dismantles XCPE Botnet of 1.3 Million Android Devices",
-   "url": "https://www.securityweek.com/google-dismantles-xcpe-botnet-of-1-3-million-android-devices/",
-   "summary": "The botnet was created and operated for financial gain by Android OEM/ODM Videostrong Technology. The post Google Dismantles XCPE Botnet of 1.3 Million Android Devices appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-03T09:22:09.000Z",
-   "categories": [
-    "malware"
-   ],
-   "firstSeen": "2026-11-03T09:36:44.959Z"
   }
  ]
 }
