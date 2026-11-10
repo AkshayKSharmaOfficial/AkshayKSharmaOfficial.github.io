@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-10T10:38:34.938Z",
- "lastAttempt": "2026-11-10T10:38:34.938Z",
+ "lastSuccess": "2026-11-10T11:33:51.918Z",
+ "lastAttempt": "2026-11-10T11:33:51.918Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T10:38:34.938Z",
-   "lastSuccess": "2026-11-10T10:38:34.938Z",
+   "checkedAt": "2026-11-10T11:33:51.918Z",
+   "lastSuccess": "2026-11-10T11:33:51.918Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 10:04:07 GMT"
+   "lastModified": "Tue, 10 Nov 2026 10:57:51 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T10:38:34.938Z",
-   "lastSuccess": "2026-11-10T10:38:34.938Z",
-   "etag": "104a563bb422e829d59b5d122824d2db",
-   "lastModified": "Tue, 10 Nov 2026 10:31:29 GMT"
+   "checkedAt": "2026-11-10T11:33:51.918Z",
+   "lastSuccess": "2026-11-10T11:33:51.918Z",
+   "etag": "73f9784861415c7fee1c84a998478482",
+   "lastModified": "Tue, 10 Nov 2026 11:31:31 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T10:38:34.938Z",
-   "lastSuccess": "2026-11-10T10:38:34.938Z",
+   "checkedAt": "2026-11-10T11:33:51.918Z",
+   "lastSuccess": "2026-11-10T11:33:51.918Z",
    "etag": null,
    "lastModified": "Tue, 10 Nov 2026 10:37:09 GMT"
   },
@@ -43,11 +43,11 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T10:38:34.938Z",
-   "lastSuccess": "2026-11-10T10:38:34.938Z",
+   "checkedAt": "2026-11-10T11:33:51.918Z",
+   "lastSuccess": "2026-11-10T11:33:51.918Z",
    "etag": "\"bf4cfd751ff3569bd9f235b0b66b3d7e\"",
    "lastModified": "Tue, 10 Nov 2026 09:56:34 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T10:38:34.938Z",
-   "lastSuccess": "2026-11-10T10:38:34.938Z",
+   "checkedAt": "2026-11-10T11:33:51.918Z",
+   "lastSuccess": "2026-11-10T11:33:51.918Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 10:38:35 GMT"
+   "lastModified": "Tue, 10 Nov 2026 11:33:52 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,29 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-10T10:38:34.938Z",
+   "checkedAt": "2026-11-10T11:33:51.918Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "fdab5e09d527af8f",
+   "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
+   "url": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
+   "summary": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added to a group access messages sent before they joined. As of…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-10T10:16:51.000Z",
+   "categories": [
+    "breach",
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-10T11:33:51.918Z"
+  },
   {
    "id": "b5651226622e06da",
    "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
@@ -91,6 +107,21 @@
     "attack"
    ],
    "firstSeen": "2026-11-10T10:38:34.938Z"
+  },
+  {
+   "id": "f91af9aa9454d040",
+   "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
+   "url": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
+   "summary": "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with an aim to surreptitiously collect emails. According to an…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-10T10:07:29.000Z",
+   "categories": [
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-10T11:33:51.918Z"
   },
   {
    "id": "37814be2effba973",
@@ -2944,36 +2975,6 @@
    "sourceId": "securityweek",
    "kind": "media",
    "published": "2026-11-03T07:43:24.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-03T08:41:23.598Z"
-  },
-  {
-   "id": "9c59a38943c4d0ce",
-   "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
-   "url": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
-   "summary": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed threat actors exploiting a vulnerability patched in December 2024 to target…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-03T07:43:07.000Z",
-   "categories": [
-    "ransomware",
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-03T08:41:23.598Z"
-  },
-  {
-   "id": "a8dc2b16ab89a42c",
-   "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
-   "url": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
-   "summary": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers. No chain reported more than several dozen affected stores, and some had to…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-03T07:27:07.000Z",
    "categories": [
     "attack"
    ],
