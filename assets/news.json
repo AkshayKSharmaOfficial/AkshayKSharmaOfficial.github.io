@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-10T18:25:12.152Z",
- "lastAttempt": "2026-11-10T18:25:12.152Z",
+ "lastSuccess": "2026-11-10T19:28:02.037Z",
+ "lastAttempt": "2026-11-10T19:28:02.037Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T18:25:12.152Z",
-   "lastSuccess": "2026-11-10T18:25:12.152Z",
+   "checkedAt": "2026-11-10T19:28:02.037Z",
+   "lastSuccess": "2026-11-10T19:28:02.037Z",
    "etag": null,
    "lastModified": "Tue, 10 Nov 2026 17:24:13 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T18:25:12.152Z",
-   "lastSuccess": "2026-11-10T18:25:12.152Z",
-   "etag": "476ee87b8728dd976ecc9adec5db225e",
-   "lastModified": "Tue, 10 Nov 2026 18:24:47 GMT"
+   "checkedAt": "2026-11-10T19:28:02.037Z",
+   "lastSuccess": "2026-11-10T19:28:02.037Z",
+   "etag": "a8564a66fa2d4ba556c7129258c8de1f",
+   "lastModified": "Tue, 10 Nov 2026 19:27:53 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T18:25:12.152Z",
-   "lastSuccess": "2026-11-10T18:25:12.152Z",
+   "checkedAt": "2026-11-10T19:28:02.037Z",
+   "lastSuccess": "2026-11-10T19:28:02.037Z",
    "etag": null,
    "lastModified": "Tue, 10 Nov 2026 17:16:03 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T18:25:12.152Z",
-   "lastSuccess": "2026-11-10T18:25:12.152Z",
-   "etag": "\"b92554bc5e6ebeb64f1d6c75ff6f1f84\"",
-   "lastModified": "Tue, 10 Nov 2026 18:11:59 GMT"
+   "checkedAt": "2026-11-10T19:28:02.037Z",
+   "lastSuccess": "2026-11-10T19:28:02.037Z",
+   "etag": "W/\"c85d7bfa840a277f8a6b47a5e13de351\"",
+   "lastModified": "Tue, 10 Nov 2026 19:19:53 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T18:25:12.152Z",
-   "lastSuccess": "2026-11-10T18:25:12.152Z",
+   "checkedAt": "2026-11-10T19:28:02.037Z",
+   "lastSuccess": "2026-11-10T19:28:02.037Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 18:25:12 GMT"
+   "lastModified": "Tue, 10 Nov 2026 19:28:03 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,69 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-10T18:25:12.152Z",
+   "checkedAt": "2026-11-10T19:28:02.037Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "e0acd21b078974d3",
+   "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
+   "url": "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
+   "summary": "CVE-2026-124194 is the Outlook zero-day for which Microsoft says it’s aware of active exploitation. The post Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-10T19:19:46.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-10T19:28:02.037Z"
+  },
+  {
+   "id": "c038b360cce0a6f0",
+   "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
+   "summary": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-10T19:07:36.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-10T19:28:02.037Z"
+  },
+  {
+   "id": "e534bcdef2076564",
+   "title": "AI Coding Agents Leak Thousands of Secrets to GitHub",
+   "url": "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github",
+   "summary": "A command in Claude Code inadvertently saves files with credentials and other sensitive data to public Git repositories, creating security gaps for organizations.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-10T18:46:22.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-10T19:28:02.037Z"
+  },
+  {
+   "id": "730a7d940038fcaa",
+   "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
+   "summary": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-10T18:33:26.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-10T19:28:02.037Z"
+  },
   {
    "id": "ce20ffa5c728f4f5",
    "title": "Adobe Patches 110 Vulnerabilities Across 9 Products",
@@ -267,7 +323,7 @@
    "id": "4606ba7f8bef4db9",
    "title": "AI Makes Reverse Engineering Mainstream Software & Malware Far Easier",
    "url": "https://www.darkreading.com/application-security/ai-reverse-engineering-apps",
-   "summary": "Researchers unpacked, mapped, and recreated complex software and the Turla malware, raising fresh concerns for defenders.",
+   "summary": "Researchers unpacked, mapped, and recreated complex software and the Turla malware, raising opportunities and concerns for organizations and cybersecurity analysts.",
    "source": "Dark Reading",
    "sourceId": "darkreading",
    "kind": "media",
@@ -2907,62 +2963,6 @@
    "published": "2026-11-03T15:38:20.000Z",
    "categories": [],
    "firstSeen": "2026-11-03T16:36:11.180Z"
-  },
-  {
-   "id": "4f9a4decd5965e0d",
-   "title": "LLMjacking Emerges as Thriving Cybercriminal Enterprise",
-   "url": "https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise",
-   "summary": "Cybercriminals have turned reselling cloud access to LLMs into a lucrative business model, with some victims paying as much as $1 million in resource consumption before access was revoked.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-03T15:35:50.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-03T16:36:11.180Z"
-  },
-  {
-   "id": "c3e615c4c5d6d791",
-   "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
-   "url": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
-   "summary": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and other sensitive files from servers that ran it, cPGuard…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-03T15:16:32.000Z",
-   "categories": [
-    "malware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-03T16:36:11.180Z"
-  },
-  {
-   "id": "9a8ab815e71ccbd0",
-   "title": "Barracuda warns of critical flaws allowing root access to devices",
-   "url": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
-   "summary": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-03T15:06:16.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-03T15:44:13.860Z"
-  },
-  {
-   "id": "3f142b973f3f2ccf",
-   "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
-   "url": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
-   "summary": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst responsibilities and detection engineering to threat hunting…",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-03T15:00:10.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-03T15:44:13.860Z"
   }
  ]
 }
