@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-10T13:53:22.254Z",
- "lastAttempt": "2026-11-10T13:53:22.254Z",
+ "lastSuccess": "2026-11-10T14:49:18.655Z",
+ "lastAttempt": "2026-11-10T14:49:18.655Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T13:53:22.254Z",
-   "lastSuccess": "2026-11-10T13:53:22.254Z",
+   "checkedAt": "2026-11-10T14:49:18.655Z",
+   "lastSuccess": "2026-11-10T14:49:18.655Z",
    "etag": null,
    "lastModified": "Tue, 10 Nov 2026 13:40:21 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T13:53:22.254Z",
-   "lastSuccess": "2026-11-10T13:53:22.254Z",
-   "etag": "84a7ea69df7e0c85ed1f685bfdd7e1d4",
-   "lastModified": "Tue, 10 Nov 2026 13:49:38 GMT"
+   "checkedAt": "2026-11-10T14:49:18.655Z",
+   "lastSuccess": "2026-11-10T14:49:18.655Z",
+   "etag": "311b83309cc3bd22b077b2f8b9aef13b",
+   "lastModified": "Tue, 10 Nov 2026 14:39:39 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T13:53:22.254Z",
-   "lastSuccess": "2026-11-10T13:53:22.254Z",
+   "checkedAt": "2026-11-10T14:49:18.655Z",
+   "lastSuccess": "2026-11-10T14:49:18.655Z",
    "etag": null,
    "lastModified": "Tue, 10 Nov 2026 10:37:09 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T13:53:22.254Z",
-   "lastSuccess": "2026-11-10T13:53:22.254Z",
-   "etag": "\"d09c7bf54392b3cd6756e4be79569e05\"",
-   "lastModified": "Tue, 10 Nov 2026 13:28:08 GMT"
+   "checkedAt": "2026-11-10T14:49:18.655Z",
+   "lastSuccess": "2026-11-10T14:49:18.655Z",
+   "etag": "W/\"ff55b7208845a553bef1a9a364543140\"",
+   "lastModified": "Tue, 10 Nov 2026 14:46:37 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T13:53:22.254Z",
-   "lastSuccess": "2026-11-10T13:53:22.254Z",
+   "checkedAt": "2026-11-10T14:49:18.655Z",
+   "lastSuccess": "2026-11-10T14:49:18.655Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 13:53:22 GMT"
+   "lastModified": "Tue, 10 Nov 2026 14:49:18 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-10T13:53:22.254Z",
+   "checkedAt": "2026-11-10T14:49:18.655Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "bc8d0735c275e458",
+   "title": "SAP Patches Critical ICM2SHELL, ProxyGate Vulnerabilities",
+   "url": "https://www.securityweek.com/sap-patches-critical-icm2shell-proxygate-vulnerabilities/",
+   "summary": "SAP has published 42 new and updated security advisories, including nine that address critical-severity vulnerabilities. The post SAP Patches Critical ICM2SHELL, ProxyGate Vulnerabilities appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-10T14:46:28.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-10T14:49:18.655Z"
+  },
   {
    "id": "b27ae4ae529c7401",
    "title": "Over a Dozen Organizations Hit in Qubole Supply Chain Attack",
@@ -2955,22 +2969,6 @@
    "categories": [
     "breach",
     "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-03T13:54:06.807Z"
-  },
-  {
-   "id": "9dcda68ffbe98570",
-   "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
-   "url": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
-   "summary": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active since at least February 2025, the group has focused exclusively on Ukrainian targets, with a clear preference for law…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-03T11:00:45.000Z",
-   "categories": [
-    "vuln",
-    "malware",
     "attack"
    ],
    "firstSeen": "2026-11-03T13:54:06.807Z"
