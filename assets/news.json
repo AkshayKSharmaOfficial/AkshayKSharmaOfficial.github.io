@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-10T07:43:50.144Z",
- "lastAttempt": "2026-11-10T07:43:50.144Z",
+ "lastSuccess": "2026-11-10T08:40:53.237Z",
+ "lastAttempt": "2026-11-10T08:40:53.237Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T07:43:50.144Z",
-   "lastSuccess": "2026-11-10T07:43:50.144Z",
+   "checkedAt": "2026-11-10T08:40:53.237Z",
+   "lastSuccess": "2026-11-10T08:40:53.237Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 07:12:18 GMT"
+   "lastModified": "Tue, 10 Nov 2026 08:30:36 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T07:43:50.144Z",
-   "lastSuccess": "2026-11-10T07:43:50.144Z",
-   "etag": "b62e8e81d4ac90b56048878f9a923515",
-   "lastModified": "Tue, 10 Nov 2026 07:42:30 GMT"
+   "checkedAt": "2026-11-10T08:40:53.237Z",
+   "lastSuccess": "2026-11-10T08:40:53.237Z",
+   "etag": "ba43af2f3ba11be20d92cc9797a366af",
+   "lastModified": "Tue, 10 Nov 2026 08:32:56 GMT"
   },
   {
    "id": "krebs",
@@ -34,20 +34,20 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T07:43:50.144Z",
-   "lastSuccess": "2026-11-10T07:43:50.144Z",
+   "checkedAt": "2026-11-10T08:40:53.237Z",
+   "lastSuccess": "2026-11-10T08:40:53.237Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 07:30:18 GMT"
+   "lastModified": "Tue, 10 Nov 2026 08:30:39 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T07:43:50.144Z",
-   "lastSuccess": "2026-11-10T07:43:50.144Z",
+   "checkedAt": "2026-11-10T08:40:53.237Z",
+   "lastSuccess": "2026-11-10T08:40:53.237Z",
    "etag": "W/\"d85e75ace96e170b19cbb95afc80f275\"",
    "lastModified": "Tue, 10 Nov 2026 07:35:11 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T07:43:50.144Z",
-   "lastSuccess": "2026-11-10T07:43:50.144Z",
+   "checkedAt": "2026-11-10T08:40:53.237Z",
+   "lastSuccess": "2026-11-10T08:40:53.237Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 07:43:50 GMT"
+   "lastModified": "Tue, 10 Nov 2026 08:40:54 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,44 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-10T07:43:50.144Z",
+   "checkedAt": "2026-11-10T08:40:53.237Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "324a5559d0e2e6e6",
+   "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
+   "url": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
+   "summary": "Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision. During pre-release training, the large language models (LLMs) helped its engineers \"complete otherwise-infeasible software…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-10T08:16:14.000Z",
+   "categories": [
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-10T08:40:53.237Z"
+  },
+  {
+   "id": "9d2bd3577bbf0ac0",
+   "title": "Fireworks AI discloses new breach after cloud provider hack",
+   "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
+   "summary": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-10T07:49:58.000Z",
+   "categories": [
+    "breach",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-10T08:40:53.237Z"
+  },
   {
    "id": "16500b998f183332",
    "title": "France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators",
@@ -2945,36 +2976,6 @@
     "malware"
    ],
    "firstSeen": "2026-11-02T18:35:03.806Z"
-  },
-  {
-   "id": "a3562df3fff969c3",
-   "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
-   "url": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
-   "summary": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause serious trouble. Then there were the bigger messes. Billions…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-02T16:57:56.000Z",
-   "categories": [
-    "malware",
-    "phishing",
-    "attack"
-   ],
-   "firstSeen": "2026-11-02T18:35:03.806Z"
-  },
-  {
-   "id": "7a8b5fe3b630ce05",
-   "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
-   "url": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
-   "summary": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says it is highly confident that device maker Videostrong intentionally put a backdoor in the boxes and sold access to…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-02T15:50:26.000Z",
-   "categories": [
-    "malware"
-   ],
-   "firstSeen": "2026-11-02T16:43:11.118Z"
   }
  ]
 }
