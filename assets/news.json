@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-10T05:24:57.273Z",
- "lastAttempt": "2026-11-10T05:24:57.273Z",
+ "lastSuccess": "2026-11-10T06:23:58.861Z",
+ "lastAttempt": "2026-11-10T06:23:58.861Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T05:24:57.273Z",
-   "lastSuccess": "2026-11-10T05:24:57.273Z",
+   "checkedAt": "2026-11-10T06:23:58.861Z",
+   "lastSuccess": "2026-11-10T06:23:58.861Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 04:40:36 GMT"
+   "lastModified": "Tue, 10 Nov 2026 05:53:29 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T05:24:57.273Z",
-   "lastSuccess": "2026-11-10T05:24:57.273Z",
-   "etag": "c10162d2df8da839c7c87e8dc13bc9f9",
-   "lastModified": "Tue, 10 Nov 2026 05:22:23 GMT"
+   "checkedAt": "2026-11-10T06:23:58.861Z",
+   "lastSuccess": "2026-11-10T06:23:58.861Z",
+   "etag": "40fa9dcb5037ebfd6be8d116e447b9bf",
+   "lastModified": "Tue, 10 Nov 2026 06:22:27 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T05:24:57.273Z",
-   "lastSuccess": "2026-11-10T05:24:57.273Z",
+   "checkedAt": "2026-11-10T06:23:58.861Z",
+   "lastSuccess": "2026-11-10T06:23:58.861Z",
    "etag": null,
    "lastModified": "Tue, 10 Nov 2026 05:17:05 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T05:24:57.273Z",
-   "lastSuccess": "2026-11-10T05:24:57.273Z",
-   "etag": "\"827f389a98a40de7f867c04437b8d425\"",
-   "lastModified": "Mon, 09 Nov 2026 14:08:12 GMT"
+   "checkedAt": "2026-11-10T06:23:58.861Z",
+   "lastSuccess": "2026-11-10T06:23:58.861Z",
+   "etag": "W/\"8b1a168e3858d055e32c4c01af83d9eb\"",
+   "lastModified": "Tue, 10 Nov 2026 06:12:29 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T05:24:57.273Z",
-   "lastSuccess": "2026-11-10T05:24:57.273Z",
+   "checkedAt": "2026-11-10T06:23:58.861Z",
+   "lastSuccess": "2026-11-10T06:23:58.861Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 05:24:57 GMT"
+   "lastModified": "Tue, 10 Nov 2026 06:23:59 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-10T05:24:57.273Z",
+   "checkedAt": "2026-11-10T06:23:58.861Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "fce6b70a44979f4b",
+   "title": "Chrome Update Patches Exploited XML Zero-Day, Eighth This Year",
+   "url": "https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year/",
+   "summary": "The high-severity use-after-free in Chrome’s XML component was reported anonymously on November 6 and is already exploited in attacks. The post Chrome Update Patches Exploited XML Zero-Day, Eighth This Year appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-10T06:12:24.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-10T06:23:58.861Z"
+  },
   {
    "id": "d0d7853f2472dd1e",
    "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
@@ -2958,20 +2973,6 @@
    "published": "2026-11-02T15:00:00.000Z",
    "categories": [
     "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-02T15:38:36.606Z"
-  },
-  {
-   "id": "772d27d38d32d901",
-   "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
-   "url": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
-   "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a report published by Dream Research Labs, the campaign has led…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-02T14:46:05.000Z",
-   "categories": [
     "attack"
    ],
    "firstSeen": "2026-11-02T15:38:36.606Z"
