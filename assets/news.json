@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-10T09:37:28.395Z",
- "lastAttempt": "2026-11-10T09:37:28.395Z",
+ "lastSuccess": "2026-11-10T10:38:34.938Z",
+ "lastAttempt": "2026-11-10T10:38:34.938Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T09:37:28.395Z",
-   "lastSuccess": "2026-11-10T09:37:28.395Z",
+   "checkedAt": "2026-11-10T10:38:34.938Z",
+   "lastSuccess": "2026-11-10T10:38:34.938Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 09:10:44 GMT"
+   "lastModified": "Tue, 10 Nov 2026 10:04:07 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T09:37:28.395Z",
-   "lastSuccess": "2026-11-10T09:37:28.395Z",
-   "etag": "1e8364b06aa3ddca60bec51073528f5a",
-   "lastModified": "Tue, 10 Nov 2026 09:32:14 GMT"
+   "checkedAt": "2026-11-10T10:38:34.938Z",
+   "lastSuccess": "2026-11-10T10:38:34.938Z",
+   "etag": "104a563bb422e829d59b5d122824d2db",
+   "lastModified": "Tue, 10 Nov 2026 10:31:29 GMT"
   },
   {
    "id": "krebs",
@@ -34,22 +34,22 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T09:37:28.395Z",
-   "lastSuccess": "2026-11-10T09:37:28.395Z",
+   "checkedAt": "2026-11-10T10:38:34.938Z",
+   "lastSuccess": "2026-11-10T10:38:34.938Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 09:35:07 GMT"
+   "lastModified": "Tue, 10 Nov 2026 10:37:09 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T09:37:28.395Z",
-   "lastSuccess": "2026-11-10T09:37:28.395Z",
-   "etag": "W/\"d85e75ace96e170b19cbb95afc80f275\"",
-   "lastModified": "Tue, 10 Nov 2026 07:35:11 GMT"
+   "checkedAt": "2026-11-10T10:38:34.938Z",
+   "lastSuccess": "2026-11-10T10:38:34.938Z",
+   "etag": "\"bf4cfd751ff3569bd9f235b0b66b3d7e\"",
+   "lastModified": "Tue, 10 Nov 2026 09:56:34 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-10T09:37:28.395Z",
-   "lastSuccess": "2026-11-10T09:37:28.395Z",
+   "checkedAt": "2026-11-10T10:38:34.938Z",
+   "lastSuccess": "2026-11-10T10:38:34.938Z",
    "etag": null,
-   "lastModified": "Tue, 10 Nov 2026 09:37:28 GMT"
+   "lastModified": "Tue, 10 Nov 2026 10:38:35 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,89 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-10T09:37:28.395Z",
+   "checkedAt": "2026-11-10T10:38:34.938Z",
    "lastSuccess": "2026-11-06T21:15:10.955Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "b5651226622e06da",
+   "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
+   "summary": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-10T10:10:20.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-10T10:38:34.938Z"
+  },
+  {
+   "id": "37814be2effba973",
+   "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
+   "url": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
+   "summary": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-10T10:04:32.000Z",
+   "categories": [
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-10T10:38:34.938Z"
+  },
+  {
+   "id": "c110ef77ed027886",
+   "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
+   "url": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
+   "summary": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score. Three are in the SAP NetWeaver application server, the software SAP systems run on, and one is in the…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-10T10:02:40.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-10T10:38:34.938Z"
+  },
+  {
+   "id": "8653a654672e3b16",
+   "title": "N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days",
+   "url": "https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/",
+   "summary": "Attackers could exploit the flaws for remote code execution, credential theft, and administrator account creation. The post N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-10T09:56:28.000Z",
+   "categories": [
+    "vuln",
+    "phishing",
+    "attack"
+   ],
+   "firstSeen": "2026-11-10T10:38:34.938Z"
+  },
+  {
+   "id": "8740a8d153042d22",
+   "title": "IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks",
+   "url": "https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/",
+   "summary": "CISA has added CVE-2026-123218 and CVE-2026-116779 to KEV, urging federal agencies to patch them within three days. The post IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-10T09:42:27.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-10T10:38:34.938Z"
+  },
   {
    "id": "db918bafa08cb13b",
    "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
@@ -2902,81 +2978,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-03T08:41:23.598Z"
-  },
-  {
-   "id": "b9ba4e436fc8e927",
-   "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
-   "url": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
-   "summary": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing authentication for a critical function that…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-03T05:34:41.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-03T06:23:47.129Z"
-  },
-  {
-   "id": "d80473442c7abc76",
-   "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
-   "url": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
-   "summary": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which carries a CVSS score of 10.0. Successful…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-03T05:34:37.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-03T06:23:47.129Z"
-  },
-  {
-   "id": "5eac2a1ee9b14040",
-   "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
-   "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
-   "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts…",
-   "source": "KrebsOnSecurity",
-   "sourceId": "krebs",
-   "kind": "media",
-   "published": "2026-11-03T02:24:31.000Z",
-   "categories": [
-    "malware",
-    "phishing"
-   ],
-   "firstSeen": "2026-11-03T03:25:16.621Z"
-  },
-  {
-   "id": "7e6b302a77a5a7c5",
-   "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
-   "url": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
-   "summary": "The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-02T22:27:24.000Z",
-   "categories": [
-    "breach",
-    "attack"
-   ],
-   "firstSeen": "2026-11-02T22:57:00.853Z"
-  },
-  {
-   "id": "1067a360d40402e0",
-   "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
-   "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
-   "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-02T21:40:14.000Z",
-   "categories": [
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-02T22:13:31.418Z"
   }
  ]
 }
