@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-11T09:52:48.446Z",
- "lastAttempt": "2026-11-11T09:52:48.446Z",
+ "lastSuccess": "2026-11-11T10:53:39.690Z",
+ "lastAttempt": "2026-11-11T10:53:39.690Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T09:52:48.446Z",
-   "lastSuccess": "2026-11-11T09:52:48.446Z",
+   "checkedAt": "2026-11-11T10:53:39.690Z",
+   "lastSuccess": "2026-11-11T10:53:39.690Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 09:11:23 GMT"
+   "lastModified": "Wed, 11 Nov 2026 10:31:54 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T09:52:48.446Z",
-   "lastSuccess": "2026-11-11T09:52:48.446Z",
-   "etag": "e1b8771f0040079e913930720ccb5db8",
-   "lastModified": "Wed, 11 Nov 2026 09:47:30 GMT"
+   "checkedAt": "2026-11-11T10:53:39.690Z",
+   "lastSuccess": "2026-11-11T10:53:39.690Z",
+   "etag": "c9fe9e3801486915a2b22dd43550f22e",
+   "lastModified": "Wed, 11 Nov 2026 10:52:11 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T09:52:48.446Z",
-   "lastSuccess": "2026-11-11T09:52:48.446Z",
+   "checkedAt": "2026-11-11T10:53:39.690Z",
+   "lastSuccess": "2026-11-11T10:53:39.690Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 08:41:08 GMT"
+   "lastModified": "Wed, 11 Nov 2026 10:36:37 GMT"
   },
   {
    "id": "securityweek",
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T09:52:48.446Z",
-   "lastSuccess": "2026-11-11T09:52:48.446Z",
-   "etag": "\"f1565415c64d1994f6fd11509f407fe8\"",
-   "lastModified": "Wed, 11 Nov 2026 09:04:16 GMT"
+   "checkedAt": "2026-11-11T10:53:39.690Z",
+   "lastSuccess": "2026-11-11T10:53:39.690Z",
+   "etag": "W/\"0776fa5dc525dd33e778c848c9ddd8ed\"",
+   "lastModified": "Wed, 11 Nov 2026 10:35:19 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T09:52:48.446Z",
-   "lastSuccess": "2026-11-11T09:52:48.446Z",
+   "checkedAt": "2026-11-11T10:53:39.690Z",
+   "lastSuccess": "2026-11-11T10:53:39.690Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 09:52:48 GMT"
+   "lastModified": "Wed, 11 Nov 2026 10:53:40 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,42 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T09:52:48.446Z",
-   "lastSuccess": "2026-11-11T09:52:48.446Z",
+   "checkedAt": "2026-11-11T10:53:39.690Z",
+   "lastSuccess": "2026-11-11T10:53:39.690Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "9770fff08cb3ff2a",
+   "title": "ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure",
+   "url": "https://www.securityweek.com/ics-patch-tuesday-siemens-flags-high-severity-flaws-node2shell-exposure/",
+   "summary": "Pre-Patch Tuesday advisories were published by VDE CERT, Phoenix Contact, Johnson Controls, and Hitachi Energy. The post ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-11T10:35:15.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-11T10:53:39.690Z"
+  },
+  {
+   "id": "6daf08a5aebc96fa",
+   "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+   "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-11T10:12:08.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-11T10:53:39.690Z"
+  },
   {
    "id": "03b5140f381fa26f",
    "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
@@ -2939,36 +2968,6 @@
    "kind": "media",
    "published": "2026-11-04T12:27:58.000Z",
    "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-04T12:30:36.017Z"
-  },
-  {
-   "id": "f81fec5e51d50eef",
-   "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
-   "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-04T12:11:05.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-04T12:30:36.017Z"
-  },
-  {
-   "id": "eeeb8b0c17d40904",
-   "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
-   "url": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
-   "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in an advisory and fixed it in versions 8.1.4.1…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-04T12:07:04.000Z",
-   "categories": [
-    "vuln",
     "attack"
    ],
    "firstSeen": "2026-11-04T12:30:36.017Z"
