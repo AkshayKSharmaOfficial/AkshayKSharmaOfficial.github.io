@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-11T20:12:57.780Z",
- "lastAttempt": "2026-11-11T20:12:57.780Z",
+ "lastSuccess": "2026-11-11T21:49:06.180Z",
+ "lastAttempt": "2026-11-11T21:49:06.180Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T20:12:57.780Z",
-   "lastSuccess": "2026-11-11T20:12:57.780Z",
+   "checkedAt": "2026-11-11T21:49:06.180Z",
+   "lastSuccess": "2026-11-11T21:49:06.180Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 19:38:43 GMT"
+   "lastModified": "Wed, 11 Nov 2026 20:59:59 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T20:12:57.780Z",
-   "lastSuccess": "2026-11-11T20:12:57.780Z",
-   "etag": "d9cfcba4802929f9acbba0d0e9b5c7a6",
-   "lastModified": "Wed, 11 Nov 2026 20:05:03 GMT"
+   "checkedAt": "2026-11-11T21:49:06.180Z",
+   "lastSuccess": "2026-11-11T21:49:06.180Z",
+   "etag": "bb6b67e7594400d07f60ceb9524c0cce",
+   "lastModified": "Wed, 11 Nov 2026 21:47:42 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T20:12:57.780Z",
-   "lastSuccess": "2026-11-11T20:12:57.780Z",
+   "checkedAt": "2026-11-11T21:49:06.180Z",
+   "lastSuccess": "2026-11-11T21:49:06.180Z",
    "etag": null,
    "lastModified": "Wed, 11 Nov 2026 18:06:01 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T20:12:57.780Z",
-   "lastSuccess": "2026-11-11T20:12:57.780Z",
+   "checkedAt": "2026-11-11T21:49:06.180Z",
+   "lastSuccess": "2026-11-11T21:49:06.180Z",
    "etag": "\"6f9c987ac5e663205ca257d4798aac0c\"",
    "lastModified": "Wed, 11 Nov 2026 18:23:23 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T20:12:57.780Z",
-   "lastSuccess": "2026-11-11T20:12:57.780Z",
+   "checkedAt": "2026-11-11T21:49:06.180Z",
+   "lastSuccess": "2026-11-11T21:49:06.180Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 20:12:58 GMT"
+   "lastModified": "Wed, 11 Nov 2026 21:49:06 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,85 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T20:12:57.780Z",
-   "lastSuccess": "2026-11-11T20:12:57.780Z",
+   "checkedAt": "2026-11-11T21:49:06.180Z",
+   "lastSuccess": "2026-11-11T21:49:06.180Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "b40cf0b1f4e5de88",
+   "title": "Attackers Say 'Hello' to a Different Scale of Cloud Attack",
+   "url": "https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack",
+   "summary": "Researchers dubbed an attack chain \"Greeter\" after discovering that attackers deliberately covered their trail by leaving \"hello\" messages in logs.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-11T21:44:04.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-11T21:49:06.180Z"
+  },
+  {
+   "id": "b399ed0ff1d20608",
+   "title": "eMudhra revokes 8 more CA certificates after private key mishap",
+   "url": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+   "summary": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-generation process. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-11T21:27:40.000Z",
+   "categories": [
+    "india"
+   ],
+   "firstSeen": "2026-11-11T21:49:06.180Z"
+  },
+  {
+   "id": "92db84389de4803d",
+   "title": "AI Raises the Stakes for Cyber Resilience",
+   "url": "https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience",
+   "summary": "An organization's ability to quickly recover from a business disruption will be a competitive advantage in an era of AI-driven threats and business enablement.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-11T21:20:41.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-11T21:49:06.180Z"
+  },
+  {
+   "id": "eba2438f108ce510",
+   "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+   "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+   "summary": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-11T20:54:20.000Z",
+   "categories": [
+    "breach",
+    "ai"
+   ],
+   "firstSeen": "2026-11-11T21:49:06.180Z"
+  },
+  {
+   "id": "bda0a11b51a6b40a",
+   "title": "N-able Takes N-central Platform Offline After Discovery of 33 Flaws",
+   "url": "https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws",
+   "summary": "The RMM provider also released a hotfix as one of recommended mitigations to address public exploits for the alleged zero-days that allow for attacker takeover.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-11T20:05:18.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-11T21:49:06.180Z"
+  },
   {
    "id": "d329703bdbf516bf",
    "title": "Who Runs the Ransomware Group Qilin?",
@@ -2900,78 +2972,6 @@
     "india"
    ],
    "firstSeen": "2026-11-05T09:58:36.455Z"
-  },
-  {
-   "id": "d2b8633e1a6f94d6",
-   "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
-   "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-   "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web management interface run commands on it without…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-05T07:06:33.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-05T08:57:50.085Z"
-  },
-  {
-   "id": "16bf85bfb533fefe",
-   "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-   "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability in…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-05T05:17:04.000Z",
-   "categories": [
-    "vuln",
-    "malware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-05T06:33:54.868Z"
-  },
-  {
-   "id": "1a337c0792b44b25",
-   "title": "Want to Rent an Internet Address at the White House?",
-   "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
-   "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web…",
-   "source": "KrebsOnSecurity",
-   "sourceId": "krebs",
-   "kind": "media",
-   "published": "2026-11-05T04:36:17.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-05T05:30:08.849Z"
-  },
-  {
-   "id": "468b20361a18f4a6",
-   "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
-   "url": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
-   "summary": "An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-04T21:48:18.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-04T22:30:31.796Z"
-  },
-  {
-   "id": "0e6e0d2f07b2b6fd",
-   "title": "Vercel rolls out new protection against stolen session cookie attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
-   "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-04T21:31:18.000Z",
-   "categories": [
-    "malware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-04T21:43:34.989Z"
   }
  ]
 }
