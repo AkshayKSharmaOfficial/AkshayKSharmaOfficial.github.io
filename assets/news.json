@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-11T08:50:55.026Z",
- "lastAttempt": "2026-11-11T08:50:55.026Z",
+ "lastSuccess": "2026-11-11T09:52:48.446Z",
+ "lastAttempt": "2026-11-11T09:52:48.446Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T08:50:55.026Z",
-   "lastSuccess": "2026-11-11T08:50:55.026Z",
+   "checkedAt": "2026-11-11T09:52:48.446Z",
+   "lastSuccess": "2026-11-11T09:52:48.446Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 08:33:53 GMT"
+   "lastModified": "Wed, 11 Nov 2026 09:11:23 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T08:50:55.026Z",
-   "lastSuccess": "2026-11-11T08:50:55.026Z",
-   "etag": "9144111cba1a27ec7063678c12452ad7",
-   "lastModified": "Wed, 11 Nov 2026 08:50:26 GMT"
+   "checkedAt": "2026-11-11T09:52:48.446Z",
+   "lastSuccess": "2026-11-11T09:52:48.446Z",
+   "etag": "e1b8771f0040079e913930720ccb5db8",
+   "lastModified": "Wed, 11 Nov 2026 09:47:30 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T08:50:55.026Z",
-   "lastSuccess": "2026-11-11T08:50:55.026Z",
+   "checkedAt": "2026-11-11T09:52:48.446Z",
+   "lastSuccess": "2026-11-11T09:52:48.446Z",
    "etag": null,
    "lastModified": "Wed, 11 Nov 2026 08:41:08 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T08:50:55.026Z",
-   "lastSuccess": "2026-11-11T08:50:55.026Z",
-   "etag": "W/\"9314d41135a18dfbcdb817d6b13b29d5\"",
-   "lastModified": "Wed, 11 Nov 2026 08:42:48 GMT"
+   "checkedAt": "2026-11-11T09:52:48.446Z",
+   "lastSuccess": "2026-11-11T09:52:48.446Z",
+   "etag": "\"f1565415c64d1994f6fd11509f407fe8\"",
+   "lastModified": "Wed, 11 Nov 2026 09:04:16 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T08:50:55.026Z",
-   "lastSuccess": "2026-11-11T08:50:55.026Z",
+   "checkedAt": "2026-11-11T09:52:48.446Z",
+   "lastSuccess": "2026-11-11T09:52:48.446Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 08:50:56 GMT"
+   "lastModified": "Wed, 11 Nov 2026 09:52:48 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,40 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T08:50:55.026Z",
-   "lastSuccess": "2026-11-11T08:50:55.026Z",
+   "checkedAt": "2026-11-11T09:52:48.446Z",
+   "lastSuccess": "2026-11-11T09:52:48.446Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "03b5140f381fa26f",
+   "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
+   "summary": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-11T09:07:27.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-11T09:52:48.446Z"
+  },
+  {
+   "id": "231dddf2cd951b23",
+   "title": "Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities",
+   "url": "https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/",
+   "summary": "The flaws, CVE-2026-111793 and CVE-2026-20320, let attackers leak sensitive information, including configuration data. The post Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-11T09:01:07.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-11T09:52:48.446Z"
+  },
   {
    "id": "0f8874dccd67907c",
    "title": "Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD",
@@ -2944,32 +2971,6 @@
     "vuln",
     "attack"
    ],
-   "firstSeen": "2026-11-04T12:30:36.017Z"
-  },
-  {
-   "id": "a60c29c498ad06a8",
-   "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
-   "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-   "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages the others. Patches are out, and there is no known…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-04T11:46:27.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-04T12:30:36.017Z"
-  },
-  {
-   "id": "6cb0374f8d770396",
-   "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
-   "url": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
-   "summary": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns. Most agents never touch one. One recent case shows what…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-04T11:34:20.000Z",
-   "categories": [],
    "firstSeen": "2026-11-04T12:30:36.017Z"
   }
  ]
