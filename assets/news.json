@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-11T22:45:10.439Z",
- "lastAttempt": "2026-11-11T22:45:10.439Z",
+ "lastSuccess": "2026-11-11T23:36:24.016Z",
+ "lastAttempt": "2026-11-11T23:36:24.016Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T22:45:10.439Z",
-   "lastSuccess": "2026-11-11T22:45:10.439Z",
+   "checkedAt": "2026-11-11T23:36:24.016Z",
+   "lastSuccess": "2026-11-11T23:36:24.016Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 22:05:04 GMT"
+   "lastModified": "Wed, 11 Nov 2026 22:54:15 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T22:45:10.439Z",
-   "lastSuccess": "2026-11-11T22:45:10.439Z",
-   "etag": "d41807c51a05c89b76fc9d36e6234119",
-   "lastModified": "Wed, 11 Nov 2026 22:37:44 GMT"
+   "checkedAt": "2026-11-11T23:36:24.016Z",
+   "lastSuccess": "2026-11-11T23:36:24.016Z",
+   "etag": "7e6fe5824017f1c4bc33434b5d7d86ad",
+   "lastModified": "Wed, 11 Nov 2026 23:36:14 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T22:45:10.439Z",
-   "lastSuccess": "2026-11-11T22:45:10.439Z",
+   "checkedAt": "2026-11-11T23:36:24.016Z",
+   "lastSuccess": "2026-11-11T23:36:24.016Z",
    "etag": null,
    "lastModified": "Wed, 11 Nov 2026 18:06:01 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T22:45:10.439Z",
-   "lastSuccess": "2026-11-11T22:45:10.439Z",
+   "checkedAt": "2026-11-11T23:36:24.016Z",
+   "lastSuccess": "2026-11-11T23:36:24.016Z",
    "etag": "\"6f9c987ac5e663205ca257d4798aac0c\"",
    "lastModified": "Wed, 11 Nov 2026 18:23:23 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T22:45:10.439Z",
-   "lastSuccess": "2026-11-11T22:45:10.439Z",
+   "checkedAt": "2026-11-11T23:36:24.016Z",
+   "lastSuccess": "2026-11-11T23:36:24.016Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 22:45:10 GMT"
+   "lastModified": "Wed, 11 Nov 2026 23:36:24 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,44 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T22:45:10.439Z",
-   "lastSuccess": "2026-11-11T22:45:10.439Z",
+   "checkedAt": "2026-11-11T23:36:24.016Z",
+   "lastSuccess": "2026-11-11T23:36:24.016Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "0f54f8f8451a5512",
+   "title": "Baker Tilly notifies clients of data breach at third-party provider",
+   "url": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+   "summary": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-11T23:01:31.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-11T23:36:24.016Z"
+  },
+  {
+   "id": "e72540515729dd65",
+   "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+   "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+   "summary": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-11T22:56:21.000Z",
+   "categories": [
+    "breach",
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-11T23:36:24.016Z"
+  },
   {
    "id": "b40cf0b1f4e5de88",
    "title": "Attackers Say 'Hello' to a Different Scale of Cloud Attack",
@@ -2942,34 +2973,6 @@
     "vuln",
     "malware",
     "attack"
-   ],
-   "firstSeen": "2026-11-05T09:58:36.455Z"
-  },
-  {
-   "id": "51d9a5c499abff0e",
-   "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
-   "url": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
-   "summary": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users share iCloud content, such as photos in iCloud Photos or files…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-05T09:13:28.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-05T09:58:36.455Z"
-  },
-  {
-   "id": "9fb3d806b5214e2e",
-   "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
-   "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
-   "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country. Describing the…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-05T08:42:03.000Z",
-   "categories": [
-    "ai",
-    "attack",
-    "india"
    ],
    "firstSeen": "2026-11-05T09:58:36.455Z"
   }
