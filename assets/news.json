@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-11T12:56:03.898Z",
- "lastAttempt": "2026-11-11T12:56:03.898Z",
+ "lastSuccess": "2026-11-11T14:11:58.310Z",
+ "lastAttempt": "2026-11-11T14:11:58.310Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T12:56:03.898Z",
-   "lastSuccess": "2026-11-11T12:56:03.898Z",
+   "checkedAt": "2026-11-11T14:11:58.310Z",
+   "lastSuccess": "2026-11-11T14:11:58.310Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 12:06:48 GMT"
+   "lastModified": "Wed, 11 Nov 2026 13:02:15 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T12:56:03.898Z",
-   "lastSuccess": "2026-11-11T12:56:03.898Z",
-   "etag": "286cb1d91d8eb8b5599d40fcb59c397c",
-   "lastModified": "Wed, 11 Nov 2026 12:52:29 GMT"
+   "checkedAt": "2026-11-11T14:11:58.310Z",
+   "lastSuccess": "2026-11-11T14:11:58.310Z",
+   "etag": "408fc3e21bdc3159894d82f006fd500c",
+   "lastModified": "Wed, 11 Nov 2026 14:02:31 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T12:56:03.898Z",
-   "lastSuccess": "2026-11-11T12:56:03.898Z",
+   "checkedAt": "2026-11-11T14:11:58.310Z",
+   "lastSuccess": "2026-11-11T14:11:58.310Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 11:44:22 GMT"
+   "lastModified": "Wed, 11 Nov 2026 14:05:34 GMT"
   },
   {
    "id": "securityweek",
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T12:56:03.898Z",
-   "lastSuccess": "2026-11-11T12:56:03.898Z",
-   "etag": "\"b6c1d09ea0487123b12346180aa8ac0a\"",
-   "lastModified": "Wed, 11 Nov 2026 12:24:38 GMT"
+   "checkedAt": "2026-11-11T14:11:58.310Z",
+   "lastSuccess": "2026-11-11T14:11:58.310Z",
+   "etag": "W/\"900f0e7160dee04a7e80c1065c297830\"",
+   "lastModified": "Wed, 11 Nov 2026 13:58:42 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T12:56:03.898Z",
-   "lastSuccess": "2026-11-11T12:56:03.898Z",
+   "checkedAt": "2026-11-11T14:11:58.310Z",
+   "lastSuccess": "2026-11-11T14:11:58.310Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 12:56:04 GMT"
+   "lastModified": "Wed, 11 Nov 2026 14:11:58 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,43 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T12:56:03.898Z",
-   "lastSuccess": "2026-11-11T12:56:03.898Z",
+   "checkedAt": "2026-11-11T14:11:58.310Z",
+   "lastSuccess": "2026-11-11T14:11:58.310Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "5c1817126d58de57",
+   "title": "Asus, Zoom Release Security Patches",
+   "url": "https://www.securityweek.com/asus-zoom-release-security-patches/",
+   "summary": "Attackers could exploit them for command execution, memory overwrites, and privilege escalation. The post Asus, Zoom Release Security Patches appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-11T13:58:38.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-11T14:11:58.310Z"
+  },
+  {
+   "id": "57d0a1ac25814508",
+   "title": "Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities",
+   "url": "https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/",
+   "summary": "Attackers could exploit the bugs to tamper with certificate entries, achieve remote code execution, and compromise hosts. The post Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-11T13:37:19.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-11T14:11:58.310Z"
+  },
   {
    "id": "8947b00be3a02fe5",
    "title": "N-able releases security hotfixes for zero-day vulnerabilities",
@@ -102,6 +132,20 @@
    "published": "2026-11-11T12:24:33.000Z",
    "categories": [],
    "firstSeen": "2026-11-11T12:56:03.898Z"
+  },
+  {
+   "id": "8eeaa5e81881cd50",
+   "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+   "url": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+   "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, the company that makes the Grok AI assistant…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-11T12:19:40.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-11T14:11:58.310Z"
   },
   {
    "id": "4cd892fc52b8a7b3",
@@ -2925,49 +2969,6 @@
     "ai"
    ],
    "firstSeen": "2026-11-04T17:47:26.182Z"
-  },
-  {
-   "id": "5ee60ad2da85a8a9",
-   "title": "mSecure password manager hack prompts password reset warnings",
-   "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
-   "summary": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-04T16:00:18.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-04T16:49:36.753Z"
-  },
-  {
-   "id": "a84a71a695a97e8c",
-   "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
-   "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
-   "summary": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked malicious messages, and helped take down…",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-04T15:00:10.000Z",
-   "categories": [
-    "phishing",
-    "attack"
-   ],
-   "firstSeen": "2026-11-04T15:50:07.631Z"
-  },
-  {
-   "id": "0d6958092a1d6824",
-   "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
-   "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
-   "summary": "SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-04T14:42:25.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-04T14:53:20.255Z"
   }
  ]
 }
