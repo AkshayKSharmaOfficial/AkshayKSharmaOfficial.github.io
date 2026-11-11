@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-11T11:49:52.570Z",
- "lastAttempt": "2026-11-11T11:49:52.570Z",
+ "lastSuccess": "2026-11-11T12:56:03.898Z",
+ "lastAttempt": "2026-11-11T12:56:03.898Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T11:49:52.570Z",
-   "lastSuccess": "2026-11-11T11:49:52.570Z",
+   "checkedAt": "2026-11-11T12:56:03.898Z",
+   "lastSuccess": "2026-11-11T12:56:03.898Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 10:31:54 GMT"
+   "lastModified": "Wed, 11 Nov 2026 12:06:48 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T11:49:52.570Z",
-   "lastSuccess": "2026-11-11T11:49:52.570Z",
-   "etag": "a8a391b4e8ff89968b0760207aae8baa",
-   "lastModified": "Wed, 11 Nov 2026 11:49:18 GMT"
+   "checkedAt": "2026-11-11T12:56:03.898Z",
+   "lastSuccess": "2026-11-11T12:56:03.898Z",
+   "etag": "286cb1d91d8eb8b5599d40fcb59c397c",
+   "lastModified": "Wed, 11 Nov 2026 12:52:29 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T11:49:52.570Z",
-   "lastSuccess": "2026-11-11T11:49:52.570Z",
+   "checkedAt": "2026-11-11T12:56:03.898Z",
+   "lastSuccess": "2026-11-11T12:56:03.898Z",
    "etag": null,
    "lastModified": "Wed, 11 Nov 2026 11:44:22 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T11:49:52.570Z",
-   "lastSuccess": "2026-11-11T11:49:52.570Z",
-   "etag": "\"8ba57f27e9329ea0f08dea3c25466bd3\"",
-   "lastModified": "Wed, 11 Nov 2026 11:17:55 GMT"
+   "checkedAt": "2026-11-11T12:56:03.898Z",
+   "lastSuccess": "2026-11-11T12:56:03.898Z",
+   "etag": "\"b6c1d09ea0487123b12346180aa8ac0a\"",
+   "lastModified": "Wed, 11 Nov 2026 12:24:38 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T11:49:52.570Z",
-   "lastSuccess": "2026-11-11T11:49:52.570Z",
+   "checkedAt": "2026-11-11T12:56:03.898Z",
+   "lastSuccess": "2026-11-11T12:56:03.898Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 11:49:53 GMT"
+   "lastModified": "Wed, 11 Nov 2026 12:56:04 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,97 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T11:49:52.570Z",
-   "lastSuccess": "2026-11-11T11:49:52.570Z",
+   "checkedAt": "2026-11-11T12:56:03.898Z",
+   "lastSuccess": "2026-11-11T12:56:03.898Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "8947b00be3a02fe5",
+   "title": "N-able releases security hotfixes for zero-day vulnerabilities",
+   "url": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
+   "summary": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-11T12:32:27.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-11T12:56:03.898Z"
+  },
+  {
+   "id": "06b45ed7c6480b6b",
+   "title": "Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices",
+   "url": "https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/",
+   "summary": "The Series C round will fund international expansion and more autonomous features for the firm’s device security platform. The post Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-11T12:24:33.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-11T12:56:03.898Z"
+  },
+  {
+   "id": "4cd892fc52b8a7b3",
+   "title": "Fortinet Patches Nearly 100 Vulnerabilities",
+   "url": "https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/",
+   "summary": "The massive drop comes after the company integrated frontier AI models into its product security testing. The post Fortinet Patches Nearly 100 Vulnerabilities appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-11T12:10:14.000Z",
+   "categories": [
+    "vuln",
+    "ai"
+   ],
+   "firstSeen": "2026-11-11T12:56:03.898Z"
+  },
+  {
+   "id": "00bfb3e3b49bef1a",
+   "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+   "url": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+   "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well. Then, we built an agent that broke all three by default…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-11T12:01:59.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-11T12:56:03.898Z"
+  },
+  {
+   "id": "d875e13ba5ae8418",
+   "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+   "url": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
+   "summary": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys. Each intermediate CA has its own private key, which the company uses to sign the…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-11T12:00:53.000Z",
+   "categories": [
+    "attack",
+    "india"
+   ],
+   "firstSeen": "2026-11-11T12:56:03.898Z"
+  },
+  {
+   "id": "c476d7e034f10ccc",
+   "title": "Bay Raises $50 Million to Control What Enterprise AI Agents Can Do",
+   "url": "https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/",
+   "summary": "Founded by three ex-IDF Unit 8200 intelligence officers, Bay is launched to provide a control plane for AI agents. The post Bay Raises $50 Million to Control What Enterprise AI Agents Can Do appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-11T11:30:00.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-11T12:56:03.898Z"
+  },
   {
    "id": "1e8cf913869303c5",
    "title": "Microsoft fixes audio issues caused by September security updates",
@@ -2884,89 +2968,6 @@
     "vuln"
    ],
    "firstSeen": "2026-11-04T14:53:20.255Z"
-  },
-  {
-   "id": "efeaff49c38bd608",
-   "title": "Sysdig Adds Runtime Security and Governance for AI Agents",
-   "url": "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
-   "summary": "Sysdig’s platform uses runtime visibility to track AI agent actions and block risky behavior before it reaches production systems. The post Sysdig Adds Runtime Security and Governance for AI Agents appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-04T14:34:44.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-04T14:53:20.255Z"
-  },
-  {
-   "id": "f4b7ff866caa5870",
-   "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
-   "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-   "summary": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-04T14:27:52.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-04T14:53:20.255Z"
-  },
-  {
-   "id": "77b68f7046a54f46",
-   "title": "Barracuda ESG Authentication Bypass Flaw Opens Path to Root",
-   "url": "https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/",
-   "summary": "An authentication bypass and a command injection flaw can be chained for root access on Barracuda’s Email Security Gateway appliances. The post Barracuda ESG Authentication Bypass Flaw Opens Path to Root appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-04T14:24:54.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-04T14:53:20.255Z"
-  },
-  {
-   "id": "1d3c909048792ac2",
-   "title": "Incidents Move Too Fast for Pen & Paper",
-   "url": "https://www.darkreading.com/cybersecurity-operations/incidents-move-fast-pen-paper",
-   "summary": "Organizations may not be ready for completely autonomous communication processes, but there are places where automating information updates would alleviate pressure.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-04T14:17:00.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-04T15:50:07.631Z"
-  },
-  {
-   "id": "58eee375be59a5e9",
-   "title": "Agentic Data Security Firm Sentra Raises $150 Million",
-   "url": "https://www.securityweek.com/agentic-data-security-firm-sentra-raises-150-million/",
-   "summary": "The company will invest in agentic data security capabilities and expand its go-to-market organization. The post Agentic Data Security Firm Sentra Raises $150 Million appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-04T14:09:20.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-04T14:53:20.255Z"
-  },
-  {
-   "id": "40b6a7ccf7e4d44d",
-   "title": "US charges two Canadians accused of hacking US universities",
-   "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
-   "summary": "A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-04T13:13:20.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-04T13:52:19.078Z"
   }
  ]
 }
