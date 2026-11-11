@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-11T05:29:31.502Z",
- "lastAttempt": "2026-11-11T05:29:31.502Z",
+ "lastSuccess": "2026-11-11T06:30:10.546Z",
+ "lastAttempt": "2026-11-11T06:30:10.546Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T05:29:31.502Z",
-   "lastSuccess": "2026-11-11T05:29:31.502Z",
+   "checkedAt": "2026-11-11T06:30:10.546Z",
+   "lastSuccess": "2026-11-11T06:30:10.546Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 05:09:59 GMT"
+   "lastModified": "Wed, 11 Nov 2026 06:15:21 GMT"
   },
   {
    "id": "bleeping",
@@ -22,34 +22,34 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T05:29:31.502Z",
-   "lastSuccess": "2026-11-11T05:29:31.502Z",
-   "etag": "030ecbfe51970fb0951f0f3223044b1a",
-   "lastModified": "Wed, 11 Nov 2026 05:20:20 GMT"
+   "checkedAt": "2026-11-11T06:30:10.546Z",
+   "lastSuccess": "2026-11-11T06:30:10.546Z",
+   "etag": "05f707795b3977ad8d8db906eeeabe7c",
+   "lastModified": "Wed, 11 Nov 2026 06:20:22 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T05:29:31.502Z",
-   "lastSuccess": "2026-11-11T05:29:31.502Z",
+   "checkedAt": "2026-11-11T06:30:10.546Z",
+   "lastSuccess": "2026-11-11T06:30:10.546Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 01:25:38 GMT"
+   "lastModified": "Wed, 11 Nov 2026 06:27:36 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T05:29:31.502Z",
-   "lastSuccess": "2026-11-11T05:29:31.502Z",
-   "etag": "W/\"c85d7bfa840a277f8a6b47a5e13de351\"",
-   "lastModified": "Tue, 10 Nov 2026 19:19:53 GMT"
+   "checkedAt": "2026-11-11T06:30:10.546Z",
+   "lastSuccess": "2026-11-11T06:30:10.546Z",
+   "etag": "\"dd8d93ec513220cc6d18a074dc89e2eb\"",
+   "lastModified": "Wed, 11 Nov 2026 06:08:26 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T05:29:31.502Z",
-   "lastSuccess": "2026-11-11T05:29:31.502Z",
+   "checkedAt": "2026-11-11T06:30:10.546Z",
+   "lastSuccess": "2026-11-11T06:30:10.546Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 05:29:32 GMT"
+   "lastModified": "Wed, 11 Nov 2026 06:30:10 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T05:29:31.502Z",
-   "lastSuccess": "2026-11-11T05:29:31.502Z",
+   "checkedAt": "2026-11-11T06:30:10.546Z",
+   "lastSuccess": "2026-11-11T06:30:10.546Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "85ce9be08e646593",
+   "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+   "url": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Details of…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-11T06:04:02.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-11T06:30:10.546Z"
+  },
   {
    "id": "09c3ab4e941ff4ba",
    "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
@@ -2954,20 +2968,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-04T11:30:56.124Z"
-  },
-  {
-   "id": "2d06d9bae830126c",
-   "title": "Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million",
-   "url": "https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/",
-   "summary": "A $300,000 award went to a pre-launch flaw that exposed conversations and tokens on internal Muse test VMs used by Meta staff. The post Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-04T08:27:05.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-04T09:08:26.001Z"
   }
  ]
 }
