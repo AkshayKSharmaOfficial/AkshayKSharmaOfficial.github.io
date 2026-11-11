@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-11T07:49:54.392Z",
- "lastAttempt": "2026-11-11T07:49:54.392Z",
+ "lastSuccess": "2026-11-11T08:50:55.026Z",
+ "lastAttempt": "2026-11-11T08:50:55.026Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T07:49:54.392Z",
-   "lastSuccess": "2026-11-11T07:49:54.392Z",
+   "checkedAt": "2026-11-11T08:50:55.026Z",
+   "lastSuccess": "2026-11-11T08:50:55.026Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 07:06:04 GMT"
+   "lastModified": "Wed, 11 Nov 2026 08:33:53 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T07:49:54.392Z",
-   "lastSuccess": "2026-11-11T07:49:54.392Z",
-   "etag": "4d2cf35836aebe4995c80a53be579a90",
-   "lastModified": "Wed, 11 Nov 2026 07:40:24 GMT"
+   "checkedAt": "2026-11-11T08:50:55.026Z",
+   "lastSuccess": "2026-11-11T08:50:55.026Z",
+   "etag": "9144111cba1a27ec7063678c12452ad7",
+   "lastModified": "Wed, 11 Nov 2026 08:50:26 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T07:49:54.392Z",
-   "lastSuccess": "2026-11-11T07:49:54.392Z",
+   "checkedAt": "2026-11-11T08:50:55.026Z",
+   "lastSuccess": "2026-11-11T08:50:55.026Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 06:27:36 GMT"
+   "lastModified": "Wed, 11 Nov 2026 08:41:08 GMT"
   },
   {
    "id": "securityweek",
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T07:49:54.392Z",
-   "lastSuccess": "2026-11-11T07:49:54.392Z",
-   "etag": "\"9cab1d3541b768188ffda7411a35df90\"",
-   "lastModified": "Wed, 11 Nov 2026 07:00:22 GMT"
+   "checkedAt": "2026-11-11T08:50:55.026Z",
+   "lastSuccess": "2026-11-11T08:50:55.026Z",
+   "etag": "W/\"9314d41135a18dfbcdb817d6b13b29d5\"",
+   "lastModified": "Wed, 11 Nov 2026 08:42:48 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T07:49:54.392Z",
-   "lastSuccess": "2026-11-11T07:49:54.392Z",
+   "checkedAt": "2026-11-11T08:50:55.026Z",
+   "lastSuccess": "2026-11-11T08:50:55.026Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 07:49:54 GMT"
+   "lastModified": "Wed, 11 Nov 2026 08:50:56 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,87 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T07:49:54.392Z",
-   "lastSuccess": "2026-11-11T07:49:54.392Z",
+   "checkedAt": "2026-11-11T08:50:55.026Z",
+   "lastSuccess": "2026-11-11T08:50:55.026Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "0f8874dccd67907c",
+   "title": "Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD",
+   "url": "https://www.securityweek.com/chipmaker-patch-tuesday-over-200-vulnerabilities-addressed-by-intel-amd/",
+   "summary": "Intel and AMD disclose more than 200 vulnerabilities, including critical flaws in Intel TDX software and numerous AMD graphics bugs. The post Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-11T08:42:44.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-11T08:50:55.026Z"
+  },
+  {
+   "id": "b4b549aacbc41c78",
+   "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+   "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+   "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover 726 flaws in Windows, 174 in Office, 61 in Developer Tools, 59 in SQL Server, 53…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-11T08:17:53.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-11T08:50:55.026Z"
+  },
+  {
+   "id": "faf0dc47a2c5ff06",
+   "title": "Recently Patched Barracuda Vulnerabilities Exploited in Attacks",
+   "url": "https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/",
+   "summary": "The security defects could allow attackers to bypass authorization and gain root access to devices. The post Recently Patched Barracuda Vulnerabilities Exploited in Attacks appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-11T07:53:51.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-11T08:50:55.026Z"
+  },
+  {
+   "id": "74289a15fb94903a",
+   "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+   "url": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+   "summary": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to pay those charges itself when an AI provider will not…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-11T07:49:04.000Z",
+   "categories": [
+    "breach",
+    "ai"
+   ],
+   "firstSeen": "2026-11-11T08:50:55.026Z"
+  },
+  {
+   "id": "aa7a33eee693a50c",
+   "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+   "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+   "summary": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown. When a chosen trigger appears, the model outputs an attacker's command, which an agent using that model would run with…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-11T07:21:05.000Z",
+   "categories": [
+    "malware",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-11T08:50:55.026Z"
+  },
   {
    "id": "b41990e215a26b70",
    "title": "Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms",
@@ -2897,77 +2971,6 @@
    "published": "2026-11-04T11:34:20.000Z",
    "categories": [],
    "firstSeen": "2026-11-04T12:30:36.017Z"
-  },
-  {
-   "id": "73251ea6fbbb9651",
-   "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
-   "url": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
-   "summary": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surveillance campaign designed to deploy an implant called…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-04T11:24:31.000Z",
-   "categories": [
-    "malware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-04T12:30:36.017Z"
-  },
-  {
-   "id": "ec8adc9c27297ccb",
-   "title": "Malicious cPGuard Updates Served in OpsShield Supply Chain Attack",
-   "url": "https://www.securityweek.com/malicious-cpguard-updates-served-in-opsshield-supply-chain-attack/",
-   "summary": "Using compromised credentials, the attackers accessed OpsShield’s update servers and poisoned multiple cPGuard versions. The post Malicious cPGuard Updates Served in OpsShield Supply Chain Attack appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-04T10:54:48.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-04T11:30:56.124Z"
-  },
-  {
-   "id": "13006025064dbc2e",
-   "title": "Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical",
-   "url": "https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/",
-   "summary": "The browser update resolves dozens of memory safety bugs and incorrect/missing authorization issues. The post Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-04T10:38:46.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-04T11:30:56.124Z"
-  },
-  {
-   "id": "842011994b3ece3b",
-   "title": "Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billion Binance Heist",
-   "url": "https://www.securityweek.com/rigged-coding-assignment-abused-ai-tool-opened-path-to-6-billion-binance-heist/",
-   "summary": "Binance’s first incident report traces the record theft to a months-long campaign that compromised three engineers’ computers. The post Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billion Binance Heist appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-04T10:36:32.000Z",
-   "categories": [
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-04T11:30:56.124Z"
-  },
-  {
-   "id": "7873a06e93d5603d",
-   "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
-   "summary": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-04T09:39:54.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-04T11:30:56.124Z"
   }
  ]
 }
