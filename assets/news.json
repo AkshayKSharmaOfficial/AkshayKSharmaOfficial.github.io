@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-11T06:30:10.546Z",
- "lastAttempt": "2026-11-11T06:30:10.546Z",
+ "lastSuccess": "2026-11-11T07:49:54.392Z",
+ "lastAttempt": "2026-11-11T07:49:54.392Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T06:30:10.546Z",
-   "lastSuccess": "2026-11-11T06:30:10.546Z",
+   "checkedAt": "2026-11-11T07:49:54.392Z",
+   "lastSuccess": "2026-11-11T07:49:54.392Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 06:15:21 GMT"
+   "lastModified": "Wed, 11 Nov 2026 07:06:04 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T06:30:10.546Z",
-   "lastSuccess": "2026-11-11T06:30:10.546Z",
-   "etag": "05f707795b3977ad8d8db906eeeabe7c",
-   "lastModified": "Wed, 11 Nov 2026 06:20:22 GMT"
+   "checkedAt": "2026-11-11T07:49:54.392Z",
+   "lastSuccess": "2026-11-11T07:49:54.392Z",
+   "etag": "4d2cf35836aebe4995c80a53be579a90",
+   "lastModified": "Wed, 11 Nov 2026 07:40:24 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T06:30:10.546Z",
-   "lastSuccess": "2026-11-11T06:30:10.546Z",
+   "checkedAt": "2026-11-11T07:49:54.392Z",
+   "lastSuccess": "2026-11-11T07:49:54.392Z",
    "etag": null,
    "lastModified": "Wed, 11 Nov 2026 06:27:36 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T06:30:10.546Z",
-   "lastSuccess": "2026-11-11T06:30:10.546Z",
-   "etag": "\"dd8d93ec513220cc6d18a074dc89e2eb\"",
-   "lastModified": "Wed, 11 Nov 2026 06:08:26 GMT"
+   "checkedAt": "2026-11-11T07:49:54.392Z",
+   "lastSuccess": "2026-11-11T07:49:54.392Z",
+   "etag": "\"9cab1d3541b768188ffda7411a35df90\"",
+   "lastModified": "Wed, 11 Nov 2026 07:00:22 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T06:30:10.546Z",
-   "lastSuccess": "2026-11-11T06:30:10.546Z",
+   "checkedAt": "2026-11-11T07:49:54.392Z",
+   "lastSuccess": "2026-11-11T07:49:54.392Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 06:30:10 GMT"
+   "lastModified": "Wed, 11 Nov 2026 07:49:54 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T06:30:10.546Z",
-   "lastSuccess": "2026-11-11T06:30:10.546Z",
+   "checkedAt": "2026-11-11T07:49:54.392Z",
+   "lastSuccess": "2026-11-11T07:49:54.392Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "b41990e215a26b70",
+   "title": "Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms",
+   "url": "https://www.securityweek.com/bluetooth-airplay-pairing-vulnerabilities-patched-across-apple-platforms/",
+   "summary": "Apple has patched Bluetooth and AirPlay pairing flaws, iMessage vulnerabilities, and an exploited Brotli bug across its platforms. The post Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-11T07:00:17.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-11T07:49:54.392Z"
+  },
   {
    "id": "85ce9be08e646593",
    "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
@@ -2951,20 +2965,6 @@
    "published": "2026-11-04T09:39:54.000Z",
    "categories": [
     "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-04T11:30:56.124Z"
-  },
-  {
-   "id": "43efef13811d9f82",
-   "title": "North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack",
-   "url": "https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/",
-   "summary": "In recent months, North Korea has accelerated its weapons tests in a likely bid to increase its leverage in potential diplomacy with the US. The post North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack appeared first on…",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-04T09:23:22.000Z",
-   "categories": [
     "attack"
    ],
    "firstSeen": "2026-11-04T11:30:56.124Z"
