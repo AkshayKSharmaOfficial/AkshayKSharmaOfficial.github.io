@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-11T15:06:29.260Z",
- "lastAttempt": "2026-11-11T15:06:29.260Z",
+ "lastSuccess": "2026-11-11T16:02:22.221Z",
+ "lastAttempt": "2026-11-11T16:02:22.221Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T15:06:29.260Z",
-   "lastSuccess": "2026-11-11T15:06:29.260Z",
+   "checkedAt": "2026-11-11T16:02:22.221Z",
+   "lastSuccess": "2026-11-11T16:02:22.221Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 14:28:45 GMT"
+   "lastModified": "Wed, 11 Nov 2026 15:33:25 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T15:06:29.260Z",
-   "lastSuccess": "2026-11-11T15:06:29.260Z",
-   "etag": "c2b73bb0aa8c67e6c5ab8257fd0c424e",
-   "lastModified": "Wed, 11 Nov 2026 15:02:33 GMT"
+   "checkedAt": "2026-11-11T16:02:22.221Z",
+   "lastSuccess": "2026-11-11T16:02:22.221Z",
+   "etag": "d074e9878a96bc6c01ea09452185c6a5",
+   "lastModified": "Wed, 11 Nov 2026 15:53:02 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T15:06:29.260Z",
-   "lastSuccess": "2026-11-11T15:06:29.260Z",
+   "checkedAt": "2026-11-11T16:02:22.221Z",
+   "lastSuccess": "2026-11-11T16:02:22.221Z",
    "etag": null,
    "lastModified": "Wed, 11 Nov 2026 14:47:51 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T15:06:29.260Z",
-   "lastSuccess": "2026-11-11T15:06:29.260Z",
-   "etag": "\"9ac497d0cace143a3ede80ed9994a503\"",
-   "lastModified": "Wed, 11 Nov 2026 14:10:41 GMT"
+   "checkedAt": "2026-11-11T16:02:22.221Z",
+   "lastSuccess": "2026-11-11T16:02:22.221Z",
+   "etag": "\"522ca9db3ee9cc072131274c5d05802a\"",
+   "lastModified": "Wed, 11 Nov 2026 15:43:57 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T15:06:29.260Z",
-   "lastSuccess": "2026-11-11T15:06:29.260Z",
+   "checkedAt": "2026-11-11T16:02:22.221Z",
+   "lastSuccess": "2026-11-11T16:02:22.221Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 15:06:29 GMT"
+   "lastModified": "Wed, 11 Nov 2026 16:02:22 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,43 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T15:06:29.260Z",
-   "lastSuccess": "2026-11-11T15:06:29.260Z",
+   "checkedAt": "2026-11-11T16:02:22.221Z",
+   "lastSuccess": "2026-11-11T16:02:22.221Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "2ce74e3f29c2a3a9",
+   "title": "Critical Xen Orchestra Flaws Exploited in Attacks",
+   "url": "https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/",
+   "summary": "The authentication bypass allows attackers to execute arbitrary code as admin and take over XCP-ng nodes. The post Critical Xen Orchestra Flaws Exploited in Attacks appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-11T15:42:47.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-11T16:02:22.221Z"
+  },
+  {
+   "id": "01b83d7e13d4efa5",
+   "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+   "summary": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-11T15:12:59.000Z",
+   "categories": [
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-11T16:02:22.221Z"
+  },
   {
    "id": "dff75984c39f0503",
    "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
@@ -2939,35 +2969,6 @@
    "published": "2026-11-04T17:00:46.000Z",
    "categories": [
     "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-04T17:47:26.182Z"
-  },
-  {
-   "id": "28cc7a562c85ad38",
-   "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
-   "url": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-   "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below - CVE-2026-109593 (CVSS score: 9.1) - An…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-04T17:00:38.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-04T17:47:26.182Z"
-  },
-  {
-   "id": "2f1bffb7279df379",
-   "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
-   "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
-   "summary": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-04T16:58:46.000Z",
-   "categories": [
-    "malware",
     "attack"
    ],
    "firstSeen": "2026-11-04T17:47:26.182Z"
