@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-11T16:02:22.221Z",
- "lastAttempt": "2026-11-11T16:02:22.221Z",
+ "lastSuccess": "2026-11-11T17:08:17.904Z",
+ "lastAttempt": "2026-11-11T17:08:17.904Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T16:02:22.221Z",
-   "lastSuccess": "2026-11-11T16:02:22.221Z",
+   "checkedAt": "2026-11-11T17:08:17.904Z",
+   "lastSuccess": "2026-11-11T17:08:17.904Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 15:33:25 GMT"
+   "lastModified": "Wed, 11 Nov 2026 17:05:51 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T16:02:22.221Z",
-   "lastSuccess": "2026-11-11T16:02:22.221Z",
-   "etag": "d074e9878a96bc6c01ea09452185c6a5",
-   "lastModified": "Wed, 11 Nov 2026 15:53:02 GMT"
+   "checkedAt": "2026-11-11T17:08:17.904Z",
+   "lastSuccess": "2026-11-11T17:08:17.904Z",
+   "etag": "e69da261c29c8ab4d5977a00b6919371",
+   "lastModified": "Wed, 11 Nov 2026 17:04:20 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T16:02:22.221Z",
-   "lastSuccess": "2026-11-11T16:02:22.221Z",
+   "checkedAt": "2026-11-11T17:08:17.904Z",
+   "lastSuccess": "2026-11-11T17:08:17.904Z",
    "etag": null,
    "lastModified": "Wed, 11 Nov 2026 14:47:51 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T16:02:22.221Z",
-   "lastSuccess": "2026-11-11T16:02:22.221Z",
-   "etag": "\"522ca9db3ee9cc072131274c5d05802a\"",
-   "lastModified": "Wed, 11 Nov 2026 15:43:57 GMT"
+   "checkedAt": "2026-11-11T17:08:17.904Z",
+   "lastSuccess": "2026-11-11T17:08:17.904Z",
+   "etag": "\"e4b074ea21a72fd177a508030e075e58\"",
+   "lastModified": "Wed, 11 Nov 2026 16:43:39 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T16:02:22.221Z",
-   "lastSuccess": "2026-11-11T16:02:22.221Z",
+   "checkedAt": "2026-11-11T17:08:17.904Z",
+   "lastSuccess": "2026-11-11T17:08:17.904Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 16:02:22 GMT"
+   "lastModified": "Wed, 11 Nov 2026 17:08:18 GMT"
   },
   {
    "id": "cisa",
@@ -70,18 +70,59 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T16:02:22.221Z",
-   "lastSuccess": "2026-11-11T16:02:22.221Z",
+   "checkedAt": "2026-11-11T17:08:17.904Z",
+   "lastSuccess": "2026-11-11T17:08:17.904Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
   {
+   "id": "419bbcadccbc2ef3",
+   "title": "Today: CISO Forum Virtual Summit 2026 Day 2 – Join Cybersecurity Leaders Online",
+   "url": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
+   "summary": "Designed for cybersecurity leaders, this immersive two-day virtual event is your premier destination to discuss, share, and learn innovative risk management and defense strategies defining the modern enterprise. The post Today: CISO Forum Virtual Summit 2026 Day 2 – Join…",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-11T16:29:42.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-10T15:41:22.885Z"
+  },
+  {
+   "id": "518e97430f62e9d9",
+   "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+   "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+   "summary": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-11T16:24:18.000Z",
+   "categories": [
+    "ransomware",
+    "breach"
+   ],
+   "firstSeen": "2026-11-11T17:08:17.904Z"
+  },
+  {
+   "id": "95bc7c63c87673bf",
+   "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+   "url": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+   "summary": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems. The vulnerabilities are listed below - CVE-2026-108186 (CVSS score: 9.6) - An improper…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-11T16:12:46.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-11T17:08:17.904Z"
+  },
+  {
    "id": "2ce74e3f29c2a3a9",
    "title": "Critical Xen Orchestra Flaws Exploited in Attacks",
    "url": "https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/",
-   "summary": "The authentication bypass allows attackers to execute arbitrary code as admin and take over XCP-ng nodes. The post Critical Xen Orchestra Flaws Exploited in Attacks appeared first on SecurityWeek .",
+   "summary": "A critical authentication bypass allows attackers to execute arbitrary code as admin and take over XCP-ng nodes. The post Critical Xen Orchestra Flaws Exploited in Attacks appeared first on SecurityWeek .",
    "source": "SecurityWeek",
    "sourceId": "securityweek",
    "kind": "media",
@@ -91,6 +132,21 @@
     "attack"
    ],
    "firstSeen": "2026-11-11T16:02:22.221Z"
+  },
+  {
+   "id": "99d239565756098b",
+   "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+   "url": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+   "summary": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally into compromised environments. \"In several recently observed…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-11T15:34:27.000Z",
+   "categories": [
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-11T17:08:17.904Z"
   },
   {
    "id": "01b83d7e13d4efa5",
@@ -844,18 +900,6 @@
    "categories": [
     "ransomware"
    ],
-   "firstSeen": "2026-11-10T15:41:22.885Z"
-  },
-  {
-   "id": "419bbcadccbc2ef3",
-   "title": "Today: CISO Forum Virtual Summit 2026 – Join Global Cybersecurity Leaders",
-   "url": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
-   "summary": "Designed for cybersecurity leaders, this immersive two-day virtual event is your premier destination to discuss, share, and learn innovative risk management and defense strategies defining the modern enterprise. The post Today: CISO Forum Virtual Summit 2026 – Join Global…",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-10T15:00:00.000Z",
-   "categories": [],
    "firstSeen": "2026-11-10T15:41:22.885Z"
   },
   {
@@ -2928,50 +2972,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-04T21:43:34.989Z"
-  },
-  {
-   "id": "b849903dd70789b5",
-   "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-   "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
-   "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-04T19:05:19.000Z",
-   "categories": [
-    "breach",
-    "attack"
-   ],
-   "firstSeen": "2026-11-04T19:52:39.290Z"
-  },
-  {
-   "id": "097ef63c2b4df488",
-   "title": "Cyberattack disrupts blood storage refrigeration systems in France",
-   "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
-   "summary": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-04T18:02:56.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-04T18:50:31.611Z"
-  },
-  {
-   "id": "f72f567cab23b3cb",
-   "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-   "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-   "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that Debian, Ubuntu, and APT's developers published on November…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-04T17:00:46.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-04T17:47:26.182Z"
   }
  ]
 }
