@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-11T10:53:39.690Z",
- "lastAttempt": "2026-11-11T10:53:39.690Z",
+ "lastSuccess": "2026-11-11T11:49:52.570Z",
+ "lastAttempt": "2026-11-11T11:49:52.570Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T10:53:39.690Z",
-   "lastSuccess": "2026-11-11T10:53:39.690Z",
+   "checkedAt": "2026-11-11T11:49:52.570Z",
+   "lastSuccess": "2026-11-11T11:49:52.570Z",
    "etag": null,
    "lastModified": "Wed, 11 Nov 2026 10:31:54 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T10:53:39.690Z",
-   "lastSuccess": "2026-11-11T10:53:39.690Z",
-   "etag": "c9fe9e3801486915a2b22dd43550f22e",
-   "lastModified": "Wed, 11 Nov 2026 10:52:11 GMT"
+   "checkedAt": "2026-11-11T11:49:52.570Z",
+   "lastSuccess": "2026-11-11T11:49:52.570Z",
+   "etag": "a8a391b4e8ff89968b0760207aae8baa",
+   "lastModified": "Wed, 11 Nov 2026 11:49:18 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T10:53:39.690Z",
-   "lastSuccess": "2026-11-11T10:53:39.690Z",
+   "checkedAt": "2026-11-11T11:49:52.570Z",
+   "lastSuccess": "2026-11-11T11:49:52.570Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 10:36:37 GMT"
+   "lastModified": "Wed, 11 Nov 2026 11:44:22 GMT"
   },
   {
    "id": "securityweek",
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T10:53:39.690Z",
-   "lastSuccess": "2026-11-11T10:53:39.690Z",
-   "etag": "W/\"0776fa5dc525dd33e778c848c9ddd8ed\"",
-   "lastModified": "Wed, 11 Nov 2026 10:35:19 GMT"
+   "checkedAt": "2026-11-11T11:49:52.570Z",
+   "lastSuccess": "2026-11-11T11:49:52.570Z",
+   "etag": "\"8ba57f27e9329ea0f08dea3c25466bd3\"",
+   "lastModified": "Wed, 11 Nov 2026 11:17:55 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T10:53:39.690Z",
-   "lastSuccess": "2026-11-11T10:53:39.690Z",
+   "checkedAt": "2026-11-11T11:49:52.570Z",
+   "lastSuccess": "2026-11-11T11:49:52.570Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 10:53:40 GMT"
+   "lastModified": "Wed, 11 Nov 2026 11:49:53 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,39 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T10:53:39.690Z",
-   "lastSuccess": "2026-11-11T10:53:39.690Z",
+   "checkedAt": "2026-11-11T11:49:52.570Z",
+   "lastSuccess": "2026-11-11T11:49:52.570Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "1e8cf913869303c5",
+   "title": "Microsoft fixes audio issues caused by September security updates",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
+   "summary": "Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-11T11:18:36.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-11T11:49:52.570Z"
+  },
+  {
+   "id": "9fe66bcb90bbc34f",
+   "title": "Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks",
+   "url": "https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/",
+   "summary": "Created by Zerto and Kashya veterans, the startup has launched a platform designed to recover whole cloud applications. The post Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-11T11:16:40.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-11T11:49:52.570Z"
+  },
   {
    "id": "9770fff08cb3ff2a",
    "title": "ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure",
@@ -2941,36 +2967,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-04T13:52:19.078Z"
-  },
-  {
-   "id": "f24e93cbfb9fd093",
-   "title": "AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks",
-   "url": "https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/",
-   "summary": "Hackers have been harvesting AI access tokens and have been using AI-assisted offensive tools to automate attacks. The post AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-04T12:43:20.000Z",
-   "categories": [
-    "breach",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-04T13:52:19.078Z"
-  },
-  {
-   "id": "26c0c0e5334a1339",
-   "title": "Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers",
-   "url": "https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/",
-   "summary": "A federal grand jury indicted two Canadian men for hijacking university supercomputers to secretly mine Electroneum cryptocurrency. The post Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-04T12:27:58.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-04T12:30:36.017Z"
   }
  ]
 }
