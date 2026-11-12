@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-11T23:36:24.016Z",
- "lastAttempt": "2026-11-11T23:36:24.016Z",
+ "lastSuccess": "2026-11-12T00:35:56.388Z",
+ "lastAttempt": "2026-11-12T00:35:56.388Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T23:36:24.016Z",
-   "lastSuccess": "2026-11-11T23:36:24.016Z",
+   "checkedAt": "2026-11-12T00:35:56.388Z",
+   "lastSuccess": "2026-11-12T00:35:56.388Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 22:54:15 GMT"
+   "lastModified": "Thu, 12 Nov 2026 00:14:24 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T23:36:24.016Z",
-   "lastSuccess": "2026-11-11T23:36:24.016Z",
-   "etag": "7e6fe5824017f1c4bc33434b5d7d86ad",
-   "lastModified": "Wed, 11 Nov 2026 23:36:14 GMT"
+   "checkedAt": "2026-11-12T00:35:56.388Z",
+   "lastSuccess": "2026-11-12T00:35:56.388Z",
+   "etag": "1e57ca9a91c736d490f0762bfadf78ea",
+   "lastModified": "Thu, 12 Nov 2026 00:26:15 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T23:36:24.016Z",
-   "lastSuccess": "2026-11-11T23:36:24.016Z",
+   "checkedAt": "2026-11-12T00:35:56.388Z",
+   "lastSuccess": "2026-11-12T00:35:56.388Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 18:06:01 GMT"
+   "lastModified": "Thu, 12 Nov 2026 00:32:13 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T23:36:24.016Z",
-   "lastSuccess": "2026-11-11T23:36:24.016Z",
+   "checkedAt": "2026-11-12T00:35:56.388Z",
+   "lastSuccess": "2026-11-12T00:35:56.388Z",
    "etag": "\"6f9c987ac5e663205ca257d4798aac0c\"",
    "lastModified": "Wed, 11 Nov 2026 18:23:23 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T23:36:24.016Z",
-   "lastSuccess": "2026-11-11T23:36:24.016Z",
+   "checkedAt": "2026-11-12T00:35:56.388Z",
+   "lastSuccess": "2026-11-12T00:35:56.388Z",
    "etag": null,
-   "lastModified": "Wed, 11 Nov 2026 23:36:24 GMT"
+   "lastModified": "Thu, 12 Nov 2026 00:35:56 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-11T23:36:24.016Z",
-   "lastSuccess": "2026-11-11T23:36:24.016Z",
+   "checkedAt": "2026-11-12T00:35:56.388Z",
+   "lastSuccess": "2026-11-12T00:35:56.388Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "bcecb2525a4447b3",
+   "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
+   "url": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
+   "summary": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-12T00:00:00.000Z",
+   "categories": [
+    "breach",
+    "ai"
+   ],
+   "firstSeen": "2026-11-12T00:35:56.388Z"
+  },
   {
    "id": "0f54f8f8451a5512",
    "title": "Baker Tilly notifies clients of data breach at third-party provider",
@@ -2959,22 +2974,6 @@
     "ai"
    ],
    "firstSeen": "2026-11-05T11:00:01.753Z"
-  },
-  {
-   "id": "6825fbff57c870af",
-   "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
-   "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
-   "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-05T09:18:29.000Z",
-   "categories": [
-    "vuln",
-    "malware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-05T09:58:36.455Z"
   }
  ]
 }
