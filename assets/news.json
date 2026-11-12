@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-12T17:48:16.985Z",
- "lastAttempt": "2026-11-12T17:48:16.985Z",
+ "lastSuccess": "2026-11-12T18:46:37.994Z",
+ "lastAttempt": "2026-11-12T18:46:37.994Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T17:48:16.985Z",
-   "lastSuccess": "2026-11-12T17:48:16.985Z",
+   "checkedAt": "2026-11-12T18:46:37.994Z",
+   "lastSuccess": "2026-11-12T18:46:37.994Z",
    "etag": null,
-   "lastModified": "Thu, 12 Nov 2026 17:28:35 GMT"
+   "lastModified": "Thu, 12 Nov 2026 18:13:56 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T17:48:16.985Z",
-   "lastSuccess": "2026-11-12T17:48:16.985Z",
-   "etag": "d37777681fe84099b2c995272c50a46e",
-   "lastModified": "Thu, 12 Nov 2026 17:44:05 GMT"
+   "checkedAt": "2026-11-12T18:46:37.994Z",
+   "lastSuccess": "2026-11-12T18:46:37.994Z",
+   "etag": "dc16244909a552808ad94e71ae27021f",
+   "lastModified": "Thu, 12 Nov 2026 18:44:06 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T17:48:16.985Z",
-   "lastSuccess": "2026-11-12T17:48:16.985Z",
+   "checkedAt": "2026-11-12T18:46:37.994Z",
+   "lastSuccess": "2026-11-12T18:46:37.994Z",
    "etag": null,
    "lastModified": "Thu, 12 Nov 2026 15:43:32 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T17:48:16.985Z",
-   "lastSuccess": "2026-11-12T17:48:16.985Z",
+   "checkedAt": "2026-11-12T18:46:37.994Z",
+   "lastSuccess": "2026-11-12T18:46:37.994Z",
    "etag": "\"8099a3f947e0dbae3a34666a3030b23e\"",
    "lastModified": "Thu, 12 Nov 2026 15:38:36 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T17:48:16.985Z",
-   "lastSuccess": "2026-11-12T17:48:16.985Z",
+   "checkedAt": "2026-11-12T18:46:37.994Z",
+   "lastSuccess": "2026-11-12T18:46:37.994Z",
    "etag": null,
-   "lastModified": "Thu, 12 Nov 2026 17:48:17 GMT"
+   "lastModified": "Thu, 12 Nov 2026 18:46:38 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,56 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-12T17:48:16.985Z",
+   "checkedAt": "2026-11-12T18:46:37.994Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "384252220164cfa9",
+   "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+   "url": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+   "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious login might belong to an employee. An unusual…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-12T18:07:15.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-12T12:41:04.574Z"
+  },
+  {
+   "id": "897c1c6b0f49846c",
+   "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
+   "url": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
+   "summary": "A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount of this week's trouble starts right there. Attackers are using fake websites…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-12T18:02:51.000Z",
+   "categories": [
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-12T18:46:37.994Z"
+  },
+  {
+   "id": "c892fb218fc51be1",
+   "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
+   "url": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
+   "summary": "Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver. The proof of concept, called SignDrop, targets a log-authentication feature added to the driver last year. It abuses how…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-12T17:50:27.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-12T18:46:37.994Z"
+  },
   {
    "id": "83f9d15e0e3302c8",
    "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
@@ -283,20 +326,6 @@
    "published": "2026-11-12T12:09:14.000Z",
    "categories": [
     "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-12T12:41:04.574Z"
-  },
-  {
-   "id": "384252220164cfa9",
-   "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
-   "url": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
-   "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious login might belong to an employee. An unusual…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-12T12:02:51.000Z",
-   "categories": [
     "attack"
    ],
    "firstSeen": "2026-11-12T12:41:04.574Z"
@@ -2956,37 +2985,6 @@
     "ai"
    ],
    "firstSeen": "2026-11-06T09:42:00.719Z"
-  },
-  {
-   "id": "a3b94f1fb170a2b6",
-   "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
-   "url": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
-   "summary": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. \"While we investigated, we removed access to Reactor and Data…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-06T08:04:49.000Z",
-   "categories": [
-    "breach",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-06T08:37:54.623Z"
-  },
-  {
-   "id": "97fd8de188fcd37e",
-   "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
-   "url": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
-   "summary": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes commands that attackers send via web requests, and those…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-06T05:58:54.000Z",
-   "categories": [
-    "malware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-06T07:32:12.752Z"
   }
  ]
 }
