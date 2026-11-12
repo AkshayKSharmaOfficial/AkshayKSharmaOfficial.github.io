@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-12T13:57:23.596Z",
- "lastAttempt": "2026-11-12T13:57:23.596Z",
+ "lastSuccess": "2026-11-12T14:53:31.346Z",
+ "lastAttempt": "2026-11-12T14:53:31.346Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T13:57:23.596Z",
-   "lastSuccess": "2026-11-12T13:57:23.596Z",
+   "checkedAt": "2026-11-12T14:53:31.346Z",
+   "lastSuccess": "2026-11-12T14:53:31.346Z",
    "etag": null,
    "lastModified": "Thu, 12 Nov 2026 12:34:29 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T13:57:23.596Z",
-   "lastSuccess": "2026-11-12T13:57:23.596Z",
-   "etag": "2757bb8b7f6d5ec8f15da9f8993d9da6",
-   "lastModified": "Thu, 12 Nov 2026 13:51:14 GMT"
+   "checkedAt": "2026-11-12T14:53:31.346Z",
+   "lastSuccess": "2026-11-12T14:53:31.346Z",
+   "etag": "8e1a9d2c0dd09aeda5725d6e4f566e4b",
+   "lastModified": "Thu, 12 Nov 2026 14:46:49 GMT"
   },
   {
    "id": "krebs",
@@ -34,20 +34,20 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T13:57:23.596Z",
-   "lastSuccess": "2026-11-12T13:57:23.596Z",
+   "checkedAt": "2026-11-12T14:53:31.346Z",
+   "lastSuccess": "2026-11-12T14:53:31.346Z",
    "etag": null,
-   "lastModified": "Thu, 12 Nov 2026 13:06:56 GMT"
+   "lastModified": "Thu, 12 Nov 2026 14:51:00 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T13:57:23.596Z",
-   "lastSuccess": "2026-11-12T13:57:23.596Z",
+   "checkedAt": "2026-11-12T14:53:31.346Z",
+   "lastSuccess": "2026-11-12T14:53:31.346Z",
    "etag": "\"5d8c1fe2dcabac2c9639dcb7da27f2fd\"",
    "lastModified": "Thu, 12 Nov 2026 13:45:39 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T13:57:23.596Z",
-   "lastSuccess": "2026-11-12T13:57:23.596Z",
+   "checkedAt": "2026-11-12T14:53:31.346Z",
+   "lastSuccess": "2026-11-12T14:53:31.346Z",
    "etag": null,
-   "lastModified": "Thu, 12 Nov 2026 13:57:23 GMT"
+   "lastModified": "Thu, 12 Nov 2026 14:53:31 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T13:57:23.596Z",
-   "lastSuccess": "2026-11-12T13:57:23.596Z",
+   "checkedAt": "2026-11-12T14:53:31.346Z",
+   "lastSuccess": "2026-11-12T14:53:31.346Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "d01de80b4a9366f9",
+   "title": "Apify rotates API tokens, prompts 2FA resets after breach",
+   "url": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
+   "summary": "Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-12T14:36:47.000Z",
+   "categories": [
+    "breach"
+   ],
+   "firstSeen": "2026-11-12T14:53:31.346Z"
+  },
   {
    "id": "6238dcc6e981c99b",
    "title": "Chrome, Firefox Updates Patch Over 180 Vulnerabilities",
@@ -1756,7 +1770,7 @@
    "id": "6421cf20ae9d3d9d",
    "title": "People Are Getting Weird About AI",
    "url": "https://www.darkreading.com/cyber-risk/people-are-getting-weird-about-ai",
-   "summary": "Dark Reading Confidential Episode 22: You can love AI without being blind to cybersecurity being sacrificed for utility.",
+   "summary": "Dark Reading Confidential Episode 22: You can love AI without being blind to cybersecurity being sacrificed for utility. The tendency for humans to anthropomorphize the conversations and interactions we're having with AI is growing into potential delusion.",
    "source": "Dark Reading",
    "sourceId": "darkreading",
    "kind": "media",
@@ -2961,20 +2975,6 @@
    "kind": "media",
    "published": "2026-11-05T20:15:08.000Z",
    "categories": [],
-   "firstSeen": "2026-11-05T20:19:03.544Z"
-  },
-  {
-   "id": "e2dbb7a12bc75083",
-   "title": "APT29's Watering Holes Target Thousands of Mobile Users",
-   "url": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
-   "summary": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-05T20:05:39.000Z",
-   "categories": [
-    "attack"
-   ],
    "firstSeen": "2026-11-05T20:19:03.544Z"
   }
  ]
