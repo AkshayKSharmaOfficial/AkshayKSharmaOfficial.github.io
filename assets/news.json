@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-12T15:53:32.467Z",
- "lastAttempt": "2026-11-12T15:53:32.467Z",
+ "lastSuccess": "2026-11-12T16:55:37.008Z",
+ "lastAttempt": "2026-11-12T16:55:37.008Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T15:53:32.467Z",
-   "lastSuccess": "2026-11-12T15:53:32.467Z",
+   "checkedAt": "2026-11-12T16:55:37.008Z",
+   "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
-   "lastModified": "Thu, 12 Nov 2026 12:34:29 GMT"
+   "lastModified": "Thu, 12 Nov 2026 16:35:40 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T15:53:32.467Z",
-   "lastSuccess": "2026-11-12T15:53:32.467Z",
-   "etag": "8ccafd19e776ee0faf07cd15a8fe763f",
-   "lastModified": "Thu, 12 Nov 2026 15:49:50 GMT"
+   "checkedAt": "2026-11-12T16:55:37.008Z",
+   "lastSuccess": "2026-11-12T16:55:37.008Z",
+   "etag": "5dab9392d856b82309487d0604d4c35e",
+   "lastModified": "Thu, 12 Nov 2026 16:54:04 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T15:53:32.467Z",
-   "lastSuccess": "2026-11-12T15:53:32.467Z",
+   "checkedAt": "2026-11-12T16:55:37.008Z",
+   "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": "Thu, 12 Nov 2026 15:43:32 GMT"
   },
@@ -43,11 +43,11 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T15:53:32.467Z",
-   "lastSuccess": "2026-11-12T15:53:32.467Z",
+   "checkedAt": "2026-11-12T16:55:37.008Z",
+   "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": "\"8099a3f947e0dbae3a34666a3030b23e\"",
    "lastModified": "Thu, 12 Nov 2026 15:38:36 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T15:53:32.467Z",
-   "lastSuccess": "2026-11-12T15:53:32.467Z",
+   "checkedAt": "2026-11-12T16:55:37.008Z",
+   "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
-   "lastModified": "Thu, 12 Nov 2026 15:53:32 GMT"
+   "lastModified": "Thu, 12 Nov 2026 16:55:37 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,57 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T15:53:32.467Z",
-   "lastSuccess": "2026-11-12T15:53:32.467Z",
+   "checkedAt": "2026-11-12T16:55:37.008Z",
+   "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "83f9d15e0e3302c8",
+   "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
+   "url": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
+   "summary": "A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository. Quay enables anonymous access by default, and while it is enabled, the attacker needs no account. When it is off, anyone with a…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-12T16:27:01.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-12T16:55:37.008Z"
+  },
+  {
+   "id": "3f7f161cb4922c5f",
+   "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
+   "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+   "summary": "Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-12T16:04:00.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-12T16:55:37.008Z"
+  },
+  {
+   "id": "96d21dc534c051cb",
+   "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
+   "url": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
+   "summary": "Citrix has released patches for multiple critical security flaws impacting NetScaler ADC, Citrix NetScaler Gateway, and NetScaler Console that could lead to denial-of-service (DoS) or an authentication bypass. The critical vulnerabilities that impact NetScaler ADC and NetScaler…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-12T15:38:49.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-12T16:55:37.008Z"
+  },
   {
    "id": "4c6b09a644307b00",
    "title": "Apache Patches Critical HTTP Server RCE Found by Anthropic, Google",
@@ -92,6 +136,23 @@
     "attack"
    ],
    "firstSeen": "2026-11-12T15:53:32.467Z"
+  },
+  {
+   "id": "9d96703e2366c2eb",
+   "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
+   "url": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
+   "summary": "Cybersecurity researchers have found that lookalike domains masquerading as artificial intelligence (AI) tools are being used to serve ClickFix-style lures, browser-hijacking malware, and a set of extensions that hijack user searches. This delivery pattern has been codenamed…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-12T15:15:40.000Z",
+   "categories": [
+    "malware",
+    "phishing",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-12T16:55:37.008Z"
   },
   {
    "id": "d05853a414d48af7",
@@ -180,6 +241,22 @@
     "ai"
    ],
    "firstSeen": "2026-11-12T13:57:23.596Z"
+  },
+  {
+   "id": "0c7b196fe26ffd91",
+   "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
+   "url": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
+   "summary": "The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it has emerged. Blackpoint Cyber's Adversary Pursuit Group (APG), which shared the…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-12T13:08:28.000Z",
+   "categories": [
+    "vuln",
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-12T16:55:37.008Z"
   },
   {
    "id": "0c8df0fa5ebf68c2",
@@ -2910,75 +2987,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-06T07:32:12.752Z"
-  },
-  {
-   "id": "985aa680f8ad9f7c",
-   "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
-   "url": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
-   "summary": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released patches on Monday, and the security firm watchTowr detailed the attack chain on…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-06T05:39:10.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-06T07:32:12.752Z"
-  },
-  {
-   "id": "13aac5edda1f8218",
-   "title": "3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million",
-   "url": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
-   "summary": "The trio, who have nicknames that include “Rocky Balboa,” “Superman Cash” and “Fat Boy,” often targeted the companies’ accounting departments. The post 3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-06T03:03:29.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-06T04:04:12.857Z"
-  },
-  {
-   "id": "d342cd18f09ce42d",
-   "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
-   "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
-   "summary": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-06T00:56:44.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-06T00:59:25.999Z"
-  },
-  {
-   "id": "4da5fc4c968adc56",
-   "title": "Operação de influência russa tem como alvo generalizado a América Latina",
-   "url": "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina",
-   "summary": "A operação, que contou com o uso de inteligência artificial, utilizou e-mails falsos, documentos governamentais falsificados e a criação de uma organização local para atacar escolas no Peru e no Equador, entre outras ações.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-05T22:13:23.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-06T22:10:29.413Z"
-  },
-  {
-   "id": "31381108dc8e2256",
-   "title": "US Government Email Systems Open to Abuse Thanks to Typos",
-   "url": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
-   "summary": "Erroneous or outdated DNS records can give attackers surprising powers over organizations' email systems.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-05T21:35:05.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-05T22:17:05.936Z"
   }
  ]
 }
