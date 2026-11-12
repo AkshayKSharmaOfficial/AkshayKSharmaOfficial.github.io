@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-12T10:33:35.896Z",
- "lastAttempt": "2026-11-12T10:33:35.896Z",
+ "lastSuccess": "2026-11-12T11:38:19.265Z",
+ "lastAttempt": "2026-11-12T11:38:19.265Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T10:33:35.896Z",
-   "lastSuccess": "2026-11-12T10:33:35.896Z",
+   "checkedAt": "2026-11-12T11:38:19.265Z",
+   "lastSuccess": "2026-11-12T11:38:19.265Z",
    "etag": null,
-   "lastModified": "Thu, 12 Nov 2026 09:49:55 GMT"
+   "lastModified": "Thu, 12 Nov 2026 10:44:02 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T10:33:35.896Z",
-   "lastSuccess": "2026-11-12T10:33:35.896Z",
-   "etag": "4970e380aaa572e18f91d4ffaf33c932",
-   "lastModified": "Thu, 12 Nov 2026 10:24:08 GMT"
+   "checkedAt": "2026-11-12T11:38:19.265Z",
+   "lastSuccess": "2026-11-12T11:38:19.265Z",
+   "etag": "46000f78d88728c01221817a6fd033fe",
+   "lastModified": "Thu, 12 Nov 2026 11:35:46 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T10:33:35.896Z",
-   "lastSuccess": "2026-11-12T10:33:35.896Z",
+   "checkedAt": "2026-11-12T11:38:19.265Z",
+   "lastSuccess": "2026-11-12T11:38:19.265Z",
    "etag": null,
    "lastModified": "Thu, 12 Nov 2026 05:40:03 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T10:33:35.896Z",
-   "lastSuccess": "2026-11-12T10:33:35.896Z",
-   "etag": "\"4c884660a6ef52c64e426c8a3ce57ac0\"",
-   "lastModified": "Thu, 12 Nov 2026 09:40:00 GMT"
+   "checkedAt": "2026-11-12T11:38:19.265Z",
+   "lastSuccess": "2026-11-12T11:38:19.265Z",
+   "etag": "\"93d5fa278dd15b20c61c6c0e35d7ae1f\"",
+   "lastModified": "Thu, 12 Nov 2026 11:08:57 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T10:33:35.896Z",
-   "lastSuccess": "2026-11-12T10:33:35.896Z",
+   "checkedAt": "2026-11-12T11:38:19.265Z",
+   "lastSuccess": "2026-11-12T11:38:19.265Z",
    "etag": null,
-   "lastModified": "Thu, 12 Nov 2026 10:33:36 GMT"
+   "lastModified": "Thu, 12 Nov 2026 11:38:19 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,60 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T10:33:35.896Z",
-   "lastSuccess": "2026-11-12T10:33:35.896Z",
+   "checkedAt": "2026-11-12T11:38:19.265Z",
+   "lastSuccess": "2026-11-12T11:38:19.265Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "f3f686dea5edec73",
+   "title": "Notion Customer Data Compromised in Fireworks AI Hack",
+   "url": "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/",
+   "summary": "The attackers accessed chat transcripts for fewer than 1% of Notion workspaces. Most transcripts were unattributable. The post Notion Customer Data Compromised in Fireworks AI Hack appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-12T11:08:52.000Z",
+   "categories": [
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-12T11:38:19.265Z"
+  },
+  {
+   "id": "669a96cc657d93e2",
+   "title": "Inside an AI Attack Against a US Retailer",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer",
+   "summary": "When hand-typed commands failed to breach a US retailer, the attacker turned to AI-generated scripts, achieving lateral movement in minutes.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-12T11:00:00.000Z",
+   "categories": [
+    "breach",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-12T11:38:19.265Z"
+  },
+  {
+   "id": "9df2841fda284018",
+   "title": "Hackers Deploy Malware in Fresh ScreenConnect Campaign",
+   "url": "https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/",
+   "summary": "The attackers exploited a vulnerability in a legitimate extension to bypass ScreenConnect authentication. The post Hackers Deploy Malware in Fresh ScreenConnect Campaign appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-12T10:39:34.000Z",
+   "categories": [
+    "vuln",
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-12T11:38:19.265Z"
+  },
   {
    "id": "2db8e91e55357d4e",
    "title": "Microsoft confirms Windows security updates installation issues",
@@ -2931,50 +2978,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-05T15:27:11.681Z"
-  },
-  {
-   "id": "7d3fdba5d29111d0",
-   "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
-   "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
-   "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new tools are helping find…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-05T14:41:10.000Z",
-   "categories": [
-    "breach",
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-05T15:27:11.681Z"
-  },
-  {
-   "id": "b609cb24272123d8",
-   "title": "Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns",
-   "url": "https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/",
-   "summary": "More than 200 sites were seen serving phishing content to first-time visitors but not to those who revisit. The post Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-05T13:22:12.000Z",
-   "categories": [
-    "phishing"
-   ],
-   "firstSeen": "2026-11-05T14:27:19.999Z"
-  },
-  {
-   "id": "e4ccf840a0db682c",
-   "title": "Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised",
-   "url": "https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/",
-   "summary": "The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up after they were remotely hacked. The post Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised appeared first on…",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-05T12:58:32.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-05T14:27:19.999Z"
   }
  ]
 }
