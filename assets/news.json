@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-12T21:30:18.704Z",
- "lastAttempt": "2026-11-12T21:30:18.704Z",
+ "lastSuccess": "2026-11-12T22:27:07.529Z",
+ "lastAttempt": "2026-11-12T22:27:07.529Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T21:30:18.704Z",
-   "lastSuccess": "2026-11-12T21:30:18.704Z",
+   "checkedAt": "2026-11-12T22:27:07.529Z",
+   "lastSuccess": "2026-11-12T22:27:07.529Z",
    "etag": null,
-   "lastModified": "Thu, 12 Nov 2026 21:17:32 GMT"
+   "lastModified": "Thu, 12 Nov 2026 21:57:07 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T21:30:18.704Z",
-   "lastSuccess": "2026-11-12T21:30:18.704Z",
-   "etag": "68023527c34648116dbe0016363066f4",
-   "lastModified": "Thu, 12 Nov 2026 21:24:28 GMT"
+   "checkedAt": "2026-11-12T22:27:07.529Z",
+   "lastSuccess": "2026-11-12T22:27:07.529Z",
+   "etag": "85b8345b42d888afb854e334002d63ca",
+   "lastModified": "Thu, 12 Nov 2026 22:25:31 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T21:30:18.704Z",
-   "lastSuccess": "2026-11-12T21:30:18.704Z",
+   "checkedAt": "2026-11-12T22:27:07.529Z",
+   "lastSuccess": "2026-11-12T22:27:07.529Z",
    "etag": null,
    "lastModified": "Thu, 12 Nov 2026 20:30:59 GMT"
   },
@@ -43,11 +43,11 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T21:30:18.704Z",
-   "lastSuccess": "2026-11-12T21:30:18.704Z",
+   "checkedAt": "2026-11-12T22:27:07.529Z",
+   "lastSuccess": "2026-11-12T22:27:07.529Z",
    "etag": "\"ecebbb3f62d05e33dc6dc7dc782eca15\"",
    "lastModified": "Thu, 12 Nov 2026 20:55:34 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T21:30:18.704Z",
-   "lastSuccess": "2026-11-12T21:30:18.704Z",
+   "checkedAt": "2026-11-12T22:27:07.529Z",
+   "lastSuccess": "2026-11-12T22:27:07.529Z",
    "etag": null,
-   "lastModified": "Thu, 12 Nov 2026 21:30:19 GMT"
+   "lastModified": "Thu, 12 Nov 2026 22:27:07 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,42 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-12T21:30:18.704Z",
+   "checkedAt": "2026-11-12T22:27:07.529Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "34b7c61e3f8ae218",
+   "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+   "summary": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-12T22:25:30.000Z",
+   "categories": [
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-12T22:27:07.529Z"
+  },
+  {
+   "id": "670eee519d3d24dd",
+   "title": "Cyber Experts Weigh In: How to Fight Artex & AntiFox",
+   "url": "https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox",
+   "summary": "Cybercriminals using agentic pen-testing tools is a proverbial genie out of the bottle at this point, so enterprises need to get a defense plan in place right away.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-12T21:18:52.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-12T22:27:07.529Z"
+  },
   {
    "id": "fc01b8f5ab142240",
    "title": "Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams",
@@ -700,6 +729,20 @@
     "attack"
    ],
    "firstSeen": "2026-11-11T23:36:24.016Z"
+  },
+  {
+   "id": "7c15e1a0b4069f58",
+   "title": "AIを活用したサイバー攻撃の増加を受け、日本がサイバーセキュリティへの緊急資金拠出を推進",
+   "url": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches-japanese",
+   "summary": "この対策パッケージには、官民合同のサイバー対応チーム、経済省が主導するAI専門チーム、および政府の新たな能動的サイバー防衛権限の行使に関する裁量の拡大が含まれている。",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-11T22:14:44.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-12T22:27:07.529Z"
   },
   {
    "id": "b40cf0b1f4e5de88",
@@ -2945,50 +2988,6 @@
    "published": "2026-11-06T12:16:13.000Z",
    "categories": [],
    "firstSeen": "2026-11-06T12:37:54.024Z"
-  },
-  {
-   "id": "8642e5fbdbdfb800",
-   "title": "OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass",
-   "url": "https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/",
-   "summary": "On Linux distributions using musl libc without PAM, some accounts accept any password between 257 and 1024 characters. The post OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-06T12:07:42.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-06T12:37:54.024Z"
-  },
-  {
-   "id": "0b7161df55d908be",
-   "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
-   "url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
-   "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build, 11.2609.401.0, was the newest Paint build in all ten countries The Hacker News…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-06T12:06:43.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-06T13:54:46.013Z"
-  },
-  {
-   "id": "bf3ff9f08f48ce87",
-   "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
-   "url": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
-   "summary": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispatch, a Claude feature that lets people send tasks from their…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-06T12:06:35.000Z",
-   "categories": [
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-06T13:54:46.013Z"
   }
  ]
 }
