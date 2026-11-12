@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-12T04:52:41.427Z",
- "lastAttempt": "2026-11-12T04:52:41.427Z",
+ "lastSuccess": "2026-11-12T05:55:46.121Z",
+ "lastAttempt": "2026-11-12T05:55:46.121Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T04:52:41.427Z",
-   "lastSuccess": "2026-11-12T04:52:41.427Z",
+   "checkedAt": "2026-11-12T05:55:46.121Z",
+   "lastSuccess": "2026-11-12T05:55:46.121Z",
    "etag": null,
-   "lastModified": "Thu, 12 Nov 2026 03:57:46 GMT"
+   "lastModified": "Thu, 12 Nov 2026 05:30:10 GMT"
   },
   {
    "id": "bleeping",
@@ -22,34 +22,34 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T04:52:41.427Z",
-   "lastSuccess": "2026-11-12T04:52:41.427Z",
-   "etag": "ec9ad23cac070171fba434553e1b1902",
-   "lastModified": "Thu, 12 Nov 2026 04:47:01 GMT"
+   "checkedAt": "2026-11-12T05:55:46.121Z",
+   "lastSuccess": "2026-11-12T05:55:46.121Z",
+   "etag": "cfeb919d3344b15c9ddd2b3776d7f20e",
+   "lastModified": "Thu, 12 Nov 2026 05:52:44 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T04:52:41.427Z",
-   "lastSuccess": "2026-11-12T04:52:41.427Z",
+   "checkedAt": "2026-11-12T05:55:46.121Z",
+   "lastSuccess": "2026-11-12T05:55:46.121Z",
    "etag": null,
-   "lastModified": "Thu, 12 Nov 2026 01:48:37 GMT"
+   "lastModified": "Thu, 12 Nov 2026 05:40:03 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T04:52:41.427Z",
-   "lastSuccess": "2026-11-12T04:52:41.427Z",
-   "etag": "\"6f9c987ac5e663205ca257d4798aac0c\"",
-   "lastModified": "Wed, 11 Nov 2026 18:23:23 GMT"
+   "checkedAt": "2026-11-12T05:55:46.121Z",
+   "lastSuccess": "2026-11-12T05:55:46.121Z",
+   "etag": "\"7e31cf10d88d04b126e90a10a894fde3\"",
+   "lastModified": "Thu, 12 Nov 2026 05:15:20 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T04:52:41.427Z",
-   "lastSuccess": "2026-11-12T04:52:41.427Z",
+   "checkedAt": "2026-11-12T05:55:46.121Z",
+   "lastSuccess": "2026-11-12T05:55:46.121Z",
    "etag": null,
-   "lastModified": "Thu, 12 Nov 2026 04:52:41 GMT"
+   "lastModified": "Thu, 12 Nov 2026 05:55:46 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,42 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T04:52:41.427Z",
-   "lastSuccess": "2026-11-12T04:52:41.427Z",
+   "checkedAt": "2026-11-12T05:55:46.121Z",
+   "lastSuccess": "2026-11-12T05:55:46.121Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "b92486adb822eb8a",
+   "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+   "url": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+   "summary": "A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71, released yesterday. Only servers with HTTP/2 enabled are…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-12T05:12:26.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-12T05:55:46.121Z"
+  },
+  {
+   "id": "0a7fd303a43b8569",
+   "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+   "url": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
+   "summary": "ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access. In an advisory posted on its site, the company said there is no evidence that the incident involves a compromise of its…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-12T04:39:48.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-12T05:55:46.121Z"
+  },
   {
    "id": "6994f9b567b58e0f",
    "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry",
@@ -2942,35 +2971,6 @@
    "published": "2026-11-05T10:56:41.000Z",
    "categories": [
     "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-05T11:00:01.753Z"
-  },
-  {
-   "id": "900751f07c83a490",
-   "title": "Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes",
-   "url": "https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/",
-   "summary": "The large-scale watering hole campaign has been targeting entities in the US and Europe, mainly in Ukraine. The post Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-05T10:37:13.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-05T11:00:01.753Z"
-  },
-  {
-   "id": "e5838da8e52e7046",
-   "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
-   "url": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
-   "summary": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond individual security incidents…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-05T10:06:19.000Z",
-   "categories": [
     "attack"
    ],
    "firstSeen": "2026-11-05T11:00:01.753Z"
