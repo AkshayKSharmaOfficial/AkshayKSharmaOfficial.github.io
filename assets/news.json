@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-12T08:25:45.083Z",
- "lastAttempt": "2026-11-12T08:25:45.083Z",
+ "lastSuccess": "2026-11-12T09:29:53.596Z",
+ "lastAttempt": "2026-11-12T09:29:53.596Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T08:25:45.083Z",
-   "lastSuccess": "2026-11-12T08:25:45.083Z",
+   "checkedAt": "2026-11-12T09:29:53.596Z",
+   "lastSuccess": "2026-11-12T09:29:53.596Z",
    "etag": null,
-   "lastModified": "Thu, 12 Nov 2026 08:09:52 GMT"
+   "lastModified": "Thu, 12 Nov 2026 09:08:19 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T08:25:45.083Z",
-   "lastSuccess": "2026-11-12T08:25:45.083Z",
-   "etag": "16503cb39182d93a15632ff737f64059",
-   "lastModified": "Thu, 12 Nov 2026 08:22:48 GMT"
+   "checkedAt": "2026-11-12T09:29:53.596Z",
+   "lastSuccess": "2026-11-12T09:29:53.596Z",
+   "etag": "2945ba1e87671117d2862f6d5725336c",
+   "lastModified": "Thu, 12 Nov 2026 09:22:50 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T08:25:45.083Z",
-   "lastSuccess": "2026-11-12T08:25:45.083Z",
+   "checkedAt": "2026-11-12T09:29:53.596Z",
+   "lastSuccess": "2026-11-12T09:29:53.596Z",
    "etag": null,
    "lastModified": "Thu, 12 Nov 2026 05:40:03 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T08:25:45.083Z",
-   "lastSuccess": "2026-11-12T08:25:45.083Z",
-   "etag": "\"7e31cf10d88d04b126e90a10a894fde3\"",
-   "lastModified": "Thu, 12 Nov 2026 05:15:20 GMT"
+   "checkedAt": "2026-11-12T09:29:53.596Z",
+   "lastSuccess": "2026-11-12T09:29:53.596Z",
+   "etag": "\"c54be9a41e80da3d8f68f9ad0bf7831b\"",
+   "lastModified": "Thu, 12 Nov 2026 08:38:52 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T08:25:45.083Z",
-   "lastSuccess": "2026-11-12T08:25:45.083Z",
+   "checkedAt": "2026-11-12T09:29:53.596Z",
+   "lastSuccess": "2026-11-12T09:29:53.596Z",
    "etag": null,
-   "lastModified": "Thu, 12 Nov 2026 08:25:45 GMT"
+   "lastModified": "Thu, 12 Nov 2026 09:29:54 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,43 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T08:25:45.083Z",
-   "lastSuccess": "2026-11-12T08:25:45.083Z",
+   "checkedAt": "2026-11-12T09:29:53.596Z",
+   "lastSuccess": "2026-11-12T09:29:53.596Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "267b2e6fdb3a3b36",
+   "title": "Maersk Confirms Data Theft Amid $5 Million Extortion Attempt",
+   "url": "https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/",
+   "summary": "The WhiteArmor ransomware group claims it stole 100GB of data from the shipping giant’s systems. The post Maersk Confirms Data Theft Amid $5 Million Extortion Attempt appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-12T08:38:47.000Z",
+   "categories": [
+    "ransomware",
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-12T09:29:53.596Z"
+  },
+  {
+   "id": "6ee015b627a80bcd",
+   "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
+   "url": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
+   "summary": "A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw can cause a server to send a client pieces of its memory, including responses intended for other…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-12T08:20:37.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-12T09:29:53.596Z"
+  },
   {
    "id": "b1fc427f51ef7a02",
    "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
@@ -2945,35 +2975,6 @@
     "advisory"
    ],
    "firstSeen": "2026-11-05T22:17:05.936Z"
-  },
-  {
-   "id": "8f1a9cf52f58cf09",
-   "title": "The Agent Smith Dilemma: Governing Agentic Identities",
-   "url": "https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/",
-   "summary": "Every autonomous AI agent deployed across your enterprise today is a new proxy identity operating inside your perimeter. The post The Agent Smith Dilemma: Governing Agentic Identities appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-05T11:15:00.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-05T13:00:27.812Z"
-  },
-  {
-   "id": "3f7c6c9428a5a728",
-   "title": "CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality",
-   "url": "https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/",
-   "summary": "Ryan Davis went from hacking his school’s network to running security at New Charter Technologies. What worries him now is shadow AI. The post CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-05T11:00:00.000Z",
-   "categories": [
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-05T11:56:39.021Z"
   }
  ]
 }
