@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-12T09:29:53.596Z",
- "lastAttempt": "2026-11-12T09:29:53.596Z",
+ "lastSuccess": "2026-11-12T10:33:35.896Z",
+ "lastAttempt": "2026-11-12T10:33:35.896Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T09:29:53.596Z",
-   "lastSuccess": "2026-11-12T09:29:53.596Z",
+   "checkedAt": "2026-11-12T10:33:35.896Z",
+   "lastSuccess": "2026-11-12T10:33:35.896Z",
    "etag": null,
-   "lastModified": "Thu, 12 Nov 2026 09:08:19 GMT"
+   "lastModified": "Thu, 12 Nov 2026 09:49:55 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T09:29:53.596Z",
-   "lastSuccess": "2026-11-12T09:29:53.596Z",
-   "etag": "2945ba1e87671117d2862f6d5725336c",
-   "lastModified": "Thu, 12 Nov 2026 09:22:50 GMT"
+   "checkedAt": "2026-11-12T10:33:35.896Z",
+   "lastSuccess": "2026-11-12T10:33:35.896Z",
+   "etag": "4970e380aaa572e18f91d4ffaf33c932",
+   "lastModified": "Thu, 12 Nov 2026 10:24:08 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T09:29:53.596Z",
-   "lastSuccess": "2026-11-12T09:29:53.596Z",
+   "checkedAt": "2026-11-12T10:33:35.896Z",
+   "lastSuccess": "2026-11-12T10:33:35.896Z",
    "etag": null,
    "lastModified": "Thu, 12 Nov 2026 05:40:03 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T09:29:53.596Z",
-   "lastSuccess": "2026-11-12T09:29:53.596Z",
-   "etag": "\"c54be9a41e80da3d8f68f9ad0bf7831b\"",
-   "lastModified": "Thu, 12 Nov 2026 08:38:52 GMT"
+   "checkedAt": "2026-11-12T10:33:35.896Z",
+   "lastSuccess": "2026-11-12T10:33:35.896Z",
+   "etag": "\"4c884660a6ef52c64e426c8a3ce57ac0\"",
+   "lastModified": "Thu, 12 Nov 2026 09:40:00 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T09:29:53.596Z",
-   "lastSuccess": "2026-11-12T09:29:53.596Z",
+   "checkedAt": "2026-11-12T10:33:35.896Z",
+   "lastSuccess": "2026-11-12T10:33:35.896Z",
    "etag": null,
-   "lastModified": "Thu, 12 Nov 2026 09:29:54 GMT"
+   "lastModified": "Thu, 12 Nov 2026 10:33:36 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,85 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T09:29:53.596Z",
-   "lastSuccess": "2026-11-12T09:29:53.596Z",
+   "checkedAt": "2026-11-12T10:33:35.896Z",
+   "lastSuccess": "2026-11-12T10:33:35.896Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "2db8e91e55357d4e",
+   "title": "Microsoft confirms Windows security updates installation issues",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
+   "summary": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-12T10:24:07.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-12T10:33:35.896Z"
+  },
+  {
+   "id": "29d7679446136e33",
+   "title": "Hackers Target N-central Zero-Days as N-able Rushes Patches",
+   "url": "https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/",
+   "summary": "The malicious activity started shortly after a researcher dropped over 30 zero-days. N-able patched the unauthenticated ones. The post Hackers Target N-central Zero-Days as N-able Rushes Patches appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-12T09:39:55.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-12T10:33:35.896Z"
+  },
+  {
+   "id": "da38184b08af45de",
+   "title": "Hackers plant GSocket on Linux servers for persistent access",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
+   "summary": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-12T09:38:00.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-12T10:33:35.896Z"
+  },
+  {
+   "id": "c776eb51cbacc6fa",
+   "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+   "url": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
+   "summary": "A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash on the database server. The crash occurs only if that server is later chosen to take over as the main server while it still lacks some recent changes. MongoDB, the…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-12T09:25:00.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-12T10:33:35.896Z"
+  },
+  {
+   "id": "0bd1722d4ab3c7e2",
+   "title": "Critical Red Hat Quay Vulnerability Could Expose Private Container Images",
+   "url": "https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/",
+   "summary": "Attackers could exploit a critical Red Hat Quay flaw to steal private container images, overwrite repositories and maintain persistent access. The post Critical Red Hat Quay Vulnerability Could Expose Private Container Images appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-12T09:23:21.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-12T10:33:35.896Z"
+  },
   {
    "id": "267b2e6fdb3a3b36",
    "title": "Maersk Confirms Data Theft Amid $5 Million Extortion Attempt",
@@ -2903,78 +2975,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-05T14:27:19.999Z"
-  },
-  {
-   "id": "852989f1750e5329",
-   "title": "Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws",
-   "url": "https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/",
-   "summary": "Cisco patched an RCE in UCS Central Software; WatchGuard fixed authentication and MitM flaws. The post Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-05T12:33:49.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-05T13:00:27.812Z"
-  },
-  {
-   "id": "1bd927d85a48e504",
-   "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
-   "url": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
-   "summary": "A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who owns the system, whether attackers can…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-05T12:25:00.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-05T14:27:19.999Z"
-  },
-  {
-   "id": "c7e59b0d46842b63",
-   "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-   "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-   "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-05T12:08:54.000Z",
-   "categories": [
-    "vuln",
-    "ai"
-   ],
-   "firstSeen": "2026-11-05T05:30:08.849Z"
-  },
-  {
-   "id": "5889c81bf93c9d68",
-   "title": "Post-Quantum Questions to Ask Your Vendors",
-   "url": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
-   "summary": "CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness for transitioning to post-quantum…",
-   "source": "CISA (US government)",
-   "sourceId": "cisa",
-   "kind": "official",
-   "published": "2026-11-05T12:00:00.000Z",
-   "categories": [
-    "advisory"
-   ],
-   "firstSeen": "2026-11-05T22:17:05.936Z"
-  },
-  {
-   "id": "890eff173762f513",
-   "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
-   "url": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
-   "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring…",
-   "source": "CISA (US government)",
-   "sourceId": "cisa",
-   "kind": "official",
-   "published": "2026-11-05T12:00:00.000Z",
-   "categories": [
-    "advisory"
-   ],
-   "firstSeen": "2026-11-05T22:17:05.936Z"
   }
  ]
 }
