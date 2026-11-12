@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-12T14:53:31.346Z",
- "lastAttempt": "2026-11-12T14:53:31.346Z",
+ "lastSuccess": "2026-11-12T15:53:32.467Z",
+ "lastAttempt": "2026-11-12T15:53:32.467Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T14:53:31.346Z",
-   "lastSuccess": "2026-11-12T14:53:31.346Z",
+   "checkedAt": "2026-11-12T15:53:32.467Z",
+   "lastSuccess": "2026-11-12T15:53:32.467Z",
    "etag": null,
    "lastModified": "Thu, 12 Nov 2026 12:34:29 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T14:53:31.346Z",
-   "lastSuccess": "2026-11-12T14:53:31.346Z",
-   "etag": "8e1a9d2c0dd09aeda5725d6e4f566e4b",
-   "lastModified": "Thu, 12 Nov 2026 14:46:49 GMT"
+   "checkedAt": "2026-11-12T15:53:32.467Z",
+   "lastSuccess": "2026-11-12T15:53:32.467Z",
+   "etag": "8ccafd19e776ee0faf07cd15a8fe763f",
+   "lastModified": "Thu, 12 Nov 2026 15:49:50 GMT"
   },
   {
    "id": "krebs",
@@ -34,22 +34,22 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T14:53:31.346Z",
-   "lastSuccess": "2026-11-12T14:53:31.346Z",
+   "checkedAt": "2026-11-12T15:53:32.467Z",
+   "lastSuccess": "2026-11-12T15:53:32.467Z",
    "etag": null,
-   "lastModified": "Thu, 12 Nov 2026 14:51:00 GMT"
+   "lastModified": "Thu, 12 Nov 2026 15:43:32 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T14:53:31.346Z",
-   "lastSuccess": "2026-11-12T14:53:31.346Z",
-   "etag": "\"5d8c1fe2dcabac2c9639dcb7da27f2fd\"",
-   "lastModified": "Thu, 12 Nov 2026 13:45:39 GMT"
+   "checkedAt": "2026-11-12T15:53:32.467Z",
+   "lastSuccess": "2026-11-12T15:53:32.467Z",
+   "etag": "\"8099a3f947e0dbae3a34666a3030b23e\"",
+   "lastModified": "Thu, 12 Nov 2026 15:38:36 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T14:53:31.346Z",
-   "lastSuccess": "2026-11-12T14:53:31.346Z",
+   "checkedAt": "2026-11-12T15:53:32.467Z",
+   "lastSuccess": "2026-11-12T15:53:32.467Z",
    "etag": null,
-   "lastModified": "Thu, 12 Nov 2026 14:53:31 GMT"
+   "lastModified": "Thu, 12 Nov 2026 15:53:32 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,59 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T14:53:31.346Z",
-   "lastSuccess": "2026-11-12T14:53:31.346Z",
+   "checkedAt": "2026-11-12T15:53:32.467Z",
+   "lastSuccess": "2026-11-12T15:53:32.467Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "4c6b09a644307b00",
+   "title": "Apache Patches Critical HTTP Server RCE Found by Anthropic, Google",
+   "url": "https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/",
+   "summary": "The mod_http2 race condition, CVE-2026-119618, could let unauthenticated attackers execute code on servers with HTTP/2 enabled. The post Apache Patches Critical HTTP Server RCE Found by Anthropic, Google appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-12T15:38:31.000Z",
+   "categories": [
+    "vuln",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-12T15:53:32.467Z"
+  },
+  {
+   "id": "d05853a414d48af7",
+   "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
+   "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
+   "summary": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-12T15:07:20.000Z",
+   "categories": [
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-12T15:53:32.467Z"
+  },
+  {
+   "id": "ec8d539db8fd1d0a",
+   "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
+   "url": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
+   "summary": "Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-controlled cryptographic authorization can prevent attackers from abusing…",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-12T15:00:10.000Z",
+   "categories": [
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-12T15:53:32.467Z"
+  },
   {
    "id": "d01de80b4a9366f9",
    "title": "Apify rotates API tokens, prompts 2FA resets after breach",
@@ -2933,49 +2979,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-05T22:17:05.936Z"
-  },
-  {
-   "id": "0792a0829b75846b",
-   "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
-   "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
-   "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-05T21:30:30.000Z",
-   "categories": [
-    "phishing",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-05T22:17:05.936Z"
-  },
-  {
-   "id": "395fba3131666a74",
-   "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
-   "url": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
-   "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-05T21:00:47.000Z",
-   "categories": [
-    "phishing",
-    "attack"
-   ],
-   "firstSeen": "2026-11-05T22:17:05.936Z"
-  },
-  {
-   "id": "52f5dccff3a6d143",
-   "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
-   "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
-   "summary": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-05T20:15:08.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-05T20:19:03.544Z"
   }
  ]
 }
