@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-12T19:48:28.301Z",
- "lastAttempt": "2026-11-12T19:48:28.301Z",
+ "lastSuccess": "2026-11-12T20:43:29.031Z",
+ "lastAttempt": "2026-11-12T20:43:29.031Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T19:48:28.301Z",
-   "lastSuccess": "2026-11-12T19:48:28.301Z",
+   "checkedAt": "2026-11-12T20:43:29.031Z",
+   "lastSuccess": "2026-11-12T20:43:29.031Z",
    "etag": null,
-   "lastModified": "Thu, 12 Nov 2026 18:13:56 GMT"
+   "lastModified": "Thu, 12 Nov 2026 20:19:14 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T19:48:28.301Z",
-   "lastSuccess": "2026-11-12T19:48:28.301Z",
-   "etag": "961aa59e51bb8162cbf87f638dca32db",
-   "lastModified": "Thu, 12 Nov 2026 19:42:57 GMT"
+   "checkedAt": "2026-11-12T20:43:29.031Z",
+   "lastSuccess": "2026-11-12T20:43:29.031Z",
+   "etag": "11bf34e49c38882e925c752a8f96ba2a",
+   "lastModified": "Thu, 12 Nov 2026 20:35:18 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T19:48:28.301Z",
-   "lastSuccess": "2026-11-12T19:48:28.301Z",
+   "checkedAt": "2026-11-12T20:43:29.031Z",
+   "lastSuccess": "2026-11-12T20:43:29.031Z",
    "etag": null,
-   "lastModified": "Thu, 12 Nov 2026 19:40:03 GMT"
+   "lastModified": "Thu, 12 Nov 2026 20:30:59 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T19:48:28.301Z",
-   "lastSuccess": "2026-11-12T19:48:28.301Z",
+   "checkedAt": "2026-11-12T20:43:29.031Z",
+   "lastSuccess": "2026-11-12T20:43:29.031Z",
    "etag": "\"8099a3f947e0dbae3a34666a3030b23e\"",
    "lastModified": "Thu, 12 Nov 2026 15:38:36 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T19:48:28.301Z",
-   "lastSuccess": "2026-11-12T19:48:28.301Z",
+   "checkedAt": "2026-11-12T20:43:29.031Z",
+   "lastSuccess": "2026-11-12T20:43:29.031Z",
    "etag": null,
-   "lastModified": "Thu, 12 Nov 2026 19:48:28 GMT"
+   "lastModified": "Thu, 12 Nov 2026 20:43:29 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,58 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-12T19:48:28.301Z",
+   "checkedAt": "2026-11-12T20:43:29.031Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "cc6f04b423804060",
+   "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+   "summary": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-12T20:15:16.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-12T20:43:29.031Z"
+  },
+  {
+   "id": "33f2c1c2cbefa0b4",
+   "title": "Extortion Group Luna Moth Flits Into Law Firms a Second Time",
+   "url": "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time",
+   "summary": "The cybercriminals are re-targeting law firms that refused to pay its first ransom, with a social engineering con aimed at stealing Microsoft access tokens.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-12T20:09:41.000Z",
+   "categories": [
+    "ransomware",
+    "phishing",
+    "attack"
+   ],
+   "firstSeen": "2026-11-12T20:43:29.031Z"
+  },
+  {
+   "id": "0212533fdc388b5f",
+   "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+   "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+   "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security…",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-12T19:51:16.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-12T20:43:29.031Z"
+  },
   {
    "id": "4ed5988fdce2dbbb",
    "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
@@ -2946,46 +2991,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-10T21:15:23.895Z"
-  },
-  {
-   "id": "be398781c151cc44",
-   "title": "The Flood is Coming And The Pipes Were Already Full",
-   "url": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
-   "summary": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these models find, and the gap he describes between what…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-06T11:30:00.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-06T11:38:00.462Z"
-  },
-  {
-   "id": "42a8ea9ffb1107ed",
-   "title": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
-   "url": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
-   "summary": "After its sandbox proxy failed, an internal OpenAI model crafted raw packets and probed AWS services trying to reach the internet. The post OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-06T09:33:51.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-06T09:42:00.719Z"
-  },
-  {
-   "id": "23520724a41ef6eb",
-   "title": "MetaMask says recent attack didn't affect wallet infrastructure",
-   "url": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
-   "summary": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-06T09:22:28.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-06T09:42:00.719Z"
   }
  ]
 }
