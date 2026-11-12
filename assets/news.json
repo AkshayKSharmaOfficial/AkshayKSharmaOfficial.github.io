@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-12T11:38:19.265Z",
- "lastAttempt": "2026-11-12T11:38:19.265Z",
+ "lastSuccess": "2026-11-12T12:41:04.574Z",
+ "lastAttempt": "2026-11-12T12:41:04.574Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T11:38:19.265Z",
-   "lastSuccess": "2026-11-12T11:38:19.265Z",
+   "checkedAt": "2026-11-12T12:41:04.574Z",
+   "lastSuccess": "2026-11-12T12:41:04.574Z",
    "etag": null,
-   "lastModified": "Thu, 12 Nov 2026 10:44:02 GMT"
+   "lastModified": "Thu, 12 Nov 2026 12:34:29 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T11:38:19.265Z",
-   "lastSuccess": "2026-11-12T11:38:19.265Z",
-   "etag": "46000f78d88728c01221817a6fd033fe",
-   "lastModified": "Thu, 12 Nov 2026 11:35:46 GMT"
+   "checkedAt": "2026-11-12T12:41:04.574Z",
+   "lastSuccess": "2026-11-12T12:41:04.574Z",
+   "etag": "85e8535debe123142d4f2bb4556252d9",
+   "lastModified": "Thu, 12 Nov 2026 12:31:12 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T11:38:19.265Z",
-   "lastSuccess": "2026-11-12T11:38:19.265Z",
+   "checkedAt": "2026-11-12T12:41:04.574Z",
+   "lastSuccess": "2026-11-12T12:41:04.574Z",
    "etag": null,
    "lastModified": "Thu, 12 Nov 2026 05:40:03 GMT"
   },
@@ -43,11 +43,11 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T11:38:19.265Z",
-   "lastSuccess": "2026-11-12T11:38:19.265Z",
+   "checkedAt": "2026-11-12T12:41:04.574Z",
+   "lastSuccess": "2026-11-12T12:41:04.574Z",
    "etag": "\"93d5fa278dd15b20c61c6c0e35d7ae1f\"",
    "lastModified": "Thu, 12 Nov 2026 11:08:57 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T11:38:19.265Z",
-   "lastSuccess": "2026-11-12T11:38:19.265Z",
+   "checkedAt": "2026-11-12T12:41:04.574Z",
+   "lastSuccess": "2026-11-12T12:41:04.574Z",
    "etag": null,
-   "lastModified": "Thu, 12 Nov 2026 11:38:19 GMT"
+   "lastModified": "Thu, 12 Nov 2026 12:41:04 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,99 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-12T11:38:19.265Z",
-   "lastSuccess": "2026-11-12T11:38:19.265Z",
+   "checkedAt": "2026-11-12T12:41:04.574Z",
+   "lastSuccess": "2026-11-12T12:41:04.574Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "0c8df0fa5ebf68c2",
+   "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
+   "summary": "Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-12T12:11:11.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-12T12:41:04.574Z"
+  },
+  {
+   "id": "34b40f857b9f9cf5",
+   "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+   "url": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
+   "summary": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week. The company has already applied mitigations against attacks between VMs, and between VMs and the host. Inside a VM, the flaws…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-12T12:09:14.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-12T12:41:04.574Z"
+  },
+  {
+   "id": "384252220164cfa9",
+   "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+   "url": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+   "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious login might belong to an employee. An unusual…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-12T12:02:51.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-12T12:41:04.574Z"
+  },
+  {
+   "id": "e8aac6829dfb0bdd",
+   "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
+   "url": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
+   "summary": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2. \"Based on our initial review, the server issue described depends on a non-default configuration…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-12T11:51:43.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-12T12:41:04.574Z"
+  },
+  {
+   "id": "cd877208a9d9554b",
+   "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+   "url": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
+   "summary": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator designed it that way on purpose. The Threat Research team at Material Security…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-12T11:51:31.000Z",
+   "categories": [
+    "phishing",
+    "attack"
+   ],
+   "firstSeen": "2026-11-12T12:41:04.574Z"
+  },
+  {
+   "id": "2d6f349525d67746",
+   "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+   "url": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
+   "summary": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution. The security flaw, tracked as CVE-2026-126325, carries a CVSS v4 score of 9.2 out of a maximum of 10.0. It…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-12T11:33:15.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-12T12:41:04.574Z"
+  },
   {
    "id": "f3f686dea5edec73",
    "title": "Notion Customer Data Compromised in Fireworks AI Hack",
@@ -2890,94 +2976,6 @@
     "ai"
    ],
    "firstSeen": "2026-11-05T17:39:54.207Z"
-  },
-  {
-   "id": "10b06a67659854da",
-   "title": "SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era",
-   "url": "https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era",
-   "summary": "The ungated resource explains how security data pipelines reduce SIEM ingestion costs, preserve detection coverage, and prepare the data layer for AI-driven security operations.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-05T16:48:36.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-05T17:39:54.207Z"
-  },
-  {
-   "id": "90a9e74aa19bf7e0",
-   "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
-   "url": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
-   "summary": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password between 257 and 1,024 bytes long. OpenSSH…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-05T16:42:46.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-05T22:17:05.936Z"
-  },
-  {
-   "id": "dd9d10ec61939a97",
-   "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
-   "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
-   "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-05T16:42:32.000Z",
-   "categories": [
-    "breach",
-    "vuln",
-    "ai"
-   ],
-   "firstSeen": "2026-11-05T22:17:05.936Z"
-  },
-  {
-   "id": "a171d748c3cae587",
-   "title": "Hackers backdoor Linux servers using trojanized CWP web server",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-   "summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-05T16:24:26.000Z",
-   "categories": [
-    "malware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-05T16:35:51.381Z"
-  },
-  {
-   "id": "71f8026001cbd54e",
-   "title": "DigiCert data breach exposes customer information, identity documents",
-   "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-   "summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-05T16:12:46.000Z",
-   "categories": [
-    "breach"
-   ],
-   "firstSeen": "2026-11-05T16:35:51.381Z"
-  },
-  {
-   "id": "4ca0ae22a33ae9f7",
-   "title": "Closing the Identity Gap at the Service Desk",
-   "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
-   "summary": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can…",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-05T15:00:10.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-05T15:27:11.681Z"
   }
  ]
 }
