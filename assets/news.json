@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-13T06:32:32.677Z",
- "lastAttempt": "2026-11-13T06:32:32.677Z",
+ "lastSuccess": "2026-11-13T07:58:16.137Z",
+ "lastAttempt": "2026-11-13T07:58:16.137Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T06:32:32.677Z",
-   "lastSuccess": "2026-11-13T06:32:32.677Z",
+   "checkedAt": "2026-11-13T07:58:16.137Z",
+   "lastSuccess": "2026-11-13T07:58:16.137Z",
    "etag": null,
-   "lastModified": "Fri, 13 Nov 2026 05:53:10 GMT"
+   "lastModified": "Fri, 13 Nov 2026 07:32:39 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T06:32:32.677Z",
-   "lastSuccess": "2026-11-13T06:32:32.677Z",
-   "etag": "2d5a08b1cfdd04168c1efa4073b72ebd",
-   "lastModified": "Fri, 13 Nov 2026 06:28:40 GMT"
+   "checkedAt": "2026-11-13T07:58:16.137Z",
+   "lastSuccess": "2026-11-13T07:58:16.137Z",
+   "etag": "637d1c1ea79ad3f76d7789be31c293c8",
+   "lastModified": "Fri, 13 Nov 2026 07:48:43 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T06:32:32.677Z",
-   "lastSuccess": "2026-11-13T06:32:32.677Z",
+   "checkedAt": "2026-11-13T07:58:16.137Z",
+   "lastSuccess": "2026-11-13T07:58:16.137Z",
    "etag": null,
    "lastModified": "Fri, 13 Nov 2026 06:19:59 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T06:32:32.677Z",
-   "lastSuccess": "2026-11-13T06:32:32.677Z",
-   "etag": "\"eb64db807018c3daba35207b20a41e85\"",
-   "lastModified": "Fri, 13 Nov 2026 02:28:25 GMT"
+   "checkedAt": "2026-11-13T07:58:16.137Z",
+   "lastSuccess": "2026-11-13T07:58:16.137Z",
+   "etag": "\"56d35c96a258bb8cb9dd54d8deec9697\"",
+   "lastModified": "Fri, 13 Nov 2026 07:39:09 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T06:32:32.677Z",
-   "lastSuccess": "2026-11-13T06:32:32.677Z",
+   "checkedAt": "2026-11-13T07:58:16.137Z",
+   "lastSuccess": "2026-11-13T07:58:16.137Z",
    "etag": null,
-   "lastModified": "Fri, 13 Nov 2026 06:32:33 GMT"
+   "lastModified": "Fri, 13 Nov 2026 07:58:16 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,43 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-13T06:32:32.677Z",
+   "checkedAt": "2026-11-13T07:58:16.137Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "ebcadd7748bcb0b2",
+   "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks",
+   "url": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
+   "summary": "PHP2Shell enabled initial compromise, while CVE-2026-123039 allowed attackers to elevate privileges to root. The post PHP2Shell Exploited in Destructive Check Point Gateway Attacks appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-13T07:39:04.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-13T07:58:16.137Z"
+  },
+  {
+   "id": "e53c4a1af48bffbc",
+   "title": "Hackers Exploit New N-central Zero-Day Hours After PoC Publication",
+   "url": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/",
+   "summary": "Dubbed 4EverAble2Shell, the flaw could allow remote, unauthenticated attackers to execute code with root privileges. The post Hackers Exploit New N-central Zero-Day Hours After PoC Publication appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-13T07:20:50.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-13T07:58:16.137Z"
+  },
   {
    "id": "5f110aa5732b2dc4",
    "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
@@ -2964,33 +2994,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-06T14:49:54.178Z"
-  },
-  {
-   "id": "1757d2736510a741",
-   "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
-   "url": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
-   "summary": "Europe's supermarket freezer hacks show how security issues can cascade across an industry, disrupting supply chains at scale.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-06T14:00:00.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-06T14:49:54.178Z"
-  },
-  {
-   "id": "c152decf6a580a3e",
-   "title": "OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line",
-   "url": "https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/",
-   "summary": "Rated Critical for cybersecurity, OpenAI’s new model beats GPT-5.6 Cyber at exploitation while staying in scope more reliably. The post OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-06T13:19:52.000Z",
-   "categories": [
-    "vuln",
-    "ai"
-   ],
-   "firstSeen": "2026-11-06T13:54:46.013Z"
   }
  ]
 }
