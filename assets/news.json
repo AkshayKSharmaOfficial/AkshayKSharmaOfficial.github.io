@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-13T07:58:16.137Z",
- "lastAttempt": "2026-11-13T07:58:16.137Z",
+ "lastSuccess": "2026-11-13T08:56:14.718Z",
+ "lastAttempt": "2026-11-13T08:56:14.718Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T07:58:16.137Z",
-   "lastSuccess": "2026-11-13T07:58:16.137Z",
+   "checkedAt": "2026-11-13T08:56:14.718Z",
+   "lastSuccess": "2026-11-13T08:56:14.718Z",
    "etag": null,
-   "lastModified": "Fri, 13 Nov 2026 07:32:39 GMT"
+   "lastModified": "Fri, 13 Nov 2026 08:25:34 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T07:58:16.137Z",
-   "lastSuccess": "2026-11-13T07:58:16.137Z",
-   "etag": "637d1c1ea79ad3f76d7789be31c293c8",
-   "lastModified": "Fri, 13 Nov 2026 07:48:43 GMT"
+   "checkedAt": "2026-11-13T08:56:14.718Z",
+   "lastSuccess": "2026-11-13T08:56:14.718Z",
+   "etag": "554a2a0642ab062f3a58602b271e3b9e",
+   "lastModified": "Fri, 13 Nov 2026 08:54:22 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T07:58:16.137Z",
-   "lastSuccess": "2026-11-13T07:58:16.137Z",
+   "checkedAt": "2026-11-13T08:56:14.718Z",
+   "lastSuccess": "2026-11-13T08:56:14.718Z",
    "etag": null,
-   "lastModified": "Fri, 13 Nov 2026 06:19:59 GMT"
+   "lastModified": "Fri, 13 Nov 2026 08:52:27 GMT"
   },
   {
    "id": "securityweek",
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T07:58:16.137Z",
-   "lastSuccess": "2026-11-13T07:58:16.137Z",
-   "etag": "\"56d35c96a258bb8cb9dd54d8deec9697\"",
-   "lastModified": "Fri, 13 Nov 2026 07:39:09 GMT"
+   "checkedAt": "2026-11-13T08:56:14.718Z",
+   "lastSuccess": "2026-11-13T08:56:14.718Z",
+   "etag": "W/\"958c93bec3fc6abd428676530d628b37\"",
+   "lastModified": "Fri, 13 Nov 2026 08:51:45 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T07:58:16.137Z",
-   "lastSuccess": "2026-11-13T07:58:16.137Z",
+   "checkedAt": "2026-11-13T08:56:14.718Z",
+   "lastSuccess": "2026-11-13T08:56:14.718Z",
    "etag": null,
-   "lastModified": "Fri, 13 Nov 2026 07:58:16 GMT"
+   "lastModified": "Fri, 13 Nov 2026 08:56:15 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,55 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-13T07:58:16.137Z",
+   "checkedAt": "2026-11-13T08:56:14.718Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "aafd1efa2d73de1e",
+   "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’",
+   "url": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
+   "summary": "It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process. The post Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’ appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-13T08:50:36.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-13T08:56:14.718Z"
+  },
+  {
+   "id": "dab9cf0b8c1aec08",
+   "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
+   "url": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
+   "summary": "Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-13T08:34:20.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-13T08:56:14.718Z"
+  },
+  {
+   "id": "69d1a63879fd152b",
+   "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+   "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously reported local privilege escalation flaw in Gaia OS to deploy a backdoor called TSGA. The activity…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-13T08:05:49.000Z",
+   "categories": [
+    "vuln",
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-13T08:56:14.718Z"
+  },
   {
    "id": "ebcadd7748bcb0b2",
    "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks",
@@ -2947,53 +2989,6 @@
     "ai"
    ],
    "firstSeen": "2026-11-06T17:32:31.208Z"
-  },
-  {
-   "id": "3f203573bd777148",
-   "title": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days",
-   "url": "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
-   "summary": "Noteworthy stories that might have slipped under the radar: Synology warns about NAS ransomware attacks, Flowise ‘hello’ attacks, Chainalysis breach impact expands. The post In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days appeared first…",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-06T14:40:09.000Z",
-   "categories": [
-    "ransomware",
-    "breach",
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-06T14:49:54.178Z"
-  },
-  {
-   "id": "c018f69d1570a81d",
-   "title": "Chainalysis says breach exposed credentials for all customers",
-   "url": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
-   "summary": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-06T14:17:07.000Z",
-   "categories": [
-    "breach",
-    "attack"
-   ],
-   "firstSeen": "2026-11-06T14:49:54.178Z"
-  },
-  {
-   "id": "63efb5a9b6c127ba",
-   "title": "DigiCert Data Breach Impacts Business Customer Information",
-   "url": "https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/",
-   "summary": "Hackers created an account on an internal system and accessed names, email addresses, phone numbers, and business addresses. The post DigiCert Data Breach Impacts Business Customer Information appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-06T14:00:07.000Z",
-   "categories": [
-    "breach",
-    "attack"
-   ],
-   "firstSeen": "2026-11-06T14:49:54.178Z"
   }
  ]
 }
