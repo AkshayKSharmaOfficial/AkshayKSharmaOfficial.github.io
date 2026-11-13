@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-13T14:09:01.312Z",
- "lastAttempt": "2026-11-13T14:09:01.312Z",
+ "lastSuccess": "2026-11-13T15:00:14.768Z",
+ "lastAttempt": "2026-11-13T15:00:14.768Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T14:09:01.312Z",
-   "lastSuccess": "2026-11-13T14:09:01.312Z",
+   "checkedAt": "2026-11-13T15:00:14.768Z",
+   "lastSuccess": "2026-11-13T15:00:14.768Z",
    "etag": null,
    "lastModified": "Fri, 13 Nov 2026 12:53:15 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T14:09:01.312Z",
-   "lastSuccess": "2026-11-13T14:09:01.312Z",
-   "etag": "59536444d3d4dd59cb9671a8e3e55d00",
-   "lastModified": "Fri, 13 Nov 2026 14:08:06 GMT"
+   "checkedAt": "2026-11-13T15:00:14.768Z",
+   "lastSuccess": "2026-11-13T15:00:14.768Z",
+   "etag": "c837dff79e22db594dcb1c6530eb99fe",
+   "lastModified": "Fri, 13 Nov 2026 14:58:07 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T14:09:01.312Z",
-   "lastSuccess": "2026-11-13T14:09:01.312Z",
+   "checkedAt": "2026-11-13T15:00:14.768Z",
+   "lastSuccess": "2026-11-13T15:00:14.768Z",
    "etag": null,
    "lastModified": "Fri, 13 Nov 2026 11:40:42 GMT"
   },
@@ -43,11 +43,11 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T14:09:01.312Z",
-   "lastSuccess": "2026-11-13T14:09:01.312Z",
+   "checkedAt": "2026-11-13T15:00:14.768Z",
+   "lastSuccess": "2026-11-13T15:00:14.768Z",
    "etag": "\"8c541983b86cbba225a8a95a5a2ce1da\"",
    "lastModified": "Fri, 13 Nov 2026 13:47:45 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T14:09:01.312Z",
-   "lastSuccess": "2026-11-13T14:09:01.312Z",
+   "checkedAt": "2026-11-13T15:00:14.768Z",
+   "lastSuccess": "2026-11-13T15:00:14.768Z",
    "etag": null,
-   "lastModified": "Fri, 13 Nov 2026 14:09:01 GMT"
+   "lastModified": "Fri, 13 Nov 2026 15:00:15 GMT"
   },
   {
    "id": "cisa",
@@ -70,7 +70,7 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-13T14:09:01.312Z",
+   "checkedAt": "2026-11-13T15:00:14.768Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
@@ -1112,6 +1112,20 @@
     "ai"
    ],
    "firstSeen": "2026-11-11T21:49:06.180Z"
+  },
+  {
+   "id": "40598195792a7aab",
+   "title": "As Test Takers Turn to AI for Answers, Exam Security Must Catch Up",
+   "url": "https://www.darkreading.com/cybersecurity-operations/test-takers-ai-exam-security-catch-up",
+   "summary": "It's hard to detect whether someone is using artificial intelligence (AI) to cheat on IT certification exams, but new tools and processes are emerging to boost trust.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-11T20:27:00.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-13T15:00:14.768Z"
   },
   {
    "id": "bda0a11b51a6b40a",
@@ -2970,20 +2984,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-07T10:59:24.749Z"
-  },
-  {
-   "id": "9989e939e148877e",
-   "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-   "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
-   "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-07T06:44:17.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-07T08:29:42.566Z"
   }
  ]
 }
