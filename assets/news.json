@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-13T09:54:49.564Z",
- "lastAttempt": "2026-11-13T09:54:49.564Z",
+ "lastSuccess": "2026-11-13T10:53:12.414Z",
+ "lastAttempt": "2026-11-13T10:53:12.414Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T09:54:49.564Z",
-   "lastSuccess": "2026-11-13T09:54:49.564Z",
+   "checkedAt": "2026-11-13T10:53:12.414Z",
+   "lastSuccess": "2026-11-13T10:53:12.414Z",
    "etag": null,
-   "lastModified": "Fri, 13 Nov 2026 09:22:25 GMT"
+   "lastModified": "Fri, 13 Nov 2026 10:39:00 GMT"
   },
   {
    "id": "bleeping",
@@ -22,32 +22,32 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T09:54:49.564Z",
-   "lastSuccess": "2026-11-13T09:54:49.564Z",
-   "etag": "01fe4f690e5d36eefdc5ba8bd840fbd5",
-   "lastModified": "Fri, 13 Nov 2026 09:46:56 GMT"
+   "checkedAt": "2026-11-13T10:53:12.414Z",
+   "lastSuccess": "2026-11-13T10:53:12.414Z",
+   "etag": "8e3278ffe264c568de924426920db730",
+   "lastModified": "Fri, 13 Nov 2026 10:44:22 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T09:54:49.564Z",
-   "lastSuccess": "2026-11-13T09:54:49.564Z",
+   "checkedAt": "2026-11-13T10:53:12.414Z",
+   "lastSuccess": "2026-11-13T10:53:12.414Z",
    "etag": null,
-   "lastModified": "Fri, 13 Nov 2026 08:52:27 GMT"
+   "lastModified": "Fri, 13 Nov 2026 10:49:01 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T09:54:49.564Z",
-   "lastSuccess": "2026-11-13T09:54:49.564Z",
+   "checkedAt": "2026-11-13T10:53:12.414Z",
+   "lastSuccess": "2026-11-13T10:53:12.414Z",
    "etag": "\"2b5f658587394b8f281e69bb7c508d08\"",
    "lastModified": "Fri, 13 Nov 2026 09:37:01 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T09:54:49.564Z",
-   "lastSuccess": "2026-11-13T09:54:49.564Z",
+   "checkedAt": "2026-11-13T10:53:12.414Z",
+   "lastSuccess": "2026-11-13T10:53:12.414Z",
    "etag": null,
-   "lastModified": "Fri, 13 Nov 2026 09:54:49 GMT"
+   "lastModified": "Fri, 13 Nov 2026 10:53:12 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-13T09:54:49.564Z",
+   "checkedAt": "2026-11-13T10:53:12.414Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "a3b844e12eba8d17",
+   "title": "Check Point warns of zero-day flaw exploited for root access",
+   "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+   "summary": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-13T10:44:22.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-13T10:53:12.414Z"
+  },
   {
    "id": "b5df476c43800959",
    "title": "Citrix Patches 10 Critical NetScaler Vulnerabilities",
@@ -2976,18 +2991,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-06T17:32:31.208Z"
-  },
-  {
-   "id": "087fd582871194e3",
-   "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
-   "url": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
-   "summary": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-06T15:25:31.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-06T15:43:09.294Z"
   }
  ]
 }
