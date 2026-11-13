@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-13T12:55:32.621Z",
- "lastAttempt": "2026-11-13T12:55:32.621Z",
+ "lastSuccess": "2026-11-13T14:09:01.312Z",
+ "lastAttempt": "2026-11-13T14:09:01.312Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T12:55:32.621Z",
-   "lastSuccess": "2026-11-13T12:55:32.621Z",
+   "checkedAt": "2026-11-13T14:09:01.312Z",
+   "lastSuccess": "2026-11-13T14:09:01.312Z",
    "etag": null,
    "lastModified": "Fri, 13 Nov 2026 12:53:15 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T12:55:32.621Z",
-   "lastSuccess": "2026-11-13T12:55:32.621Z",
-   "etag": "2d2ece4bb7ceadca84275404c2eb7881",
-   "lastModified": "Fri, 13 Nov 2026 12:47:42 GMT"
+   "checkedAt": "2026-11-13T14:09:01.312Z",
+   "lastSuccess": "2026-11-13T14:09:01.312Z",
+   "etag": "59536444d3d4dd59cb9671a8e3e55d00",
+   "lastModified": "Fri, 13 Nov 2026 14:08:06 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T12:55:32.621Z",
-   "lastSuccess": "2026-11-13T12:55:32.621Z",
+   "checkedAt": "2026-11-13T14:09:01.312Z",
+   "lastSuccess": "2026-11-13T14:09:01.312Z",
    "etag": null,
    "lastModified": "Fri, 13 Nov 2026 11:40:42 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T12:55:32.621Z",
-   "lastSuccess": "2026-11-13T12:55:32.621Z",
-   "etag": "\"d71ebc245fc84c21bf674da74b7044c8\"",
-   "lastModified": "Fri, 13 Nov 2026 12:41:05 GMT"
+   "checkedAt": "2026-11-13T14:09:01.312Z",
+   "lastSuccess": "2026-11-13T14:09:01.312Z",
+   "etag": "\"8c541983b86cbba225a8a95a5a2ce1da\"",
+   "lastModified": "Fri, 13 Nov 2026 13:47:45 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T12:55:32.621Z",
-   "lastSuccess": "2026-11-13T12:55:32.621Z",
+   "checkedAt": "2026-11-13T14:09:01.312Z",
+   "lastSuccess": "2026-11-13T14:09:01.312Z",
    "etag": null,
-   "lastModified": "Fri, 13 Nov 2026 12:55:33 GMT"
+   "lastModified": "Fri, 13 Nov 2026 14:09:01 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,25 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-13T12:55:32.621Z",
+   "checkedAt": "2026-11-13T14:09:01.312Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "71d6f3c4bea9a711",
+   "title": "Microsoft Struggles to Restore Email and Other Services in a Global Outage",
+   "url": "https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/",
+   "summary": "Microsoft is trying different ways to identify the cause of the problem and get its servers back online, using “a measured approach to identify and repair affected infrastructure.” The post Microsoft Struggles to Restore Email and Other Services in a Global Outage appeared…",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-13T13:47:42.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-13T14:09:01.312Z"
+  },
   {
    "id": "5151972da2a2aac0",
    "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls",
@@ -2972,21 +2984,6 @@
     "ai"
    ],
    "firstSeen": "2026-11-07T08:29:42.566Z"
-  },
-  {
-   "id": "861b6673b06bfc81",
-   "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
-   "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-07T00:00:55.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-07T00:18:34.042Z"
   }
  ]
 }
