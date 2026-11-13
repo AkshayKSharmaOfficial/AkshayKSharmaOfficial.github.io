@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-13T16:54:41.434Z",
- "lastAttempt": "2026-11-13T16:54:41.434Z",
+ "lastSuccess": "2026-11-13T17:44:56.072Z",
+ "lastAttempt": "2026-11-13T17:44:56.072Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T16:54:41.434Z",
-   "lastSuccess": "2026-11-13T16:54:41.434Z",
+   "checkedAt": "2026-11-13T17:44:56.072Z",
+   "lastSuccess": "2026-11-13T17:44:56.072Z",
    "etag": null,
-   "lastModified": "Fri, 13 Nov 2026 16:03:59 GMT"
+   "lastModified": "Fri, 13 Nov 2026 17:32:27 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T16:54:41.434Z",
-   "lastSuccess": "2026-11-13T16:54:41.434Z",
-   "etag": "23c56d4ab2e3a2601ea78c07bb372974",
-   "lastModified": "Fri, 13 Nov 2026 16:51:45 GMT"
+   "checkedAt": "2026-11-13T17:44:56.072Z",
+   "lastSuccess": "2026-11-13T17:44:56.072Z",
+   "etag": "4dbdebf325d1474912ba9cf3756c2d46",
+   "lastModified": "Fri, 13 Nov 2026 17:41:57 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T16:54:41.434Z",
-   "lastSuccess": "2026-11-13T16:54:41.434Z",
+   "checkedAt": "2026-11-13T17:44:56.072Z",
+   "lastSuccess": "2026-11-13T17:44:56.072Z",
    "etag": null,
    "lastModified": "Fri, 13 Nov 2026 11:40:42 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T16:54:41.434Z",
-   "lastSuccess": "2026-11-13T16:54:41.434Z",
+   "checkedAt": "2026-11-13T17:44:56.072Z",
+   "lastSuccess": "2026-11-13T17:44:56.072Z",
    "etag": "\"a9cd5cb716b4c7cc662c1582e45a6178\"",
    "lastModified": "Fri, 13 Nov 2026 15:20:00 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T16:54:41.434Z",
-   "lastSuccess": "2026-11-13T16:54:41.434Z",
+   "checkedAt": "2026-11-13T17:44:56.072Z",
+   "lastSuccess": "2026-11-13T17:44:56.072Z",
    "etag": null,
-   "lastModified": "Fri, 13 Nov 2026 16:54:41 GMT"
+   "lastModified": "Fri, 13 Nov 2026 17:44:56 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,41 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-13T16:54:41.434Z",
+   "checkedAt": "2026-11-13T17:44:56.072Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "22ab92e404bf6d4e",
+   "title": "German military drone operations disrupted by cyberattack",
+   "url": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
+   "summary": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-13T17:31:56.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-13T17:44:56.072Z"
+  },
+  {
+   "id": "d8cc2172e29e81d0",
+   "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+   "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+   "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language extensions installed on the…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-13T16:53:08.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-13T17:44:56.072Z"
+  },
   {
    "id": "55be7db1247ce03d",
    "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
@@ -2955,35 +2983,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-09T09:37:27.884Z"
-  },
-  {
-   "id": "403a72428fe29edd",
-   "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
-   "url": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
-   "summary": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made an appearance in San Francisco federal…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-09T07:05:48.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-09T08:21:42.025Z"
-  },
-  {
-   "id": "58a4982824420547",
-   "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
-   "url": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
-   "summary": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inventory. \"The actors may exploit vulnerabilities or…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-09T06:15:10.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-09T08:21:42.025Z"
   }
  ]
 }
