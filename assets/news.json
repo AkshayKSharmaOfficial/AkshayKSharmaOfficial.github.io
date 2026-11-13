@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-13T08:56:14.718Z",
- "lastAttempt": "2026-11-13T08:56:14.718Z",
+ "lastSuccess": "2026-11-13T09:54:49.564Z",
+ "lastAttempt": "2026-11-13T09:54:49.564Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T08:56:14.718Z",
-   "lastSuccess": "2026-11-13T08:56:14.718Z",
+   "checkedAt": "2026-11-13T09:54:49.564Z",
+   "lastSuccess": "2026-11-13T09:54:49.564Z",
    "etag": null,
-   "lastModified": "Fri, 13 Nov 2026 08:25:34 GMT"
+   "lastModified": "Fri, 13 Nov 2026 09:22:25 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T08:56:14.718Z",
-   "lastSuccess": "2026-11-13T08:56:14.718Z",
-   "etag": "554a2a0642ab062f3a58602b271e3b9e",
-   "lastModified": "Fri, 13 Nov 2026 08:54:22 GMT"
+   "checkedAt": "2026-11-13T09:54:49.564Z",
+   "lastSuccess": "2026-11-13T09:54:49.564Z",
+   "etag": "01fe4f690e5d36eefdc5ba8bd840fbd5",
+   "lastModified": "Fri, 13 Nov 2026 09:46:56 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T08:56:14.718Z",
-   "lastSuccess": "2026-11-13T08:56:14.718Z",
+   "checkedAt": "2026-11-13T09:54:49.564Z",
+   "lastSuccess": "2026-11-13T09:54:49.564Z",
    "etag": null,
    "lastModified": "Fri, 13 Nov 2026 08:52:27 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T08:56:14.718Z",
-   "lastSuccess": "2026-11-13T08:56:14.718Z",
-   "etag": "W/\"958c93bec3fc6abd428676530d628b37\"",
-   "lastModified": "Fri, 13 Nov 2026 08:51:45 GMT"
+   "checkedAt": "2026-11-13T09:54:49.564Z",
+   "lastSuccess": "2026-11-13T09:54:49.564Z",
+   "etag": "\"2b5f658587394b8f281e69bb7c508d08\"",
+   "lastModified": "Fri, 13 Nov 2026 09:37:01 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T08:56:14.718Z",
-   "lastSuccess": "2026-11-13T08:56:14.718Z",
+   "checkedAt": "2026-11-13T09:54:49.564Z",
+   "lastSuccess": "2026-11-13T09:54:49.564Z",
    "etag": null,
-   "lastModified": "Fri, 13 Nov 2026 08:56:15 GMT"
+   "lastModified": "Fri, 13 Nov 2026 09:54:49 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,56 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-13T08:56:14.718Z",
+   "checkedAt": "2026-11-13T09:54:49.564Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "b5df476c43800959",
+   "title": "Citrix Patches 10 Critical NetScaler Vulnerabilities",
+   "url": "https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/",
+   "summary": "Successful exploitation could lead to unexpected behavior or denial-of-service (DoS) conditions. The post Citrix Patches 10 Critical NetScaler Vulnerabilities appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-13T09:36:56.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-13T09:54:49.564Z"
+  },
+  {
+   "id": "be9d3ec64d63f28b",
+   "title": "Microsoft confirms Windows activation failures after November updates",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
+   "summary": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-13T09:36:18.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-13T09:54:49.564Z"
+  },
+  {
+   "id": "f912b97a6413394c",
+   "title": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools",
+   "url": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
+   "summary": "Daybreak Red Team pentests web applications with AI agents, while Defense Factory investigates security findings and prepares patches. The post OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-13T09:21:01.000Z",
+   "categories": [
+    "vuln",
+    "ai"
+   ],
+   "firstSeen": "2026-11-13T09:54:49.564Z"
+  },
   {
    "id": "aafd1efa2d73de1e",
    "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’",
@@ -107,7 +150,7 @@
    "id": "69d1a63879fd152b",
    "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
    "url": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
-   "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously reported local privilege escalation flaw in Gaia OS to deploy a backdoor called TSGA. The activity…",
+   "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS to deploy a backdoor called TSGA. The activity…",
    "source": "The Hacker News",
    "sourceId": "thn",
    "kind": "media",
@@ -2945,50 +2988,6 @@
    "published": "2026-11-06T15:25:31.000Z",
    "categories": [],
    "firstSeen": "2026-11-06T15:43:09.294Z"
-  },
-  {
-   "id": "12404fdb4aa23698",
-   "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
-   "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
-   "summary": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and codenamed SSHole (or…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-06T15:21:49.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-06T17:32:31.208Z"
-  },
-  {
-   "id": "7a969703f07df2fa",
-   "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
-   "url": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
-   "summary": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-06T15:00:10.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-06T15:43:09.294Z"
-  },
-  {
-   "id": "4ab15b935f3f24ba",
-   "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
-   "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
-   "summary": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment. The new model is \"more capable at finding and fixing…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-06T14:58:32.000Z",
-   "categories": [
-    "vuln",
-    "ai"
-   ],
-   "firstSeen": "2026-11-06T17:32:31.208Z"
   }
  ]
 }
