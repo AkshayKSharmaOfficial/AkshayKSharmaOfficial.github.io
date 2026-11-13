@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-13T15:59:25.635Z",
- "lastAttempt": "2026-11-13T15:59:25.635Z",
+ "lastSuccess": "2026-11-13T16:54:41.434Z",
+ "lastAttempt": "2026-11-13T16:54:41.434Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T15:59:25.635Z",
-   "lastSuccess": "2026-11-13T15:59:25.635Z",
+   "checkedAt": "2026-11-13T16:54:41.434Z",
+   "lastSuccess": "2026-11-13T16:54:41.434Z",
    "etag": null,
-   "lastModified": "Fri, 13 Nov 2026 15:10:16 GMT"
+   "lastModified": "Fri, 13 Nov 2026 16:03:59 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T15:59:25.635Z",
-   "lastSuccess": "2026-11-13T15:59:25.635Z",
-   "etag": "9351222a0cd2da988fabebbbdf9dce12",
-   "lastModified": "Fri, 13 Nov 2026 15:58:08 GMT"
+   "checkedAt": "2026-11-13T16:54:41.434Z",
+   "lastSuccess": "2026-11-13T16:54:41.434Z",
+   "etag": "23c56d4ab2e3a2601ea78c07bb372974",
+   "lastModified": "Fri, 13 Nov 2026 16:51:45 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T15:59:25.635Z",
-   "lastSuccess": "2026-11-13T15:59:25.635Z",
+   "checkedAt": "2026-11-13T16:54:41.434Z",
+   "lastSuccess": "2026-11-13T16:54:41.434Z",
    "etag": null,
    "lastModified": "Fri, 13 Nov 2026 11:40:42 GMT"
   },
@@ -43,11 +43,11 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T15:59:25.635Z",
-   "lastSuccess": "2026-11-13T15:59:25.635Z",
+   "checkedAt": "2026-11-13T16:54:41.434Z",
+   "lastSuccess": "2026-11-13T16:54:41.434Z",
    "etag": "\"a9cd5cb716b4c7cc662c1582e45a6178\"",
    "lastModified": "Fri, 13 Nov 2026 15:20:00 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T15:59:25.635Z",
-   "lastSuccess": "2026-11-13T15:59:25.635Z",
+   "checkedAt": "2026-11-13T16:54:41.434Z",
+   "lastSuccess": "2026-11-13T16:54:41.434Z",
    "etag": null,
-   "lastModified": "Fri, 13 Nov 2026 15:59:26 GMT"
+   "lastModified": "Fri, 13 Nov 2026 16:54:41 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,42 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-13T15:59:25.635Z",
+   "checkedAt": "2026-11-13T16:54:41.434Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "55be7db1247ce03d",
+   "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+   "url": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
+   "summary": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-13T16:21:43.000Z",
+   "categories": [
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-13T16:54:41.434Z"
+  },
+  {
+   "id": "d93f5e12f3c1794f",
+   "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
+   "url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
+   "summary": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can also modify a VM's memory and fake the signed report confirming which software it…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-13T15:27:05.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-13T16:54:41.434Z"
+  },
   {
    "id": "4588f38e44e6049d",
    "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
@@ -2955,35 +2984,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-09T08:21:42.025Z"
-  },
-  {
-   "id": "4d02c260bfd3474b",
-   "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
-   "url": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploited in real-world attacks. The…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-09T06:05:24.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-09T06:50:04.561Z"
-  },
-  {
-   "id": "a1a0bc62a0fefbfb",
-   "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
-   "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
-   "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-08T15:43:08.000Z",
-   "categories": [
-    "breach"
-   ],
-   "firstSeen": "2026-11-08T15:48:16.879Z"
   }
  ]
 }
