@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-13T15:00:14.768Z",
- "lastAttempt": "2026-11-13T15:00:14.768Z",
+ "lastSuccess": "2026-11-13T15:59:25.635Z",
+ "lastAttempt": "2026-11-13T15:59:25.635Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T15:00:14.768Z",
-   "lastSuccess": "2026-11-13T15:00:14.768Z",
+   "checkedAt": "2026-11-13T15:59:25.635Z",
+   "lastSuccess": "2026-11-13T15:59:25.635Z",
    "etag": null,
-   "lastModified": "Fri, 13 Nov 2026 12:53:15 GMT"
+   "lastModified": "Fri, 13 Nov 2026 15:10:16 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T15:00:14.768Z",
-   "lastSuccess": "2026-11-13T15:00:14.768Z",
-   "etag": "c837dff79e22db594dcb1c6530eb99fe",
-   "lastModified": "Fri, 13 Nov 2026 14:58:07 GMT"
+   "checkedAt": "2026-11-13T15:59:25.635Z",
+   "lastSuccess": "2026-11-13T15:59:25.635Z",
+   "etag": "9351222a0cd2da988fabebbbdf9dce12",
+   "lastModified": "Fri, 13 Nov 2026 15:58:08 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T15:00:14.768Z",
-   "lastSuccess": "2026-11-13T15:00:14.768Z",
+   "checkedAt": "2026-11-13T15:59:25.635Z",
+   "lastSuccess": "2026-11-13T15:59:25.635Z",
    "etag": null,
    "lastModified": "Fri, 13 Nov 2026 11:40:42 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T15:00:14.768Z",
-   "lastSuccess": "2026-11-13T15:00:14.768Z",
-   "etag": "\"8c541983b86cbba225a8a95a5a2ce1da\"",
-   "lastModified": "Fri, 13 Nov 2026 13:47:45 GMT"
+   "checkedAt": "2026-11-13T15:59:25.635Z",
+   "lastSuccess": "2026-11-13T15:59:25.635Z",
+   "etag": "\"a9cd5cb716b4c7cc662c1582e45a6178\"",
+   "lastModified": "Fri, 13 Nov 2026 15:20:00 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T15:00:14.768Z",
-   "lastSuccess": "2026-11-13T15:00:14.768Z",
+   "checkedAt": "2026-11-13T15:59:25.635Z",
+   "lastSuccess": "2026-11-13T15:59:25.635Z",
    "etag": null,
-   "lastModified": "Fri, 13 Nov 2026 15:00:15 GMT"
+   "lastModified": "Fri, 13 Nov 2026 15:59:26 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,72 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-13T15:00:14.768Z",
+   "checkedAt": "2026-11-13T15:59:25.635Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "4588f38e44e6049d",
+   "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
+   "url": "https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/",
+   "summary": "Noteworthy stories that might have slipped under the radar: Siemens details security advisory policy, OpenAI Codex backdoor risk, Microsoft warns of model weight backdoors. The post In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach…",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-13T15:20:00.000Z",
+   "categories": [
+    "breach",
+    "malware",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-13T15:59:25.635Z"
+  },
+  {
+   "id": "4a3686306260ca37",
+   "title": "How one AI agent exposed five critical enterprise security gaps",
+   "url": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
+   "summary": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and shares practical guidance from…",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-13T15:01:11.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-13T15:59:25.635Z"
+  },
+  {
+   "id": "d32b5f97fc676bf8",
+   "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+   "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
+   "summary": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as part of a social engineering scheme codenamed FaceStealer in…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-13T14:28:58.000Z",
+   "categories": [
+    "phishing",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-13T15:59:25.635Z"
+  },
+  {
+   "id": "ea8f2c6821428bc1",
+   "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
+   "url": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
+   "summary": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday. The implant reads the phrase from the wallet's screen and sends it over the mobile…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-13T13:54:20.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-13T15:59:25.635Z"
+  },
   {
    "id": "71d6f3c4bea9a711",
    "title": "Microsoft Struggles to Restore Email and Other Services in a Global Outage",
@@ -2925,65 +2984,6 @@
     "breach"
    ],
    "firstSeen": "2026-11-08T15:48:16.879Z"
-  },
-  {
-   "id": "7a3cca9331495d22",
-   "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
-   "url": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
-   "summary": "Its multi-agent AI platform generates the telemetry an attack would produce to fix gaps in enterprise defenses. The post Brava Security Emerges From Stealth With $15 Million in Funding appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-08T12:14:00.000Z",
-   "categories": [
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-08T12:39:11.094Z"
-  },
-  {
-   "id": "0e04a827757cbd19",
-   "title": "Hackers pull off $133 million French bank heist via service provider",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
-   "summary": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-07T15:25:35.000Z",
-   "categories": [
-    "phishing",
-    "attack"
-   ],
-   "firstSeen": "2026-11-07T15:51:18.362Z"
-  },
-  {
-   "id": "6ce803e7c24ab6cd",
-   "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
-   "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
-   "summary": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification steps and affiliate networks to generate…",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-07T14:10:19.000Z",
-   "categories": [
-    "phishing"
-   ],
-   "firstSeen": "2026-11-07T14:15:15.759Z"
-  },
-  {
-   "id": "95f744e469bb2d9f",
-   "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
-   "url": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
-   "summary": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-07T10:16:23.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-07T10:59:24.749Z"
   }
  ]
 }
