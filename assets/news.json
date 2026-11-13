@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-13T05:29:50.658Z",
- "lastAttempt": "2026-11-13T05:29:50.658Z",
+ "lastSuccess": "2026-11-13T06:32:32.677Z",
+ "lastAttempt": "2026-11-13T06:32:32.677Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T05:29:50.658Z",
-   "lastSuccess": "2026-11-13T05:29:50.658Z",
+   "checkedAt": "2026-11-13T06:32:32.677Z",
+   "lastSuccess": "2026-11-13T06:32:32.677Z",
    "etag": null,
-   "lastModified": "Fri, 13 Nov 2026 04:38:27 GMT"
+   "lastModified": "Fri, 13 Nov 2026 05:53:10 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T05:29:50.658Z",
-   "lastSuccess": "2026-11-13T05:29:50.658Z",
-   "etag": "786cfff8a288f04415ef5955d144aef6",
-   "lastModified": "Fri, 13 Nov 2026 05:28:39 GMT"
+   "checkedAt": "2026-11-13T06:32:32.677Z",
+   "lastSuccess": "2026-11-13T06:32:32.677Z",
+   "etag": "2d5a08b1cfdd04168c1efa4073b72ebd",
+   "lastModified": "Fri, 13 Nov 2026 06:28:40 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T05:29:50.658Z",
-   "lastSuccess": "2026-11-13T05:29:50.658Z",
+   "checkedAt": "2026-11-13T06:32:32.677Z",
+   "lastSuccess": "2026-11-13T06:32:32.677Z",
    "etag": null,
-   "lastModified": "Fri, 13 Nov 2026 04:19:59 GMT"
+   "lastModified": "Fri, 13 Nov 2026 06:19:59 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T05:29:50.658Z",
-   "lastSuccess": "2026-11-13T05:29:50.658Z",
+   "checkedAt": "2026-11-13T06:32:32.677Z",
+   "lastSuccess": "2026-11-13T06:32:32.677Z",
    "etag": "\"eb64db807018c3daba35207b20a41e85\"",
    "lastModified": "Fri, 13 Nov 2026 02:28:25 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T05:29:50.658Z",
-   "lastSuccess": "2026-11-13T05:29:50.658Z",
+   "checkedAt": "2026-11-13T06:32:32.677Z",
+   "lastSuccess": "2026-11-13T06:32:32.677Z",
    "etag": null,
-   "lastModified": "Fri, 13 Nov 2026 05:29:50 GMT"
+   "lastModified": "Fri, 13 Nov 2026 06:32:33 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-13T05:29:50.658Z",
+   "checkedAt": "2026-11-13T06:32:32.677Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "5f110aa5732b2dc4",
+   "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
+   "summary": "N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell. \"We are restricting certain N-central features and integrations,\" the company said in a Thursday update. \"These measures…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-13T05:43:28.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-13T06:32:32.677Z"
+  },
   {
    "id": "d693155d916955e3",
    "title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance",
@@ -2974,20 +2989,6 @@
    "categories": [
     "vuln",
     "ai"
-   ],
-   "firstSeen": "2026-11-06T13:54:46.013Z"
-  },
-  {
-   "id": "f701ddfe14b3fe7a",
-   "title": "US Agencies Urge Organizations to Harden Refrigeration Controllers",
-   "url": "https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/",
-   "summary": "The recommendations come amid attacks targeting fridges and freezers in supermarkets and blood banks in Europe. The post US Agencies Urge Organizations to Harden Refrigeration Controllers appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-06T13:02:26.000Z",
-   "categories": [
-    "attack"
    ],
    "firstSeen": "2026-11-06T13:54:46.013Z"
   }
