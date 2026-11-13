@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-13T02:23:29.451Z",
- "lastAttempt": "2026-11-13T02:23:29.451Z",
+ "lastSuccess": "2026-11-13T03:17:40.673Z",
+ "lastAttempt": "2026-11-13T03:17:40.673Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T02:23:29.451Z",
-   "lastSuccess": "2026-11-13T02:23:29.451Z",
+   "checkedAt": "2026-11-13T03:17:40.673Z",
+   "lastSuccess": "2026-11-13T03:17:40.673Z",
    "etag": null,
-   "lastModified": "Fri, 13 Nov 2026 02:22:05 GMT"
+   "lastModified": "Fri, 13 Nov 2026 03:09:52 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T02:23:29.451Z",
-   "lastSuccess": "2026-11-13T02:23:29.451Z",
-   "etag": "2db233bab21cae493747a71a449d5367",
-   "lastModified": "Fri, 13 Nov 2026 02:18:32 GMT"
+   "checkedAt": "2026-11-13T03:17:40.673Z",
+   "lastSuccess": "2026-11-13T03:17:40.673Z",
+   "etag": "94d96d3753c5a642156351a537fef002",
+   "lastModified": "Fri, 13 Nov 2026 03:08:34 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T02:23:29.451Z",
-   "lastSuccess": "2026-11-13T02:23:29.451Z",
+   "checkedAt": "2026-11-13T03:17:40.673Z",
+   "lastSuccess": "2026-11-13T03:17:40.673Z",
    "etag": null,
    "lastModified": "Thu, 12 Nov 2026 23:10:13 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T02:23:29.451Z",
-   "lastSuccess": "2026-11-13T02:23:29.451Z",
-   "etag": "\"fabd4d7b1a122d1244546d651c727a6b\"",
-   "lastModified": "Fri, 13 Nov 2026 02:11:37 GMT"
+   "checkedAt": "2026-11-13T03:17:40.673Z",
+   "lastSuccess": "2026-11-13T03:17:40.673Z",
+   "etag": "\"eb64db807018c3daba35207b20a41e85\"",
+   "lastModified": "Fri, 13 Nov 2026 02:28:25 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T02:23:29.451Z",
-   "lastSuccess": "2026-11-13T02:23:29.451Z",
+   "checkedAt": "2026-11-13T03:17:40.673Z",
+   "lastSuccess": "2026-11-13T03:17:40.673Z",
    "etag": null,
-   "lastModified": "Fri, 13 Nov 2026 02:23:30 GMT"
+   "lastModified": "Fri, 13 Nov 2026 03:17:41 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-13T02:23:29.451Z",
+   "checkedAt": "2026-11-13T03:17:40.673Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "d693155d916955e3",
+   "title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance",
+   "url": "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
+   "summary": "Also Thursday, the FBI blamed North Korea for a separate social engineering scheme that officials say resulted in the theft of $400 million worth of cryptocurrency. The post FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance appeared first on…",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-13T02:28:21.000Z",
+   "categories": [
+    "phishing",
+    "attack"
+   ],
+   "firstSeen": "2026-11-13T03:17:40.673Z"
+  },
   {
    "id": "771b3e67095b9907",
    "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
@@ -91,6 +106,18 @@
     "attack"
    ],
    "firstSeen": "2026-11-12T23:15:18.816Z"
+  },
+  {
+   "id": "33c0926f1c514924",
+   "title": "Getting Past the Post-Quantum Cryptography Discovery Phase",
+   "url": "https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery",
+   "summary": "Most organizations haven't sorted out their cryptographic estate enough to even know where they'd start with post-quantum cryptography (PQC).",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-12T22:46:05.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-13T03:17:40.673Z"
   },
   {
    "id": "34b7c61e3f8ae218",
@@ -2963,34 +2990,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-06T13:54:46.013Z"
-  },
-  {
-   "id": "633c9dbcc2a808c5",
-   "title": "Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack",
-   "url": "https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/",
-   "summary": "The October incident will cut fourth-quarter sales by up to €250 million and has led Ahold Delhaize to lower its 2026 outlook. The post Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-06T12:47:55.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-06T13:54:46.013Z"
-  },
-  {
-   "id": "b2d97596ca12b7dd",
-   "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
-   "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
-   "summary": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-06T12:37:22.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-06T12:37:54.024Z"
   }
  ]
 }
