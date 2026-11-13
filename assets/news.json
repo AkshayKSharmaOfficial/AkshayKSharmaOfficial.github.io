@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-13T11:49:52.927Z",
- "lastAttempt": "2026-11-13T11:49:52.927Z",
+ "lastSuccess": "2026-11-13T12:55:32.621Z",
+ "lastAttempt": "2026-11-13T12:55:32.621Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T11:49:52.927Z",
-   "lastSuccess": "2026-11-13T11:49:52.927Z",
+   "checkedAt": "2026-11-13T12:55:32.621Z",
+   "lastSuccess": "2026-11-13T12:55:32.621Z",
    "etag": null,
-   "lastModified": "Fri, 13 Nov 2026 10:39:00 GMT"
+   "lastModified": "Fri, 13 Nov 2026 12:53:15 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T11:49:52.927Z",
-   "lastSuccess": "2026-11-13T11:49:52.927Z",
-   "etag": "c5574842fba34ac00adc530fbf068160",
-   "lastModified": "Fri, 13 Nov 2026 11:44:25 GMT"
+   "checkedAt": "2026-11-13T12:55:32.621Z",
+   "lastSuccess": "2026-11-13T12:55:32.621Z",
+   "etag": "2d2ece4bb7ceadca84275404c2eb7881",
+   "lastModified": "Fri, 13 Nov 2026 12:47:42 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T11:49:52.927Z",
-   "lastSuccess": "2026-11-13T11:49:52.927Z",
+   "checkedAt": "2026-11-13T12:55:32.621Z",
+   "lastSuccess": "2026-11-13T12:55:32.621Z",
    "etag": null,
    "lastModified": "Fri, 13 Nov 2026 11:40:42 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T11:49:52.927Z",
-   "lastSuccess": "2026-11-13T11:49:52.927Z",
-   "etag": "W/\"c0e369083f68f1380b288178c7b63a79\"",
-   "lastModified": "Fri, 13 Nov 2026 11:47:49 GMT"
+   "checkedAt": "2026-11-13T12:55:32.621Z",
+   "lastSuccess": "2026-11-13T12:55:32.621Z",
+   "etag": "\"d71ebc245fc84c21bf674da74b7044c8\"",
+   "lastModified": "Fri, 13 Nov 2026 12:41:05 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-13T11:49:52.927Z",
-   "lastSuccess": "2026-11-13T11:49:52.927Z",
+   "checkedAt": "2026-11-13T12:55:32.621Z",
+   "lastSuccess": "2026-11-13T12:55:32.621Z",
    "etag": null,
-   "lastModified": "Fri, 13 Nov 2026 11:49:53 GMT"
+   "lastModified": "Fri, 13 Nov 2026 12:55:33 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,112 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-13T11:49:52.927Z",
+   "checkedAt": "2026-11-13T12:55:32.621Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "5151972da2a2aac0",
+   "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls",
+   "url": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
+   "summary": "Blockchain complexities, such as attacker-deployed sweepers, hobble security controls designed to limit the damage of an exchange compromise.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-13T13:00:00.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-13T12:55:32.621Z"
+  },
+  {
+   "id": "23554dced227e123",
+   "title": "Apify Confirms Customer Data Accessed in Cyberattack",
+   "url": "https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/",
+   "summary": "The web scraping company says an intruder accessed customer accounts and obtained personal information or stored data. The post Apify Confirms Customer Data Accessed in Cyberattack appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-13T12:41:01.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-13T12:55:32.621Z"
+  },
+  {
+   "id": "24a8c24fdb909430",
+   "title": "Microsoft says November security updates cause printing issues",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
+   "summary": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-13T12:27:40.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-13T12:55:32.621Z"
+  },
+  {
+   "id": "522c3e4ee8bc220f",
+   "title": "SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks",
+   "url": "https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/",
+   "summary": "Enea says SilentAir hijacked mobile network nodes to intercept calls and messages, with Taiwanese subscribers the primary targets. The post SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-13T12:20:28.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-13T12:55:32.621Z"
+  },
+  {
+   "id": "ed1f4b35eca7ef25",
+   "title": "When an AI Agent Goes Wrong, Can You Stop It?",
+   "url": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
+   "summary": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because its identity has access to the records and its connected…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-13T11:52:31.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-13T12:55:32.621Z"
+  },
+  {
+   "id": "7f22b6cf300a8942",
+   "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
+   "url": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
+   "summary": "A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan. Enea, a telecom and cybersecurity software company based in Stockholm, found the group's attack sources in at least six…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-13T11:10:40.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-13T12:55:32.621Z"
+  },
+  {
+   "id": "d25f99854f909af5",
+   "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
+   "url": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
+   "summary": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks. Police also seized about 6.4 million stolen logins…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-13T10:55:03.000Z",
+   "categories": [
+    "ransomware",
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-13T12:55:32.621Z"
+  },
   {
    "id": "6f73fc35d64e9ca6",
    "title": "Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure",
@@ -2888,108 +2987,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-07T00:18:34.042Z"
-  },
-  {
-   "id": "1d7d8563b7aa14eb",
-   "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
-   "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
-   "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-06T22:27:25.000Z",
-   "categories": [
-    "breach",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-06T22:53:18.415Z"
-  },
-  {
-   "id": "8ab75538e81a3d1f",
-   "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
-   "url": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
-   "summary": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-06T21:27:36.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-06T22:10:29.413Z"
-  },
-  {
-   "id": "475a426314ccb743",
-   "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
-   "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
-   "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-06T20:24:19.000Z",
-   "categories": [
-    "vuln",
-    "ai"
-   ],
-   "firstSeen": "2026-11-06T20:28:11.354Z"
-  },
-  {
-   "id": "6e832e0a535990c0",
-   "title": "Fake security tools on GitHub push backdoors and infostealers",
-   "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
-   "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-06T18:46:52.000Z",
-   "categories": [
-    "malware"
-   ],
-   "firstSeen": "2026-11-06T19:36:58.148Z"
-  },
-  {
-   "id": "0065644152dc79f8",
-   "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
-   "url": "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/",
-   "summary": "The emergency package comes after dozens of companies and government agencies were hit by unauthorized access to their systems and leaks of client data, prompting uneasiness across Japan. The post Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks…",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-06T18:28:41.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-06T19:36:58.148Z"
-  },
-  {
-   "id": "bfeda1d286ef09eb",
-   "title": "AI Gave Your Incident Archive a Second Job",
-   "url": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
-   "summary": "Security records are increasingly being used by vendors to train their models, creating new risks for enterprises.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-06T18:27:30.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-06T19:36:58.148Z"
-  },
-  {
-   "id": "106849994d7b973f",
-   "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
-   "summary": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-06T17:04:23.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-06T17:32:31.208Z"
   }
  ]
 }
