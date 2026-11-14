@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-14T17:19:55.754Z",
- "lastAttempt": "2026-11-14T17:19:55.754Z",
+ "lastSuccess": "2026-11-14T18:04:02.801Z",
+ "lastAttempt": "2026-11-14T18:04:02.801Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-14T17:19:55.754Z",
-   "lastSuccess": "2026-11-14T17:19:55.754Z",
+   "checkedAt": "2026-11-14T18:04:02.801Z",
+   "lastSuccess": "2026-11-14T18:04:02.801Z",
    "etag": null,
-   "lastModified": "Sat, 14 Nov 2026 16:26:33 GMT"
+   "lastModified": "Sat, 14 Nov 2026 17:56:20 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-14T17:19:55.754Z",
-   "lastSuccess": "2026-11-14T17:19:55.754Z",
-   "etag": "510a7b62d76919abe9cda9e95d9c0200",
-   "lastModified": "Sat, 14 Nov 2026 17:19:14 GMT"
+   "checkedAt": "2026-11-14T18:04:02.801Z",
+   "lastSuccess": "2026-11-14T18:04:02.801Z",
+   "etag": "35a7badfcef61b23cd65abc9773158f5",
+   "lastModified": "Sat, 14 Nov 2026 17:57:27 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-14T17:19:55.754Z",
-   "lastSuccess": "2026-11-14T17:19:55.754Z",
+   "checkedAt": "2026-11-14T18:04:02.801Z",
+   "lastSuccess": "2026-11-14T18:04:02.801Z",
    "etag": null,
    "lastModified": "Sat, 14 Nov 2026 14:57:16 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-14T17:19:55.754Z",
-   "lastSuccess": "2026-11-14T17:19:55.754Z",
+   "checkedAt": "2026-11-14T18:04:02.801Z",
+   "lastSuccess": "2026-11-14T18:04:02.801Z",
    "etag": "W/\"4737982e3a3c8b8b348be497e59cad11\"",
    "lastModified": "Sat, 14 Nov 2026 14:59:42 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-14T17:19:55.754Z",
-   "lastSuccess": "2026-11-14T17:19:55.754Z",
+   "checkedAt": "2026-11-14T18:04:02.801Z",
+   "lastSuccess": "2026-11-14T18:04:02.801Z",
    "etag": null,
-   "lastModified": "Sat, 14 Nov 2026 17:19:56 GMT"
+   "lastModified": "Sat, 14 Nov 2026 18:04:03 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,29 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-14T17:19:55.754Z",
+   "checkedAt": "2026-11-14T18:04:02.801Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "827ec45fabef28f2",
+   "title": "Cursor confirms security breach led to malicious Claude Code extension",
+   "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+   "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-14T17:27:25.000Z",
+   "categories": [
+    "breach",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-14T18:04:02.801Z"
+  },
   {
    "id": "fa28f1bf2ddb963a",
    "title": "US disrupts North Korean campaign behind $400 million crypto theft",
@@ -2962,21 +2978,6 @@
    "published": "2026-11-09T12:16:13.000Z",
    "categories": [
     "phishing"
-   ],
-   "firstSeen": "2026-11-09T12:42:02.788Z"
-  },
-  {
-   "id": "dc1c6a19f46b22f7",
-   "title": "Hackers Exploiting ‘SSHole’ Authentication Bypass in OpenSSH",
-   "url": "https://www.securityweek.com/hackers-exploiting-sshole-authentication-bypass-in-openssh/",
-   "summary": "The initial exploitation attempts are attributed to botnets and crypto miners, but other threat actors are expected to follow suit. The post Hackers Exploiting ‘SSHole’ Authentication Bypass in OpenSSH appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-09T12:13:32.000Z",
-   "categories": [
-    "vuln",
-    "attack"
    ],
    "firstSeen": "2026-11-09T12:42:02.788Z"
   }
