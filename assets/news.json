@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-14T12:39:34.269Z",
- "lastAttempt": "2026-11-14T12:39:34.269Z",
+ "lastSuccess": "2026-11-14T13:36:19.603Z",
+ "lastAttempt": "2026-11-14T13:36:19.603Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-14T12:39:34.269Z",
-   "lastSuccess": "2026-11-14T12:39:34.269Z",
+   "checkedAt": "2026-11-14T13:36:19.603Z",
+   "lastSuccess": "2026-11-14T13:36:19.603Z",
    "etag": null,
-   "lastModified": "Sat, 14 Nov 2026 11:31:40 GMT"
+   "lastModified": "Sat, 14 Nov 2026 13:33:06 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-14T12:39:34.269Z",
-   "lastSuccess": "2026-11-14T12:39:34.269Z",
-   "etag": "83ab47c76b7960f5468d10e4d4574a31",
-   "lastModified": "Sat, 14 Nov 2026 12:39:07 GMT"
+   "checkedAt": "2026-11-14T13:36:19.603Z",
+   "lastSuccess": "2026-11-14T13:36:19.603Z",
+   "etag": "0d3984c18709b16b2f09d78452292055",
+   "lastModified": "Sat, 14 Nov 2026 13:29:08 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-14T12:39:34.269Z",
-   "lastSuccess": "2026-11-14T12:39:34.269Z",
+   "checkedAt": "2026-11-14T13:36:19.603Z",
+   "lastSuccess": "2026-11-14T13:36:19.603Z",
    "etag": null,
    "lastModified": "Sat, 14 Nov 2026 12:32:41 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-14T12:39:34.269Z",
-   "lastSuccess": "2026-11-14T12:39:34.269Z",
+   "checkedAt": "2026-11-14T13:36:19.603Z",
+   "lastSuccess": "2026-11-14T13:36:19.603Z",
    "etag": "W/\"e1e540762f4bdb3cd84834b821d5feb3\"",
    "lastModified": "Sat, 14 Nov 2026 11:00:00 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-14T12:39:34.269Z",
-   "lastSuccess": "2026-11-14T12:39:34.269Z",
+   "checkedAt": "2026-11-14T13:36:19.603Z",
+   "lastSuccess": "2026-11-14T13:36:19.603Z",
    "etag": null,
-   "lastModified": "Sat, 14 Nov 2026 12:39:34 GMT"
+   "lastModified": "Sat, 14 Nov 2026 13:36:20 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-14T12:39:34.269Z",
+   "checkedAt": "2026-11-14T13:36:19.603Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "e577b898eca3316f",
+   "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+   "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-14T12:38:35.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-14T13:36:19.603Z"
+  },
   {
    "id": "da1f3ca5fe15e3f7",
    "title": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
@@ -2965,21 +2980,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-09T12:42:02.788Z"
-  },
-  {
-   "id": "646d9cab774eeee1",
-   "title": "Amplifon Americas Data Breach Impacts 1.3 Million",
-   "url": "https://www.securityweek.com/amplifon-americas-data-breach-impacts-1-3-million/",
-   "summary": "Hackers stole personal, health, and insurance information, including Social Security numbers, from the company’s internal systems. The post Amplifon Americas Data Breach Impacts 1.3 Million appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-09T11:20:09.000Z",
-   "categories": [
-    "breach",
-    "attack"
-   ],
-   "firstSeen": "2026-11-09T11:37:42.172Z"
   }
  ]
 }
