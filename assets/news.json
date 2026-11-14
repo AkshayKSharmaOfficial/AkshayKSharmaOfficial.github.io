@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-14T08:33:27.650Z",
- "lastAttempt": "2026-11-14T08:33:27.650Z",
+ "lastSuccess": "2026-11-14T09:27:33.706Z",
+ "lastAttempt": "2026-11-14T09:27:33.706Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-14T08:33:27.650Z",
-   "lastSuccess": "2026-11-14T08:33:27.650Z",
+   "checkedAt": "2026-11-14T09:27:33.706Z",
+   "lastSuccess": "2026-11-14T09:27:33.706Z",
    "etag": null,
-   "lastModified": "Sat, 14 Nov 2026 08:17:23 GMT"
+   "lastModified": "Sat, 14 Nov 2026 08:51:20 GMT"
   },
   {
    "id": "bleeping",
@@ -22,34 +22,34 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-14T08:33:27.650Z",
-   "lastSuccess": "2026-11-14T08:33:27.650Z",
-   "etag": "afbd8f930e8e61e780d4214d0df41ee0",
-   "lastModified": "Sat, 14 Nov 2026 08:29:00 GMT"
+   "checkedAt": "2026-11-14T09:27:33.706Z",
+   "lastSuccess": "2026-11-14T09:27:33.706Z",
+   "etag": "fcf9b775aab7058ea6a464daec73dd0b",
+   "lastModified": "Sat, 14 Nov 2026 09:19:01 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-14T08:33:27.650Z",
-   "lastSuccess": "2026-11-14T08:33:27.650Z",
+   "checkedAt": "2026-11-14T09:27:33.706Z",
+   "lastSuccess": "2026-11-14T09:27:33.706Z",
    "etag": null,
-   "lastModified": "Sat, 14 Nov 2026 05:22:16 GMT"
+   "lastModified": "Sat, 14 Nov 2026 09:26:18 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-14T08:33:27.650Z",
-   "lastSuccess": "2026-11-14T08:33:27.650Z",
-   "etag": "\"b53935ae04deee63d310d93a69e0c7ec\"",
-   "lastModified": "Fri, 13 Nov 2026 21:41:27 GMT"
+   "checkedAt": "2026-11-14T09:27:33.706Z",
+   "lastSuccess": "2026-11-14T09:27:33.706Z",
+   "etag": "\"482154e1b474afc55adc6ec3ff55f906\"",
+   "lastModified": "Sat, 14 Nov 2026 08:44:33 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-14T08:33:27.650Z",
-   "lastSuccess": "2026-11-14T08:33:27.650Z",
+   "checkedAt": "2026-11-14T09:27:33.706Z",
+   "lastSuccess": "2026-11-14T09:27:33.706Z",
    "etag": null,
-   "lastModified": "Sat, 14 Nov 2026 08:33:27 GMT"
+   "lastModified": "Sat, 14 Nov 2026 09:27:34 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-14T08:33:27.650Z",
+   "checkedAt": "2026-11-14T09:27:33.706Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "1eb0a3260c79bd68",
+   "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
+   "url": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
+   "summary": "Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update. The post No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-14T08:40:22.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-14T09:27:33.706Z"
+  },
   {
    "id": "896faa96441b04c3",
    "title": "FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’",
@@ -2969,20 +2983,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-09T12:42:02.788Z"
-  },
-  {
-   "id": "f3159fcedf3c2873",
-   "title": "Over 3 Million People Hit by Frontline Education Data Breach",
-   "url": "https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/",
-   "summary": "Frontline Education told Indiana regulators that its August data breach affected over 3 million school district staff and students. The post Over 3 Million People Hit by Frontline Education Data Breach appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-09T10:09:02.000Z",
-   "categories": [
-    "breach"
-   ],
-   "firstSeen": "2026-11-09T10:34:08.096Z"
   }
  ]
 }
