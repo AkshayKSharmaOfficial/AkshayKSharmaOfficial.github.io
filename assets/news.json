@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-14T10:17:11.861Z",
- "lastAttempt": "2026-11-14T10:17:11.861Z",
+ "lastSuccess": "2026-11-14T11:11:40.656Z",
+ "lastAttempt": "2026-11-14T11:11:40.656Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-14T10:17:11.861Z",
-   "lastSuccess": "2026-11-14T10:17:11.861Z",
+   "checkedAt": "2026-11-14T11:11:40.656Z",
+   "lastSuccess": "2026-11-14T11:11:40.656Z",
    "etag": null,
-   "lastModified": "Sat, 14 Nov 2026 09:53:20 GMT"
+   "lastModified": "Sat, 14 Nov 2026 10:58:08 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-14T10:17:11.861Z",
-   "lastSuccess": "2026-11-14T10:17:11.861Z",
-   "etag": "8569093fe239beb11898e90a8a69455d",
-   "lastModified": "Sat, 14 Nov 2026 10:09:02 GMT"
+   "checkedAt": "2026-11-14T11:11:40.656Z",
+   "lastSuccess": "2026-11-14T11:11:40.656Z",
+   "etag": "86d791590f856ce11c9a9b02f4d49d8d",
+   "lastModified": "Sat, 14 Nov 2026 11:09:04 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-14T10:17:11.861Z",
-   "lastSuccess": "2026-11-14T10:17:11.861Z",
+   "checkedAt": "2026-11-14T11:11:40.656Z",
+   "lastSuccess": "2026-11-14T11:11:40.656Z",
    "etag": null,
    "lastModified": "Sat, 14 Nov 2026 10:07:21 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-14T10:17:11.861Z",
-   "lastSuccess": "2026-11-14T10:17:11.861Z",
-   "etag": "\"482154e1b474afc55adc6ec3ff55f906\"",
-   "lastModified": "Sat, 14 Nov 2026 08:44:33 GMT"
+   "checkedAt": "2026-11-14T11:11:40.656Z",
+   "lastSuccess": "2026-11-14T11:11:40.656Z",
+   "etag": "W/\"e1e540762f4bdb3cd84834b821d5feb3\"",
+   "lastModified": "Sat, 14 Nov 2026 11:00:00 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-14T10:17:11.861Z",
-   "lastSuccess": "2026-11-14T10:17:11.861Z",
+   "checkedAt": "2026-11-14T11:11:40.656Z",
+   "lastSuccess": "2026-11-14T11:11:40.656Z",
    "etag": null,
-   "lastModified": "Sat, 14 Nov 2026 10:17:12 GMT"
+   "lastModified": "Sat, 14 Nov 2026 11:11:41 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,25 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-14T10:17:11.861Z",
+   "checkedAt": "2026-11-14T11:11:40.656Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "da1f3ca5fe15e3f7",
+   "title": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
+   "url": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
+   "summary": "The tech giant has detailed the architecture designed to isolate ambient sensor data from the main OS on HomeView and new iPhones. The post Apple Reveals How Secure Exclaves Shield Camera and Microphone Data appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-14T11:00:00.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-14T11:11:40.656Z"
+  },
   {
    "id": "1eb0a3260c79bd68",
    "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
@@ -2968,21 +2980,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-09T11:37:42.172Z"
-  },
-  {
-   "id": "ea46f00bd91b0c65",
-   "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
-   "url": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
-   "summary": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker. Keplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a security flaw at that company to reach the wallets, both…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-09T10:56:25.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-09T12:42:02.788Z"
   }
  ]
 }
