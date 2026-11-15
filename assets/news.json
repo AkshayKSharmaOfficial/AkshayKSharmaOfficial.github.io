@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-15T12:46:00.024Z",
- "lastAttempt": "2026-11-15T12:46:00.024Z",
+ "lastSuccess": "2026-11-15T13:47:59.149Z",
+ "lastAttempt": "2026-11-15T13:47:59.149Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-15T12:46:00.024Z",
-   "lastSuccess": "2026-11-15T12:46:00.024Z",
+   "checkedAt": "2026-11-15T13:47:59.149Z",
+   "lastSuccess": "2026-11-15T13:47:59.149Z",
    "etag": null,
-   "lastModified": "Sun, 15 Nov 2026 12:00:14 GMT"
+   "lastModified": "Sun, 15 Nov 2026 13:37:31 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-15T12:46:00.024Z",
-   "lastSuccess": "2026-11-15T12:46:00.024Z",
-   "etag": "99a5af7c1e13de9ef7c74623a4455a07",
-   "lastModified": "Sun, 15 Nov 2026 12:38:01 GMT"
+   "checkedAt": "2026-11-15T13:47:59.149Z",
+   "lastSuccess": "2026-11-15T13:47:59.149Z",
+   "etag": "7f3727acbd434515ba55f616c7f82186",
+   "lastModified": "Sun, 15 Nov 2026 13:38:03 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-15T12:46:00.024Z",
-   "lastSuccess": "2026-11-15T12:46:00.024Z",
+   "checkedAt": "2026-11-15T13:47:59.149Z",
+   "lastSuccess": "2026-11-15T13:47:59.149Z",
    "etag": null,
    "lastModified": "Sun, 15 Nov 2026 12:45:47 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-15T12:46:00.024Z",
-   "lastSuccess": "2026-11-15T12:46:00.024Z",
-   "etag": "\"b2f81e67cdde464cca90e7dd554d12f9\"",
-   "lastModified": "Sun, 15 Nov 2026 10:56:59 GMT"
+   "checkedAt": "2026-11-15T13:47:59.149Z",
+   "lastSuccess": "2026-11-15T13:47:59.149Z",
+   "etag": "\"182b3b455cfad85f7c492a294158281c\"",
+   "lastModified": "Sun, 15 Nov 2026 13:04:58 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-15T12:46:00.024Z",
-   "lastSuccess": "2026-11-15T12:46:00.024Z",
+   "checkedAt": "2026-11-15T13:47:59.149Z",
+   "lastSuccess": "2026-11-15T13:47:59.149Z",
    "etag": null,
-   "lastModified": "Sun, 15 Nov 2026 12:46:00 GMT"
+   "lastModified": "Sun, 15 Nov 2026 13:47:59 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-15T12:46:00.024Z",
+   "checkedAt": "2026-11-15T13:47:59.149Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "a88a40d4e743b6d9",
+   "title": "Pentagon Renames CDAO ‘Super Intelligence Office’",
+   "url": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
+   "summary": "The move follows President Trump’s order to replace “artificial intelligence” with “super intelligence” in executive branch communications. The post Pentagon Renames CDAO ‘Super Intelligence Office’ appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-15T12:51:33.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-15T13:47:59.149Z"
+  },
   {
    "id": "dabf7b9c559f7a5e",
    "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
@@ -2961,21 +2975,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-09T14:54:00.492Z"
-  },
-  {
-   "id": "0771611e46288b10",
-   "title": "Plex2Shell Exploited Against QNAP NAS Users",
-   "url": "https://www.securityweek.com/plex2shell-exploited-against-qnap-nas-users/",
-   "summary": "Threat actors are exploiting the four-flaw chain to hack the Plex Media Server application on QNAP NAS devices. The post Plex2Shell Exploited Against QNAP NAS Users appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-09T13:13:28.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-09T13:58:19.443Z"
   }
  ]
 }
