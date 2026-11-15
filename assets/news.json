@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-15T18:09:48.154Z",
- "lastAttempt": "2026-11-15T18:09:48.154Z",
+ "lastSuccess": "2026-11-15T18:58:17.626Z",
+ "lastAttempt": "2026-11-15T18:58:17.626Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-15T18:09:48.154Z",
-   "lastSuccess": "2026-11-15T18:09:48.154Z",
+   "checkedAt": "2026-11-15T18:58:17.626Z",
+   "lastSuccess": "2026-11-15T18:58:17.626Z",
    "etag": null,
-   "lastModified": "Sun, 15 Nov 2026 15:45:59 GMT"
+   "lastModified": "Sun, 15 Nov 2026 18:34:08 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-15T18:09:48.154Z",
-   "lastSuccess": "2026-11-15T18:09:48.154Z",
-   "etag": "b8fe9e3289bb4c23ba69fb472cf12613",
-   "lastModified": "Sun, 15 Nov 2026 18:01:54 GMT"
+   "checkedAt": "2026-11-15T18:58:17.626Z",
+   "lastSuccess": "2026-11-15T18:58:17.626Z",
+   "etag": "3d7f792d2c5fb078fd8a85edc97d9491",
+   "lastModified": "Sun, 15 Nov 2026 18:49:55 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-15T18:09:48.154Z",
-   "lastSuccess": "2026-11-15T18:09:48.154Z",
+   "checkedAt": "2026-11-15T18:58:17.626Z",
+   "lastSuccess": "2026-11-15T18:58:17.626Z",
    "etag": null,
-   "lastModified": "Sun, 15 Nov 2026 16:47:46 GMT"
+   "lastModified": "Sun, 15 Nov 2026 18:52:27 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-15T18:09:48.154Z",
-   "lastSuccess": "2026-11-15T18:09:48.154Z",
+   "checkedAt": "2026-11-15T18:58:17.626Z",
+   "lastSuccess": "2026-11-15T18:58:17.626Z",
    "etag": "\"182b3b455cfad85f7c492a294158281c\"",
    "lastModified": "Sun, 15 Nov 2026 13:04:58 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-15T18:09:48.154Z",
-   "lastSuccess": "2026-11-15T18:09:48.154Z",
+   "checkedAt": "2026-11-15T18:58:17.626Z",
+   "lastSuccess": "2026-11-15T18:58:17.626Z",
    "etag": null,
-   "lastModified": "Sun, 15 Nov 2026 18:09:48 GMT"
+   "lastModified": "Sun, 15 Nov 2026 18:58:18 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,29 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-15T18:09:48.154Z",
+   "checkedAt": "2026-11-15T18:58:17.626Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "f5c6a0108f4137fd",
+   "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+   "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+   "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-15T18:29:53.000Z",
+   "categories": [
+    "breach",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-15T18:58:17.626Z"
+  },
   {
    "id": "f2da8dc548b35592",
    "title": "TSMC employee data breach linked to cloud provider",
@@ -2962,18 +2978,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-09T14:54:00.492Z"
-  },
-  {
-   "id": "7ea315c54c226b5b",
-   "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
-   "url": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
-   "summary": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-09T13:28:56.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-09T13:58:19.443Z"
   }
  ]
 }
