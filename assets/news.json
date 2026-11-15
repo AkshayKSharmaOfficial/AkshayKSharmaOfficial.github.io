@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-15T11:56:41.344Z",
- "lastAttempt": "2026-11-15T11:56:41.344Z",
+ "lastSuccess": "2026-11-15T12:46:00.024Z",
+ "lastAttempt": "2026-11-15T12:46:00.024Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-15T11:56:41.344Z",
-   "lastSuccess": "2026-11-15T11:56:41.344Z",
+   "checkedAt": "2026-11-15T12:46:00.024Z",
+   "lastSuccess": "2026-11-15T12:46:00.024Z",
    "etag": null,
-   "lastModified": "Sun, 15 Nov 2026 10:17:39 GMT"
+   "lastModified": "Sun, 15 Nov 2026 12:00:14 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-15T11:56:41.344Z",
-   "lastSuccess": "2026-11-15T11:56:41.344Z",
-   "etag": "e993e6d66528ca45d68a4da403ecc4f9",
-   "lastModified": "Sun, 15 Nov 2026 11:48:00 GMT"
+   "checkedAt": "2026-11-15T12:46:00.024Z",
+   "lastSuccess": "2026-11-15T12:46:00.024Z",
+   "etag": "99a5af7c1e13de9ef7c74623a4455a07",
+   "lastModified": "Sun, 15 Nov 2026 12:38:01 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-15T11:56:41.344Z",
-   "lastSuccess": "2026-11-15T11:56:41.344Z",
+   "checkedAt": "2026-11-15T12:46:00.024Z",
+   "lastSuccess": "2026-11-15T12:46:00.024Z",
    "etag": null,
-   "lastModified": "Thu, 12 Nov 2026 13:06:56 GMT"
+   "lastModified": "Sun, 15 Nov 2026 12:45:47 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-15T11:56:41.344Z",
-   "lastSuccess": "2026-11-15T11:56:41.344Z",
+   "checkedAt": "2026-11-15T12:46:00.024Z",
+   "lastSuccess": "2026-11-15T12:46:00.024Z",
    "etag": "\"b2f81e67cdde464cca90e7dd554d12f9\"",
    "lastModified": "Sun, 15 Nov 2026 10:56:59 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-15T11:56:41.344Z",
-   "lastSuccess": "2026-11-15T11:56:41.344Z",
+   "checkedAt": "2026-11-15T12:46:00.024Z",
+   "lastSuccess": "2026-11-15T12:46:00.024Z",
    "etag": null,
-   "lastModified": "Sun, 15 Nov 2026 11:56:41 GMT"
+   "lastModified": "Sun, 15 Nov 2026 12:46:00 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,25 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-15T11:56:41.344Z",
+   "checkedAt": "2026-11-15T12:46:00.024Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "dabf7b9c559f7a5e",
+   "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
+   "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
+   "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that the feature was enabled by default and that the app…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-15T11:27:31.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-15T12:46:00.024Z"
+  },
   {
    "id": "d5585df40181d87d",
    "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
@@ -2961,21 +2973,6 @@
    "published": "2026-11-09T13:13:28.000Z",
    "categories": [
     "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-09T13:58:19.443Z"
-  },
-  {
-   "id": "d262e085a8d24ad6",
-   "title": "Iris Plaza Breach May Have Exposed Data of 7.7 Million Customers",
-   "url": "https://www.securityweek.com/iris-plaza-breach-may-have-exposed-data-of-7-7-million-customers/",
-   "summary": "Hackers compromised an external cloud service used by the shopping platform and may have stolen personal information from it. The post Iris Plaza Breach May Have Exposed Data of 7.7 Million Customers appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-09T12:41:27.000Z",
-   "categories": [
-    "breach",
     "attack"
    ],
    "firstSeen": "2026-11-09T13:58:19.443Z"
