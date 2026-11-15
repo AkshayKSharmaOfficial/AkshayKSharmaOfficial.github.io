@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-15T09:28:16.709Z",
- "lastAttempt": "2026-11-15T09:28:16.709Z",
+ "lastSuccess": "2026-11-15T10:18:53.455Z",
+ "lastAttempt": "2026-11-15T10:18:53.455Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-15T09:28:16.709Z",
-   "lastSuccess": "2026-11-15T09:28:16.709Z",
+   "checkedAt": "2026-11-15T10:18:53.455Z",
+   "lastSuccess": "2026-11-15T10:18:53.455Z",
    "etag": null,
-   "lastModified": "Sun, 15 Nov 2026 09:15:00 GMT"
+   "lastModified": "Sun, 15 Nov 2026 10:17:39 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-15T09:28:16.709Z",
-   "lastSuccess": "2026-11-15T09:28:16.709Z",
-   "etag": "74bb2ea818c71951120743c0cd6ce830",
-   "lastModified": "Sun, 15 Nov 2026 09:27:56 GMT"
+   "checkedAt": "2026-11-15T10:18:53.455Z",
+   "lastSuccess": "2026-11-15T10:18:53.455Z",
+   "etag": "9fca1277bb9e60c674dcb35df329b5b1",
+   "lastModified": "Sun, 15 Nov 2026 10:17:58 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-15T09:28:16.709Z",
-   "lastSuccess": "2026-11-15T09:28:16.709Z",
+   "checkedAt": "2026-11-15T10:18:53.455Z",
+   "lastSuccess": "2026-11-15T10:18:53.455Z",
    "etag": null,
    "lastModified": "Sun, 15 Nov 2026 05:16:42 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-15T09:28:16.709Z",
-   "lastSuccess": "2026-11-15T09:28:16.709Z",
+   "checkedAt": "2026-11-15T10:18:53.455Z",
+   "lastSuccess": "2026-11-15T10:18:53.455Z",
    "etag": "W/\"4737982e3a3c8b8b348be497e59cad11\"",
    "lastModified": "Sat, 14 Nov 2026 14:59:42 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-15T09:28:16.709Z",
-   "lastSuccess": "2026-11-15T09:28:16.709Z",
+   "checkedAt": "2026-11-15T10:18:53.455Z",
+   "lastSuccess": "2026-11-15T10:18:53.455Z",
    "etag": null,
-   "lastModified": "Sun, 15 Nov 2026 09:28:17 GMT"
+   "lastModified": "Sun, 15 Nov 2026 10:18:54 GMT"
   },
   {
    "id": "cisa",
@@ -70,7 +70,7 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-15T09:28:16.709Z",
+   "checkedAt": "2026-11-15T10:18:53.455Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
@@ -79,7 +79,7 @@
  "articles": [
   {
    "id": "d5585df40181d87d",
-   "title": "Stolen Fireworks AI Key Led to Cursor Data Breach and Trojanized Claude Code Extension",
+   "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
    "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
    "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an access key we had issued to Fireworks,\" Cursor…",
    "source": "The Hacker News",
