@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-15T15:22:30.326Z",
- "lastAttempt": "2026-11-15T15:22:30.326Z",
+ "lastSuccess": "2026-11-15T16:09:55.076Z",
+ "lastAttempt": "2026-11-15T16:09:55.076Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-15T15:22:30.326Z",
-   "lastSuccess": "2026-11-15T15:22:30.326Z",
+   "checkedAt": "2026-11-15T16:09:55.076Z",
+   "lastSuccess": "2026-11-15T16:09:55.076Z",
    "etag": null,
-   "lastModified": "Sun, 15 Nov 2026 13:37:31 GMT"
+   "lastModified": "Sun, 15 Nov 2026 15:45:59 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-15T15:22:30.326Z",
-   "lastSuccess": "2026-11-15T15:22:30.326Z",
-   "etag": "786cc9b9667ba2a0e89acd74f17f8b51",
-   "lastModified": "Sun, 15 Nov 2026 15:18:06 GMT"
+   "checkedAt": "2026-11-15T16:09:55.076Z",
+   "lastSuccess": "2026-11-15T16:09:55.076Z",
+   "etag": "fdbaa64055cc4daf3b9babb4d04584cb",
+   "lastModified": "Sun, 15 Nov 2026 16:08:07 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-15T15:22:30.326Z",
-   "lastSuccess": "2026-11-15T15:22:30.326Z",
+   "checkedAt": "2026-11-15T16:09:55.076Z",
+   "lastSuccess": "2026-11-15T16:09:55.076Z",
    "etag": null,
    "lastModified": "Sun, 15 Nov 2026 12:45:47 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-15T15:22:30.326Z",
-   "lastSuccess": "2026-11-15T15:22:30.326Z",
+   "checkedAt": "2026-11-15T16:09:55.076Z",
+   "lastSuccess": "2026-11-15T16:09:55.076Z",
    "etag": "\"182b3b455cfad85f7c492a294158281c\"",
    "lastModified": "Sun, 15 Nov 2026 13:04:58 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-15T15:22:30.326Z",
-   "lastSuccess": "2026-11-15T15:22:30.326Z",
+   "checkedAt": "2026-11-15T16:09:55.076Z",
+   "lastSuccess": "2026-11-15T16:09:55.076Z",
    "etag": null,
-   "lastModified": "Sun, 15 Nov 2026 15:22:31 GMT"
+   "lastModified": "Sun, 15 Nov 2026 16:09:55 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-15T15:22:30.326Z",
+   "checkedAt": "2026-11-15T16:09:55.076Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "f2da8dc548b35592",
+   "title": "TSMC employee data breach linked to cloud provider",
+   "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+   "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-15T15:23:48.000Z",
+   "categories": [
+    "breach"
+   ],
+   "firstSeen": "2026-11-15T16:09:55.076Z"
+  },
   {
    "id": "a88a40d4e743b6d9",
    "title": "Pentagon Renames CDAO ‘Super Intelligence Office’",
@@ -2960,21 +2974,6 @@
    "published": "2026-11-09T13:28:56.000Z",
    "categories": [],
    "firstSeen": "2026-11-09T13:58:19.443Z"
-  },
-  {
-   "id": "dca9748487c3dfb8",
-   "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
-   "url": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
-   "summary": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or running safely become part of the attack. Elsewhere, attackers…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-09T13:28:25.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-09T14:54:00.492Z"
   }
  ]
 }
