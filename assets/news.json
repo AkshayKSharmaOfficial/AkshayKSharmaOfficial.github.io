@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-16T10:01:47.155Z",
- "lastAttempt": "2026-11-16T10:01:47.155Z",
+ "lastSuccess": "2026-11-16T11:34:16.849Z",
+ "lastAttempt": "2026-11-16T11:34:16.849Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T10:01:47.155Z",
-   "lastSuccess": "2026-11-16T10:01:47.155Z",
+   "checkedAt": "2026-11-16T11:34:16.849Z",
+   "lastSuccess": "2026-11-16T11:34:16.849Z",
    "etag": null,
-   "lastModified": "Mon, 16 Nov 2026 09:08:49 GMT"
+   "lastModified": "Mon, 16 Nov 2026 10:58:52 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T10:01:47.155Z",
-   "lastSuccess": "2026-11-16T10:01:47.155Z",
-   "etag": "b4f1b348c7a46a3a263d90c5621f5f3f",
-   "lastModified": "Mon, 16 Nov 2026 10:00:06 GMT"
+   "checkedAt": "2026-11-16T11:34:16.849Z",
+   "lastSuccess": "2026-11-16T11:34:16.849Z",
+   "etag": "7ad029f836c0e91bbc0cc46b2858a272",
+   "lastModified": "Mon, 16 Nov 2026 11:28:11 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T10:01:47.155Z",
-   "lastSuccess": "2026-11-16T10:01:47.155Z",
+   "checkedAt": "2026-11-16T11:34:16.849Z",
+   "lastSuccess": "2026-11-16T11:34:16.849Z",
    "etag": null,
    "lastModified": "Mon, 16 Nov 2026 09:56:36 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T10:01:47.155Z",
-   "lastSuccess": "2026-11-16T10:01:47.155Z",
-   "etag": "\"c73e904dd91e25166f52791c797b723c\"",
-   "lastModified": "Mon, 16 Nov 2026 08:55:38 GMT"
+   "checkedAt": "2026-11-16T11:34:16.849Z",
+   "lastSuccess": "2026-11-16T11:34:16.849Z",
+   "etag": "\"a29dee936f59446e28827df757e1527b\"",
+   "lastModified": "Mon, 16 Nov 2026 11:16:28 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T10:01:47.155Z",
-   "lastSuccess": "2026-11-16T10:01:47.155Z",
+   "checkedAt": "2026-11-16T11:34:16.849Z",
+   "lastSuccess": "2026-11-16T11:34:16.849Z",
    "etag": null,
-   "lastModified": "Mon, 16 Nov 2026 10:01:47 GMT"
+   "lastModified": "Mon, 16 Nov 2026 11:34:17 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,99 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-16T10:01:47.155Z",
+   "checkedAt": "2026-11-16T11:34:16.849Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "12419a69b5a7818e",
+   "title": "Australian retail giant Coles investigates cybersecurity incident",
+   "url": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
+   "summary": "Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a \"cyber security incident\" that has not impacted the company's stores. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-16T11:18:09.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-16T11:34:16.849Z"
+  },
+  {
+   "id": "130e819b149f321d",
+   "title": "Recent UnrealIRCd Vulnerability Exploited in Attacks",
+   "url": "https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/",
+   "summary": "Tracked as CVE-2026-114713, the high-severity flaw allows attackers to execute commands with server/IRCOp privileges. The post Recent UnrealIRCd Vulnerability Exploited in Attacks appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-16T11:15:48.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-16T11:34:16.849Z"
+  },
+  {
+   "id": "a85cb661cedde986",
+   "title": "Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers",
+   "url": "https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/",
+   "summary": "Vulncheck disclosed 14 vulnerabilities affecting Copeland XWEB EVO controllers, including two that threat actors quickly targeted. The post Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-16T11:05:42.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-16T11:34:16.849Z"
+  },
+  {
+   "id": "762dd792ff104c4f",
+   "title": "Uber Data Breach Impacts 150,000 People",
+   "url": "https://www.securityweek.com/uber-data-breach-impacts-150000-people/",
+   "summary": "Hackers compromised a third-party services provider and stole names, addresses, and driver’s license numbers. The post Uber Data Breach Impacts 150,000 People appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-16T11:02:48.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-16T11:34:16.849Z"
+  },
+  {
+   "id": "c80d2943859608c6",
+   "title": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
+   "summary": "Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting cybersecurity changes. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-16T11:00:00.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-16T11:34:16.849Z"
+  },
+  {
+   "id": "5ceeaae8e26f5eb8",
+   "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
+   "url": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
+   "summary": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU workloads. Central to the intrusion is a toolkit called SANSAR, a Rust-based…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-16T09:32:57.000Z",
+   "categories": [
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-16T11:34:16.849Z"
+  },
   {
    "id": "0203bd13a7bb8ac7",
    "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
@@ -2887,97 +2973,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-09T18:48:35.269Z"
-  },
-  {
-   "id": "df5936412b6b7e21",
-   "title": "Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux",
-   "url": "https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux",
-   "summary": "Attackers can exploit a flaw in Claude's document-processing tool by creating a temporary file that Anthropic's AI assistant can access and run on a user's machine.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-09T18:08:30.000Z",
-   "categories": [
-    "vuln",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-09T18:48:35.269Z"
-  },
-  {
-   "id": "ee5e2ceda03abe1e",
-   "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
-   "url": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
-   "summary": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The attacker used credentials for an AWS account that Qubole's platform uses to reach those…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-09T17:51:21.000Z",
-   "categories": [
-    "breach",
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-09T18:48:35.269Z"
-  },
-  {
-   "id": "42f0acbca6ef4f21",
-   "title": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
-   "url": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
-   "summary": "A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-09T17:50:32.000Z",
-   "categories": [
-    "malware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-09T17:55:26.366Z"
-  },
-  {
-   "id": "2ba6cb1be9af9cf5",
-   "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
-   "url": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
-   "summary": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2. Both releases download and run code built to steal the wallet key that Swarm…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-09T17:36:28.000Z",
-   "categories": [
-    "malware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-09T18:48:35.269Z"
-  },
-  {
-   "id": "b2934cf8195cf227",
-   "title": "PwC's CISO on AI, Robots & What's Next for Security",
-   "url": "https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security",
-   "summary": "As AI accelerates change across the enterprise, PwC's James Shira explains why security teams must rethink their approach to risk and adapt their strategies.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-09T17:17:23.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-09T17:55:26.366Z"
-  },
-  {
-   "id": "aa639e32fd08dfd4",
-   "title": "Binance denies data breach after alleged ShinyHunters claims",
-   "url": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
-   "summary": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-09T16:12:39.000Z",
-   "categories": [
-    "ransomware",
-    "breach"
-   ],
-   "firstSeen": "2026-11-09T16:58:32.639Z"
   }
  ]
 }
