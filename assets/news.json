@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-16T14:09:35.988Z",
- "lastAttempt": "2026-11-16T14:09:35.988Z",
+ "lastSuccess": "2026-11-16T16:15:01.290Z",
+ "lastAttempt": "2026-11-16T16:15:01.290Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T14:09:35.988Z",
-   "lastSuccess": "2026-11-16T14:09:35.988Z",
+   "checkedAt": "2026-11-16T16:15:01.290Z",
+   "lastSuccess": "2026-11-16T16:15:01.290Z",
    "etag": null,
    "lastModified": "Mon, 16 Nov 2026 13:07:29 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T14:09:35.988Z",
-   "lastSuccess": "2026-11-16T14:09:35.988Z",
-   "etag": "c39272247aece1a7a8808ea52bf04653",
-   "lastModified": "Mon, 16 Nov 2026 14:03:21 GMT"
+   "checkedAt": "2026-11-16T16:15:01.290Z",
+   "lastSuccess": "2026-11-16T16:15:01.290Z",
+   "etag": "2b50924027c68eb6f094bf7a732c4577",
+   "lastModified": "Mon, 16 Nov 2026 16:14:23 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T14:09:35.988Z",
-   "lastSuccess": "2026-11-16T14:09:35.988Z",
+   "checkedAt": "2026-11-16T16:15:01.290Z",
+   "lastSuccess": "2026-11-16T16:15:01.290Z",
    "etag": null,
    "lastModified": "Mon, 16 Nov 2026 09:56:36 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T14:09:35.988Z",
-   "lastSuccess": "2026-11-16T14:09:35.988Z",
-   "etag": "\"ae19db875fe734aa75a91f5fef6ae101\"",
-   "lastModified": "Mon, 16 Nov 2026 12:48:07 GMT"
+   "checkedAt": "2026-11-16T16:15:01.290Z",
+   "lastSuccess": "2026-11-16T16:15:01.290Z",
+   "etag": "W/\"c6635cfebc8467831bcfa7cd383c767a\"",
+   "lastModified": "Mon, 16 Nov 2026 15:45:54 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T14:09:35.988Z",
-   "lastSuccess": "2026-11-16T14:09:35.988Z",
+   "checkedAt": "2026-11-16T16:15:01.290Z",
+   "lastSuccess": "2026-11-16T16:15:01.290Z",
    "etag": null,
-   "lastModified": "Mon, 16 Nov 2026 14:09:36 GMT"
+   "lastModified": "Mon, 16 Nov 2026 16:15:04 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,87 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-16T14:09:35.988Z",
+   "checkedAt": "2026-11-16T16:15:01.290Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "48b1c90614550530",
+   "title": "Cursor Supply Chain Attack Started at Fireworks AI",
+   "url": "https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/",
+   "summary": "The attacker stole an access key from Fireworks and used it to exfiltrate credentials that enabled them to push malicious Claude Code extension copies. The post Cursor Supply Chain Attack Started at Fireworks AI appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-16T15:45:43.000Z",
+   "categories": [
+    "breach",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-16T16:15:01.290Z"
+  },
+  {
+   "id": "0b460a01a4911afd",
+   "title": "Fandango says hackers stole payment card details from checkout pages",
+   "url": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
+   "summary": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-16T15:44:21.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-16T16:15:01.290Z"
+  },
+  {
+   "id": "175c341d338c64a9",
+   "title": "Google Project Zero Sets Course for 30-Day Disclosure Deadline",
+   "url": "https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/",
+   "summary": "It will move to a 60-day vulnerability disclosure window in February 2027 and to a 30-day window in January 2028. The post Google Project Zero Sets Course for 30-Day Disclosure Deadline appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-16T15:31:25.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-16T16:15:01.290Z"
+  },
+  {
+   "id": "f2deff46f18eb0e3",
+   "title": "Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks",
+   "url": "https://www.securityweek.com/barracuda-hacked-amid-surge-in-artex-powered-cyberattacks/",
+   "summary": "Chinese threat actors are broadly adopting the agentic AI penetration testing framework to accelerate their attacks. The post Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-16T15:07:32.000Z",
+   "categories": [
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-16T16:15:01.290Z"
+  },
+  {
+   "id": "870db003bf79c1b3",
+   "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
+   "url": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
+   "summary": "The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-privileged accounts. Specops Software outlines seven practical steps to meet these requirements, block compromised passwords, and…",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-16T15:01:11.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-16T16:15:01.290Z"
+  },
   {
    "id": "d6c39cc4190a2de1",
    "title": "Google warns that fully-automated AI attacks are coming soon",
@@ -2903,77 +2977,6 @@
     "vuln"
    ],
    "firstSeen": "2026-11-10T07:43:50.144Z"
-  },
-  {
-   "id": "fce6b70a44979f4b",
-   "title": "Chrome Update Patches Exploited XML Zero-Day, Eighth This Year",
-   "url": "https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year/",
-   "summary": "The high-severity use-after-free in Chrome’s XML component was reported anonymously on November 6 and is already exploited in attacks. The post Chrome Update Patches Exploited XML Zero-Day, Eighth This Year appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-10T06:12:24.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-10T06:23:58.861Z"
-  },
-  {
-   "id": "d0d7853f2472dd1e",
-   "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
-   "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
-   "summary": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-09T23:52:12.000Z",
-   "categories": [
-    "ransomware",
-    "breach",
-    "attack"
-   ],
-   "firstSeen": "2026-11-10T00:04:13.080Z"
-  },
-  {
-   "id": "6421cf20ae9d3d9d",
-   "title": "People Are Getting Weird About AI",
-   "url": "https://www.darkreading.com/cyber-risk/people-are-getting-weird-about-ai",
-   "summary": "Dark Reading Confidential Episode 22: You can love AI without being blind to the cybersecurity risks. The tendency for humans to anthropomorphize the conversations and interactions we're having with AI is growing into potential delusion.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-09T23:06:22.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-10T20:20:46.570Z"
-  },
-  {
-   "id": "2ca0ba214d210ba6",
-   "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
-   "url": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
-   "summary": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-09T22:09:33.000Z",
-   "categories": [
-    "breach"
-   ],
-   "firstSeen": "2026-11-09T22:29:53.859Z"
-  },
-  {
-   "id": "b2067806401f2439",
-   "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
-   "url": "https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents",
-   "summary": "New questionnaire captures critical data and information that improves the agency’s ability to assess incidents, identify trends and prioritize response actions.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-09T21:38:20.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-09T21:43:42.145Z"
   }
  ]
 }
