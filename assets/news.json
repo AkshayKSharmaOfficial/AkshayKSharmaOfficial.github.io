@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-16T18:33:46.120Z",
- "lastAttempt": "2026-11-16T18:33:46.120Z",
+ "lastSuccess": "2026-11-16T19:41:58.444Z",
+ "lastAttempt": "2026-11-16T19:41:58.444Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T18:33:46.120Z",
-   "lastSuccess": "2026-11-16T18:33:46.120Z",
+   "checkedAt": "2026-11-16T19:41:58.444Z",
+   "lastSuccess": "2026-11-16T19:41:58.444Z",
    "etag": null,
    "lastModified": "Mon, 16 Nov 2026 18:07:50 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T18:33:46.120Z",
-   "lastSuccess": "2026-11-16T18:33:46.120Z",
-   "etag": "7f97defcf6460e9d07b7110bba4ec9b1",
-   "lastModified": "Mon, 16 Nov 2026 18:33:28 GMT"
+   "checkedAt": "2026-11-16T19:41:58.444Z",
+   "lastSuccess": "2026-11-16T19:41:58.444Z",
+   "etag": "a92bae9059c86ddb0c31a5b3ca783b4d",
+   "lastModified": "Mon, 16 Nov 2026 19:33:31 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T18:33:46.120Z",
-   "lastSuccess": "2026-11-16T18:33:46.120Z",
+   "checkedAt": "2026-11-16T19:41:58.444Z",
+   "lastSuccess": "2026-11-16T19:41:58.444Z",
    "etag": null,
    "lastModified": "Mon, 16 Nov 2026 17:25:23 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T18:33:46.120Z",
-   "lastSuccess": "2026-11-16T18:33:46.120Z",
+   "checkedAt": "2026-11-16T19:41:58.444Z",
+   "lastSuccess": "2026-11-16T19:41:58.444Z",
    "etag": "W/\"c6635cfebc8467831bcfa7cd383c767a\"",
    "lastModified": "Mon, 16 Nov 2026 15:45:54 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T18:33:46.120Z",
-   "lastSuccess": "2026-11-16T18:33:46.120Z",
+   "checkedAt": "2026-11-16T19:41:58.444Z",
+   "lastSuccess": "2026-11-16T19:41:58.444Z",
    "etag": null,
-   "lastModified": "Mon, 16 Nov 2026 18:33:46 GMT"
+   "lastModified": "Mon, 16 Nov 2026 19:41:59 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-16T18:33:46.120Z",
+   "checkedAt": "2026-11-16T19:41:58.444Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "aa9d1b869414dfca",
+   "title": "'Sleeper Agent' Tactic Hides Payloads in Open-Weight AI Models",
+   "url": "https://www.darkreading.com/vulnerabilities-threats/sleeper-agent-tactic-payloads-open-weight-ai-models",
+   "summary": "Malware can lurk inside just 0.00001% of a neural network. How, then, can any user tell it's there?",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-16T19:10:03.000Z",
+   "categories": [
+    "malware",
+    "ai"
+   ],
+   "firstSeen": "2026-11-16T19:41:58.444Z"
+  },
   {
    "id": "b2e54869c07cd1d6",
    "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
@@ -2961,22 +2976,6 @@
    "kind": "media",
    "published": "2026-11-10T08:16:14.000Z",
    "categories": [
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-10T08:40:53.237Z"
-  },
-  {
-   "id": "9d2bd3577bbf0ac0",
-   "title": "Fireworks AI discloses new breach after cloud provider hack",
-   "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
-   "summary": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-10T07:49:58.000Z",
-   "categories": [
-    "breach",
     "ai",
     "attack"
    ],
