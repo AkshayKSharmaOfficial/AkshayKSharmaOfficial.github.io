@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-16T11:34:16.849Z",
- "lastAttempt": "2026-11-16T11:34:16.849Z",
+ "lastSuccess": "2026-11-16T14:09:35.988Z",
+ "lastAttempt": "2026-11-16T14:09:35.988Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T11:34:16.849Z",
-   "lastSuccess": "2026-11-16T11:34:16.849Z",
+   "checkedAt": "2026-11-16T14:09:35.988Z",
+   "lastSuccess": "2026-11-16T14:09:35.988Z",
    "etag": null,
-   "lastModified": "Mon, 16 Nov 2026 10:58:52 GMT"
+   "lastModified": "Mon, 16 Nov 2026 13:07:29 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T11:34:16.849Z",
-   "lastSuccess": "2026-11-16T11:34:16.849Z",
-   "etag": "7ad029f836c0e91bbc0cc46b2858a272",
-   "lastModified": "Mon, 16 Nov 2026 11:28:11 GMT"
+   "checkedAt": "2026-11-16T14:09:35.988Z",
+   "lastSuccess": "2026-11-16T14:09:35.988Z",
+   "etag": "c39272247aece1a7a8808ea52bf04653",
+   "lastModified": "Mon, 16 Nov 2026 14:03:21 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T11:34:16.849Z",
-   "lastSuccess": "2026-11-16T11:34:16.849Z",
+   "checkedAt": "2026-11-16T14:09:35.988Z",
+   "lastSuccess": "2026-11-16T14:09:35.988Z",
    "etag": null,
    "lastModified": "Mon, 16 Nov 2026 09:56:36 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T11:34:16.849Z",
-   "lastSuccess": "2026-11-16T11:34:16.849Z",
-   "etag": "\"a29dee936f59446e28827df757e1527b\"",
-   "lastModified": "Mon, 16 Nov 2026 11:16:28 GMT"
+   "checkedAt": "2026-11-16T14:09:35.988Z",
+   "lastSuccess": "2026-11-16T14:09:35.988Z",
+   "etag": "\"ae19db875fe734aa75a91f5fef6ae101\"",
+   "lastModified": "Mon, 16 Nov 2026 12:48:07 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T11:34:16.849Z",
-   "lastSuccess": "2026-11-16T11:34:16.849Z",
+   "checkedAt": "2026-11-16T14:09:35.988Z",
+   "lastSuccess": "2026-11-16T14:09:35.988Z",
    "etag": null,
-   "lastModified": "Mon, 16 Nov 2026 11:34:17 GMT"
+   "lastModified": "Mon, 16 Nov 2026 14:09:36 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,85 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-16T11:34:16.849Z",
+   "checkedAt": "2026-11-16T14:09:35.988Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "d6c39cc4190a2de1",
+   "title": "Google warns that fully-automated AI attacks are coming soon",
+   "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+   "summary": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-16T14:00:00.000Z",
+   "categories": [
+    "vuln",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-16T14:09:35.988Z"
+  },
+  {
+   "id": "eb8d6a82b03e3ee8",
+   "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
+   "summary": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-16T12:53:18.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-16T14:09:35.988Z"
+  },
+  {
+   "id": "a9fae18393a4908b",
+   "title": "Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch",
+   "url": "https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/",
+   "summary": "Kaspersky suspects exploitation of Telegram’s new widgets to deliver WebRAT, as researchers demo RCE and Pavel Durov disputes the claims. The post Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-16T12:48:03.000Z",
+   "categories": [
+    "vuln",
+    "malware"
+   ],
+   "firstSeen": "2026-11-16T14:09:35.988Z"
+  },
+  {
+   "id": "a989c64e51ebb71d",
+   "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
+   "url": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
+   "summary": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week. No patch is available, and the researchers say the newest firmware, version 5.4.0…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-16T12:34:21.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-16T14:09:35.988Z"
+  },
+  {
+   "id": "c4086de05142b1d9",
+   "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
+   "url": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
+   "summary": "Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines. \"On launch, the NSIS-based installer executable dropped a file named '7z.dll' into a temporary directory and ran it through…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-16T12:33:18.000Z",
+   "categories": [
+    "malware"
+   ],
+   "firstSeen": "2026-11-16T14:09:35.988Z"
+  },
   {
    "id": "12419a69b5a7818e",
    "title": "Australian retail giant Coles investigates cybersecurity incident",
@@ -437,7 +509,7 @@
    "id": "766a3ca157e90610",
    "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
    "url": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
-   "summary": "The Android malware has expanded from focusing on crypto theft to full device control, and the attackers have added advanced analysis of stolen information.",
+   "summary": "The Android malware has expanded from focusing on cryptocurrency theft to full device control, and the attackers have added advanced analysis of stolen information.",
    "source": "Dark Reading",
    "sourceId": "darkreading",
    "kind": "media",
@@ -2867,7 +2939,7 @@
    "id": "6421cf20ae9d3d9d",
    "title": "People Are Getting Weird About AI",
    "url": "https://www.darkreading.com/cyber-risk/people-are-getting-weird-about-ai",
-   "summary": "Dark Reading Confidential Episode 22: You can love AI without being blind to cybersecurity being sacrificed for utility. The tendency for humans to anthropomorphize the conversations and interactions we're having with AI is growing into potential delusion.",
+   "summary": "Dark Reading Confidential Episode 22: You can love AI without being blind to the cybersecurity risks. The tendency for humans to anthropomorphize the conversations and interactions we're having with AI is growing into potential delusion.",
    "source": "Dark Reading",
    "sourceId": "darkreading",
    "kind": "media",
@@ -2902,77 +2974,6 @@
    "published": "2026-11-09T21:38:20.000Z",
    "categories": [],
    "firstSeen": "2026-11-09T21:43:42.145Z"
-  },
-  {
-   "id": "8a6b387258571e43",
-   "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
-   "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
-   "summary": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let attackers take over vulnerable…",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-09T21:26:25.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-09T21:43:42.145Z"
-  },
-  {
-   "id": "e681d06942a2ab8d",
-   "title": "York University breach exposed personal information dating to 2007",
-   "url": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
-   "summary": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-09T21:22:31.000Z",
-   "categories": [
-    "breach"
-   ],
-   "firstSeen": "2026-11-09T21:43:42.145Z"
-  },
-  {
-   "id": "5f50f249472baa62",
-   "title": "Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion",
-   "url": "https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion",
-   "summary": "Last month, Microsoft disclosed a vulnerability in Microsoft Paint, but messaging regarding a patch was unclear.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-09T21:12:24.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-09T21:43:42.145Z"
-  },
-  {
-   "id": "9c9b529485c66127",
-   "title": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India",
-   "url": "https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut",
-   "summary": "Inaugural edition by Informa Markets in India brings together leading researchers, security practitioners and industry decision makers for four days of cutting-edge research, technical exchange and strategic dialogue.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-09T20:19:56.000Z",
-   "categories": [
-    "india"
-   ],
-   "firstSeen": "2026-11-09T21:43:42.145Z"
-  },
-  {
-   "id": "2b5ae2d2ad027187",
-   "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
-   "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
-   "summary": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at least 15 fires. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-09T18:32:42.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-09T18:48:35.269Z"
   }
  ]
 }
