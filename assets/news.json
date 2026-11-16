@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-16T21:31:59.298Z",
- "lastAttempt": "2026-11-16T21:31:59.298Z",
+ "lastSuccess": "2026-11-16T22:29:46.941Z",
+ "lastAttempt": "2026-11-16T22:29:46.941Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T21:31:59.298Z",
-   "lastSuccess": "2026-11-16T21:31:59.298Z",
+   "checkedAt": "2026-11-16T22:29:46.941Z",
+   "lastSuccess": "2026-11-16T22:29:46.941Z",
    "etag": null,
-   "lastModified": "Mon, 16 Nov 2026 18:07:50 GMT"
+   "lastModified": "Mon, 16 Nov 2026 21:36:24 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T21:31:59.298Z",
-   "lastSuccess": "2026-11-16T21:31:59.298Z",
-   "etag": "d1849b89b3246596042739ff65a2f521",
-   "lastModified": "Mon, 16 Nov 2026 21:31:45 GMT"
+   "checkedAt": "2026-11-16T22:29:46.941Z",
+   "lastSuccess": "2026-11-16T22:29:46.941Z",
+   "etag": "bc1252f876aefb44dc7087a3df9c7912",
+   "lastModified": "Mon, 16 Nov 2026 22:23:08 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T21:31:59.298Z",
-   "lastSuccess": "2026-11-16T21:31:59.298Z",
+   "checkedAt": "2026-11-16T22:29:46.941Z",
+   "lastSuccess": "2026-11-16T22:29:46.941Z",
    "etag": null,
-   "lastModified": "Mon, 16 Nov 2026 17:25:23 GMT"
+   "lastModified": "Mon, 16 Nov 2026 22:25:09 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T21:31:59.298Z",
-   "lastSuccess": "2026-11-16T21:31:59.298Z",
+   "checkedAt": "2026-11-16T22:29:46.941Z",
+   "lastSuccess": "2026-11-16T22:29:46.941Z",
    "etag": "W/\"d6c8d7317ae14411fd1f699928052a8b\"",
    "lastModified": "Mon, 16 Nov 2026 20:26:43 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T21:31:59.298Z",
-   "lastSuccess": "2026-11-16T21:31:59.298Z",
+   "checkedAt": "2026-11-16T22:29:46.941Z",
+   "lastSuccess": "2026-11-16T22:29:46.941Z",
    "etag": null,
-   "lastModified": "Mon, 16 Nov 2026 21:31:59 GMT"
+   "lastModified": "Mon, 16 Nov 2026 22:29:47 GMT"
   },
   {
    "id": "cisa",
@@ -70,7 +70,7 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-16T21:31:59.298Z",
+   "checkedAt": "2026-11-16T22:29:46.941Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
@@ -78,8 +78,20 @@
  ],
  "articles": [
   {
+   "id": "a49ed37a0ae7d6a6",
+   "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
+   "url": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
+   "summary": "One of the oldest running bug disclosure programs announced it would shorten public disclosure timelines to vendors from 120 days to 30 over the next 14 months.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-16T22:08:20.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-16T22:29:46.941Z"
+  },
+  {
    "id": "e9f37ead75bc7f11",
-   "title": "Google Project Zero cuts bug disclosure deadline amid AI threats",
+   "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
    "url": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
    "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
    "source": "BleepingComputer",
@@ -2964,21 +2976,6 @@
    "published": "2026-11-10T10:04:32.000Z",
    "categories": [
     "malware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-10T10:38:34.938Z"
-  },
-  {
-   "id": "c110ef77ed027886",
-   "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
-   "url": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
-   "summary": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score. Three are in the SAP NetWeaver application server, the software SAP systems run on, and one is in the…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-10T10:02:40.000Z",
-   "categories": [
-    "vuln",
     "attack"
    ],
    "firstSeen": "2026-11-10T10:38:34.938Z"
