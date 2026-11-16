@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-16T20:33:35.528Z",
- "lastAttempt": "2026-11-16T20:33:35.528Z",
+ "lastSuccess": "2026-11-16T21:31:59.298Z",
+ "lastAttempt": "2026-11-16T21:31:59.298Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T20:33:35.528Z",
-   "lastSuccess": "2026-11-16T20:33:35.528Z",
+   "checkedAt": "2026-11-16T21:31:59.298Z",
+   "lastSuccess": "2026-11-16T21:31:59.298Z",
    "etag": null,
    "lastModified": "Mon, 16 Nov 2026 18:07:50 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T20:33:35.528Z",
-   "lastSuccess": "2026-11-16T20:33:35.528Z",
-   "etag": "20d543f5bf22a36bf52e775ca4c08d90",
-   "lastModified": "Mon, 16 Nov 2026 20:27:15 GMT"
+   "checkedAt": "2026-11-16T21:31:59.298Z",
+   "lastSuccess": "2026-11-16T21:31:59.298Z",
+   "etag": "d1849b89b3246596042739ff65a2f521",
+   "lastModified": "Mon, 16 Nov 2026 21:31:45 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T20:33:35.528Z",
-   "lastSuccess": "2026-11-16T20:33:35.528Z",
+   "checkedAt": "2026-11-16T21:31:59.298Z",
+   "lastSuccess": "2026-11-16T21:31:59.298Z",
    "etag": null,
    "lastModified": "Mon, 16 Nov 2026 17:25:23 GMT"
   },
@@ -43,11 +43,11 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T20:33:35.528Z",
-   "lastSuccess": "2026-11-16T20:33:35.528Z",
+   "checkedAt": "2026-11-16T21:31:59.298Z",
+   "lastSuccess": "2026-11-16T21:31:59.298Z",
    "etag": "W/\"d6c8d7317ae14411fd1f699928052a8b\"",
    "lastModified": "Mon, 16 Nov 2026 20:26:43 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T20:33:35.528Z",
-   "lastSuccess": "2026-11-16T20:33:35.528Z",
+   "checkedAt": "2026-11-16T21:31:59.298Z",
+   "lastSuccess": "2026-11-16T21:31:59.298Z",
    "etag": null,
-   "lastModified": "Mon, 16 Nov 2026 20:33:35 GMT"
+   "lastModified": "Mon, 16 Nov 2026 21:31:59 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,43 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-16T20:33:35.528Z",
+   "checkedAt": "2026-11-16T21:31:59.298Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "e9f37ead75bc7f11",
+   "title": "Google Project Zero cuts bug disclosure deadline amid AI threats",
+   "url": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+   "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-16T21:31:44.000Z",
+   "categories": [
+    "vuln",
+    "ai"
+   ],
+   "firstSeen": "2026-11-16T21:31:59.298Z"
+  },
+  {
+   "id": "567aee08f52e9c5d",
+   "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+   "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+   "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks…",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-16T20:59:44.000Z",
+   "categories": [
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-16T21:31:59.298Z"
+  },
   {
    "id": "157098b8768bc867",
    "title": "Trump Administration Moves to Block China From Indirect Access to American AI Technology",
@@ -2947,37 +2977,6 @@
    "sourceId": "thn",
    "kind": "media",
    "published": "2026-11-10T10:02:40.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-10T10:38:34.938Z"
-  },
-  {
-   "id": "8653a654672e3b16",
-   "title": "N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days",
-   "url": "https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/",
-   "summary": "Attackers could exploit the flaws for remote code execution, credential theft, and administrator account creation. The post N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-10T09:56:28.000Z",
-   "categories": [
-    "vuln",
-    "phishing",
-    "attack"
-   ],
-   "firstSeen": "2026-11-10T10:38:34.938Z"
-  },
-  {
-   "id": "8740a8d153042d22",
-   "title": "IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks",
-   "url": "https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/",
-   "summary": "CISA has added CVE-2026-123218 and CVE-2026-116779 to KEV, urging federal agencies to patch them within three days. The post IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-10T09:42:27.000Z",
    "categories": [
     "vuln",
     "attack"
