@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-16T22:29:46.941Z",
- "lastAttempt": "2026-11-16T22:29:46.941Z",
+ "lastSuccess": "2026-11-16T23:19:36.377Z",
+ "lastAttempt": "2026-11-16T23:19:36.377Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T22:29:46.941Z",
-   "lastSuccess": "2026-11-16T22:29:46.941Z",
+   "checkedAt": "2026-11-16T23:19:36.377Z",
+   "lastSuccess": "2026-11-16T23:19:36.377Z",
    "etag": null,
    "lastModified": "Mon, 16 Nov 2026 21:36:24 GMT"
   },
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T22:29:46.941Z",
-   "lastSuccess": "2026-11-16T22:29:46.941Z",
-   "etag": "bc1252f876aefb44dc7087a3df9c7912",
-   "lastModified": "Mon, 16 Nov 2026 22:23:08 GMT"
+   "checkedAt": "2026-11-16T23:19:36.377Z",
+   "lastSuccess": "2026-11-16T23:19:36.377Z",
+   "etag": "f28d5a64b2fe85e038e992cde4e45237",
+   "lastModified": "Mon, 16 Nov 2026 23:13:10 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T22:29:46.941Z",
-   "lastSuccess": "2026-11-16T22:29:46.941Z",
+   "checkedAt": "2026-11-16T23:19:36.377Z",
+   "lastSuccess": "2026-11-16T23:19:36.377Z",
    "etag": null,
    "lastModified": "Mon, 16 Nov 2026 22:25:09 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T22:29:46.941Z",
-   "lastSuccess": "2026-11-16T22:29:46.941Z",
+   "checkedAt": "2026-11-16T23:19:36.377Z",
+   "lastSuccess": "2026-11-16T23:19:36.377Z",
    "etag": "W/\"d6c8d7317ae14411fd1f699928052a8b\"",
    "lastModified": "Mon, 16 Nov 2026 20:26:43 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T22:29:46.941Z",
-   "lastSuccess": "2026-11-16T22:29:46.941Z",
+   "checkedAt": "2026-11-16T23:19:36.377Z",
+   "lastSuccess": "2026-11-16T23:19:36.377Z",
    "etag": null,
-   "lastModified": "Mon, 16 Nov 2026 22:29:47 GMT"
+   "lastModified": "Mon, 16 Nov 2026 23:19:36 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-16T22:29:46.941Z",
+   "checkedAt": "2026-11-16T23:19:36.377Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "24378a396c4e8326",
+   "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+   "url": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+   "summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-16T22:54:00.000Z",
+   "categories": [
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-16T23:19:36.377Z"
+  },
   {
    "id": "a49ed37a0ae7d6a6",
    "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
@@ -2964,21 +2979,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-10T11:33:51.918Z"
-  },
-  {
-   "id": "37814be2effba973",
-   "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
-   "url": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
-   "summary": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-10T10:04:32.000Z",
-   "categories": [
-    "malware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-10T10:38:34.938Z"
   }
  ]
 }
