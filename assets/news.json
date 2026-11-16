@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-16T19:41:58.444Z",
- "lastAttempt": "2026-11-16T19:41:58.444Z",
+ "lastSuccess": "2026-11-16T20:33:35.528Z",
+ "lastAttempt": "2026-11-16T20:33:35.528Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T19:41:58.444Z",
-   "lastSuccess": "2026-11-16T19:41:58.444Z",
+   "checkedAt": "2026-11-16T20:33:35.528Z",
+   "lastSuccess": "2026-11-16T20:33:35.528Z",
    "etag": null,
    "lastModified": "Mon, 16 Nov 2026 18:07:50 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T19:41:58.444Z",
-   "lastSuccess": "2026-11-16T19:41:58.444Z",
-   "etag": "a92bae9059c86ddb0c31a5b3ca783b4d",
-   "lastModified": "Mon, 16 Nov 2026 19:33:31 GMT"
+   "checkedAt": "2026-11-16T20:33:35.528Z",
+   "lastSuccess": "2026-11-16T20:33:35.528Z",
+   "etag": "20d543f5bf22a36bf52e775ca4c08d90",
+   "lastModified": "Mon, 16 Nov 2026 20:27:15 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T19:41:58.444Z",
-   "lastSuccess": "2026-11-16T19:41:58.444Z",
+   "checkedAt": "2026-11-16T20:33:35.528Z",
+   "lastSuccess": "2026-11-16T20:33:35.528Z",
    "etag": null,
    "lastModified": "Mon, 16 Nov 2026 17:25:23 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T19:41:58.444Z",
-   "lastSuccess": "2026-11-16T19:41:58.444Z",
-   "etag": "W/\"c6635cfebc8467831bcfa7cd383c767a\"",
-   "lastModified": "Mon, 16 Nov 2026 15:45:54 GMT"
+   "checkedAt": "2026-11-16T20:33:35.528Z",
+   "lastSuccess": "2026-11-16T20:33:35.528Z",
+   "etag": "W/\"d6c8d7317ae14411fd1f699928052a8b\"",
+   "lastModified": "Mon, 16 Nov 2026 20:26:43 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T19:41:58.444Z",
-   "lastSuccess": "2026-11-16T19:41:58.444Z",
+   "checkedAt": "2026-11-16T20:33:35.528Z",
+   "lastSuccess": "2026-11-16T20:33:35.528Z",
    "etag": null,
-   "lastModified": "Mon, 16 Nov 2026 19:41:59 GMT"
+   "lastModified": "Mon, 16 Nov 2026 20:33:35 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,60 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-16T19:41:58.444Z",
+   "checkedAt": "2026-11-16T20:33:35.528Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "157098b8768bc867",
+   "title": "Trump Administration Moves to Block China From Indirect Access to American AI Technology",
+   "url": "https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/",
+   "summary": "Under the new rule, overseas data centers that serve companies in countries including China, Russia, Iran and Cuba are required to identify their end users. The post Trump Administration Moves to Block China From Indirect Access to American AI Technology appeared first on…",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-16T20:00:00.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-16T20:33:35.528Z"
+  },
+  {
+   "id": "e848028b4826e885",
+   "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+   "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
+   "summary": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-16T19:57:13.000Z",
+   "categories": [
+    "breach",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-16T20:33:35.528Z"
+  },
+  {
+   "id": "4bf1698b8600f096",
+   "title": "Ransomware Attacks Increase Behind AI, But Payments Decline",
+   "url": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
+   "summary": "Large language models and other AI systems allow a growing number of ransomware groups to create convincing phishing emails and identify sensitive data quickly.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-16T19:56:05.000Z",
+   "categories": [
+    "ransomware",
+    "phishing",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-16T20:33:35.528Z"
+  },
   {
    "id": "aa9d1b869414dfca",
    "title": "'Sleeper Agent' Tactic Hides Payloads in Open-Weight AI Models",
@@ -2936,50 +2983,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-10T10:38:34.938Z"
-  },
-  {
-   "id": "db918bafa08cb13b",
-   "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
-   "url": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
-   "summary": "An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday. The attackers broke into controllers on the night of October 11 and…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-10T09:08:20.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-10T09:37:28.395Z"
-  },
-  {
-   "id": "72dde80af1c8a5ac",
-   "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
-   "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
-   "summary": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-10T08:51:25.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-10T09:37:28.395Z"
-  },
-  {
-   "id": "324a5559d0e2e6e6",
-   "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
-   "url": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
-   "summary": "Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision. During pre-release training, the large language models (LLMs) helped its engineers \"complete otherwise-infeasible software…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-10T08:16:14.000Z",
-   "categories": [
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-10T08:40:53.237Z"
   }
  ]
 }
