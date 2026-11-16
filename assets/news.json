@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-16T07:21:15.078Z",
- "lastAttempt": "2026-11-16T07:21:15.078Z",
+ "lastSuccess": "2026-11-16T10:01:47.155Z",
+ "lastAttempt": "2026-11-16T10:01:47.155Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T07:21:15.078Z",
-   "lastSuccess": "2026-11-16T07:21:15.078Z",
+   "checkedAt": "2026-11-16T10:01:47.155Z",
+   "lastSuccess": "2026-11-16T10:01:47.155Z",
    "etag": null,
-   "lastModified": "Mon, 16 Nov 2026 06:14:03 GMT"
+   "lastModified": "Mon, 16 Nov 2026 09:08:49 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T07:21:15.078Z",
-   "lastSuccess": "2026-11-16T07:21:15.078Z",
-   "etag": "a78621cc71e5a35c8b20c1d80aa75ec5",
-   "lastModified": "Mon, 16 Nov 2026 07:20:18 GMT"
+   "checkedAt": "2026-11-16T10:01:47.155Z",
+   "lastSuccess": "2026-11-16T10:01:47.155Z",
+   "etag": "b4f1b348c7a46a3a263d90c5621f5f3f",
+   "lastModified": "Mon, 16 Nov 2026 10:00:06 GMT"
   },
   {
    "id": "krebs",
@@ -34,22 +34,22 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T07:21:15.078Z",
-   "lastSuccess": "2026-11-16T07:21:15.078Z",
+   "checkedAt": "2026-11-16T10:01:47.155Z",
+   "lastSuccess": "2026-11-16T10:01:47.155Z",
    "etag": null,
-   "lastModified": "Mon, 16 Nov 2026 07:15:21 GMT"
+   "lastModified": "Mon, 16 Nov 2026 09:56:36 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T07:21:15.078Z",
-   "lastSuccess": "2026-11-16T07:21:15.078Z",
-   "etag": "\"182b3b455cfad85f7c492a294158281c\"",
-   "lastModified": "Sun, 15 Nov 2026 13:04:58 GMT"
+   "checkedAt": "2026-11-16T10:01:47.155Z",
+   "lastSuccess": "2026-11-16T10:01:47.155Z",
+   "etag": "\"c73e904dd91e25166f52791c797b723c\"",
+   "lastModified": "Mon, 16 Nov 2026 08:55:38 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-16T07:21:15.078Z",
-   "lastSuccess": "2026-11-16T07:21:15.078Z",
+   "checkedAt": "2026-11-16T10:01:47.155Z",
+   "lastSuccess": "2026-11-16T10:01:47.155Z",
    "etag": null,
-   "lastModified": "Mon, 16 Nov 2026 07:21:15 GMT"
+   "lastModified": "Mon, 16 Nov 2026 10:01:47 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,100 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-16T07:21:15.078Z",
+   "checkedAt": "2026-11-16T10:01:47.155Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "0203bd13a7bb8ac7",
+   "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
+   "url": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
+   "summary": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-16T09:30:04.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-16T10:01:47.155Z"
+  },
+  {
+   "id": "195bff098d1cb90e",
+   "title": "Tor Updates DoS Defenses Again as Relay Attacks Continue",
+   "url": "https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/",
+   "summary": "Tor 0.4.9.17 patches several security issues, including one related to how built-in DoS protections deal with IPv6. The post Tor Updates DoS Defenses Again as Relay Attacks Continue appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-16T08:55:32.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-16T10:01:47.155Z"
+  },
+  {
+   "id": "81b439010f1cb042",
+   "title": "Microsoft pushes Windows emergency updates to fix activation failures",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
+   "summary": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-16T08:26:52.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-16T10:01:47.155Z"
+  },
+  {
+   "id": "0b2f1e9ea8111012",
+   "title": "Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign",
+   "url": "https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/",
+   "summary": "Phishing emails posing as Microsoft 365 service notices referenced the real outage incident and threatened to delete held messages. The post Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-16T08:15:12.000Z",
+   "categories": [
+    "phishing",
+    "attack"
+   ],
+   "firstSeen": "2026-11-16T10:01:47.155Z"
+  },
+  {
+   "id": "d6a0c3df6c7fff40",
+   "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
+   "url": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
+   "summary": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records. The records, which Amazon's threat intelligence team captured with decoy…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-16T07:34:21.000Z",
+   "categories": [
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-16T10:01:47.155Z"
+  },
+  {
+   "id": "1abe8912cb223ae4",
+   "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
+   "url": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
+   "summary": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server. The activity, documented by Kaspersky's ICS CERT team after it was contacted by…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-16T06:53:34.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-16T10:01:47.155Z"
+  },
   {
    "id": "f5c6a0108f4137fd",
    "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
@@ -2891,93 +2978,6 @@
     "breach"
    ],
    "firstSeen": "2026-11-09T16:58:32.639Z"
-  },
-  {
-   "id": "372550c6ad43d960",
-   "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
-   "summary": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-09T16:04:57.000Z",
-   "categories": [
-    "breach",
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-09T16:58:32.639Z"
-  },
-  {
-   "id": "6a957e07c84def22",
-   "title": "NIST: Solo Shouldn't Mean Less Secure",
-   "url": "https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure",
-   "summary": "New guidance provides a basic framework for less-technical solo business owners, but it may miss the mark on how to secure technology that requires no human oversight.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-09T15:46:10.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-09T16:58:32.639Z"
-  },
-  {
-   "id": "1757fa2edacdf9d9",
-   "title": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
-   "url": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
-   "summary": "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC workplace: data literacy, agent governance, and communication. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-09T15:05:15.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-09T15:53:51.590Z"
-  },
-  {
-   "id": "43d753ff40f1d434",
-   "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
-   "url": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
-   "summary": "A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-09T14:34:03.000Z",
-   "categories": [
-    "phishing",
-    "attack"
-   ],
-   "firstSeen": "2026-11-09T14:54:00.492Z"
-  },
-  {
-   "id": "99ca2ce9ce5fc1e7",
-   "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
-   "url": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
-   "summary": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote access trojan called PapRAT. \"PapRAT has both C++ and Rust…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-09T14:31:29.000Z",
-   "categories": [
-    "malware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-09T15:53:51.590Z"
-  },
-  {
-   "id": "d1f3cbdb07a892e4",
-   "title": "Revolve Puts Data Breach Victim Count at 1.5 Million",
-   "url": "https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million/",
-   "summary": "Online fashion retailer Revolve has told regulators that the September cyberattack affected more than 1.5 million individuals. The post Revolve Puts Data Breach Victim Count at 1.5 Million appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-09T14:08:08.000Z",
-   "categories": [
-    "breach",
-    "attack"
-   ],
-   "firstSeen": "2026-11-09T14:54:00.492Z"
   }
  ]
 }
