@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-17T11:32:28.656Z",
- "lastAttempt": "2026-11-17T11:32:28.656Z",
+ "lastSuccess": "2026-11-17T12:38:12.643Z",
+ "lastAttempt": "2026-11-17T12:38:12.643Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T11:32:28.656Z",
-   "lastSuccess": "2026-11-17T11:32:28.656Z",
+   "checkedAt": "2026-11-17T12:38:12.643Z",
+   "lastSuccess": "2026-11-17T12:38:12.643Z",
    "etag": null,
-   "lastModified": "Tue, 17 Nov 2026 11:31:42 GMT"
+   "lastModified": "Tue, 17 Nov 2026 12:27:13 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T11:32:28.656Z",
-   "lastSuccess": "2026-11-17T11:32:28.656Z",
-   "etag": "0769e42a4d571659992ccf42dff4fa21",
-   "lastModified": "Tue, 17 Nov 2026 11:29:53 GMT"
+   "checkedAt": "2026-11-17T12:38:12.643Z",
+   "lastSuccess": "2026-11-17T12:38:12.643Z",
+   "etag": "a7d61636aa8efb1477feecba0c652299",
+   "lastModified": "Tue, 17 Nov 2026 12:28:20 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T11:32:28.656Z",
-   "lastSuccess": "2026-11-17T11:32:28.656Z",
+   "checkedAt": "2026-11-17T12:38:12.643Z",
+   "lastSuccess": "2026-11-17T12:38:12.643Z",
    "etag": null,
    "lastModified": "Tue, 17 Nov 2026 09:28:07 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T11:32:28.656Z",
-   "lastSuccess": "2026-11-17T11:32:28.656Z",
-   "etag": "\"64dbf68a76520b81345530f421e165f9\"",
-   "lastModified": "Tue, 17 Nov 2026 10:22:24 GMT"
+   "checkedAt": "2026-11-17T12:38:12.643Z",
+   "lastSuccess": "2026-11-17T12:38:12.643Z",
+   "etag": "W/\"b888363cd7aa35653d20bd6e0cf75f89\"",
+   "lastModified": "Tue, 17 Nov 2026 12:28:49 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T11:32:28.656Z",
-   "lastSuccess": "2026-11-17T11:32:28.656Z",
+   "checkedAt": "2026-11-17T12:38:12.643Z",
+   "lastSuccess": "2026-11-17T12:38:12.643Z",
    "etag": null,
-   "lastModified": "Tue, 17 Nov 2026 11:32:29 GMT"
+   "lastModified": "Tue, 17 Nov 2026 12:38:13 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,70 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-17T11:32:28.656Z",
+   "checkedAt": "2026-11-17T12:38:12.643Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "e0eeccae847ccecd",
+   "title": "N-able Kills Legacy APIs, Patches 17 N-central Zero-Days",
+   "url": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/",
+   "summary": "The patches target recently disclosed zero-days, including vulnerabilities already exploited in the wild. The post N-able Kills Legacy APIs, Patches 17 N-central Zero-Days appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-17T12:28:45.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-17T12:38:12.643Z"
+  },
+  {
+   "id": "88d6d55f0b06ce11",
+   "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+   "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+   "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers who hijacked Trivy, a widely used open-source security…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-17T12:25:06.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-17T12:38:12.643Z"
+  },
+  {
+   "id": "1d648e0700680ba4",
+   "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
+   "url": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
+   "summary": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt. The first security updates with the fix came out on August 17. Neither Apple nor the two researchers who found the flaw…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-17T12:14:36.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-17T12:38:12.643Z"
+  },
+  {
+   "id": "ecbb45c59e1aeb21",
+   "title": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
+   "url": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/",
+   "summary": "The lawsuit alleges that OpenAI misled and endangered the public and users by knowingly developing advanced AI models without necessary safeguards. The post California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-17T12:00:00.000Z",
+   "categories": [
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-17T12:38:12.643Z"
+  },
   {
    "id": "1f9af5fe35a30d12",
    "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
@@ -2924,64 +2981,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-10T17:30:25.858Z"
-  },
-  {
-   "id": "9154e248fbd42384",
-   "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
-   "url": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
-   "summary": "Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and login credentials. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-10T15:59:19.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-10T17:30:25.858Z"
-  },
-  {
-   "id": "af8c1df07c8f17c5",
-   "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
-   "url": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
-   "summary": "The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that shares its lineage with AsyncRAT and DCRat. \"The campaign…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-10T15:58:44.000Z",
-   "categories": [
-    "malware",
-    "phishing"
-   ],
-   "firstSeen": "2026-11-10T17:30:25.858Z"
-  },
-  {
-   "id": "78de25647db1bd8e",
-   "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
-   "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
-   "summary": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a \"limited set of accounts.\"…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-10T15:33:59.000Z",
-   "categories": [
-    "breach",
-    "ai"
-   ],
-   "firstSeen": "2026-11-10T17:30:25.858Z"
-  },
-  {
-   "id": "f5fadb4e0a64bf5c",
-   "title": "Ransomware recovery is now a client retention metric",
-   "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
-   "summary": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated workflows can improve response…",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-10T15:01:11.000Z",
-   "categories": [
-    "ransomware"
-   ],
-   "firstSeen": "2026-11-10T15:41:22.885Z"
   }
  ]
 }
