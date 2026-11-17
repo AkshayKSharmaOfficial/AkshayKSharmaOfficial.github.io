@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-17T18:56:45.134Z",
- "lastAttempt": "2026-11-17T18:56:45.134Z",
+ "lastSuccess": "2026-11-17T19:59:41.708Z",
+ "lastAttempt": "2026-11-17T19:59:41.708Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T18:56:45.134Z",
-   "lastSuccess": "2026-11-17T18:56:45.134Z",
+   "checkedAt": "2026-11-17T19:59:41.708Z",
+   "lastSuccess": "2026-11-17T19:59:41.708Z",
    "etag": null,
-   "lastModified": "Tue, 17 Nov 2026 12:27:13 GMT"
+   "lastModified": "Tue, 17 Nov 2026 19:17:06 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T18:56:45.134Z",
-   "lastSuccess": "2026-11-17T18:56:45.134Z",
-   "etag": "dbf4d2cbb3f7e7b46d963ab37c94e0f4",
-   "lastModified": "Tue, 17 Nov 2026 18:51:24 GMT"
+   "checkedAt": "2026-11-17T19:59:41.708Z",
+   "lastSuccess": "2026-11-17T19:59:41.708Z",
+   "etag": "50e1e991d19c1862a6fe74b98c79d3de",
+   "lastModified": "Tue, 17 Nov 2026 19:59:13 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T18:56:45.134Z",
-   "lastSuccess": "2026-11-17T18:56:45.134Z",
+   "checkedAt": "2026-11-17T19:59:41.708Z",
+   "lastSuccess": "2026-11-17T19:59:41.708Z",
    "etag": null,
    "lastModified": "Tue, 17 Nov 2026 18:50:21 GMT"
   },
@@ -43,11 +43,11 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T18:56:45.134Z",
-   "lastSuccess": "2026-11-17T18:56:45.134Z",
+   "checkedAt": "2026-11-17T19:59:41.708Z",
+   "lastSuccess": "2026-11-17T19:59:41.708Z",
    "etag": "\"4c39d62bbc761e1910ca58bcfbd58953\"",
    "lastModified": "Tue, 17 Nov 2026 18:21:50 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T18:56:45.134Z",
-   "lastSuccess": "2026-11-17T18:56:45.134Z",
+   "checkedAt": "2026-11-17T19:59:41.708Z",
+   "lastSuccess": "2026-11-17T19:59:41.708Z",
    "etag": null,
-   "lastModified": "Tue, 17 Nov 2026 18:56:45 GMT"
+   "lastModified": "Tue, 17 Nov 2026 19:59:42 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,25 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T18:56:45.134Z",
-   "lastSuccess": "2026-11-17T18:56:45.134Z",
+   "checkedAt": "2026-11-17T19:59:41.708Z",
+   "lastSuccess": "2026-11-17T19:59:41.708Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "9e709210a3bbca44",
+   "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+   "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+   "summary": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-17T19:24:07.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-17T19:59:41.708Z"
+  },
   {
    "id": "f3e27c8997beb326",
    "title": "Cursor Traces Malicious Claude Code Extension to Third-Party Breach",
@@ -128,7 +140,7 @@
    "id": "a7be54dbbeeaa213",
    "title": "Tor releases emergency update amid ongoing DDoS attack",
    "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
-   "summary": "[...]",
+   "summary": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]",
    "source": "BleepingComputer",
    "sourceId": "bleeping",
    "kind": "media",
@@ -149,6 +161,34 @@
    "published": "2026-11-17T16:00:00.000Z",
    "categories": [],
    "firstSeen": "2026-11-17T16:56:19.348Z"
+  },
+  {
+   "id": "e5492f9867506c17",
+   "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+   "url": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+   "summary": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially critical remote code execution (RCE) flaw affecting OpenJDK…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-17T15:17:36.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-17T19:59:41.708Z"
+  },
+  {
+   "id": "4f9516b8f5d72d7a",
+   "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+   "url": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+   "summary": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram. \"Trigram is a large-scale campaign that impersonates about 50 brands in the blockchain and AI sectors…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-17T15:17:28.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-17T19:59:41.708Z"
   },
   {
    "id": "924110481a05bb2d",
@@ -314,19 +354,20 @@
    "firstSeen": "2026-11-17T12:38:12.643Z"
   },
   {
-   "id": "ecbb45c59e1aeb21",
-   "title": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
-   "url": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/",
-   "summary": "The lawsuit alleges that OpenAI misled and endangered the public and users by knowingly developing advanced AI models without necessary safeguards. The post California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
+   "id": "718e724b2a852bca",
+   "title": "Dorsett Controls InfoScan",
+   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01",
+   "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to retrieve sensitive system information, access application data without authorization, recover stored credentials, or intercept and manipulate network communications. The following…",
+   "source": "CISA (US government)",
+   "sourceId": "cisa",
+   "kind": "official",
    "published": "2026-11-17T12:00:00.000Z",
    "categories": [
-    "ai",
+    "advisory",
+    "vuln",
     "attack"
    ],
-   "firstSeen": "2026-11-17T12:38:12.643Z"
+   "firstSeen": "2026-11-17T16:56:19.348Z"
   },
   {
    "id": "aa40bdb333a170de",
@@ -345,10 +386,10 @@
    "firstSeen": "2026-11-17T16:56:19.348Z"
   },
   {
-   "id": "e36d1587afada007",
-   "title": "Siemens .NET Client Library for SIMATIC S7 Webserver API",
-   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02",
-   "summary": "View CSAF Summary .NET Client Library for SIMATIC S7 Webserver API contains multiple vulnerabilities that could allow an attacker to obtain sensitive information or write arbitrary files outside the intended download directory. Siemens has released a new version for .NET Client…",
+   "id": "b3145b7236f4b2dd",
+   "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+   "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
+   "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack…",
    "source": "CISA (US government)",
    "sourceId": "cisa",
    "kind": "official",
@@ -358,7 +399,7 @@
     "vuln",
     "attack"
    ],
-   "firstSeen": "2026-11-17T16:56:19.348Z"
+   "firstSeen": "2026-11-17T19:59:41.708Z"
   },
   {
    "id": "442d64e65534e2e0",
@@ -408,10 +449,10 @@
    "firstSeen": "2026-11-17T16:56:19.348Z"
   },
   {
-   "id": "718e724b2a852bca",
-   "title": "Dorsett Controls InfoScan",
-   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01",
-   "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to retrieve sensitive system information, access application data without authorization, recover stored credentials, or intercept and manipulate network communications. The following…",
+   "id": "e36d1587afada007",
+   "title": "Siemens .NET Client Library for SIMATIC S7 Webserver API",
+   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02",
+   "summary": "View CSAF Summary .NET Client Library for SIMATIC S7 Webserver API contains multiple vulnerabilities that could allow an attacker to obtain sensitive information or write arbitrary files outside the intended download directory. Siemens has released a new version for .NET Client…",
    "source": "CISA (US government)",
    "sourceId": "cisa",
    "kind": "official",
@@ -420,21 +461,6 @@
     "advisory",
     "vuln",
     "attack"
-   ],
-   "firstSeen": "2026-11-17T16:56:19.348Z"
-  },
-  {
-   "id": "b0e0e042a6ce2a07",
-   "title": "Siemens Industrial Software Products",
-   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04",
-   "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write…",
-   "source": "CISA (US government)",
-   "sourceId": "cisa",
-   "kind": "official",
-   "published": "2026-11-17T12:00:00.000Z",
-   "categories": [
-    "advisory",
-    "vuln"
    ],
    "firstSeen": "2026-11-17T16:56:19.348Z"
   },
@@ -470,6 +496,21 @@
    "firstSeen": "2026-11-17T16:56:19.348Z"
   },
   {
+   "id": "b0e0e042a6ce2a07",
+   "title": "Siemens Industrial Software Products",
+   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04",
+   "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write…",
+   "source": "CISA (US government)",
+   "sourceId": "cisa",
+   "kind": "official",
+   "published": "2026-11-17T12:00:00.000Z",
+   "categories": [
+    "advisory",
+    "vuln"
+   ],
+   "firstSeen": "2026-11-17T16:56:19.348Z"
+  },
+  {
    "id": "404c0c128931f062",
    "title": "Siemens ROS#",
    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
@@ -500,6 +541,21 @@
     "attack"
    ],
    "firstSeen": "2026-11-17T16:56:19.348Z"
+  },
+  {
+   "id": "ecbb45c59e1aeb21",
+   "title": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
+   "url": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/",
+   "summary": "The lawsuit alleges that OpenAI misled and endangered the public and users by knowingly developing advanced AI models without necessary safeguards. The post California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-17T12:00:00.000Z",
+   "categories": [
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-17T12:38:12.643Z"
   },
   {
    "id": "1f9af5fe35a30d12",
@@ -2925,62 +2981,6 @@
     "vuln"
    ],
    "firstSeen": "2026-11-11T10:53:39.690Z"
-  },
-  {
-   "id": "6daf08a5aebc96fa",
-   "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
-   "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-11T10:12:08.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-11T10:53:39.690Z"
-  },
-  {
-   "id": "03b5140f381fa26f",
-   "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
-   "summary": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-11T09:07:27.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-11T09:52:48.446Z"
-  },
-  {
-   "id": "231dddf2cd951b23",
-   "title": "Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities",
-   "url": "https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/",
-   "summary": "The flaws, CVE-2026-111793 and CVE-2026-20320, let attackers leak sensitive information, including configuration data. The post Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-11T09:01:07.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-11T09:52:48.446Z"
-  },
-  {
-   "id": "0f8874dccd67907c",
-   "title": "Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD",
-   "url": "https://www.securityweek.com/chipmaker-patch-tuesday-over-200-vulnerabilities-addressed-by-intel-amd/",
-   "summary": "Intel and AMD disclose more than 200 vulnerabilities, including critical flaws in Intel TDX software and numerous AMD graphics bugs. The post Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-11T08:42:44.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-11T08:50:55.026Z"
   }
  ]
 }
