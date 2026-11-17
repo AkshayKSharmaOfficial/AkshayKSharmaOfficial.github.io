@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-17T14:54:17.631Z",
- "lastAttempt": "2026-11-17T14:54:17.631Z",
+ "lastSuccess": "2026-11-17T15:51:13.586Z",
+ "lastAttempt": "2026-11-17T15:51:13.586Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T14:54:17.631Z",
-   "lastSuccess": "2026-11-17T14:54:17.631Z",
+   "checkedAt": "2026-11-17T15:51:13.586Z",
+   "lastSuccess": "2026-11-17T15:51:13.586Z",
    "etag": null,
    "lastModified": "Tue, 17 Nov 2026 12:27:13 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T14:54:17.631Z",
-   "lastSuccess": "2026-11-17T14:54:17.631Z",
-   "etag": "9e22f06918ce3c9b89c3e8bf895e47ff",
-   "lastModified": "Tue, 17 Nov 2026 14:48:24 GMT"
+   "checkedAt": "2026-11-17T15:51:13.586Z",
+   "lastSuccess": "2026-11-17T15:51:13.586Z",
+   "etag": "af1d1b3acb26dd7fd3a62417c09568ea",
+   "lastModified": "Tue, 17 Nov 2026 15:48:26 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T14:54:17.631Z",
-   "lastSuccess": "2026-11-17T14:54:17.631Z",
+   "checkedAt": "2026-11-17T15:51:13.586Z",
+   "lastSuccess": "2026-11-17T15:51:13.586Z",
    "etag": null,
-   "lastModified": "Tue, 17 Nov 2026 14:45:35 GMT"
+   "lastModified": "Tue, 17 Nov 2026 15:46:54 GMT"
   },
   {
    "id": "securityweek",
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T14:54:17.631Z",
-   "lastSuccess": "2026-11-17T14:54:17.631Z",
-   "etag": "\"84f30a6115d81c73e88929bb7573fd31\"",
-   "lastModified": "Tue, 17 Nov 2026 14:32:40 GMT"
+   "checkedAt": "2026-11-17T15:51:13.586Z",
+   "lastSuccess": "2026-11-17T15:51:13.586Z",
+   "etag": "W/\"dbaac09718e9bbb05e78fde984904179\"",
+   "lastModified": "Tue, 17 Nov 2026 14:56:38 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T14:54:17.631Z",
-   "lastSuccess": "2026-11-17T14:54:17.631Z",
+   "checkedAt": "2026-11-17T15:51:13.586Z",
+   "lastSuccess": "2026-11-17T15:51:13.586Z",
    "etag": null,
-   "lastModified": "Tue, 17 Nov 2026 14:54:03 GMT"
+   "lastModified": "Tue, 17 Nov 2026 15:51:14 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,41 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-17T14:54:17.631Z",
+   "checkedAt": "2026-11-17T15:51:13.586Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "924110481a05bb2d",
+   "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
+   "url": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+   "summary": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-17T15:01:11.000Z",
+   "categories": [
+    "phishing"
+   ],
+   "firstSeen": "2026-11-17T15:51:13.586Z"
+  },
+  {
+   "id": "b0ac25159f831f8c",
+   "title": "Market Research Giant Ipsos Investigating Breach of Internal System",
+   "url": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
+   "summary": "The company made the incident public on Monday, November 16, five days after filing a complaint with authorities. The post Market Research Giant Ipsos Investigating Breach of Internal System appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-17T14:55:30.000Z",
+   "categories": [
+    "breach"
+   ],
+   "firstSeen": "2026-11-17T15:51:13.586Z"
+  },
   {
    "id": "33ac08bd1029a874",
    "title": "Fandango Warns Ticket Buyers of Payment Card Data Exposure",
@@ -128,6 +156,20 @@
    "published": "2026-11-17T13:22:15.000Z",
    "categories": [],
    "firstSeen": "2026-11-17T13:57:33.484Z"
+  },
+  {
+   "id": "6cf4238ac9ad9f86",
+   "title": "Grok Bots Attempt to Access Corporate Data Without User Approval",
+   "url": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval",
+   "summary": "Two AI agents, separately over a five-day period, autonomously tried to access connected applications, including Google Calendar, Gmail, Slack, and GitHub, without account owner approval.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-17T13:12:56.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-17T15:51:13.586Z"
   },
   {
    "id": "73d03c3694367ca9",
@@ -2928,49 +2970,6 @@
     "vuln"
    ],
    "firstSeen": "2026-11-10T19:28:02.037Z"
-  },
-  {
-   "id": "e534bcdef2076564",
-   "title": "AI Coding Agents Leak Thousands of Secrets to GitHub",
-   "url": "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github",
-   "summary": "A command in Claude Code inadvertently saves files with credentials and other sensitive data to public Git repositories, creating security gaps for organizations.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-10T18:46:22.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-10T19:28:02.037Z"
-  },
-  {
-   "id": "730a7d940038fcaa",
-   "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
-   "summary": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-10T18:33:26.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-10T19:28:02.037Z"
-  },
-  {
-   "id": "452012a5ab466238",
-   "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
-   "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
-   "summary": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild. The authentication bypass flaw, which does not yet have a CVE identifier, is tracked as VSA-2026-062. \"REST cookie parsing…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-10T18:12:21.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-10T20:20:46.570Z"
   }
  ]
 }
