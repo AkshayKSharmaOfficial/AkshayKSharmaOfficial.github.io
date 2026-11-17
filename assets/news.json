@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-17T08:18:25.428Z",
- "lastAttempt": "2026-11-17T08:18:25.428Z",
+ "lastSuccess": "2026-11-17T09:32:35.248Z",
+ "lastAttempt": "2026-11-17T09:32:35.248Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T08:18:25.428Z",
-   "lastSuccess": "2026-11-17T08:18:25.428Z",
+   "checkedAt": "2026-11-17T09:32:35.248Z",
+   "lastSuccess": "2026-11-17T09:32:35.248Z",
    "etag": null,
    "lastModified": "Tue, 17 Nov 2026 07:47:23 GMT"
   },
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T08:18:25.428Z",
-   "lastSuccess": "2026-11-17T08:18:25.428Z",
-   "etag": "67adc890fab0efb253b9a48259051b58",
-   "lastModified": "Tue, 17 Nov 2026 08:10:13 GMT"
+   "checkedAt": "2026-11-17T09:32:35.248Z",
+   "lastSuccess": "2026-11-17T09:32:35.248Z",
+   "etag": "b78b47b31e8124026c42f6ffd4ad1ef5",
+   "lastModified": "Tue, 17 Nov 2026 09:25:45 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T08:18:25.428Z",
-   "lastSuccess": "2026-11-17T08:18:25.428Z",
+   "checkedAt": "2026-11-17T09:32:35.248Z",
+   "lastSuccess": "2026-11-17T09:32:35.248Z",
    "etag": null,
-   "lastModified": "Tue, 17 Nov 2026 06:48:36 GMT"
+   "lastModified": "Tue, 17 Nov 2026 09:28:07 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T08:18:25.428Z",
-   "lastSuccess": "2026-11-17T08:18:25.428Z",
+   "checkedAt": "2026-11-17T09:32:35.248Z",
+   "lastSuccess": "2026-11-17T09:32:35.248Z",
    "etag": "W/\"d6c8d7317ae14411fd1f699928052a8b\"",
    "lastModified": "Mon, 16 Nov 2026 20:26:43 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T08:18:25.428Z",
-   "lastSuccess": "2026-11-17T08:18:25.428Z",
+   "checkedAt": "2026-11-17T09:32:35.248Z",
+   "lastSuccess": "2026-11-17T09:32:35.248Z",
    "etag": null,
-   "lastModified": "Tue, 17 Nov 2026 08:18:25 GMT"
+   "lastModified": "Tue, 17 Nov 2026 09:32:35 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,29 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-17T08:18:25.428Z",
+   "checkedAt": "2026-11-17T09:32:35.248Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "6dc83338db6f4439",
+   "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
+   "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
+   "summary": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-17T08:35:42.000Z",
+   "categories": [
+    "breach",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-17T09:32:35.248Z"
+  },
   {
    "id": "9d15397d2d81d720",
    "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
@@ -2969,18 +2985,6 @@
     "ai"
    ],
    "firstSeen": "2026-11-10T12:37:02.490Z"
-  },
-  {
-   "id": "d195f153eca00984",
-   "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
-   "url": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
-   "summary": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today. Apple's updates for iOS 26 and 27, released…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-10T12:15:31.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-10T13:53:22.254Z"
   }
  ]
 }
