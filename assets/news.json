@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-17T09:32:35.248Z",
- "lastAttempt": "2026-11-17T09:32:35.248Z",
+ "lastSuccess": "2026-11-17T10:41:52.794Z",
+ "lastAttempt": "2026-11-17T10:41:52.794Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T09:32:35.248Z",
-   "lastSuccess": "2026-11-17T09:32:35.248Z",
+   "checkedAt": "2026-11-17T10:41:52.794Z",
+   "lastSuccess": "2026-11-17T10:41:52.794Z",
    "etag": null,
-   "lastModified": "Tue, 17 Nov 2026 07:47:23 GMT"
+   "lastModified": "Tue, 17 Nov 2026 10:29:24 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T09:32:35.248Z",
-   "lastSuccess": "2026-11-17T09:32:35.248Z",
-   "etag": "b78b47b31e8124026c42f6ffd4ad1ef5",
-   "lastModified": "Tue, 17 Nov 2026 09:25:45 GMT"
+   "checkedAt": "2026-11-17T10:41:52.794Z",
+   "lastSuccess": "2026-11-17T10:41:52.794Z",
+   "etag": "98574e49e02983de95557af720c471af",
+   "lastModified": "Tue, 17 Nov 2026 10:35:47 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T09:32:35.248Z",
-   "lastSuccess": "2026-11-17T09:32:35.248Z",
+   "checkedAt": "2026-11-17T10:41:52.794Z",
+   "lastSuccess": "2026-11-17T10:41:52.794Z",
    "etag": null,
    "lastModified": "Tue, 17 Nov 2026 09:28:07 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T09:32:35.248Z",
-   "lastSuccess": "2026-11-17T09:32:35.248Z",
-   "etag": "W/\"d6c8d7317ae14411fd1f699928052a8b\"",
-   "lastModified": "Mon, 16 Nov 2026 20:26:43 GMT"
+   "checkedAt": "2026-11-17T10:41:52.794Z",
+   "lastSuccess": "2026-11-17T10:41:52.794Z",
+   "etag": "\"64dbf68a76520b81345530f421e165f9\"",
+   "lastModified": "Tue, 17 Nov 2026 10:22:24 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T09:32:35.248Z",
-   "lastSuccess": "2026-11-17T09:32:35.248Z",
+   "checkedAt": "2026-11-17T10:41:52.794Z",
+   "lastSuccess": "2026-11-17T10:41:52.794Z",
    "etag": null,
-   "lastModified": "Tue, 17 Nov 2026 09:32:35 GMT"
+   "lastModified": "Tue, 17 Nov 2026 10:41:53 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,42 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-17T09:32:35.248Z",
+   "checkedAt": "2026-11-17T10:41:52.794Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "7e339043a8905a36",
+   "title": "Optimizely Vulnerability Exploited to Serve Malware on Major Websites",
+   "url": "https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites/",
+   "summary": "Affected organizations include BBC, CNN, Zoom, GitLab, Salesforce, Equifax, HSBC, and IKEA. The post Optimizely Vulnerability Exploited to Serve Malware on Major Websites appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-17T10:22:20.000Z",
+   "categories": [
+    "vuln",
+    "malware"
+   ],
+   "firstSeen": "2026-11-17T10:41:52.794Z"
+  },
+  {
+   "id": "9027be967812b33a",
+   "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
+   "url": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
+   "summary": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-17T09:44:22.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-17T10:41:52.794Z"
+  },
   {
    "id": "6dc83338db6f4439",
    "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
@@ -2955,36 +2984,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-10T13:53:22.254Z"
-  },
-  {
-   "id": "4606ba7f8bef4db9",
-   "title": "AI Makes Reverse Engineering Mainstream Software & Malware Far Easier",
-   "url": "https://www.darkreading.com/application-security/ai-reverse-engineering-apps",
-   "summary": "Researchers unpacked, mapped, and recreated complex software and the Turla malware, raising opportunities and concerns for organizations and cybersecurity analysts.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-10T13:00:00.000Z",
-   "categories": [
-    "malware",
-    "ai"
-   ],
-   "firstSeen": "2026-11-10T13:53:22.254Z"
-  },
-  {
-   "id": "be32db521ac90c12",
-   "title": "Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes",
-   "url": "https://www.securityweek.com/anthropic-rolls-out-mythos-5-2-with-improved-bug-hunting-fewer-sandbox-escapes/",
-   "summary": "Anthropic says Mythos 5.2 improves vulnerability discovery while showing a lower tendency to escape sandboxes in controlled tests. The post Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-10T12:17:13.000Z",
-   "categories": [
-    "vuln",
-    "ai"
-   ],
-   "firstSeen": "2026-11-10T12:37:02.490Z"
   }
  ]
 }
