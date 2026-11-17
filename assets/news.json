@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-17T22:49:40.851Z",
- "lastAttempt": "2026-11-17T22:49:40.851Z",
+ "lastSuccess": "2026-11-17T23:45:07.954Z",
+ "lastAttempt": "2026-11-17T23:45:07.954Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T22:49:40.851Z",
-   "lastSuccess": "2026-11-17T22:49:40.851Z",
+   "checkedAt": "2026-11-17T23:45:07.954Z",
+   "lastSuccess": "2026-11-17T23:45:07.954Z",
    "etag": null,
-   "lastModified": "Tue, 17 Nov 2026 22:24:41 GMT"
+   "lastModified": "Tue, 17 Nov 2026 23:22:53 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T22:49:40.851Z",
-   "lastSuccess": "2026-11-17T22:49:40.851Z",
-   "etag": "024d761007b0d4dfefb5c71c55972f98",
-   "lastModified": "Tue, 17 Nov 2026 22:47:20 GMT"
+   "checkedAt": "2026-11-17T23:45:07.954Z",
+   "lastSuccess": "2026-11-17T23:45:07.954Z",
+   "etag": "6212e28f5e816b736b9c2e0e480d0294",
+   "lastModified": "Tue, 17 Nov 2026 23:44:24 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T22:49:40.851Z",
-   "lastSuccess": "2026-11-17T22:49:40.851Z",
+   "checkedAt": "2026-11-17T23:45:07.954Z",
+   "lastSuccess": "2026-11-17T23:45:07.954Z",
    "etag": null,
-   "lastModified": "Tue, 17 Nov 2026 18:50:21 GMT"
+   "lastModified": "Tue, 17 Nov 2026 23:42:02 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T22:49:40.851Z",
-   "lastSuccess": "2026-11-17T22:49:40.851Z",
+   "checkedAt": "2026-11-17T23:45:07.954Z",
+   "lastSuccess": "2026-11-17T23:45:07.954Z",
    "etag": "\"4c39d62bbc761e1910ca58bcfbd58953\"",
    "lastModified": "Tue, 17 Nov 2026 18:21:50 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T22:49:40.851Z",
-   "lastSuccess": "2026-11-17T22:49:40.851Z",
+   "checkedAt": "2026-11-17T23:45:07.954Z",
+   "lastSuccess": "2026-11-17T23:45:07.954Z",
    "etag": null,
-   "lastModified": "Tue, 17 Nov 2026 22:49:41 GMT"
+   "lastModified": "Tue, 17 Nov 2026 23:45:08 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T22:49:40.851Z",
-   "lastSuccess": "2026-11-17T22:49:40.851Z",
+   "checkedAt": "2026-11-17T23:45:07.954Z",
+   "lastSuccess": "2026-11-17T23:45:07.954Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "3ec8b913e004fd55",
+   "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+   "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+   "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-17T23:04:21.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-17T23:45:07.954Z"
+  },
   {
    "id": "52e19c47edc2281d",
    "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
@@ -2974,21 +2989,6 @@
     "ai"
    ],
    "firstSeen": "2026-11-11T14:11:58.310Z"
-  },
-  {
-   "id": "4cd892fc52b8a7b3",
-   "title": "Fortinet Patches Nearly 100 Vulnerabilities",
-   "url": "https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/",
-   "summary": "The massive drop comes after the company integrated frontier AI models into its product security testing. The post Fortinet Patches Nearly 100 Vulnerabilities appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-11T12:10:14.000Z",
-   "categories": [
-    "vuln",
-    "ai"
-   ],
-   "firstSeen": "2026-11-11T12:56:03.898Z"
   }
  ]
 }
