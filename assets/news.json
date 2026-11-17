@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-17T06:48:48.261Z",
- "lastAttempt": "2026-11-17T06:48:48.261Z",
+ "lastSuccess": "2026-11-17T08:18:25.428Z",
+ "lastAttempt": "2026-11-17T08:18:25.428Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T06:48:48.261Z",
-   "lastSuccess": "2026-11-17T06:48:48.261Z",
+   "checkedAt": "2026-11-17T08:18:25.428Z",
+   "lastSuccess": "2026-11-17T08:18:25.428Z",
    "etag": null,
-   "lastModified": "Tue, 17 Nov 2026 06:35:54 GMT"
+   "lastModified": "Tue, 17 Nov 2026 07:47:23 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T06:48:48.261Z",
-   "lastSuccess": "2026-11-17T06:48:48.261Z",
-   "etag": "a81c31d486727244753093313d1fc0f7",
-   "lastModified": "Tue, 17 Nov 2026 06:41:06 GMT"
+   "checkedAt": "2026-11-17T08:18:25.428Z",
+   "lastSuccess": "2026-11-17T08:18:25.428Z",
+   "etag": "67adc890fab0efb253b9a48259051b58",
+   "lastModified": "Tue, 17 Nov 2026 08:10:13 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T06:48:48.261Z",
-   "lastSuccess": "2026-11-17T06:48:48.261Z",
+   "checkedAt": "2026-11-17T08:18:25.428Z",
+   "lastSuccess": "2026-11-17T08:18:25.428Z",
    "etag": null,
    "lastModified": "Tue, 17 Nov 2026 06:48:36 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T06:48:48.261Z",
-   "lastSuccess": "2026-11-17T06:48:48.261Z",
+   "checkedAt": "2026-11-17T08:18:25.428Z",
+   "lastSuccess": "2026-11-17T08:18:25.428Z",
    "etag": "W/\"d6c8d7317ae14411fd1f699928052a8b\"",
    "lastModified": "Mon, 16 Nov 2026 20:26:43 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T06:48:48.261Z",
-   "lastSuccess": "2026-11-17T06:48:48.261Z",
+   "checkedAt": "2026-11-17T08:18:25.428Z",
+   "lastSuccess": "2026-11-17T08:18:25.428Z",
    "etag": null,
-   "lastModified": "Tue, 17 Nov 2026 06:48:48 GMT"
+   "lastModified": "Tue, 17 Nov 2026 08:18:25 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,43 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-17T06:48:48.261Z",
+   "checkedAt": "2026-11-17T08:18:25.428Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "9d15397d2d81d720",
+   "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
+   "url": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
+   "summary": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-17T07:25:44.000Z",
+   "categories": [
+    "ransomware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-17T08:18:25.428Z"
+  },
+  {
+   "id": "64d59e5e3ac8caa0",
+   "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
+   "url": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
+   "summary": "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today. Visitors to sites run by at least 178 organizations, including CNN, the BBC and Zoom…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-17T07:12:13.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-17T08:18:25.428Z"
+  },
   {
    "id": "dd31e5151870eabc",
    "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
@@ -2951,35 +2981,6 @@
    "published": "2026-11-10T12:15:31.000Z",
    "categories": [],
    "firstSeen": "2026-11-10T13:53:22.254Z"
-  },
-  {
-   "id": "3627b6078668f7a0",
-   "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
-   "url": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
-   "summary": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-10T12:07:03.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-10T12:37:02.490Z"
-  },
-  {
-   "id": "646514068c3fbbb4",
-   "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
-   "url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
-   "summary": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability CVE-2026-111560 Barracuda Networks…",
-   "source": "CISA (US government)",
-   "sourceId": "cisa",
-   "kind": "official",
-   "published": "2026-11-10T12:00:00.000Z",
-   "categories": [
-    "advisory",
-    "vuln"
-   ],
-   "firstSeen": "2026-11-10T21:15:23.895Z"
   }
  ]
 }
