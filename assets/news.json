@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-17T10:41:52.794Z",
- "lastAttempt": "2026-11-17T10:41:52.794Z",
+ "lastSuccess": "2026-11-17T11:32:28.656Z",
+ "lastAttempt": "2026-11-17T11:32:28.656Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T10:41:52.794Z",
-   "lastSuccess": "2026-11-17T10:41:52.794Z",
+   "checkedAt": "2026-11-17T11:32:28.656Z",
+   "lastSuccess": "2026-11-17T11:32:28.656Z",
    "etag": null,
-   "lastModified": "Tue, 17 Nov 2026 10:29:24 GMT"
+   "lastModified": "Tue, 17 Nov 2026 11:31:42 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T10:41:52.794Z",
-   "lastSuccess": "2026-11-17T10:41:52.794Z",
-   "etag": "98574e49e02983de95557af720c471af",
-   "lastModified": "Tue, 17 Nov 2026 10:35:47 GMT"
+   "checkedAt": "2026-11-17T11:32:28.656Z",
+   "lastSuccess": "2026-11-17T11:32:28.656Z",
+   "etag": "0769e42a4d571659992ccf42dff4fa21",
+   "lastModified": "Tue, 17 Nov 2026 11:29:53 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T10:41:52.794Z",
-   "lastSuccess": "2026-11-17T10:41:52.794Z",
+   "checkedAt": "2026-11-17T11:32:28.656Z",
+   "lastSuccess": "2026-11-17T11:32:28.656Z",
    "etag": null,
    "lastModified": "Tue, 17 Nov 2026 09:28:07 GMT"
   },
@@ -43,11 +43,11 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T10:41:52.794Z",
-   "lastSuccess": "2026-11-17T10:41:52.794Z",
+   "checkedAt": "2026-11-17T11:32:28.656Z",
+   "lastSuccess": "2026-11-17T11:32:28.656Z",
    "etag": "\"64dbf68a76520b81345530f421e165f9\"",
    "lastModified": "Tue, 17 Nov 2026 10:22:24 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T10:41:52.794Z",
-   "lastSuccess": "2026-11-17T10:41:52.794Z",
+   "checkedAt": "2026-11-17T11:32:28.656Z",
+   "lastSuccess": "2026-11-17T11:32:28.656Z",
    "etag": null,
-   "lastModified": "Tue, 17 Nov 2026 10:41:53 GMT"
+   "lastModified": "Tue, 17 Nov 2026 11:32:29 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,53 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-17T10:41:52.794Z",
+   "checkedAt": "2026-11-17T11:32:28.656Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "1f9af5fe35a30d12",
+   "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
+   "url": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
+   "summary": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for command‑and‑control (C2). The activity has been codenamed…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-17T11:20:18.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-17T11:32:28.656Z"
+  },
+  {
+   "id": "ab764437c1a4eb1f",
+   "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
+   "summary": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-17T11:19:51.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-17T11:32:28.656Z"
+  },
+  {
+   "id": "c37508e4b828623c",
+   "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
+   "url": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
+   "summary": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents. The changes, currently previewed in macOS 27.3 beta 2, relate to increased transparency and more…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-17T11:07:31.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-17T11:32:28.656Z"
+  },
   {
    "id": "7e339043a8905a36",
    "title": "Optimizely Vulnerability Exploited to Serve Malware on Major Websites",
@@ -2942,48 +2982,6 @@
     "ransomware"
    ],
    "firstSeen": "2026-11-10T15:41:22.885Z"
-  },
-  {
-   "id": "5f53ee8f3ce627ef",
-   "title": "WhiteMatter Raises $20 Million in Series A Funding",
-   "url": "https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/",
-   "summary": "The cybersecurity startup deploys a dedicated guardian agent for every AI agent in an organization’s environment. The post WhiteMatter Raises $20 Million in Series A Funding appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-10T14:58:19.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-10T15:41:22.885Z"
-  },
-  {
-   "id": "bc8d0735c275e458",
-   "title": "SAP Patches Critical ICM2SHELL, ProxyGate Vulnerabilities",
-   "url": "https://www.securityweek.com/sap-patches-critical-icm2shell-proxygate-vulnerabilities/",
-   "summary": "SAP has published 42 new and updated security advisories, including nine that address critical-severity vulnerabilities. The post SAP Patches Critical ICM2SHELL, ProxyGate Vulnerabilities appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-10T14:46:28.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-10T14:49:18.655Z"
-  },
-  {
-   "id": "b27ae4ae529c7401",
-   "title": "Over a Dozen Organizations Hit in Qubole Supply Chain Attack",
-   "url": "https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/",
-   "summary": "Hackers used compromised Qubole IAM credentials to steal customer files, secrets, keys, environment variables, and credentials. The post Over a Dozen Organizations Hit in Qubole Supply Chain Attack appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-10T13:27:44.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-10T13:53:22.254Z"
   }
  ]
 }
