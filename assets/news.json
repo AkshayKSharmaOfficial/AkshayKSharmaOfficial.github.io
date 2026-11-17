@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-17T16:56:19.348Z",
- "lastAttempt": "2026-11-17T16:56:19.348Z",
+ "lastSuccess": "2026-11-17T17:56:48.187Z",
+ "lastAttempt": "2026-11-17T17:56:48.187Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T16:56:19.348Z",
-   "lastSuccess": "2026-11-17T16:56:19.348Z",
+   "checkedAt": "2026-11-17T17:56:48.187Z",
+   "lastSuccess": "2026-11-17T17:56:48.187Z",
    "etag": null,
    "lastModified": "Tue, 17 Nov 2026 12:27:13 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T16:56:19.348Z",
-   "lastSuccess": "2026-11-17T16:56:19.348Z",
-   "etag": "37d22e803e81f49cbf251c5c1b62816a",
-   "lastModified": "Tue, 17 Nov 2026 16:48:28 GMT"
+   "checkedAt": "2026-11-17T17:56:48.187Z",
+   "lastSuccess": "2026-11-17T17:56:48.187Z",
+   "etag": "c5c43d602dab6ca463183c198853eb57",
+   "lastModified": "Tue, 17 Nov 2026 17:48:29 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T16:56:19.348Z",
-   "lastSuccess": "2026-11-17T16:56:19.348Z",
+   "checkedAt": "2026-11-17T17:56:48.187Z",
+   "lastSuccess": "2026-11-17T17:56:48.187Z",
    "etag": null,
    "lastModified": "Tue, 17 Nov 2026 15:46:54 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T16:56:19.348Z",
-   "lastSuccess": "2026-11-17T16:56:19.348Z",
+   "checkedAt": "2026-11-17T17:56:48.187Z",
+   "lastSuccess": "2026-11-17T17:56:48.187Z",
    "etag": "W/\"dbaac09718e9bbb05e78fde984904179\"",
    "lastModified": "Tue, 17 Nov 2026 14:56:38 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T16:56:19.348Z",
-   "lastSuccess": "2026-11-17T16:56:19.348Z",
+   "checkedAt": "2026-11-17T17:56:48.187Z",
+   "lastSuccess": "2026-11-17T17:56:48.187Z",
    "etag": null,
-   "lastModified": "Tue, 17 Nov 2026 16:56:19 GMT"
+   "lastModified": "Tue, 17 Nov 2026 17:56:48 GMT"
   },
   {
    "id": "cisa",
@@ -70,8 +70,8 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T16:56:19.348Z",
-   "lastSuccess": "2026-11-17T16:56:19.348Z",
+   "checkedAt": "2026-11-17T17:56:48.187Z",
+   "lastSuccess": "2026-11-17T17:56:48.187Z",
    "etag": null,
    "lastModified": null
   }
@@ -703,7 +703,7 @@
   },
   {
    "id": "4bf1698b8600f096",
-   "title": "Ransomware Attacks Increase Behind AI, But Payments Decline",
+   "title": "Ransomware Attacks Increase Behind AI, but Payments Decline",
    "url": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
    "summary": "Large language models and other AI systems allow a growing number of ransomware groups to create convincing phishing emails and identify sensitive data quickly.",
    "source": "Dark Reading",
