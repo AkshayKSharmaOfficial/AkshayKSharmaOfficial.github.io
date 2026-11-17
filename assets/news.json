@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-17T03:34:10.922Z",
- "lastAttempt": "2026-11-17T03:34:10.922Z",
+ "lastSuccess": "2026-11-17T04:40:58.404Z",
+ "lastAttempt": "2026-11-17T04:40:58.404Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T03:34:10.922Z",
-   "lastSuccess": "2026-11-17T03:34:10.922Z",
+   "checkedAt": "2026-11-17T04:40:58.404Z",
+   "lastSuccess": "2026-11-17T04:40:58.404Z",
    "etag": null,
-   "lastModified": "Tue, 17 Nov 2026 02:40:12 GMT"
+   "lastModified": "Tue, 17 Nov 2026 03:38:13 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T03:34:10.922Z",
-   "lastSuccess": "2026-11-17T03:34:10.922Z",
-   "etag": "a862ead871e541594b7ca96480914b3d",
-   "lastModified": "Tue, 17 Nov 2026 03:32:20 GMT"
+   "checkedAt": "2026-11-17T04:40:58.404Z",
+   "lastSuccess": "2026-11-17T04:40:58.404Z",
+   "etag": "d9ac2669cb11a4554d48bc905452143c",
+   "lastModified": "Tue, 17 Nov 2026 04:31:02 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T03:34:10.922Z",
-   "lastSuccess": "2026-11-17T03:34:10.922Z",
+   "checkedAt": "2026-11-17T04:40:58.404Z",
+   "lastSuccess": "2026-11-17T04:40:58.404Z",
    "etag": null,
    "lastModified": "Mon, 16 Nov 2026 22:25:09 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T03:34:10.922Z",
-   "lastSuccess": "2026-11-17T03:34:10.922Z",
+   "checkedAt": "2026-11-17T04:40:58.404Z",
+   "lastSuccess": "2026-11-17T04:40:58.404Z",
    "etag": "W/\"d6c8d7317ae14411fd1f699928052a8b\"",
    "lastModified": "Mon, 16 Nov 2026 20:26:43 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T03:34:10.922Z",
-   "lastSuccess": "2026-11-17T03:34:10.922Z",
+   "checkedAt": "2026-11-17T04:40:58.404Z",
+   "lastSuccess": "2026-11-17T04:40:58.404Z",
    "etag": null,
-   "lastModified": "Tue, 17 Nov 2026 03:34:12 GMT"
+   "lastModified": "Tue, 17 Nov 2026 04:40:58 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-17T03:34:10.922Z",
+   "checkedAt": "2026-11-17T04:40:58.404Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "2c094dfef6ae0839",
+   "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+   "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+   "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and…",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-17T02:12:17.000Z",
+   "categories": [
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-17T04:40:58.404Z"
+  },
   {
    "id": "6b0538b626499913",
    "title": "Optimizely supply chain attack infects major brands' sites with malware",
@@ -2964,21 +2979,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-10T11:33:51.918Z"
-  },
-  {
-   "id": "b5651226622e06da",
-   "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
-   "summary": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-10T10:10:20.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-10T10:38:34.938Z"
   }
  ]
 }
