@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-17T05:43:18.456Z",
- "lastAttempt": "2026-11-17T05:43:18.456Z",
+ "lastSuccess": "2026-11-17T06:48:48.261Z",
+ "lastAttempt": "2026-11-17T06:48:48.261Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T05:43:18.456Z",
-   "lastSuccess": "2026-11-17T05:43:18.456Z",
+   "checkedAt": "2026-11-17T06:48:48.261Z",
+   "lastSuccess": "2026-11-17T06:48:48.261Z",
    "etag": null,
-   "lastModified": "Tue, 17 Nov 2026 05:12:03 GMT"
+   "lastModified": "Tue, 17 Nov 2026 06:35:54 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T05:43:18.456Z",
-   "lastSuccess": "2026-11-17T05:43:18.456Z",
-   "etag": "59da615df9d9c4c221b7237ae178ab96",
-   "lastModified": "Tue, 17 Nov 2026 05:41:04 GMT"
+   "checkedAt": "2026-11-17T06:48:48.261Z",
+   "lastSuccess": "2026-11-17T06:48:48.261Z",
+   "etag": "a81c31d486727244753093313d1fc0f7",
+   "lastModified": "Tue, 17 Nov 2026 06:41:06 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T05:43:18.456Z",
-   "lastSuccess": "2026-11-17T05:43:18.456Z",
+   "checkedAt": "2026-11-17T06:48:48.261Z",
+   "lastSuccess": "2026-11-17T06:48:48.261Z",
    "etag": null,
-   "lastModified": "Mon, 16 Nov 2026 22:25:09 GMT"
+   "lastModified": "Tue, 17 Nov 2026 06:48:36 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T05:43:18.456Z",
-   "lastSuccess": "2026-11-17T05:43:18.456Z",
+   "checkedAt": "2026-11-17T06:48:48.261Z",
+   "lastSuccess": "2026-11-17T06:48:48.261Z",
    "etag": "W/\"d6c8d7317ae14411fd1f699928052a8b\"",
    "lastModified": "Mon, 16 Nov 2026 20:26:43 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T05:43:18.456Z",
-   "lastSuccess": "2026-11-17T05:43:18.456Z",
+   "checkedAt": "2026-11-17T06:48:48.261Z",
+   "lastSuccess": "2026-11-17T06:48:48.261Z",
    "etag": null,
-   "lastModified": "Tue, 17 Nov 2026 05:43:18 GMT"
+   "lastModified": "Tue, 17 Nov 2026 06:48:48 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-17T05:43:18.456Z",
+   "checkedAt": "2026-11-17T06:48:48.261Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "dd31e5151870eabc",
+   "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
+   "url": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
+   "summary": "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5 or later. The company said additional activity targeting…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-17T06:29:27.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-17T06:48:48.261Z"
+  },
   {
    "id": "7d8a94de5f64d8dd",
    "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
@@ -2966,18 +2980,6 @@
     "vuln"
    ],
    "firstSeen": "2026-11-10T21:15:23.895Z"
-  },
-  {
-   "id": "435fd47ef9695565",
-   "title": "Beyond the Alert: The Case for Rich Network Data",
-   "url": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
-   "summary": "At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have detections in the first place. And, it’s why once we accept that prevention has its limits, we arrive at an interdiction…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-10T11:38:13.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-10T12:37:02.490Z"
   }
  ]
 }
