@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-17T13:57:33.484Z",
- "lastAttempt": "2026-11-17T13:57:33.484Z",
+ "lastSuccess": "2026-11-17T14:54:17.631Z",
+ "lastAttempt": "2026-11-17T14:54:17.631Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T13:57:33.484Z",
-   "lastSuccess": "2026-11-17T13:57:33.484Z",
+   "checkedAt": "2026-11-17T14:54:17.631Z",
+   "lastSuccess": "2026-11-17T14:54:17.631Z",
    "etag": null,
    "lastModified": "Tue, 17 Nov 2026 12:27:13 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T13:57:33.484Z",
-   "lastSuccess": "2026-11-17T13:57:33.484Z",
-   "etag": "6beb8ea00980cfa29e2343cbcfcceae6",
-   "lastModified": "Tue, 17 Nov 2026 13:48:22 GMT"
+   "checkedAt": "2026-11-17T14:54:17.631Z",
+   "lastSuccess": "2026-11-17T14:54:17.631Z",
+   "etag": "9e22f06918ce3c9b89c3e8bf895e47ff",
+   "lastModified": "Tue, 17 Nov 2026 14:48:24 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T13:57:33.484Z",
-   "lastSuccess": "2026-11-17T13:57:33.484Z",
+   "checkedAt": "2026-11-17T14:54:17.631Z",
+   "lastSuccess": "2026-11-17T14:54:17.631Z",
    "etag": null,
-   "lastModified": "Tue, 17 Nov 2026 13:49:10 GMT"
+   "lastModified": "Tue, 17 Nov 2026 14:45:35 GMT"
   },
   {
    "id": "securityweek",
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T13:57:33.484Z",
-   "lastSuccess": "2026-11-17T13:57:33.484Z",
-   "etag": "\"7649364a4ba8bc56449120c3b88f1cc3\"",
-   "lastModified": "Tue, 17 Nov 2026 13:26:30 GMT"
+   "checkedAt": "2026-11-17T14:54:17.631Z",
+   "lastSuccess": "2026-11-17T14:54:17.631Z",
+   "etag": "\"84f30a6115d81c73e88929bb7573fd31\"",
+   "lastModified": "Tue, 17 Nov 2026 14:32:40 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T13:57:33.484Z",
-   "lastSuccess": "2026-11-17T13:57:33.484Z",
+   "checkedAt": "2026-11-17T14:54:17.631Z",
+   "lastSuccess": "2026-11-17T14:54:17.631Z",
    "etag": null,
-   "lastModified": "Tue, 17 Nov 2026 13:57:34 GMT"
+   "lastModified": "Tue, 17 Nov 2026 14:54:03 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,39 @@
    "count": 0,
    "rejected": 0,
    "error": "response too large",
-   "checkedAt": "2026-11-17T13:57:33.484Z",
+   "checkedAt": "2026-11-17T14:54:17.631Z",
    "lastSuccess": "2026-11-12T16:55:37.008Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "33ac08bd1029a874",
+   "title": "Fandango Warns Ticket Buyers of Payment Card Data Exposure",
+   "url": "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/",
+   "summary": "Card numbers, CVVs, expiration dates, and email addresses used at Fandango’s ticketing checkout over four days in October may have been exposed. The post Fandango Warns Ticket Buyers of Payment Card Data Exposure appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-17T14:14:24.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-17T14:54:17.631Z"
+  },
+  {
+   "id": "1d3e3a27273fe176",
+   "title": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool",
+   "url": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/",
+   "summary": "Pretxt provides technology to prevent AI agents escaping their guardrails and causing unintended harm. The post Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-17T14:00:00.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-17T14:54:17.631Z"
+  },
   {
    "id": "945082f4c57fd66d",
    "title": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
@@ -2942,35 +2968,6 @@
    "published": "2026-11-10T18:12:21.000Z",
    "categories": [
     "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-10T20:20:46.570Z"
-  },
-  {
-   "id": "ce20ffa5c728f4f5",
-   "title": "Adobe Patches 110 Vulnerabilities Across 9 Products",
-   "url": "https://www.securityweek.com/adobe-patches-110-vulnerabilities-across-9-products/",
-   "summary": "Adobe has fixed vulnerabilities in AEM, Premiere, Photoshop, After Effects, Connect, Audition, Dimension, Content Credentials SDK, and Media Encoder. The post Adobe Patches 110 Vulnerabilities Across 9 Products appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-10T18:11:54.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-10T18:25:12.152Z"
-  },
-  {
-   "id": "f020d812e8ed826c",
-   "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
-   "url": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
-   "summary": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and critical infrastructure across Latin America…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-10T17:43:23.000Z",
-   "categories": [
-    "malware",
     "attack"
    ],
    "firstSeen": "2026-11-10T20:20:46.570Z"
