@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-17T20:54:42.509Z",
- "lastAttempt": "2026-11-17T20:54:42.509Z",
+ "lastSuccess": "2026-11-17T21:48:06.099Z",
+ "lastAttempt": "2026-11-17T21:48:06.099Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T20:54:42.509Z",
-   "lastSuccess": "2026-11-17T20:54:42.509Z",
+   "checkedAt": "2026-11-17T21:48:06.099Z",
+   "lastSuccess": "2026-11-17T21:48:06.099Z",
    "etag": null,
    "lastModified": "Tue, 17 Nov 2026 20:16:05 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T20:54:42.509Z",
-   "lastSuccess": "2026-11-17T20:54:42.509Z",
-   "etag": "4c85fecf95f1f3d84ab2dff7bdc7d060",
-   "lastModified": "Tue, 17 Nov 2026 20:51:22 GMT"
+   "checkedAt": "2026-11-17T21:48:06.099Z",
+   "lastSuccess": "2026-11-17T21:48:06.099Z",
+   "etag": "fc8d2c5788708d064df1c8a676291024",
+   "lastModified": "Tue, 17 Nov 2026 21:47:19 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T20:54:42.509Z",
-   "lastSuccess": "2026-11-17T20:54:42.509Z",
+   "checkedAt": "2026-11-17T21:48:06.099Z",
+   "lastSuccess": "2026-11-17T21:48:06.099Z",
    "etag": null,
    "lastModified": "Tue, 17 Nov 2026 18:50:21 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T20:54:42.509Z",
-   "lastSuccess": "2026-11-17T20:54:42.509Z",
+   "checkedAt": "2026-11-17T21:48:06.099Z",
+   "lastSuccess": "2026-11-17T21:48:06.099Z",
    "etag": "\"4c39d62bbc761e1910ca58bcfbd58953\"",
    "lastModified": "Tue, 17 Nov 2026 18:21:50 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T20:54:42.509Z",
-   "lastSuccess": "2026-11-17T20:54:42.509Z",
+   "checkedAt": "2026-11-17T21:48:06.099Z",
+   "lastSuccess": "2026-11-17T21:48:06.099Z",
    "etag": null,
-   "lastModified": "Tue, 17 Nov 2026 20:54:42 GMT"
+   "lastModified": "Tue, 17 Nov 2026 21:48:06 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,45 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-17T20:54:42.509Z",
-   "lastSuccess": "2026-11-17T20:54:42.509Z",
+   "checkedAt": "2026-11-17T21:48:06.099Z",
+   "lastSuccess": "2026-11-17T21:48:06.099Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "ab77cc06887585ed",
+   "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+   "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+   "summary": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-17T21:27:17.000Z",
+   "categories": [
+    "breach",
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-17T21:48:06.099Z"
+  },
+  {
+   "id": "c54842439b1879e4",
+   "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
+   "url": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
+   "summary": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-17T20:58:13.000Z",
+   "categories": [
+    "phishing",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-17T21:48:06.099Z"
+  },
   {
    "id": "5c9aad0b8819694d",
    "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
@@ -2956,32 +2988,6 @@
     "india"
    ],
    "firstSeen": "2026-11-11T12:56:03.898Z"
-  },
-  {
-   "id": "c476d7e034f10ccc",
-   "title": "Bay Raises $50 Million to Control What Enterprise AI Agents Can Do",
-   "url": "https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/",
-   "summary": "Founded by three ex-IDF Unit 8200 intelligence officers, Bay is launched to provide a control plane for AI agents. The post Bay Raises $50 Million to Control What Enterprise AI Agents Can Do appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-11T11:30:00.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-11T12:56:03.898Z"
-  },
-  {
-   "id": "1e8cf913869303c5",
-   "title": "Microsoft fixes audio issues caused by September security updates",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
-   "summary": "Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-11T11:18:36.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-11T11:49:52.570Z"
   }
  ]
 }
