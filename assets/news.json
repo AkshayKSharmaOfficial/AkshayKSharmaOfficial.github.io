@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-18T12:42:38.917Z",
- "lastAttempt": "2026-11-18T12:42:38.917Z",
+ "lastSuccess": "2026-11-18T13:58:35.155Z",
+ "lastAttempt": "2026-11-18T13:58:35.155Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T12:42:38.917Z",
-   "lastSuccess": "2026-11-18T12:42:38.917Z",
+   "checkedAt": "2026-11-18T13:58:35.155Z",
+   "lastSuccess": "2026-11-18T13:58:35.155Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 12:18:21 GMT"
+   "lastModified": "Wed, 18 Nov 2026 13:17:42 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T12:42:38.917Z",
-   "lastSuccess": "2026-11-18T12:42:38.917Z",
-   "etag": "47a16c7940ee211c43866441e7c7a930",
-   "lastModified": "Wed, 18 Nov 2026 12:40:27 GMT"
+   "checkedAt": "2026-11-18T13:58:35.155Z",
+   "lastSuccess": "2026-11-18T13:58:35.155Z",
+   "etag": "25655e738cba048cbf94ab7304e758fd",
+   "lastModified": "Wed, 18 Nov 2026 13:50:28 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T12:42:38.917Z",
-   "lastSuccess": "2026-11-18T12:42:38.917Z",
+   "checkedAt": "2026-11-18T13:58:35.155Z",
+   "lastSuccess": "2026-11-18T13:58:35.155Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 12:08:23 GMT"
+   "lastModified": "Wed, 18 Nov 2026 13:54:05 GMT"
   },
   {
    "id": "securityweek",
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T12:42:38.917Z",
-   "lastSuccess": "2026-11-18T12:42:38.917Z",
-   "etag": "\"b45302bf5e0492cd8a05ac57c69edf69\"",
-   "lastModified": "Wed, 18 Nov 2026 12:14:27 GMT"
+   "checkedAt": "2026-11-18T13:58:35.155Z",
+   "lastSuccess": "2026-11-18T13:58:35.155Z",
+   "etag": "\"c1958f639fc48c15e696fecd86bfc1c3\"",
+   "lastModified": "Wed, 18 Nov 2026 13:33:52 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T12:42:38.917Z",
-   "lastSuccess": "2026-11-18T12:42:38.917Z",
+   "checkedAt": "2026-11-18T13:58:35.155Z",
+   "lastSuccess": "2026-11-18T13:58:35.155Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 12:42:39 GMT"
+   "lastModified": "Wed, 18 Nov 2026 13:58:35 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,56 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T12:42:38.917Z",
-   "lastSuccess": "2026-11-18T12:42:38.917Z",
+   "checkedAt": "2026-11-18T13:58:35.155Z",
+   "lastSuccess": "2026-11-18T13:58:35.155Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "d67ffdda4c529dbc",
+   "title": "Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization",
+   "url": "https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/",
+   "summary": "Star Blizzard weaponized data and identities stolen in late 2025 to phish and compromise a US organization. The post Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-18T13:33:47.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-18T13:58:35.155Z"
+  },
+  {
+   "id": "a57b7354a0d4d31e",
+   "title": "Last of Five Defendants Sentenced in US Scattered Spider Hacking Case",
+   "url": "https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/",
+   "summary": "British national Tyler Robert Buchanan has been sentenced to 6 years in prison in the United States, the DOJ announced. The post Last of Five Defendants Sentenced in US Scattered Spider Hacking Case appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-18T13:19:32.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-18T13:58:35.155Z"
+  },
+  {
+   "id": "90f84e48047fe43a",
+   "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+   "url": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
+   "summary": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universität Berlin say. That leaves short PINs open to guessing. In lab tests, the researchers found a four-digit…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-18T12:28:30.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-18T13:58:35.155Z"
+  },
   {
    "id": "e3f6e444c8dea912",
    "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
@@ -469,7 +512,7 @@
   },
   {
    "id": "f3e27c8997beb326",
-   "title": "Cursor Traces Malicious Claude Code Extension to Third-Party Breach",
+   "title": "Cursor Traces Malicious Claude Code Extensions to Third-Party Breach",
    "url": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
    "summary": "A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials.",
    "source": "Dark Reading",
@@ -652,7 +695,7 @@
    "id": "6cf4238ac9ad9f86",
    "title": "Grok Bots Attempt to Access Corporate Data Without User Approval",
    "url": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval",
-   "summary": "Two AI agents, separately over a five-day period, autonomously tried to access connected applications, including Google Calendar, Gmail, Slack, and GitHub, without account owner approval.",
+   "summary": "Two AI agents, separately over a five-day period, autonomously tried to access connected applications, including Google Calendar, Gmail, Slack, and GitHub, without account owner permission.",
    "source": "Dark Reading",
    "sourceId": "darkreading",
    "kind": "media",
@@ -2943,52 +2986,6 @@
     "ai"
    ],
    "firstSeen": "2026-11-12T01:58:49.625Z"
-  },
-  {
-   "id": "bcecb2525a4447b3",
-   "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
-   "url": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
-   "summary": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-12T00:00:00.000Z",
-   "categories": [
-    "breach",
-    "ai"
-   ],
-   "firstSeen": "2026-11-12T00:35:56.388Z"
-  },
-  {
-   "id": "0f54f8f8451a5512",
-   "title": "Baker Tilly notifies clients of data breach at third-party provider",
-   "url": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
-   "summary": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-11T23:01:31.000Z",
-   "categories": [
-    "breach",
-    "attack"
-   ],
-   "firstSeen": "2026-11-11T23:36:24.016Z"
-  },
-  {
-   "id": "e72540515729dd65",
-   "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
-   "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
-   "summary": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-11T22:56:21.000Z",
-   "categories": [
-    "breach",
-    "malware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-11T23:36:24.016Z"
   }
  ]
 }
