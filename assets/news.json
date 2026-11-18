@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-18T18:49:46.085Z",
- "lastAttempt": "2026-11-18T18:49:46.085Z",
+ "lastSuccess": "2026-11-18T19:54:03.874Z",
+ "lastAttempt": "2026-11-18T19:54:03.874Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T18:49:46.085Z",
-   "lastSuccess": "2026-11-18T18:49:46.085Z",
+   "checkedAt": "2026-11-18T19:54:03.874Z",
+   "lastSuccess": "2026-11-18T19:54:03.874Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 14:59:38 GMT"
+   "lastModified": "Wed, 18 Nov 2026 19:26:37 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T18:49:46.085Z",
-   "lastSuccess": "2026-11-18T18:49:46.085Z",
-   "etag": "09789512fb18bb296778d59f426bc410",
-   "lastModified": "Wed, 18 Nov 2026 18:40:48 GMT"
+   "checkedAt": "2026-11-18T19:54:03.874Z",
+   "lastSuccess": "2026-11-18T19:54:03.874Z",
+   "etag": "5a4030b064bea5a5c22259c1f6b9503a",
+   "lastModified": "Wed, 18 Nov 2026 19:49:34 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T18:49:46.085Z",
-   "lastSuccess": "2026-11-18T18:49:46.085Z",
+   "checkedAt": "2026-11-18T19:54:03.874Z",
+   "lastSuccess": "2026-11-18T19:54:03.874Z",
    "etag": null,
    "lastModified": "Wed, 18 Nov 2026 17:54:00 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T18:49:46.085Z",
-   "lastSuccess": "2026-11-18T18:49:46.085Z",
+   "checkedAt": "2026-11-18T19:54:03.874Z",
+   "lastSuccess": "2026-11-18T19:54:03.874Z",
    "etag": "\"d37db3e9b24a4d27b3d9a4503b8deb32\"",
    "lastModified": "Wed, 18 Nov 2026 15:32:17 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T18:49:46.085Z",
-   "lastSuccess": "2026-11-18T18:49:46.085Z",
+   "checkedAt": "2026-11-18T19:54:03.874Z",
+   "lastSuccess": "2026-11-18T19:54:03.874Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 18:49:46 GMT"
+   "lastModified": "Wed, 18 Nov 2026 19:54:04 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,72 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T18:49:46.085Z",
-   "lastSuccess": "2026-11-18T18:49:46.085Z",
+   "checkedAt": "2026-11-18T19:54:03.874Z",
+   "lastSuccess": "2026-11-18T19:54:03.874Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "dbaa5bb3885aa8d2",
+   "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+   "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
+   "summary": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-18T19:39:33.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-18T19:54:03.874Z"
+  },
+  {
+   "id": "04e49dcbdb745733",
+   "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+   "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+   "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-source code since version 1.9.5, released on September 22…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-18T18:31:17.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-18T19:54:03.874Z"
+  },
+  {
+   "id": "4ab4f5e03685767a",
+   "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+   "url": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+   "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific setup on a virtual server: an iRule that uses a particular command, or an APM…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-18T18:15:39.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-18T19:54:03.874Z"
+  },
+  {
+   "id": "6ec0dce548ff06fe",
+   "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+   "url": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
+   "summary": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-18T17:10:45.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-18T19:54:03.874Z"
+  },
   {
    "id": "1e0b085dfc4e9c3b",
    "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
@@ -2925,66 +2984,6 @@
    "kind": "media",
    "published": "2026-11-12T10:24:07.000Z",
    "categories": [],
-   "firstSeen": "2026-11-12T10:33:35.896Z"
-  },
-  {
-   "id": "29d7679446136e33",
-   "title": "Hackers Target N-central Zero-Days as N-able Rushes Patches",
-   "url": "https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/",
-   "summary": "The malicious activity started shortly after a researcher dropped over 30 zero-days. N-able patched the unauthenticated ones. The post Hackers Target N-central Zero-Days as N-able Rushes Patches appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-12T09:39:55.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-12T10:33:35.896Z"
-  },
-  {
-   "id": "da38184b08af45de",
-   "title": "Hackers plant GSocket on Linux servers for persistent access",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
-   "summary": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-12T09:38:00.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-12T10:33:35.896Z"
-  },
-  {
-   "id": "c776eb51cbacc6fa",
-   "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
-   "url": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
-   "summary": "A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash on the database server. The crash occurs only if that server is later chosen to take over as the main server while it still lacks some recent changes. MongoDB, the…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-12T09:25:00.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-12T10:33:35.896Z"
-  },
-  {
-   "id": "0bd1722d4ab3c7e2",
-   "title": "Critical Red Hat Quay Vulnerability Could Expose Private Container Images",
-   "url": "https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/",
-   "summary": "Attackers could exploit a critical Red Hat Quay flaw to steal private container images, overwrite repositories and maintain persistent access. The post Critical Red Hat Quay Vulnerability Could Expose Private Container Images appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-12T09:23:21.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
    "firstSeen": "2026-11-12T10:33:35.896Z"
   }
  ]
