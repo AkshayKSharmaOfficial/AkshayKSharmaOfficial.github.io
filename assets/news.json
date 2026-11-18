@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-18T20:49:00.232Z",
- "lastAttempt": "2026-11-18T20:49:00.232Z",
+ "lastSuccess": "2026-11-18T21:47:43.977Z",
+ "lastAttempt": "2026-11-18T21:47:43.977Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T20:49:00.232Z",
-   "lastSuccess": "2026-11-18T20:49:00.232Z",
+   "checkedAt": "2026-11-18T21:47:43.977Z",
+   "lastSuccess": "2026-11-18T21:47:43.977Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 20:17:54 GMT"
+   "lastModified": "Wed, 18 Nov 2026 21:35:43 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T20:49:00.232Z",
-   "lastSuccess": "2026-11-18T20:49:00.232Z",
-   "etag": "4d6944d802c54ae36e93b0680fb4f8f6",
-   "lastModified": "Wed, 18 Nov 2026 20:39:35 GMT"
+   "checkedAt": "2026-11-18T21:47:43.977Z",
+   "lastSuccess": "2026-11-18T21:47:43.977Z",
+   "etag": "c34f5b8827407c22296a4e9db1d6f247",
+   "lastModified": "Wed, 18 Nov 2026 21:39:34 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T20:49:00.232Z",
-   "lastSuccess": "2026-11-18T20:49:00.232Z",
+   "checkedAt": "2026-11-18T21:47:43.977Z",
+   "lastSuccess": "2026-11-18T21:47:43.977Z",
    "etag": null,
    "lastModified": "Wed, 18 Nov 2026 20:38:54 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T20:49:00.232Z",
-   "lastSuccess": "2026-11-18T20:49:00.232Z",
+   "checkedAt": "2026-11-18T21:47:43.977Z",
+   "lastSuccess": "2026-11-18T21:47:43.977Z",
    "etag": "\"d37db3e9b24a4d27b3d9a4503b8deb32\"",
    "lastModified": "Wed, 18 Nov 2026 15:32:17 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T20:49:00.232Z",
-   "lastSuccess": "2026-11-18T20:49:00.232Z",
+   "checkedAt": "2026-11-18T21:47:43.977Z",
+   "lastSuccess": "2026-11-18T21:47:43.977Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 20:49:00 GMT"
+   "lastModified": "Wed, 18 Nov 2026 21:47:44 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,42 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T20:49:00.232Z",
-   "lastSuccess": "2026-11-18T20:49:00.232Z",
+   "checkedAt": "2026-11-18T21:47:43.977Z",
+   "lastSuccess": "2026-11-18T21:47:43.977Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "35974bbd470a4570",
+   "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+   "url": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
+   "summary": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-18T20:49:32.000Z",
+   "categories": [
+    "phishing",
+    "ai"
+   ],
+   "firstSeen": "2026-11-18T21:47:43.977Z"
+  },
+  {
+   "id": "e6461265ead3fe65",
+   "title": "Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool",
+   "url": "https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool",
+   "summary": "New agentic AI solution leverages APIs to collect compliance evidence from systems and applies it to over 30 frameworks with no duplicate work.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-18T20:45:49.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-18T21:47:43.977Z"
+  },
   {
    "id": "96bb59b93a67ea48",
    "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
@@ -2956,37 +2985,6 @@
     "vuln"
    ],
    "firstSeen": "2026-11-12T12:41:04.574Z"
-  },
-  {
-   "id": "f3f686dea5edec73",
-   "title": "Notion Customer Data Compromised in Fireworks AI Hack",
-   "url": "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/",
-   "summary": "The attackers accessed chat transcripts for fewer than 1% of Notion workspaces. Most transcripts were unattributable. The post Notion Customer Data Compromised in Fireworks AI Hack appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-12T11:08:52.000Z",
-   "categories": [
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-12T11:38:19.265Z"
-  },
-  {
-   "id": "669a96cc657d93e2",
-   "title": "Inside an AI Attack Against a US Retailer",
-   "url": "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer",
-   "summary": "When hand-typed commands failed to breach a US retailer, the attacker turned to AI-generated scripts, achieving lateral movement in minutes.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-12T11:00:00.000Z",
-   "categories": [
-    "breach",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-12T11:38:19.265Z"
   }
  ]
 }
