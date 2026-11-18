@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-18T05:57:17.125Z",
- "lastAttempt": "2026-11-18T05:57:17.125Z",
+ "lastSuccess": "2026-11-18T07:12:25.512Z",
+ "lastAttempt": "2026-11-18T07:12:25.512Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T05:57:17.125Z",
-   "lastSuccess": "2026-11-18T05:57:17.125Z",
+   "checkedAt": "2026-11-18T07:12:25.512Z",
+   "lastSuccess": "2026-11-18T07:12:25.512Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 05:34:20 GMT"
+   "lastModified": "Wed, 18 Nov 2026 06:15:05 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T05:57:17.125Z",
-   "lastSuccess": "2026-11-18T05:57:17.125Z",
-   "etag": "eed31ef8a0f6925e9a3545ae1083ab3c",
-   "lastModified": "Wed, 18 Nov 2026 05:54:36 GMT"
+   "checkedAt": "2026-11-18T07:12:25.512Z",
+   "lastSuccess": "2026-11-18T07:12:25.512Z",
+   "etag": "6b94f4aef5f7474578790c9b6ab9ac83",
+   "lastModified": "Wed, 18 Nov 2026 07:04:38 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T05:57:17.125Z",
-   "lastSuccess": "2026-11-18T05:57:17.125Z",
+   "checkedAt": "2026-11-18T07:12:25.512Z",
+   "lastSuccess": "2026-11-18T07:12:25.512Z",
    "etag": null,
    "lastModified": "Wed, 18 Nov 2026 05:49:36 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T05:57:17.125Z",
-   "lastSuccess": "2026-11-18T05:57:17.125Z",
+   "checkedAt": "2026-11-18T07:12:25.512Z",
+   "lastSuccess": "2026-11-18T07:12:25.512Z",
    "etag": "\"c6da2cd886f94c922286d4b98635f4ee\"",
    "lastModified": "Wed, 18 Nov 2026 02:16:20 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T05:57:17.125Z",
-   "lastSuccess": "2026-11-18T05:57:17.125Z",
+   "checkedAt": "2026-11-18T07:12:25.512Z",
+   "lastSuccess": "2026-11-18T07:12:25.512Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 05:57:17 GMT"
+   "lastModified": "Wed, 18 Nov 2026 07:12:25 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T05:57:17.125Z",
-   "lastSuccess": "2026-11-18T05:57:17.125Z",
+   "checkedAt": "2026-11-18T07:12:25.512Z",
+   "lastSuccess": "2026-11-18T07:12:25.512Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "4816a5c313d508c2",
+   "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
+   "url": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
+   "summary": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-party compromise. Google's Mandiant and Threat Intelligence…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-18T05:58:04.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-18T07:12:25.512Z"
+  },
   {
    "id": "5966ac56e61b79d5",
    "title": "Java4Shell (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak on Java 17+ AVX-512 VBMI Servers",
@@ -2972,21 +2987,6 @@
    "sourceId": "securityweek",
    "kind": "media",
    "published": "2026-11-11T13:58:38.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-11T14:11:58.310Z"
-  },
-  {
-   "id": "57d0a1ac25814508",
-   "title": "Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities",
-   "url": "https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/",
-   "summary": "Attackers could exploit the bugs to tamper with certificate entries, achieve remote code execution, and compromise hosts. The post Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-11T13:37:19.000Z",
    "categories": [
     "vuln",
     "attack"
