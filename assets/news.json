@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-18T10:42:28.443Z",
- "lastAttempt": "2026-11-18T10:42:28.443Z",
+ "lastSuccess": "2026-11-18T11:41:30.831Z",
+ "lastAttempt": "2026-11-18T11:41:30.831Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T10:42:28.443Z",
-   "lastSuccess": "2026-11-18T10:42:28.443Z",
+   "checkedAt": "2026-11-18T11:41:30.831Z",
+   "lastSuccess": "2026-11-18T11:41:30.831Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 09:56:19 GMT"
+   "lastModified": "Wed, 18 Nov 2026 10:42:30 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T10:42:28.443Z",
-   "lastSuccess": "2026-11-18T10:42:28.443Z",
-   "etag": "e8cb12c4d1c88c217290be5b8e951992",
-   "lastModified": "Wed, 18 Nov 2026 10:34:35 GMT"
+   "checkedAt": "2026-11-18T11:41:30.831Z",
+   "lastSuccess": "2026-11-18T11:41:30.831Z",
+   "etag": "c2d9df80911cf35c01865b7529900636",
+   "lastModified": "Wed, 18 Nov 2026 11:34:36 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T10:42:28.443Z",
-   "lastSuccess": "2026-11-18T10:42:28.443Z",
+   "checkedAt": "2026-11-18T11:41:30.831Z",
+   "lastSuccess": "2026-11-18T11:41:30.831Z",
    "etag": null,
    "lastModified": "Wed, 18 Nov 2026 10:30:24 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T10:42:28.443Z",
-   "lastSuccess": "2026-11-18T10:42:28.443Z",
-   "etag": "W/\"e4a2f1cedafd660ead92548435417ccc\"",
-   "lastModified": "Wed, 18 Nov 2026 10:37:13 GMT"
+   "checkedAt": "2026-11-18T11:41:30.831Z",
+   "lastSuccess": "2026-11-18T11:41:30.831Z",
+   "etag": "\"c4925c7c604bad682a8eb296c9f521be\"",
+   "lastModified": "Wed, 18 Nov 2026 11:06:23 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T10:42:28.443Z",
-   "lastSuccess": "2026-11-18T10:42:28.443Z",
+   "checkedAt": "2026-11-18T11:41:30.831Z",
+   "lastSuccess": "2026-11-18T11:41:30.831Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 10:42:29 GMT"
+   "lastModified": "Wed, 18 Nov 2026 11:41:31 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T10:42:28.443Z",
-   "lastSuccess": "2026-11-18T10:42:28.443Z",
+   "checkedAt": "2026-11-18T11:41:30.831Z",
+   "lastSuccess": "2026-11-18T11:41:30.831Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "f3185c52953727c4",
+   "title": "Microsoft Agent Framework Releases Poisoned With Credential Stealer",
+   "url": "https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/",
+   "summary": "Versions 1.26.1 and 1.26.2 of agent-framework on PyPI steal Azure, Azure DevOps, and GitHub Actions credentials when Python starts. The post Microsoft Agent Framework Releases Poisoned With Credential Stealer appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-18T11:05:39.000Z",
+   "categories": [
+    "malware"
+   ],
+   "firstSeen": "2026-11-18T11:41:30.831Z"
+  },
   {
    "id": "24ef07023cc8fafb",
    "title": "Critical Perforce Puppet RCE Exploited in Attacks",
@@ -91,6 +105,21 @@
     "attack"
    ],
    "firstSeen": "2026-11-18T10:42:28.443Z"
+  },
+  {
+   "id": "44043f37c7fb6a9d",
+   "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+   "summary": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-18T10:35:05.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-18T11:41:30.831Z"
   },
   {
    "id": "89666a3016568a27",
@@ -2960,33 +2989,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-11T21:49:06.180Z"
-  },
-  {
-   "id": "d329703bdbf516bf",
-   "title": "Who Runs the Ransomware Group Qilin?",
-   "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
-   "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a…",
-   "source": "KrebsOnSecurity",
-   "sourceId": "krebs",
-   "kind": "media",
-   "published": "2026-11-11T18:06:01.000Z",
-   "categories": [
-    "ransomware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-11T19:12:30.839Z"
-  },
-  {
-   "id": "419bbcadccbc2ef3",
-   "title": "Today: CISO Forum Virtual Summit 2026 Day 2 – Join Cybersecurity Leaders Online",
-   "url": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
-   "summary": "Designed for cybersecurity leaders, this immersive two-day virtual event is your premier destination to discuss, share, and learn innovative risk management and defense strategies defining the modern enterprise. The post Today: CISO Forum Virtual Summit 2026 Day 2 – Join…",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-11T16:29:42.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-10T15:41:22.885Z"
   }
  ]
 }
