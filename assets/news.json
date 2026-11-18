@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-18T14:53:53.356Z",
- "lastAttempt": "2026-11-18T14:53:53.356Z",
+ "lastSuccess": "2026-11-18T15:54:27.538Z",
+ "lastAttempt": "2026-11-18T15:54:27.538Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T14:53:53.356Z",
-   "lastSuccess": "2026-11-18T14:53:53.356Z",
+   "checkedAt": "2026-11-18T15:54:27.538Z",
+   "lastSuccess": "2026-11-18T15:54:27.538Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 14:02:14 GMT"
+   "lastModified": "Wed, 18 Nov 2026 14:59:38 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T14:53:53.356Z",
-   "lastSuccess": "2026-11-18T14:53:53.356Z",
-   "etag": "a9f01b7cf863f1877af973efb7673292",
-   "lastModified": "Wed, 18 Nov 2026 14:50:30 GMT"
+   "checkedAt": "2026-11-18T15:54:27.538Z",
+   "lastSuccess": "2026-11-18T15:54:27.538Z",
+   "etag": "564b9ad6ec4c9f5461aa283ac0e39220",
+   "lastModified": "Wed, 18 Nov 2026 15:50:32 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T14:53:53.356Z",
-   "lastSuccess": "2026-11-18T14:53:53.356Z",
+   "checkedAt": "2026-11-18T15:54:27.538Z",
+   "lastSuccess": "2026-11-18T15:54:27.538Z",
    "etag": null,
    "lastModified": "Wed, 18 Nov 2026 13:54:05 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T14:53:53.356Z",
-   "lastSuccess": "2026-11-18T14:53:53.356Z",
-   "etag": "\"c1958f639fc48c15e696fecd86bfc1c3\"",
-   "lastModified": "Wed, 18 Nov 2026 13:33:52 GMT"
+   "checkedAt": "2026-11-18T15:54:27.538Z",
+   "lastSuccess": "2026-11-18T15:54:27.538Z",
+   "etag": "\"d37db3e9b24a4d27b3d9a4503b8deb32\"",
+   "lastModified": "Wed, 18 Nov 2026 15:32:17 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T14:53:53.356Z",
-   "lastSuccess": "2026-11-18T14:53:53.356Z",
+   "checkedAt": "2026-11-18T15:54:27.538Z",
+   "lastSuccess": "2026-11-18T15:54:27.538Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 14:53:53 GMT"
+   "lastModified": "Wed, 18 Nov 2026 15:54:27 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,57 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T14:53:53.356Z",
-   "lastSuccess": "2026-11-18T14:53:53.356Z",
+   "checkedAt": "2026-11-18T15:54:27.538Z",
+   "lastSuccess": "2026-11-18T15:54:27.538Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "dae62c8b875add9d",
+   "title": "VeroSecurity Raises $11 Million for AI Security Engineering Platform",
+   "url": "https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/",
+   "summary": "AI Security Engineering is a new and essential security discipline now being brought into focus by VeroSecurity. The post VeroSecurity Raises $11 Million for AI Security Engineering Platform appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-18T15:30:42.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-18T15:54:27.538Z"
+  },
+  {
+   "id": "9f58666bbaab02fc",
+   "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
+   "url": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
+   "summary": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains how stronger identity verification can help organizations…",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-18T15:00:10.000Z",
+   "categories": [
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-18T15:54:27.538Z"
+  },
+  {
+   "id": "16d1e418da7ea1b7",
+   "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
+   "url": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
+   "summary": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines. \"When attackers are exposed, the cheap response is to rotate,\" Bitdefender said…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-18T14:11:28.000Z",
+   "categories": [
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-18T15:54:27.538Z"
+  },
   {
    "id": "1615ac0646dba75b",
    "title": "Major Brazilian Signature Apps Enable RCE & Fraud",
@@ -351,9 +395,9 @@
   },
   {
    "id": "4c76d0a4dd8d8690",
-   "title": "Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover",
+   "title": "Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover",
    "url": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/",
-   "summary": "Calif demonstrated remote code execution in Jira, Jenkins and Keycloak, while VulnCheck says real-world RCE requires per-target work The post Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover appeared first on SecurityWeek .",
+   "summary": "Calif demonstrated remote code execution in Jira, Jenkins and Keycloak, while VulnCheck says real-world RCE requires per-target work The post Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover appeared first on SecurityWeek .",
    "source": "SecurityWeek",
    "sourceId": "securityweek",
    "kind": "media",
@@ -2942,50 +2986,6 @@
     "vuln"
    ],
    "firstSeen": "2026-11-12T09:29:53.596Z"
-  },
-  {
-   "id": "b1fc427f51ef7a02",
-   "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
-   "url": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
-   "summary": "Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security software company. The stealer is built to take the secrets and cloud credentials…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-12T06:42:47.000Z",
-   "categories": [
-    "malware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-12T08:25:45.083Z"
-  },
-  {
-   "id": "b92486adb822eb8a",
-   "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
-   "url": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
-   "summary": "A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71, released yesterday. Only servers with HTTP/2 enabled are…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-12T05:12:26.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-12T05:55:46.121Z"
-  },
-  {
-   "id": "0a7fd303a43b8569",
-   "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
-   "url": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
-   "summary": "ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access. In an advisory posted on its site, the company said there is no evidence that the incident involves a compromise of its…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-12T04:39:48.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-12T05:55:46.121Z"
   }
  ]
 }
