@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-18T21:47:43.977Z",
- "lastAttempt": "2026-11-18T21:47:43.977Z",
+ "lastSuccess": "2026-11-18T22:47:05.506Z",
+ "lastAttempt": "2026-11-18T22:47:05.506Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T21:47:43.977Z",
-   "lastSuccess": "2026-11-18T21:47:43.977Z",
+   "checkedAt": "2026-11-18T22:47:05.506Z",
+   "lastSuccess": "2026-11-18T22:47:05.506Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 21:35:43 GMT"
+   "lastModified": "Wed, 18 Nov 2026 22:08:02 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T21:47:43.977Z",
-   "lastSuccess": "2026-11-18T21:47:43.977Z",
-   "etag": "c34f5b8827407c22296a4e9db1d6f247",
-   "lastModified": "Wed, 18 Nov 2026 21:39:34 GMT"
+   "checkedAt": "2026-11-18T22:47:05.506Z",
+   "lastSuccess": "2026-11-18T22:47:05.506Z",
+   "etag": "47b22ba8796e2f244b43d673f1b268da",
+   "lastModified": "Wed, 18 Nov 2026 22:39:35 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T21:47:43.977Z",
-   "lastSuccess": "2026-11-18T21:47:43.977Z",
+   "checkedAt": "2026-11-18T22:47:05.506Z",
+   "lastSuccess": "2026-11-18T22:47:05.506Z",
    "etag": null,
    "lastModified": "Wed, 18 Nov 2026 20:38:54 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T21:47:43.977Z",
-   "lastSuccess": "2026-11-18T21:47:43.977Z",
+   "checkedAt": "2026-11-18T22:47:05.506Z",
+   "lastSuccess": "2026-11-18T22:47:05.506Z",
    "etag": "\"d37db3e9b24a4d27b3d9a4503b8deb32\"",
    "lastModified": "Wed, 18 Nov 2026 15:32:17 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T21:47:43.977Z",
-   "lastSuccess": "2026-11-18T21:47:43.977Z",
+   "checkedAt": "2026-11-18T22:47:05.506Z",
+   "lastSuccess": "2026-11-18T22:47:05.506Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 21:47:44 GMT"
+   "lastModified": "Wed, 18 Nov 2026 22:47:06 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,29 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T21:47:43.977Z",
-   "lastSuccess": "2026-11-18T21:47:43.977Z",
+   "checkedAt": "2026-11-18T22:47:05.506Z",
+   "lastSuccess": "2026-11-18T22:47:05.506Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "318d988adfa09705",
+   "title": "Cold Relic Turns One Cloud Breach Into Another",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
+   "summary": "The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-18T21:59:46.000Z",
+   "categories": [
+    "breach",
+    "phishing",
+    "attack"
+   ],
+   "firstSeen": "2026-11-18T22:47:05.506Z"
+  },
   {
    "id": "35974bbd470a4570",
    "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
@@ -2969,20 +2985,6 @@
    "categories": [
     "phishing",
     "attack"
-   ],
-   "firstSeen": "2026-11-12T12:41:04.574Z"
-  },
-  {
-   "id": "2d6f349525d67746",
-   "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
-   "url": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
-   "summary": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution. The security flaw, tracked as CVE-2026-126325, carries a CVSS v4 score of 9.2 out of a maximum of 10.0. It…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-12T11:33:15.000Z",
-   "categories": [
-    "vuln"
    ],
    "firstSeen": "2026-11-12T12:41:04.574Z"
   }
