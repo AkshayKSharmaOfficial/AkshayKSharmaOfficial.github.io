@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-18T07:12:25.512Z",
- "lastAttempt": "2026-11-18T07:12:25.512Z",
+ "lastSuccess": "2026-11-18T08:30:21.681Z",
+ "lastAttempt": "2026-11-18T08:30:21.681Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T07:12:25.512Z",
-   "lastSuccess": "2026-11-18T07:12:25.512Z",
+   "checkedAt": "2026-11-18T08:30:21.681Z",
+   "lastSuccess": "2026-11-18T08:30:21.681Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 06:15:05 GMT"
+   "lastModified": "Wed, 18 Nov 2026 08:00:41 GMT"
   },
   {
    "id": "bleeping",
@@ -22,34 +22,34 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T07:12:25.512Z",
-   "lastSuccess": "2026-11-18T07:12:25.512Z",
-   "etag": "6b94f4aef5f7474578790c9b6ab9ac83",
-   "lastModified": "Wed, 18 Nov 2026 07:04:38 GMT"
+   "checkedAt": "2026-11-18T08:30:21.681Z",
+   "lastSuccess": "2026-11-18T08:30:21.681Z",
+   "etag": "ca30a2fa7a664ac7c72281b1302f8612",
+   "lastModified": "Wed, 18 Nov 2026 08:24:19 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T07:12:25.512Z",
-   "lastSuccess": "2026-11-18T07:12:25.512Z",
+   "checkedAt": "2026-11-18T08:30:21.681Z",
+   "lastSuccess": "2026-11-18T08:30:21.681Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 05:49:36 GMT"
+   "lastModified": "Wed, 18 Nov 2026 08:26:02 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T07:12:25.512Z",
-   "lastSuccess": "2026-11-18T07:12:25.512Z",
-   "etag": "\"c6da2cd886f94c922286d4b98635f4ee\"",
-   "lastModified": "Wed, 18 Nov 2026 02:16:20 GMT"
+   "checkedAt": "2026-11-18T08:30:21.681Z",
+   "lastSuccess": "2026-11-18T08:30:21.681Z",
+   "etag": "\"2e64b27bfdd3f007451f98decacddd55\"",
+   "lastModified": "Wed, 18 Nov 2026 07:43:40 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T07:12:25.512Z",
-   "lastSuccess": "2026-11-18T07:12:25.512Z",
+   "checkedAt": "2026-11-18T08:30:21.681Z",
+   "lastSuccess": "2026-11-18T08:30:21.681Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 07:12:25 GMT"
+   "lastModified": "Wed, 18 Nov 2026 08:30:22 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,57 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T07:12:25.512Z",
-   "lastSuccess": "2026-11-18T07:12:25.512Z",
+   "checkedAt": "2026-11-18T08:30:21.681Z",
+   "lastSuccess": "2026-11-18T08:30:21.681Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "0431719f54a113a3",
+   "title": "British Scattered Spider hacker sentenced to 6 years in prison",
+   "url": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+   "summary": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-18T08:24:18.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-18T08:30:21.681Z"
+  },
+  {
+   "id": "4c76d0a4dd8d8690",
+   "title": "Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover",
+   "url": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/",
+   "summary": "Calif demonstrated remote code execution in Jira, Jenkins and Keycloak, while VulnCheck says real-world RCE requires per-target work The post Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-18T07:43:34.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-18T08:30:21.681Z"
+  },
+  {
+   "id": "533b590042a01508",
+   "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+   "url": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
+   "summary": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz. The malicious versions, 1.26.1 and 1.26.2, were published…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-18T06:45:26.000Z",
+   "categories": [
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-18T08:30:21.681Z"
+  },
   {
    "id": "4816a5c313d508c2",
    "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
@@ -94,7 +138,7 @@
   },
   {
    "id": "5966ac56e61b79d5",
-   "title": "Java4Shell (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak on Java 17+ AVX-512 VBMI Servers",
+   "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
    "url": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
    "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week. The flaw is present in Java 17.0.6 and later, and the…",
    "source": "The Hacker News",
@@ -2947,51 +2991,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-11T16:02:22.221Z"
-  },
-  {
-   "id": "dff75984c39f0503",
-   "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
-   "url": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
-   "summary": "Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are sharing rootkit source code, tutorials, and exploits…",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-11T15:01:11.000Z",
-   "categories": [
-    "vuln",
-    "malware"
-   ],
-   "firstSeen": "2026-11-11T15:06:29.260Z"
-  },
-  {
-   "id": "d8637e378806af0b",
-   "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
-   "url": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
-   "summary": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identified the suspicious activity in October 2026 against several…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-11T14:01:00.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-11T15:06:29.260Z"
-  },
-  {
-   "id": "5c1817126d58de57",
-   "title": "Asus, Zoom Release Security Patches",
-   "url": "https://www.securityweek.com/asus-zoom-release-security-patches/",
-   "summary": "Attackers could exploit them for command execution, memory overwrites, and privilege escalation. The post Asus, Zoom Release Security Patches appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-11T13:58:38.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-11T14:11:58.310Z"
   }
  ]
 }
