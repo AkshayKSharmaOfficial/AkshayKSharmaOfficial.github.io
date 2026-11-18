@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-18T13:58:35.155Z",
- "lastAttempt": "2026-11-18T13:58:35.155Z",
+ "lastSuccess": "2026-11-18T14:53:53.356Z",
+ "lastAttempt": "2026-11-18T14:53:53.356Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T13:58:35.155Z",
-   "lastSuccess": "2026-11-18T13:58:35.155Z",
+   "checkedAt": "2026-11-18T14:53:53.356Z",
+   "lastSuccess": "2026-11-18T14:53:53.356Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 13:17:42 GMT"
+   "lastModified": "Wed, 18 Nov 2026 14:02:14 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T13:58:35.155Z",
-   "lastSuccess": "2026-11-18T13:58:35.155Z",
-   "etag": "25655e738cba048cbf94ab7304e758fd",
-   "lastModified": "Wed, 18 Nov 2026 13:50:28 GMT"
+   "checkedAt": "2026-11-18T14:53:53.356Z",
+   "lastSuccess": "2026-11-18T14:53:53.356Z",
+   "etag": "a9f01b7cf863f1877af973efb7673292",
+   "lastModified": "Wed, 18 Nov 2026 14:50:30 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T13:58:35.155Z",
-   "lastSuccess": "2026-11-18T13:58:35.155Z",
+   "checkedAt": "2026-11-18T14:53:53.356Z",
+   "lastSuccess": "2026-11-18T14:53:53.356Z",
    "etag": null,
    "lastModified": "Wed, 18 Nov 2026 13:54:05 GMT"
   },
@@ -43,11 +43,11 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T13:58:35.155Z",
-   "lastSuccess": "2026-11-18T13:58:35.155Z",
+   "checkedAt": "2026-11-18T14:53:53.356Z",
+   "lastSuccess": "2026-11-18T14:53:53.356Z",
    "etag": "\"c1958f639fc48c15e696fecd86bfc1c3\"",
    "lastModified": "Wed, 18 Nov 2026 13:33:52 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T13:58:35.155Z",
-   "lastSuccess": "2026-11-18T13:58:35.155Z",
+   "checkedAt": "2026-11-18T14:53:53.356Z",
+   "lastSuccess": "2026-11-18T14:53:53.356Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 13:58:35 GMT"
+   "lastModified": "Wed, 18 Nov 2026 14:53:53 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T13:58:35.155Z",
-   "lastSuccess": "2026-11-18T13:58:35.155Z",
+   "checkedAt": "2026-11-18T14:53:53.356Z",
+   "lastSuccess": "2026-11-18T14:53:53.356Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "1615ac0646dba75b",
+   "title": "Major Brazilian Signature Apps Enable RCE & Fraud",
+   "url": "https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud",
+   "summary": "Government-sanctioned authentication middleware is used for exceptionally important legal documents, yet it's often rife with RCE bugs.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-18T14:00:00.000Z",
+   "categories": [
+    "vuln",
+    "phishing"
+   ],
+   "firstSeen": "2026-11-18T14:53:53.356Z"
+  },
   {
    "id": "d67ffdda4c529dbc",
    "title": "Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization",
@@ -1838,7 +1853,7 @@
    "id": "40598195792a7aab",
    "title": "As Test Takers Turn to AI, Exam Security Plays Catch-Up",
    "url": "https://www.darkreading.com/cybersecurity-operations/test-takers-ai-exam-security-catch-up",
-   "summary": "It's hard to detect whether someone is using artificial intelligence (AI) to cheat on IT certification exams, but new tools and processes are emerging to boost trust.",
+   "summary": "It's hard to detect whether someone is using artificial intelligence to cheat on IT certification exams, but new tools and processes are emerging to boost trust.",
    "source": "Dark Reading",
    "sourceId": "darkreading",
    "kind": "media",
@@ -2971,21 +2986,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-12T05:55:46.121Z"
-  },
-  {
-   "id": "6994f9b567b58e0f",
-   "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry",
-   "url": "https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry",
-   "summary": "The CCP built a Big Data system to scrape reams of information and learn about individuals abroad, to potentially target and exploit them. Think Alice Huang Lite.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-12T01:00:00.000Z",
-   "categories": [
-    "vuln",
-    "ai"
-   ],
-   "firstSeen": "2026-11-12T01:58:49.625Z"
   }
  ]
 }
