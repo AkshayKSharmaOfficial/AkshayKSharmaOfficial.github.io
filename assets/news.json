@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-18T02:00:05.649Z",
- "lastAttempt": "2026-11-18T02:00:05.649Z",
+ "lastSuccess": "2026-11-18T02:53:15.068Z",
+ "lastAttempt": "2026-11-18T02:53:15.068Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T02:00:05.649Z",
-   "lastSuccess": "2026-11-18T02:00:05.649Z",
+   "checkedAt": "2026-11-18T02:53:15.068Z",
+   "lastSuccess": "2026-11-18T02:53:15.068Z",
    "etag": null,
    "lastModified": "Wed, 18 Nov 2026 01:59:56 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T02:00:05.649Z",
-   "lastSuccess": "2026-11-18T02:00:05.649Z",
-   "etag": "a5f66683773e9662ba63800633db3e5c",
-   "lastModified": "Wed, 18 Nov 2026 01:54:28 GMT"
+   "checkedAt": "2026-11-18T02:53:15.068Z",
+   "lastSuccess": "2026-11-18T02:53:15.068Z",
+   "etag": "bf44f35a0d31c2bb06925a8fcf25ef1f",
+   "lastModified": "Wed, 18 Nov 2026 02:44:29 GMT"
   },
   {
    "id": "krebs",
@@ -34,22 +34,22 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T02:00:05.649Z",
-   "lastSuccess": "2026-11-18T02:00:05.649Z",
+   "checkedAt": "2026-11-18T02:53:15.068Z",
+   "lastSuccess": "2026-11-18T02:53:15.068Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 01:54:36 GMT"
+   "lastModified": "Wed, 18 Nov 2026 02:37:35 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T02:00:05.649Z",
-   "lastSuccess": "2026-11-18T02:00:05.649Z",
-   "etag": "\"4c39d62bbc761e1910ca58bcfbd58953\"",
-   "lastModified": "Tue, 17 Nov 2026 18:21:50 GMT"
+   "checkedAt": "2026-11-18T02:53:15.068Z",
+   "lastSuccess": "2026-11-18T02:53:15.068Z",
+   "etag": "\"c6da2cd886f94c922286d4b98635f4ee\"",
+   "lastModified": "Wed, 18 Nov 2026 02:16:20 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T02:00:05.649Z",
-   "lastSuccess": "2026-11-18T02:00:05.649Z",
+   "checkedAt": "2026-11-18T02:53:15.068Z",
+   "lastSuccess": "2026-11-18T02:53:15.068Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 02:00:06 GMT"
+   "lastModified": "Wed, 18 Nov 2026 02:53:15 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,25 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T02:00:05.649Z",
-   "lastSuccess": "2026-11-18T02:00:05.649Z",
+   "checkedAt": "2026-11-18T02:53:15.068Z",
+   "lastSuccess": "2026-11-18T02:53:15.068Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "95987653365d53d7",
+   "title": "Classified Communications Network at the National Security Agency Goes Down, Defense Official Says",
+   "url": "https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/",
+   "summary": "The problem disrupted the operations of NSANet, a classified internal network used by employees of the agency. The post Classified Communications Network at the National Security Agency Goes Down, Defense Official Says appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-18T02:15:07.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-18T02:53:15.068Z"
+  },
   {
    "id": "3ec8b913e004fd55",
    "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
@@ -445,6 +457,21 @@
    "firstSeen": "2026-11-17T12:38:12.643Z"
   },
   {
+   "id": "ecbb45c59e1aeb21",
+   "title": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
+   "url": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/",
+   "summary": "The lawsuit alleges that OpenAI misled and endangered the public and users by knowingly developing advanced AI models without necessary safeguards. The post California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-17T12:00:00.000Z",
+   "categories": [
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-17T12:38:12.643Z"
+  },
+  {
    "id": "404c0c128931f062",
    "title": "Siemens ROS#",
    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
@@ -647,21 +674,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-17T16:56:19.348Z"
-  },
-  {
-   "id": "ecbb45c59e1aeb21",
-   "title": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
-   "url": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/",
-   "summary": "The lawsuit alleges that OpenAI misled and endangered the public and users by knowingly developing advanced AI models without necessary safeguards. The post California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-17T12:00:00.000Z",
-   "categories": [
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-17T12:38:12.643Z"
   },
   {
    "id": "1f9af5fe35a30d12",
@@ -2975,20 +2987,6 @@
    "published": "2026-11-11T12:24:33.000Z",
    "categories": [],
    "firstSeen": "2026-11-11T12:56:03.898Z"
-  },
-  {
-   "id": "8eeaa5e81881cd50",
-   "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
-   "url": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
-   "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, the company that makes the Grok AI assistant…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-11T12:19:40.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-11T14:11:58.310Z"
   }
  ]
 }
