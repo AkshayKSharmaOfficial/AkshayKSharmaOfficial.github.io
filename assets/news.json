@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-18T16:57:57.649Z",
- "lastAttempt": "2026-11-18T16:57:57.649Z",
+ "lastSuccess": "2026-11-18T17:55:26.117Z",
+ "lastAttempt": "2026-11-18T17:55:26.117Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T16:57:57.649Z",
-   "lastSuccess": "2026-11-18T16:57:57.649Z",
+   "checkedAt": "2026-11-18T17:55:26.117Z",
+   "lastSuccess": "2026-11-18T17:55:26.117Z",
    "etag": null,
    "lastModified": "Wed, 18 Nov 2026 14:59:38 GMT"
   },
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T16:57:57.649Z",
-   "lastSuccess": "2026-11-18T16:57:57.649Z",
-   "etag": "dd19859c04330198e22bb69825da14b5",
-   "lastModified": "Wed, 18 Nov 2026 16:50:33 GMT"
+   "checkedAt": "2026-11-18T17:55:26.117Z",
+   "lastSuccess": "2026-11-18T17:55:26.117Z",
+   "etag": "fd17de02ba2bcaa19793b0e14966c513",
+   "lastModified": "Wed, 18 Nov 2026 17:50:46 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T16:57:57.649Z",
-   "lastSuccess": "2026-11-18T16:57:57.649Z",
+   "checkedAt": "2026-11-18T17:55:26.117Z",
+   "lastSuccess": "2026-11-18T17:55:26.117Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 13:54:05 GMT"
+   "lastModified": "Wed, 18 Nov 2026 17:54:00 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T16:57:57.649Z",
-   "lastSuccess": "2026-11-18T16:57:57.649Z",
+   "checkedAt": "2026-11-18T17:55:26.117Z",
+   "lastSuccess": "2026-11-18T17:55:26.117Z",
    "etag": "\"d37db3e9b24a4d27b3d9a4503b8deb32\"",
    "lastModified": "Wed, 18 Nov 2026 15:32:17 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T16:57:57.649Z",
-   "lastSuccess": "2026-11-18T16:57:57.649Z",
+   "checkedAt": "2026-11-18T17:55:26.117Z",
+   "lastSuccess": "2026-11-18T17:55:26.117Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 16:57:58 GMT"
+   "lastModified": "Wed, 18 Nov 2026 17:55:26 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,43 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T16:57:57.649Z",
-   "lastSuccess": "2026-11-18T16:57:57.649Z",
+   "checkedAt": "2026-11-18T17:55:26.117Z",
+   "lastSuccess": "2026-11-18T17:55:26.117Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "1e0b085dfc4e9c3b",
+   "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
+   "url": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
+   "summary": "Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-18T16:58:42.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-18T17:55:26.117Z"
+  },
+  {
+   "id": "49f977f56baf910c",
+   "title": "Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem",
+   "url": "https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem",
+   "summary": "Discovered using AI, the memory corruption vulnerability affects the OpenJDK runtime and could allow unauthenticated attackers to take over systems.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-18T16:54:52.000Z",
+   "categories": [
+    "vuln",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-18T17:55:26.117Z"
+  },
   {
    "id": "dae62c8b875add9d",
    "title": "VeroSecurity Raises $11 Million for AI Security Engineering Platform",
@@ -2956,36 +2986,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-12T10:33:35.896Z"
-  },
-  {
-   "id": "267b2e6fdb3a3b36",
-   "title": "Maersk Confirms Data Theft Amid $5 Million Extortion Attempt",
-   "url": "https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/",
-   "summary": "The WhiteArmor ransomware group claims it stole 100GB of data from the shipping giant’s systems. The post Maersk Confirms Data Theft Amid $5 Million Extortion Attempt appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-12T08:38:47.000Z",
-   "categories": [
-    "ransomware",
-    "breach",
-    "attack"
-   ],
-   "firstSeen": "2026-11-12T09:29:53.596Z"
-  },
-  {
-   "id": "6ee015b627a80bcd",
-   "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
-   "url": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
-   "summary": "A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw can cause a server to send a client pieces of its memory, including responses intended for other…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-12T08:20:37.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-12T09:29:53.596Z"
   }
  ]
 }
