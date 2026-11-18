@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-18T22:47:05.506Z",
- "lastAttempt": "2026-11-18T22:47:05.506Z",
+ "lastSuccess": "2026-11-18T23:45:14.314Z",
+ "lastAttempt": "2026-11-18T23:45:14.314Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T22:47:05.506Z",
-   "lastSuccess": "2026-11-18T22:47:05.506Z",
+   "checkedAt": "2026-11-18T23:45:14.314Z",
+   "lastSuccess": "2026-11-18T23:45:14.314Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 22:08:02 GMT"
+   "lastModified": "Wed, 18 Nov 2026 23:38:22 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T22:47:05.506Z",
-   "lastSuccess": "2026-11-18T22:47:05.506Z",
-   "etag": "47b22ba8796e2f244b43d673f1b268da",
-   "lastModified": "Wed, 18 Nov 2026 22:39:35 GMT"
+   "checkedAt": "2026-11-18T23:45:14.314Z",
+   "lastSuccess": "2026-11-18T23:45:14.314Z",
+   "etag": "cab7fff3f97936502f552ffe258f5149",
+   "lastModified": "Wed, 18 Nov 2026 23:38:36 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T22:47:05.506Z",
-   "lastSuccess": "2026-11-18T22:47:05.506Z",
+   "checkedAt": "2026-11-18T23:45:14.314Z",
+   "lastSuccess": "2026-11-18T23:45:14.314Z",
    "etag": null,
    "lastModified": "Wed, 18 Nov 2026 20:38:54 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T22:47:05.506Z",
-   "lastSuccess": "2026-11-18T22:47:05.506Z",
+   "checkedAt": "2026-11-18T23:45:14.314Z",
+   "lastSuccess": "2026-11-18T23:45:14.314Z",
    "etag": "\"d37db3e9b24a4d27b3d9a4503b8deb32\"",
    "lastModified": "Wed, 18 Nov 2026 15:32:17 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T22:47:05.506Z",
-   "lastSuccess": "2026-11-18T22:47:05.506Z",
+   "checkedAt": "2026-11-18T23:45:14.314Z",
+   "lastSuccess": "2026-11-18T23:45:14.314Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 22:47:06 GMT"
+   "lastModified": "Wed, 18 Nov 2026 23:45:14 GMT"
   },
   {
    "id": "cisa",
@@ -70,16 +70,30 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T22:47:05.506Z",
-   "lastSuccess": "2026-11-18T22:47:05.506Z",
+   "checkedAt": "2026-11-18T23:45:14.314Z",
+   "lastSuccess": "2026-11-18T23:45:14.314Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
   {
+   "id": "7bb371abd97fc20f",
+   "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+   "url": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+   "summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-18T23:08:33.000Z",
+   "categories": [
+    "ransomware"
+   ],
+   "firstSeen": "2026-11-18T23:45:14.314Z"
+  },
+  {
    "id": "318d988adfa09705",
-   "title": "Cold Relic Turns One Cloud Breach Into Another",
+   "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
    "url": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
    "summary": "The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
    "source": "Dark Reading",
@@ -2970,21 +2984,6 @@
    "published": "2026-11-12T11:51:43.000Z",
    "categories": [
     "vuln"
-   ],
-   "firstSeen": "2026-11-12T12:41:04.574Z"
-  },
-  {
-   "id": "cd877208a9d9554b",
-   "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
-   "url": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
-   "summary": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator designed it that way on purpose. The Threat Research team at Material Security…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-12T11:51:31.000Z",
-   "categories": [
-    "phishing",
-    "attack"
    ],
    "firstSeen": "2026-11-12T12:41:04.574Z"
   }
