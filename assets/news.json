@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-18T04:55:03.976Z",
- "lastAttempt": "2026-11-18T04:55:03.976Z",
+ "lastSuccess": "2026-11-18T05:57:17.125Z",
+ "lastAttempt": "2026-11-18T05:57:17.125Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T04:55:03.976Z",
-   "lastSuccess": "2026-11-18T04:55:03.976Z",
+   "checkedAt": "2026-11-18T05:57:17.125Z",
+   "lastSuccess": "2026-11-18T05:57:17.125Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 04:19:35 GMT"
+   "lastModified": "Wed, 18 Nov 2026 05:34:20 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T04:55:03.976Z",
-   "lastSuccess": "2026-11-18T04:55:03.976Z",
-   "etag": "26d1ab5bb942b23627e83e59c2441455",
-   "lastModified": "Wed, 18 Nov 2026 04:54:34 GMT"
+   "checkedAt": "2026-11-18T05:57:17.125Z",
+   "lastSuccess": "2026-11-18T05:57:17.125Z",
+   "etag": "eed31ef8a0f6925e9a3545ae1083ab3c",
+   "lastModified": "Wed, 18 Nov 2026 05:54:36 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T04:55:03.976Z",
-   "lastSuccess": "2026-11-18T04:55:03.976Z",
+   "checkedAt": "2026-11-18T05:57:17.125Z",
+   "lastSuccess": "2026-11-18T05:57:17.125Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 04:49:29 GMT"
+   "lastModified": "Wed, 18 Nov 2026 05:49:36 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T04:55:03.976Z",
-   "lastSuccess": "2026-11-18T04:55:03.976Z",
+   "checkedAt": "2026-11-18T05:57:17.125Z",
+   "lastSuccess": "2026-11-18T05:57:17.125Z",
    "etag": "\"c6da2cd886f94c922286d4b98635f4ee\"",
    "lastModified": "Wed, 18 Nov 2026 02:16:20 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T04:55:03.976Z",
-   "lastSuccess": "2026-11-18T04:55:03.976Z",
+   "checkedAt": "2026-11-18T05:57:17.125Z",
+   "lastSuccess": "2026-11-18T05:57:17.125Z",
    "etag": null,
-   "lastModified": "Wed, 18 Nov 2026 04:55:04 GMT"
+   "lastModified": "Wed, 18 Nov 2026 05:57:17 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-18T04:55:03.976Z",
-   "lastSuccess": "2026-11-18T04:55:03.976Z",
+   "checkedAt": "2026-11-18T05:57:17.125Z",
+   "lastSuccess": "2026-11-18T05:57:17.125Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "5966ac56e61b79d5",
+   "title": "Java4Shell (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak on Java 17+ AVX-512 VBMI Servers",
+   "url": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+   "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week. The flaw is present in Java 17.0.6 and later, and the…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-18T04:27:41.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-18T05:57:17.125Z"
+  },
   {
    "id": "572b7212343397c3",
    "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
@@ -2977,20 +2992,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-11T14:11:58.310Z"
-  },
-  {
-   "id": "8947b00be3a02fe5",
-   "title": "N-able releases security hotfixes for zero-day vulnerabilities",
-   "url": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
-   "summary": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-11T12:32:27.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-11T12:56:03.898Z"
   }
  ]
 }
