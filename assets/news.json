@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-19T08:45:30.381Z",
- "lastAttempt": "2026-11-19T08:45:30.381Z",
+ "lastSuccess": "2026-11-19T09:57:31.859Z",
+ "lastAttempt": "2026-11-19T09:57:31.859Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T08:45:30.381Z",
-   "lastSuccess": "2026-11-19T08:45:30.381Z",
+   "checkedAt": "2026-11-19T09:57:31.859Z",
+   "lastSuccess": "2026-11-19T09:57:31.859Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 07:51:40 GMT"
+   "lastModified": "Thu, 19 Nov 2026 08:59:32 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T08:45:30.381Z",
-   "lastSuccess": "2026-11-19T08:45:30.381Z",
-   "etag": "81d2da2e9dad9a71526546c816776b4e",
-   "lastModified": "Thu, 19 Nov 2026 08:43:39 GMT"
+   "checkedAt": "2026-11-19T09:57:31.859Z",
+   "lastSuccess": "2026-11-19T09:57:31.859Z",
+   "etag": "57e560b4b08ff6f6e0be8b44fb8d09ec",
+   "lastModified": "Thu, 19 Nov 2026 09:53:23 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T08:45:30.381Z",
-   "lastSuccess": "2026-11-19T08:45:30.381Z",
+   "checkedAt": "2026-11-19T09:57:31.859Z",
+   "lastSuccess": "2026-11-19T09:57:31.859Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 05:48:54 GMT"
+   "lastModified": "Thu, 19 Nov 2026 09:49:20 GMT"
   },
   {
    "id": "securityweek",
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T08:45:30.381Z",
-   "lastSuccess": "2026-11-19T08:45:30.381Z",
-   "etag": "\"ea67fa7b803e3d3a4955083e6571afb6\"",
-   "lastModified": "Thu, 19 Nov 2026 07:51:40 GMT"
+   "checkedAt": "2026-11-19T09:57:31.859Z",
+   "lastSuccess": "2026-11-19T09:57:31.859Z",
+   "etag": "\"08c7942e39581489a316dc1424cdcc74\"",
+   "lastModified": "Thu, 19 Nov 2026 09:11:03 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T08:45:30.381Z",
-   "lastSuccess": "2026-11-19T08:45:30.381Z",
+   "checkedAt": "2026-11-19T09:57:31.859Z",
+   "lastSuccess": "2026-11-19T09:57:31.859Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 08:45:30 GMT"
+   "lastModified": "Thu, 19 Nov 2026 09:57:32 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,70 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T08:45:30.381Z",
-   "lastSuccess": "2026-11-19T08:45:30.381Z",
+   "checkedAt": "2026-11-19T09:57:31.859Z",
+   "lastSuccess": "2026-11-19T09:57:31.859Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "88283576a7d5e922",
+   "title": "NVIDIA investigating Gentlemen ransomware breach claims",
+   "url": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+   "summary": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-19T09:23:21.000Z",
+   "categories": [
+    "ransomware",
+    "breach"
+   ],
+   "firstSeen": "2026-11-19T09:57:31.859Z"
+  },
+  {
+   "id": "67cc3290b3824230",
+   "title": "Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories",
+   "url": "https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/",
+   "summary": "GreyNoise, WatchTowr and Cloudflare report probing and exploit attempts, while Cisco, Elastic, Red Hat and Siemens detail impact. The post Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-19T09:10:58.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-19T09:57:31.859Z"
+  },
+  {
+   "id": "29eb33240b0fe571",
+   "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+   "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
+   "summary": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine. \"We are aware of PoCs that prove…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-19T08:42:11.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-19T09:57:31.859Z"
+  },
+  {
+   "id": "3914c4d93285bf93",
+   "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
+   "url": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
+   "summary": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behind ordinary SQL. The exploits, published yesterday, are the…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-19T08:14:00.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-19T09:57:31.859Z"
+  },
   {
    "id": "36246bca53424b67",
    "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
@@ -2924,65 +2981,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-12T13:57:23.596Z"
-  },
-  {
-   "id": "ac57ee394eb35a3c",
-   "title": "Daylight Lands $80 Million for AI-Powered Security Operations",
-   "url": "https://www.securityweek.com/daylight-lands-80-million-for-ai-powered-security-operations/",
-   "summary": "The company plans to accelerate product development, hire new talent, expand its US presence, and enter new markets. The post Daylight Lands $80 Million for AI-Powered Security Operations appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-12T13:12:11.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-12T13:57:23.596Z"
-  },
-  {
-   "id": "0c7b196fe26ffd91",
-   "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
-   "url": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
-   "summary": "The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it has emerged. Blackpoint Cyber's Adversary Pursuit Group (APG), which shared the…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-12T13:08:28.000Z",
-   "categories": [
-    "vuln",
-    "malware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-12T16:55:37.008Z"
-  },
-  {
-   "id": "0c8df0fa5ebf68c2",
-   "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
-   "summary": "Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-12T12:11:11.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-12T12:41:04.574Z"
-  },
-  {
-   "id": "34b40f857b9f9cf5",
-   "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
-   "url": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
-   "summary": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week. The company has already applied mitigations against attacks between VMs, and between VMs and the host. Inside a VM, the flaws…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-12T12:09:14.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-12T12:41:04.574Z"
   }
  ]
 }
