@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-19T10:59:31.672Z",
- "lastAttempt": "2026-11-19T10:59:31.672Z",
+ "lastSuccess": "2026-11-19T11:58:22.730Z",
+ "lastAttempt": "2026-11-19T11:58:22.730Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T10:59:31.672Z",
-   "lastSuccess": "2026-11-19T10:59:31.672Z",
+   "checkedAt": "2026-11-19T11:58:22.730Z",
+   "lastSuccess": "2026-11-19T11:58:22.730Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 10:06:57 GMT"
+   "lastModified": "Thu, 19 Nov 2026 11:08:26 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T10:59:31.672Z",
-   "lastSuccess": "2026-11-19T10:59:31.672Z",
-   "etag": "fd25127207a7fcfe6d84030d76c52afe",
-   "lastModified": "Thu, 19 Nov 2026 10:53:24 GMT"
+   "checkedAt": "2026-11-19T11:58:22.730Z",
+   "lastSuccess": "2026-11-19T11:58:22.730Z",
+   "etag": "c56488524159048eddee4c0214ed2347",
+   "lastModified": "Thu, 19 Nov 2026 11:53:26 GMT"
   },
   {
    "id": "krebs",
@@ -34,20 +34,20 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T10:59:31.672Z",
-   "lastSuccess": "2026-11-19T10:59:31.672Z",
+   "checkedAt": "2026-11-19T11:58:22.730Z",
+   "lastSuccess": "2026-11-19T11:58:22.730Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 10:55:05 GMT"
+   "lastModified": "Thu, 19 Nov 2026 11:49:44 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T10:59:31.672Z",
-   "lastSuccess": "2026-11-19T10:59:31.672Z",
+   "checkedAt": "2026-11-19T11:58:22.730Z",
+   "lastSuccess": "2026-11-19T11:58:22.730Z",
    "etag": "W/\"1e6128651482468e8e17b3402f199b6c\"",
    "lastModified": "Thu, 19 Nov 2026 10:52:10 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T10:59:31.672Z",
-   "lastSuccess": "2026-11-19T10:59:31.672Z",
+   "checkedAt": "2026-11-19T11:58:22.730Z",
+   "lastSuccess": "2026-11-19T11:58:22.730Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 10:59:32 GMT"
+   "lastModified": "Thu, 19 Nov 2026 11:58:23 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T10:59:31.672Z",
-   "lastSuccess": "2026-11-19T10:59:31.672Z",
+   "checkedAt": "2026-11-19T11:58:22.730Z",
+   "lastSuccess": "2026-11-19T11:58:22.730Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "5f020c5c43f9d08d",
+   "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
+   "summary": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-19T11:46:00.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-19T11:58:22.730Z"
+  },
   {
    "id": "32ef8f24c5d8b99f",
    "title": "Splunk Patches Nearly 140 Flaws Across Three Core Products",
@@ -559,18 +573,6 @@
    "firstSeen": "2026-11-18T12:42:38.917Z"
   },
   {
-   "id": "aedb90e607df0d51",
-   "title": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do",
-   "url": "https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/",
-   "summary": "Patti Degnan’s identity was stolen in 2006. It set her on a path to the CISO seat at endpoint security firm Glow. The post CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-18T12:00:00.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-18T12:42:38.917Z"
-  },
-  {
    "id": "f80192460bd317e6",
    "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
    "url": "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
@@ -584,6 +586,18 @@
     "vuln"
    ],
    "firstSeen": "2026-11-18T20:49:00.232Z"
+  },
+  {
+   "id": "aedb90e607df0d51",
+   "title": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do",
+   "url": "https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/",
+   "summary": "Patti Degnan’s identity was stolen in 2006. It set her on a path to the CISO seat at endpoint security firm Glow. The post CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-18T12:00:00.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-18T12:42:38.917Z"
   },
   {
    "id": "5966ac56e61b79d5",
@@ -2962,23 +2976,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-12T15:53:32.467Z"
-  },
-  {
-   "id": "9d96703e2366c2eb",
-   "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
-   "url": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
-   "summary": "Cybersecurity researchers have found that lookalike domains masquerading as artificial intelligence (AI) tools are being used to serve ClickFix-style lures, browser-hijacking malware, and a set of extensions that hijack user searches. This delivery pattern has been codenamed…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-12T15:15:40.000Z",
-   "categories": [
-    "malware",
-    "phishing",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-12T16:55:37.008Z"
   }
  ]
 }
