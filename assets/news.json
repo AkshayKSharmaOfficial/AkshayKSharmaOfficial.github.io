@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-19T21:44:57.336Z",
- "lastAttempt": "2026-11-19T21:44:57.336Z",
+ "lastSuccess": "2026-11-19T22:35:21.016Z",
+ "lastAttempt": "2026-11-19T22:35:21.016Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T21:44:57.336Z",
-   "lastSuccess": "2026-11-19T21:44:57.336Z",
+   "checkedAt": "2026-11-19T22:35:21.016Z",
+   "lastSuccess": "2026-11-19T22:35:21.016Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 21:39:28 GMT"
+   "lastModified": "Thu, 19 Nov 2026 22:22:39 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T21:44:57.336Z",
-   "lastSuccess": "2026-11-19T21:44:57.336Z",
-   "etag": "dbc516460c503b0bc363af81fba86212",
-   "lastModified": "Thu, 19 Nov 2026 21:36:00 GMT"
+   "checkedAt": "2026-11-19T22:35:21.016Z",
+   "lastSuccess": "2026-11-19T22:35:21.016Z",
+   "etag": "2f19365dff17ef6f47f871f5e150fba5",
+   "lastModified": "Thu, 19 Nov 2026 22:25:42 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T21:44:57.336Z",
-   "lastSuccess": "2026-11-19T21:44:57.336Z",
+   "checkedAt": "2026-11-19T22:35:21.016Z",
+   "lastSuccess": "2026-11-19T22:35:21.016Z",
    "etag": null,
    "lastModified": "Thu, 19 Nov 2026 18:32:46 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T21:44:57.336Z",
-   "lastSuccess": "2026-11-19T21:44:57.336Z",
+   "checkedAt": "2026-11-19T22:35:21.016Z",
+   "lastSuccess": "2026-11-19T22:35:21.016Z",
    "etag": "\"2f2dad52f8eefcfd5c8ca0a9297b9246\"",
    "lastModified": "Thu, 19 Nov 2026 19:21:12 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T21:44:57.336Z",
-   "lastSuccess": "2026-11-19T21:44:57.336Z",
+   "checkedAt": "2026-11-19T22:35:21.016Z",
+   "lastSuccess": "2026-11-19T22:35:21.016Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 21:44:57 GMT"
+   "lastModified": "Thu, 19 Nov 2026 22:35:21 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T21:44:57.336Z",
-   "lastSuccess": "2026-11-19T21:44:57.336Z",
+   "checkedAt": "2026-11-19T22:35:21.016Z",
+   "lastSuccess": "2026-11-19T22:35:21.016Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "2bf0b465ffcb0656",
+   "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+   "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-19T22:25:42.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-19T22:35:21.016Z"
+  },
   {
    "id": "fa2956a1712bf33d",
    "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
@@ -91,6 +106,20 @@
     "attack"
    ],
    "firstSeen": "2026-11-19T21:44:57.336Z"
+  },
+  {
+   "id": "582dd8bad70fd591",
+   "title": "Second Norwegian Energy Company Breached in Two Days",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
+   "summary": "No specific link has been drawn between the two incidents, though they certainly sing the same notes.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-19T20:14:15.000Z",
+   "categories": [
+    "breach"
+   ],
+   "firstSeen": "2026-11-19T22:35:21.016Z"
   },
   {
    "id": "c063ddad4bdac831",
@@ -2959,35 +2988,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-13T11:49:52.927Z"
-  },
-  {
-   "id": "a3b844e12eba8d17",
-   "title": "Check Point warns of zero-day flaw exploited for root access",
-   "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
-   "summary": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-13T10:44:22.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-13T10:53:12.414Z"
-  },
-  {
-   "id": "b5df476c43800959",
-   "title": "Citrix Patches 10 Critical NetScaler Vulnerabilities",
-   "url": "https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/",
-   "summary": "Successful exploitation could lead to unexpected behavior or denial-of-service (DoS) conditions. The post Citrix Patches 10 Critical NetScaler Vulnerabilities appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-13T09:36:56.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-13T09:54:49.564Z"
   }
  ]
 }
