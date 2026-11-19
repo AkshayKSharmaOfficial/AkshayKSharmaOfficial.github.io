@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-19T22:35:21.016Z",
- "lastAttempt": "2026-11-19T22:35:21.016Z",
+ "lastSuccess": "2026-11-19T23:28:00.033Z",
+ "lastAttempt": "2026-11-19T23:28:00.033Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T22:35:21.016Z",
-   "lastSuccess": "2026-11-19T22:35:21.016Z",
+   "checkedAt": "2026-11-19T23:28:00.033Z",
+   "lastSuccess": "2026-11-19T23:28:00.033Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 22:22:39 GMT"
+   "lastModified": "Thu, 19 Nov 2026 23:02:47 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T22:35:21.016Z",
-   "lastSuccess": "2026-11-19T22:35:21.016Z",
-   "etag": "2f19365dff17ef6f47f871f5e150fba5",
-   "lastModified": "Thu, 19 Nov 2026 22:25:42 GMT"
+   "checkedAt": "2026-11-19T23:28:00.033Z",
+   "lastSuccess": "2026-11-19T23:28:00.033Z",
+   "etag": "dd13916be899ce4a8b28f9457ce15cfe",
+   "lastModified": "Thu, 19 Nov 2026 23:25:44 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T22:35:21.016Z",
-   "lastSuccess": "2026-11-19T22:35:21.016Z",
+   "checkedAt": "2026-11-19T23:28:00.033Z",
+   "lastSuccess": "2026-11-19T23:28:00.033Z",
    "etag": null,
    "lastModified": "Thu, 19 Nov 2026 18:32:46 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T22:35:21.016Z",
-   "lastSuccess": "2026-11-19T22:35:21.016Z",
+   "checkedAt": "2026-11-19T23:28:00.033Z",
+   "lastSuccess": "2026-11-19T23:28:00.033Z",
    "etag": "\"2f2dad52f8eefcfd5c8ca0a9297b9246\"",
    "lastModified": "Thu, 19 Nov 2026 19:21:12 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T22:35:21.016Z",
-   "lastSuccess": "2026-11-19T22:35:21.016Z",
+   "checkedAt": "2026-11-19T23:28:00.033Z",
+   "lastSuccess": "2026-11-19T23:28:00.033Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 22:35:21 GMT"
+   "lastModified": "Thu, 19 Nov 2026 23:28:00 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T22:35:21.016Z",
-   "lastSuccess": "2026-11-19T22:35:21.016Z",
+   "checkedAt": "2026-11-19T23:28:00.033Z",
+   "lastSuccess": "2026-11-19T23:28:00.033Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "a409a7999122fe5f",
+   "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
+   "url": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
+   "summary": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-19T22:40:03.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-19T23:28:00.033Z"
+  },
   {
    "id": "2bf0b465ffcb0656",
    "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
@@ -2974,20 +2988,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-13T12:55:32.621Z"
-  },
-  {
-   "id": "6f73fc35d64e9ca6",
-   "title": "Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure",
-   "url": "https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/",
-   "summary": "Investigators seized 235 servers and 257 domains, along with 6.4 million victim credentials as part of Operation Endgame. The post Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-13T10:48:40.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-13T11:49:52.927Z"
   }
  ]
 }
