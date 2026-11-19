@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-19T02:52:53.128Z",
- "lastAttempt": "2026-11-19T02:52:53.128Z",
+ "lastSuccess": "2026-11-19T03:52:11.319Z",
+ "lastAttempt": "2026-11-19T03:52:11.319Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T02:52:53.128Z",
-   "lastSuccess": "2026-11-19T02:52:53.128Z",
+   "checkedAt": "2026-11-19T03:52:11.319Z",
+   "lastSuccess": "2026-11-19T03:52:11.319Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 02:12:42 GMT"
+   "lastModified": "Thu, 19 Nov 2026 03:51:23 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T02:52:53.128Z",
-   "lastSuccess": "2026-11-19T02:52:53.128Z",
-   "etag": "a401fc9c0adc770b147a065e840da3e6",
-   "lastModified": "Thu, 19 Nov 2026 02:48:40 GMT"
+   "checkedAt": "2026-11-19T03:52:11.319Z",
+   "lastSuccess": "2026-11-19T03:52:11.319Z",
+   "etag": "a8b30e5ff446b71c60d5d4c2c99d49ab",
+   "lastModified": "Thu, 19 Nov 2026 03:48:42 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T02:52:53.128Z",
-   "lastSuccess": "2026-11-19T02:52:53.128Z",
+   "checkedAt": "2026-11-19T03:52:11.319Z",
+   "lastSuccess": "2026-11-19T03:52:11.319Z",
    "etag": null,
    "lastModified": "Thu, 19 Nov 2026 02:43:01 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T02:52:53.128Z",
-   "lastSuccess": "2026-11-19T02:52:53.128Z",
-   "etag": "\"d37db3e9b24a4d27b3d9a4503b8deb32\"",
-   "lastModified": "Wed, 18 Nov 2026 15:32:17 GMT"
+   "checkedAt": "2026-11-19T03:52:11.319Z",
+   "lastSuccess": "2026-11-19T03:52:11.319Z",
+   "etag": "\"16b290e3bedb2269c4c70430b844d689\"",
+   "lastModified": "Thu, 19 Nov 2026 03:30:12 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T02:52:53.128Z",
-   "lastSuccess": "2026-11-19T02:52:53.128Z",
+   "checkedAt": "2026-11-19T03:52:11.319Z",
+   "lastSuccess": "2026-11-19T03:52:11.319Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 02:52:53 GMT"
+   "lastModified": "Thu, 19 Nov 2026 03:52:11 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T02:52:53.128Z",
-   "lastSuccess": "2026-11-19T02:52:53.128Z",
+   "checkedAt": "2026-11-19T03:52:11.319Z",
+   "lastSuccess": "2026-11-19T03:52:11.319Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "0224da5af1883d5f",
+   "title": "Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion",
+   "url": "https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/",
+   "summary": "The all-stock deal will give the cybersecurity company a platform for fine-tuning and running open-weight AI models in public and sovereign clouds. The post Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-19T03:25:23.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-19T03:52:11.319Z"
+  },
   {
    "id": "7bb371abd97fc20f",
    "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
@@ -374,6 +388,18 @@
    "firstSeen": "2026-11-18T12:42:38.917Z"
   },
   {
+   "id": "aedb90e607df0d51",
+   "title": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do",
+   "url": "https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/",
+   "summary": "Patti Degnan’s identity was stolen in 2006. It set her on a path to the CISO seat at endpoint security firm Glow. The post CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-18T12:00:00.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-18T12:42:38.917Z"
+  },
+  {
    "id": "f80192460bd317e6",
    "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
    "url": "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
@@ -387,18 +413,6 @@
     "vuln"
    ],
    "firstSeen": "2026-11-18T20:49:00.232Z"
-  },
-  {
-   "id": "aedb90e607df0d51",
-   "title": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do",
-   "url": "https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/",
-   "summary": "Patti Degnan’s identity was stolen in 2006. It set her on a path to the CISO seat at endpoint security firm Glow. The post CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-18T12:00:00.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-18T12:42:38.917Z"
   },
   {
    "id": "5966ac56e61b79d5",
@@ -2972,20 +2986,6 @@
     "vuln"
    ],
    "firstSeen": "2026-11-17T16:56:19.348Z"
-  },
-  {
-   "id": "e8aac6829dfb0bdd",
-   "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
-   "url": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
-   "summary": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2. \"Based on our initial review, the server issue described depends on a non-default configuration…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-12T11:51:43.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-12T12:41:04.574Z"
   }
  ]
 }
