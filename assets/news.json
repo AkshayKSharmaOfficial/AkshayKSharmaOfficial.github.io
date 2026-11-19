@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-19T09:57:31.859Z",
- "lastAttempt": "2026-11-19T09:57:31.859Z",
+ "lastSuccess": "2026-11-19T10:59:31.672Z",
+ "lastAttempt": "2026-11-19T10:59:31.672Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T09:57:31.859Z",
-   "lastSuccess": "2026-11-19T09:57:31.859Z",
+   "checkedAt": "2026-11-19T10:59:31.672Z",
+   "lastSuccess": "2026-11-19T10:59:31.672Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 08:59:32 GMT"
+   "lastModified": "Thu, 19 Nov 2026 10:06:57 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T09:57:31.859Z",
-   "lastSuccess": "2026-11-19T09:57:31.859Z",
-   "etag": "57e560b4b08ff6f6e0be8b44fb8d09ec",
-   "lastModified": "Thu, 19 Nov 2026 09:53:23 GMT"
+   "checkedAt": "2026-11-19T10:59:31.672Z",
+   "lastSuccess": "2026-11-19T10:59:31.672Z",
+   "etag": "fd25127207a7fcfe6d84030d76c52afe",
+   "lastModified": "Thu, 19 Nov 2026 10:53:24 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T09:57:31.859Z",
-   "lastSuccess": "2026-11-19T09:57:31.859Z",
+   "checkedAt": "2026-11-19T10:59:31.672Z",
+   "lastSuccess": "2026-11-19T10:59:31.672Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 09:49:20 GMT"
+   "lastModified": "Thu, 19 Nov 2026 10:55:05 GMT"
   },
   {
    "id": "securityweek",
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T09:57:31.859Z",
-   "lastSuccess": "2026-11-19T09:57:31.859Z",
-   "etag": "\"08c7942e39581489a316dc1424cdcc74\"",
-   "lastModified": "Thu, 19 Nov 2026 09:11:03 GMT"
+   "checkedAt": "2026-11-19T10:59:31.672Z",
+   "lastSuccess": "2026-11-19T10:59:31.672Z",
+   "etag": "W/\"1e6128651482468e8e17b3402f199b6c\"",
+   "lastModified": "Thu, 19 Nov 2026 10:52:10 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T09:57:31.859Z",
-   "lastSuccess": "2026-11-19T09:57:31.859Z",
+   "checkedAt": "2026-11-19T10:59:31.672Z",
+   "lastSuccess": "2026-11-19T10:59:31.672Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 09:57:32 GMT"
+   "lastModified": "Thu, 19 Nov 2026 10:59:32 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,69 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T09:57:31.859Z",
-   "lastSuccess": "2026-11-19T09:57:31.859Z",
+   "checkedAt": "2026-11-19T10:59:31.672Z",
+   "lastSuccess": "2026-11-19T10:59:31.672Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "32ef8f24c5d8b99f",
+   "title": "Splunk Patches Nearly 140 Flaws Across Three Core Products",
+   "url": "https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/",
+   "summary": "The security updates resolve critical and high-severity issues leading to authentication bypass, remote code execution, and privilege escalation. The post Splunk Patches Nearly 140 Flaws Across Three Core Products appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-19T10:41:05.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-19T10:59:31.672Z"
+  },
+  {
+   "id": "88cdddb27d0a1d90",
+   "title": "Microsoft confirms app installation, launch issues after hotpatch",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
+   "summary": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-19T10:35:05.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-19T10:59:31.672Z"
+  },
+  {
+   "id": "9f25500af3928af5",
+   "title": "F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public",
+   "url": "https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/",
+   "summary": "The five NGINX2Root vulnerabilities could allow remote, unauthenticated attackers to execute arbitrary code. The post F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-19T10:26:51.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-19T10:59:31.672Z"
+  },
+  {
+   "id": "6ebe391a8b41bbc0",
+   "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+   "url": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+   "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We have taken steps to mitigate the threat and are continuing to…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-19T09:31:26.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-19T10:59:31.672Z"
+  },
   {
    "id": "88283576a7d5e922",
    "title": "NVIDIA investigating Gentlemen ransomware breach claims",
@@ -133,6 +189,22 @@
     "vuln"
    ],
    "firstSeen": "2026-11-19T09:57:31.859Z"
+  },
+  {
+   "id": "dd71654a2f478334",
+   "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
+   "url": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap) to its Known Exploited…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-19T08:00:00.000Z",
+   "categories": [
+    "ransomware",
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-19T10:59:31.672Z"
   },
   {
    "id": "36246bca53424b67",
@@ -2907,80 +2979,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-12T16:55:37.008Z"
-  },
-  {
-   "id": "d05853a414d48af7",
-   "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
-   "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
-   "summary": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-12T15:07:20.000Z",
-   "categories": [
-    "malware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-12T15:53:32.467Z"
-  },
-  {
-   "id": "ec8d539db8fd1d0a",
-   "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
-   "url": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
-   "summary": "Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-controlled cryptographic authorization can prevent attackers from abusing…",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-12T15:00:10.000Z",
-   "categories": [
-    "malware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-12T15:53:32.467Z"
-  },
-  {
-   "id": "d01de80b4a9366f9",
-   "title": "Apify rotates API tokens, prompts 2FA resets after breach",
-   "url": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
-   "summary": "Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-12T14:36:47.000Z",
-   "categories": [
-    "breach"
-   ],
-   "firstSeen": "2026-11-12T14:53:31.346Z"
-  },
-  {
-   "id": "6238dcc6e981c99b",
-   "title": "Chrome, Firefox Updates Patch Over 180 Vulnerabilities",
-   "url": "https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/",
-   "summary": "Google fixed 83 flaws with a new Chrome 157 release, and Mozilla addressed 99 bugs in Firefox 160. The post Chrome, Firefox Updates Patch Over 180 Vulnerabilities appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-12T13:42:09.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-12T13:57:23.596Z"
-  },
-  {
-   "id": "803c3e4659d2a1fc",
-   "title": "Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign",
-   "url": "https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/",
-   "summary": "Using thousands of hijacked accounts, the wfx-loot campaign planted a CI secret stealer that ran in over 1,800 GitHub repositories. The post Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-12T13:39:03.000Z",
-   "categories": [
-    "malware",
-    "phishing",
-    "attack"
-   ],
-   "firstSeen": "2026-11-12T13:57:23.596Z"
   }
  ]
 }
