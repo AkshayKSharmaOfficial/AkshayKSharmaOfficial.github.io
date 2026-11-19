@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-19T13:12:46.963Z",
- "lastAttempt": "2026-11-19T13:12:46.963Z",
+ "lastSuccess": "2026-11-19T14:27:40.145Z",
+ "lastAttempt": "2026-11-19T14:27:40.145Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T13:12:46.963Z",
-   "lastSuccess": "2026-11-19T13:12:46.963Z",
+   "checkedAt": "2026-11-19T14:27:40.145Z",
+   "lastSuccess": "2026-11-19T14:27:40.145Z",
    "etag": null,
    "lastModified": "Thu, 19 Nov 2026 12:44:53 GMT"
   },
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T13:12:46.963Z",
-   "lastSuccess": "2026-11-19T13:12:46.963Z",
-   "etag": "e3ebb5094dc3b9ca58f388a370f4f0b1",
-   "lastModified": "Thu, 19 Nov 2026 13:12:25 GMT"
+   "checkedAt": "2026-11-19T14:27:40.145Z",
+   "lastSuccess": "2026-11-19T14:27:40.145Z",
+   "etag": "1ffb57dffd31d2642bd97d156064c05c",
+   "lastModified": "Thu, 19 Nov 2026 14:22:28 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T13:12:46.963Z",
-   "lastSuccess": "2026-11-19T13:12:46.963Z",
+   "checkedAt": "2026-11-19T14:27:40.145Z",
+   "lastSuccess": "2026-11-19T14:27:40.145Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 11:49:44 GMT"
+   "lastModified": "Thu, 19 Nov 2026 14:21:00 GMT"
   },
   {
    "id": "securityweek",
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T13:12:46.963Z",
-   "lastSuccess": "2026-11-19T13:12:46.963Z",
-   "etag": "\"8718e52b93d2282e4f9ad12155a24149\"",
-   "lastModified": "Thu, 19 Nov 2026 12:23:37 GMT"
+   "checkedAt": "2026-11-19T14:27:40.145Z",
+   "lastSuccess": "2026-11-19T14:27:40.145Z",
+   "etag": "W/\"be8b88342ba3ca41130b927734dddff4\"",
+   "lastModified": "Thu, 19 Nov 2026 14:17:39 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T13:12:46.963Z",
-   "lastSuccess": "2026-11-19T13:12:46.963Z",
+   "checkedAt": "2026-11-19T14:27:40.145Z",
+   "lastSuccess": "2026-11-19T14:27:40.145Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 13:12:49 GMT"
+   "lastModified": "Thu, 19 Nov 2026 14:27:40 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,58 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T13:12:46.963Z",
-   "lastSuccess": "2026-11-19T13:12:46.963Z",
+   "checkedAt": "2026-11-19T14:27:40.145Z",
+   "lastSuccess": "2026-11-19T14:27:40.145Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "a1f68890a729bc1a",
+   "title": "Nvidia Responds to Gentlemen Ransomware Claim",
+   "url": "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/",
+   "summary": "Nvidia says it has found no indication that its systems were compromised after the Gentlemen ransomware group listed the company as a victim. The post Nvidia Responds to Gentlemen Ransomware Claim appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-19T14:17:32.000Z",
+   "categories": [
+    "ransomware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-19T14:27:40.145Z"
+  },
+  {
+   "id": "7e7f4dbb5464bb58",
+   "title": "Why Holiday Security Can't Wait for Black Friday",
+   "url": "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday",
+   "summary": "Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-19T14:00:00.000Z",
+   "categories": [
+    "phishing",
+    "attack"
+   ],
+   "firstSeen": "2026-11-19T14:27:40.145Z"
+  },
+  {
+   "id": "4484dbc145650e7c",
+   "title": "Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release",
+   "url": "https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/",
+   "summary": "Attackers hacked clustered Cisco Expressway devices at a Russian organization and prepared tooling for lateral movement. The post Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-19T13:12:20.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-19T14:27:40.145Z"
+  },
   {
    "id": "8984a827dce61bef",
    "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
@@ -298,7 +343,7 @@
    "id": "36246bca53424b67",
    "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
    "url": "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge",
-   "summary": "Nigeria faced more than double the cyber threats of the previous year, with Angola and Kenya also in the top-5 most attacked countries globally.",
+   "summary": "Nigeria faced more than double the cyber threats of the previous year, with Angola and Kenya also in the top 5 most-attacked countries globally.",
    "source": "Dark Reading",
    "sourceId": "darkreading",
    "kind": "media",
@@ -368,7 +413,7 @@
    "id": "318d988adfa09705",
    "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
    "url": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
-   "summary": "The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
+   "summary": "The state-sponsored threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
    "source": "Dark Reading",
    "sourceId": "darkreading",
    "kind": "media",
@@ -2932,50 +2977,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-12T20:43:29.031Z"
-  },
-  {
-   "id": "4ed5988fdce2dbbb",
-   "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
-   "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
-   "summary": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-12T19:12:55.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-12T19:48:28.301Z"
-  },
-  {
-   "id": "384252220164cfa9",
-   "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
-   "url": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
-   "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious login might belong to an employee. An unusual…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-12T18:07:15.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-12T12:41:04.574Z"
-  },
-  {
-   "id": "897c1c6b0f49846c",
-   "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
-   "url": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
-   "summary": "A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount of this week's trouble starts right there. Attackers are using fake websites…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-12T18:02:51.000Z",
-   "categories": [
-    "malware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-12T18:46:37.994Z"
   }
  ]
 }
