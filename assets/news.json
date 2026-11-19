@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-19T20:48:14.351Z",
- "lastAttempt": "2026-11-19T20:48:14.351Z",
+ "lastSuccess": "2026-11-19T21:44:57.336Z",
+ "lastAttempt": "2026-11-19T21:44:57.336Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T20:48:14.351Z",
-   "lastSuccess": "2026-11-19T20:48:14.351Z",
+   "checkedAt": "2026-11-19T21:44:57.336Z",
+   "lastSuccess": "2026-11-19T21:44:57.336Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 20:35:10 GMT"
+   "lastModified": "Thu, 19 Nov 2026 21:39:28 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T20:48:14.351Z",
-   "lastSuccess": "2026-11-19T20:48:14.351Z",
-   "etag": "611e0ceb9b9299510623ed32803aea5e",
-   "lastModified": "Thu, 19 Nov 2026 20:40:06 GMT"
+   "checkedAt": "2026-11-19T21:44:57.336Z",
+   "lastSuccess": "2026-11-19T21:44:57.336Z",
+   "etag": "dbc516460c503b0bc363af81fba86212",
+   "lastModified": "Thu, 19 Nov 2026 21:36:00 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T20:48:14.351Z",
-   "lastSuccess": "2026-11-19T20:48:14.351Z",
+   "checkedAt": "2026-11-19T21:44:57.336Z",
+   "lastSuccess": "2026-11-19T21:44:57.336Z",
    "etag": null,
    "lastModified": "Thu, 19 Nov 2026 18:32:46 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T20:48:14.351Z",
-   "lastSuccess": "2026-11-19T20:48:14.351Z",
+   "checkedAt": "2026-11-19T21:44:57.336Z",
+   "lastSuccess": "2026-11-19T21:44:57.336Z",
    "etag": "\"2f2dad52f8eefcfd5c8ca0a9297b9246\"",
    "lastModified": "Thu, 19 Nov 2026 19:21:12 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T20:48:14.351Z",
-   "lastSuccess": "2026-11-19T20:48:14.351Z",
+   "checkedAt": "2026-11-19T21:44:57.336Z",
+   "lastSuccess": "2026-11-19T21:44:57.336Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 20:48:14 GMT"
+   "lastModified": "Thu, 19 Nov 2026 21:44:57 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,42 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T20:48:14.351Z",
-   "lastSuccess": "2026-11-19T20:48:14.351Z",
+   "checkedAt": "2026-11-19T21:44:57.336Z",
+   "lastSuccess": "2026-11-19T21:44:57.336Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "fa2956a1712bf33d",
+   "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
+   "url": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
+   "summary": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-19T21:15:59.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-19T21:44:57.336Z"
+  },
+  {
+   "id": "c063ddad4bdac831",
+   "title": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style",
+   "url": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
+   "summary": "November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-19T19:57:31.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-19T21:44:57.336Z"
+  },
   {
    "id": "9121a90b0965bd71",
    "title": "Navigating Vulnerability Hysteria in the AI Era",
@@ -2957,35 +2986,6 @@
    "published": "2026-11-13T09:36:56.000Z",
    "categories": [
     "vuln"
-   ],
-   "firstSeen": "2026-11-13T09:54:49.564Z"
-  },
-  {
-   "id": "be9d3ec64d63f28b",
-   "title": "Microsoft confirms Windows activation failures after November updates",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
-   "summary": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-13T09:36:18.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-13T09:54:49.564Z"
-  },
-  {
-   "id": "f912b97a6413394c",
-   "title": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools",
-   "url": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
-   "summary": "Daybreak Red Team pentests web applications with AI agents, while Defense Factory investigates security findings and prepares patches. The post OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-13T09:21:01.000Z",
-   "categories": [
-    "vuln",
-    "ai"
    ],
    "firstSeen": "2026-11-13T09:54:49.564Z"
   }
