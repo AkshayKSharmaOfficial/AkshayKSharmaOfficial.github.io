@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-19T17:38:26.622Z",
- "lastAttempt": "2026-11-19T17:38:26.622Z",
+ "lastSuccess": "2026-11-19T18:38:15.922Z",
+ "lastAttempt": "2026-11-19T18:38:15.922Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T17:38:26.622Z",
-   "lastSuccess": "2026-11-19T17:38:26.622Z",
+   "checkedAt": "2026-11-19T18:38:15.922Z",
+   "lastSuccess": "2026-11-19T18:38:15.922Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 16:44:07 GMT"
+   "lastModified": "Thu, 19 Nov 2026 17:43:26 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T17:38:26.622Z",
-   "lastSuccess": "2026-11-19T17:38:26.622Z",
-   "etag": "8b26e46997b0bcddfc66546d621710c6",
-   "lastModified": "Thu, 19 Nov 2026 17:38:26 GMT"
+   "checkedAt": "2026-11-19T18:38:15.922Z",
+   "lastSuccess": "2026-11-19T18:38:15.922Z",
+   "etag": "2cc9ebf76e708845552e0d0c4440d4dc",
+   "lastModified": "Thu, 19 Nov 2026 18:30:03 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T17:38:26.622Z",
-   "lastSuccess": "2026-11-19T17:38:26.622Z",
+   "checkedAt": "2026-11-19T18:38:15.922Z",
+   "lastSuccess": "2026-11-19T18:38:15.922Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 17:33:38 GMT"
+   "lastModified": "Thu, 19 Nov 2026 18:32:46 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T17:38:26.622Z",
-   "lastSuccess": "2026-11-19T17:38:26.622Z",
+   "checkedAt": "2026-11-19T18:38:15.922Z",
+   "lastSuccess": "2026-11-19T18:38:15.922Z",
    "etag": "\"4c250e74b20500c51824e6255d34117d\"",
    "lastModified": "Thu, 19 Nov 2026 15:57:06 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T17:38:26.622Z",
-   "lastSuccess": "2026-11-19T17:38:26.622Z",
+   "checkedAt": "2026-11-19T18:38:15.922Z",
+   "lastSuccess": "2026-11-19T18:38:15.922Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 17:38:27 GMT"
+   "lastModified": "Thu, 19 Nov 2026 18:38:16 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,42 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T17:38:26.622Z",
-   "lastSuccess": "2026-11-19T17:38:26.622Z",
+   "checkedAt": "2026-11-19T18:38:15.922Z",
+   "lastSuccess": "2026-11-19T18:38:15.922Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "1ad926ada56b1565",
+   "title": "Transport for London breach exposes 265,000 Oyster card users' data",
+   "url": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
+   "summary": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-19T18:20:01.000Z",
+   "categories": [
+    "breach"
+   ],
+   "firstSeen": "2026-11-19T18:38:15.922Z"
+  },
+  {
+   "id": "ea8cebf5d32bea67",
+   "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+   "url": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+   "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can allow the attacker to run code on…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-19T16:59:56.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-19T18:38:15.922Z"
+  },
   {
    "id": "76ebfcf24501b920",
    "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
@@ -2955,36 +2984,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-13T08:56:14.718Z"
-  },
-  {
-   "id": "ebcadd7748bcb0b2",
-   "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks",
-   "url": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
-   "summary": "PHP2Shell enabled initial compromise, while CVE-2026-123039 allowed attackers to elevate privileges to root. The post PHP2Shell Exploited in Destructive Check Point Gateway Attacks appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-13T07:39:04.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-13T07:58:16.137Z"
-  },
-  {
-   "id": "e53c4a1af48bffbc",
-   "title": "Hackers Exploit New N-central Zero-Day Hours After PoC Publication",
-   "url": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/",
-   "summary": "Dubbed 4EverAble2Shell, the flaw could allow remote, unauthenticated attackers to execute code with root privileges. The post Hackers Exploit New N-central Zero-Day Hours After PoC Publication appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-13T07:20:50.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-13T07:58:16.137Z"
   }
  ]
 }
