@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-19T07:33:17.300Z",
- "lastAttempt": "2026-11-19T07:33:17.300Z",
+ "lastSuccess": "2026-11-19T08:45:30.381Z",
+ "lastAttempt": "2026-11-19T08:45:30.381Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T07:33:17.300Z",
-   "lastSuccess": "2026-11-19T07:33:17.300Z",
+   "checkedAt": "2026-11-19T08:45:30.381Z",
+   "lastSuccess": "2026-11-19T08:45:30.381Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 06:17:15 GMT"
+   "lastModified": "Thu, 19 Nov 2026 07:51:40 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T07:33:17.300Z",
-   "lastSuccess": "2026-11-19T07:33:17.300Z",
-   "etag": "df1a443ecb17326d5ed8f7f7d4404ef5",
-   "lastModified": "Thu, 19 Nov 2026 07:23:37 GMT"
+   "checkedAt": "2026-11-19T08:45:30.381Z",
+   "lastSuccess": "2026-11-19T08:45:30.381Z",
+   "etag": "81d2da2e9dad9a71526546c816776b4e",
+   "lastModified": "Thu, 19 Nov 2026 08:43:39 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T07:33:17.300Z",
-   "lastSuccess": "2026-11-19T07:33:17.300Z",
+   "checkedAt": "2026-11-19T08:45:30.381Z",
+   "lastSuccess": "2026-11-19T08:45:30.381Z",
    "etag": null,
    "lastModified": "Thu, 19 Nov 2026 05:48:54 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T07:33:17.300Z",
-   "lastSuccess": "2026-11-19T07:33:17.300Z",
-   "etag": "\"16b290e3bedb2269c4c70430b844d689\"",
-   "lastModified": "Thu, 19 Nov 2026 03:30:12 GMT"
+   "checkedAt": "2026-11-19T08:45:30.381Z",
+   "lastSuccess": "2026-11-19T08:45:30.381Z",
+   "etag": "\"ea67fa7b803e3d3a4955083e6571afb6\"",
+   "lastModified": "Thu, 19 Nov 2026 07:51:40 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T07:33:17.300Z",
-   "lastSuccess": "2026-11-19T07:33:17.300Z",
+   "checkedAt": "2026-11-19T08:45:30.381Z",
+   "lastSuccess": "2026-11-19T08:45:30.381Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 07:33:17 GMT"
+   "lastModified": "Thu, 19 Nov 2026 08:45:30 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,41 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T07:33:17.300Z",
-   "lastSuccess": "2026-11-19T07:33:17.300Z",
+   "checkedAt": "2026-11-19T08:45:30.381Z",
+   "lastSuccess": "2026-11-19T08:45:30.381Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "36246bca53424b67",
+   "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
+   "url": "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge",
+   "summary": "Nigeria faced more than double the cyber threats of the previous year, with Angola and Kenya also in the top-5 most attacked countries globally.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-19T08:00:00.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-19T08:45:30.381Z"
+  },
+  {
+   "id": "99e978dd631f5742",
+   "title": "PHP Readies Critical Security Updates to Patch Another RCE Flaw",
+   "url": "https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/",
+   "summary": "Affecting the session upload progress, CVE-2026-115560 was publicly disclosed two days after PHP2Shell patches landed. The post PHP Readies Critical Security Updates to Patch Another RCE Flaw appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-19T07:45:17.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-19T08:45:30.381Z"
+  },
   {
    "id": "75b5f95941280ec2",
    "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
@@ -270,9 +298,9 @@
   },
   {
    "id": "dae62c8b875add9d",
-   "title": "VeroSecurity Raises $11 Million for AI Security Engineering Platform",
+   "title": "Vero Security Raises $11 Million for AI Security Engineering Platform",
    "url": "https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/",
-   "summary": "AI Security Engineering is a new and essential security discipline now being brought into focus by VeroSecurity. The post VeroSecurity Raises $11 Million for AI Security Engineering Platform appeared first on SecurityWeek .",
+   "summary": "AI Security Engineering is a new and essential security discipline now being brought into focus by VeroSecurity. The post Vero Security Raises $11 Million for AI Security Engineering Platform appeared first on SecurityWeek .",
    "source": "SecurityWeek",
    "sourceId": "securityweek",
    "kind": "media",
@@ -402,6 +430,18 @@
    "firstSeen": "2026-11-18T12:42:38.917Z"
   },
   {
+   "id": "aedb90e607df0d51",
+   "title": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do",
+   "url": "https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/",
+   "summary": "Patti Degnan’s identity was stolen in 2006. It set her on a path to the CISO seat at endpoint security firm Glow. The post CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-18T12:00:00.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-18T12:42:38.917Z"
+  },
+  {
    "id": "f80192460bd317e6",
    "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
    "url": "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
@@ -415,18 +455,6 @@
     "vuln"
    ],
    "firstSeen": "2026-11-18T20:49:00.232Z"
-  },
-  {
-   "id": "aedb90e607df0d51",
-   "title": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do",
-   "url": "https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/",
-   "summary": "Patti Degnan’s identity was stolen in 2006. It set her on a path to the CISO seat at endpoint security firm Glow. The post CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-18T12:00:00.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-18T12:42:38.917Z"
   },
   {
    "id": "5966ac56e61b79d5",
@@ -2955,36 +2983,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-12T12:41:04.574Z"
-  },
-  {
-   "id": "3a604a6af7e81de5",
-   "title": "Siemens Desigo, Gridscale",
-   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02",
-   "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write…",
-   "source": "CISA (US government)",
-   "sourceId": "cisa",
-   "kind": "official",
-   "published": "2026-11-12T12:00:00.000Z",
-   "categories": [
-    "advisory",
-    "vuln"
-   ],
-   "firstSeen": "2026-11-17T16:56:19.348Z"
-  },
-  {
-   "id": "2c0880b52ec39ab4",
-   "title": "Siemens Industrial Edge Management",
-   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
-   "summary": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Although the affected Brotli library is…",
-   "source": "CISA (US government)",
-   "sourceId": "cisa",
-   "kind": "official",
-   "published": "2026-11-12T12:00:00.000Z",
-   "categories": [
-    "advisory",
-    "vuln"
-   ],
-   "firstSeen": "2026-11-17T16:56:19.348Z"
   }
  ]
 }
