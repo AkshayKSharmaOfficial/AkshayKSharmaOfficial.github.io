@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-19T16:37:00.670Z",
- "lastAttempt": "2026-11-19T16:37:00.670Z",
+ "lastSuccess": "2026-11-19T17:38:26.622Z",
+ "lastAttempt": "2026-11-19T17:38:26.622Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T16:37:00.670Z",
-   "lastSuccess": "2026-11-19T16:37:00.670Z",
+   "checkedAt": "2026-11-19T17:38:26.622Z",
+   "lastSuccess": "2026-11-19T17:38:26.622Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 15:39:52 GMT"
+   "lastModified": "Thu, 19 Nov 2026 16:44:07 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T16:37:00.670Z",
-   "lastSuccess": "2026-11-19T16:37:00.670Z",
-   "etag": "7fccdd37594cbdea46df34f858c2cf8d",
-   "lastModified": "Thu, 19 Nov 2026 16:28:23 GMT"
+   "checkedAt": "2026-11-19T17:38:26.622Z",
+   "lastSuccess": "2026-11-19T17:38:26.622Z",
+   "etag": "8b26e46997b0bcddfc66546d621710c6",
+   "lastModified": "Thu, 19 Nov 2026 17:38:26 GMT"
   },
   {
    "id": "krebs",
@@ -34,20 +34,20 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T16:37:00.670Z",
-   "lastSuccess": "2026-11-19T16:37:00.670Z",
+   "checkedAt": "2026-11-19T17:38:26.622Z",
+   "lastSuccess": "2026-11-19T17:38:26.622Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 16:25:45 GMT"
+   "lastModified": "Thu, 19 Nov 2026 17:33:38 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T16:37:00.670Z",
-   "lastSuccess": "2026-11-19T16:37:00.670Z",
+   "checkedAt": "2026-11-19T17:38:26.622Z",
+   "lastSuccess": "2026-11-19T17:38:26.622Z",
    "etag": "\"4c250e74b20500c51824e6255d34117d\"",
    "lastModified": "Thu, 19 Nov 2026 15:57:06 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T16:37:00.670Z",
-   "lastSuccess": "2026-11-19T16:37:00.670Z",
+   "checkedAt": "2026-11-19T17:38:26.622Z",
+   "lastSuccess": "2026-11-19T17:38:26.622Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 16:37:01 GMT"
+   "lastModified": "Thu, 19 Nov 2026 17:38:27 GMT"
   },
   {
    "id": "cisa",
@@ -70,8 +70,8 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T16:37:00.670Z",
-   "lastSuccess": "2026-11-19T16:37:00.670Z",
+   "checkedAt": "2026-11-19T17:38:26.622Z",
+   "lastSuccess": "2026-11-19T17:38:26.622Z",
    "etag": null,
    "lastModified": null
   }
@@ -111,7 +111,7 @@
    "id": "dcfa8134ceac9ad3",
    "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
    "url": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-   "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560. The list of vulnerabilities is as follows - CVE-2026-115560 (CVSS score…",
+   "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560. The release of the patch follows an advance notice in which the project…",
    "source": "The Hacker News",
    "sourceId": "thn",
    "kind": "media",
@@ -273,21 +273,6 @@
    "firstSeen": "2026-11-19T13:12:46.963Z"
   },
   {
-   "id": "c3f2f5031d340d57",
-   "title": "The Governance Gap in Open-Weight AI and What to Do About It",
-   "url": "https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/",
-   "summary": "Lower costs, data privacy, and greater control are driving open-weight AI adoption, but many organizations are not addressing the risks that come with it. The post The Governance Gap in Open-Weight AI and What to Do About It appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-19T12:00:00.000Z",
-   "categories": [
-    "breach",
-    "ai"
-   ],
-   "firstSeen": "2026-11-19T13:12:46.963Z"
-  },
-  {
    "id": "6d9cae83658efad6",
    "title": "Elecbrakes EB2, VM1, ELBC2000",
    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02",
@@ -333,6 +318,21 @@
     "vuln"
    ],
    "firstSeen": "2026-11-19T16:37:00.670Z"
+  },
+  {
+   "id": "c3f2f5031d340d57",
+   "title": "The Governance Gap in Open-Weight AI and What to Do About It",
+   "url": "https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/",
+   "summary": "Lower costs, data privacy, and greater control are driving open-weight AI adoption, but many organizations are not addressing the risks that come with it. The post The Governance Gap in Open-Weight AI and What to Do About It appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-19T12:00:00.000Z",
+   "categories": [
+    "breach",
+    "ai"
+   ],
+   "firstSeen": "2026-11-19T13:12:46.963Z"
   },
   {
    "id": "79fb717d814dd0bd",
