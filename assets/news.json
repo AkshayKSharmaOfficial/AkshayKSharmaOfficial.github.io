@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-19T19:46:05.501Z",
- "lastAttempt": "2026-11-19T19:46:05.501Z",
+ "lastSuccess": "2026-11-19T20:48:14.351Z",
+ "lastAttempt": "2026-11-19T20:48:14.351Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T19:46:05.501Z",
-   "lastSuccess": "2026-11-19T19:46:05.501Z",
+   "checkedAt": "2026-11-19T20:48:14.351Z",
+   "lastSuccess": "2026-11-19T20:48:14.351Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 17:43:26 GMT"
+   "lastModified": "Thu, 19 Nov 2026 20:35:10 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T19:46:05.501Z",
-   "lastSuccess": "2026-11-19T19:46:05.501Z",
-   "etag": "6025038431a682494dde0ea32660ad1c",
-   "lastModified": "Thu, 19 Nov 2026 19:40:04 GMT"
+   "checkedAt": "2026-11-19T20:48:14.351Z",
+   "lastSuccess": "2026-11-19T20:48:14.351Z",
+   "etag": "611e0ceb9b9299510623ed32803aea5e",
+   "lastModified": "Thu, 19 Nov 2026 20:40:06 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T19:46:05.501Z",
-   "lastSuccess": "2026-11-19T19:46:05.501Z",
+   "checkedAt": "2026-11-19T20:48:14.351Z",
+   "lastSuccess": "2026-11-19T20:48:14.351Z",
    "etag": null,
    "lastModified": "Thu, 19 Nov 2026 18:32:46 GMT"
   },
@@ -43,11 +43,11 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T19:46:05.501Z",
-   "lastSuccess": "2026-11-19T19:46:05.501Z",
+   "checkedAt": "2026-11-19T20:48:14.351Z",
+   "lastSuccess": "2026-11-19T20:48:14.351Z",
    "etag": "\"2f2dad52f8eefcfd5c8ca0a9297b9246\"",
    "lastModified": "Thu, 19 Nov 2026 19:21:12 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T19:46:05.501Z",
-   "lastSuccess": "2026-11-19T19:46:05.501Z",
+   "checkedAt": "2026-11-19T20:48:14.351Z",
+   "lastSuccess": "2026-11-19T20:48:14.351Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 19:46:06 GMT"
+   "lastModified": "Thu, 19 Nov 2026 20:48:14 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T19:46:05.501Z",
-   "lastSuccess": "2026-11-19T19:46:05.501Z",
+   "checkedAt": "2026-11-19T20:48:14.351Z",
+   "lastSuccess": "2026-11-19T20:48:14.351Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "9121a90b0965bd71",
+   "title": "Navigating Vulnerability Hysteria in the AI Era",
+   "url": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
+   "summary": "This installment of the Reporters' Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of AI-assisted exploits trigger widespread panic, operational disruptions, and growing warning fatigue.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-19T19:46:44.000Z",
+   "categories": [
+    "vuln",
+    "ai"
+   ],
+   "firstSeen": "2026-11-19T20:48:14.351Z"
+  },
   {
    "id": "43f9b3509b46f663",
    "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
@@ -91,6 +106,22 @@
     "attack"
    ],
    "firstSeen": "2026-11-19T19:46:05.501Z"
+  },
+  {
+   "id": "cc7a5715391457a2",
+   "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+   "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+   "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-19T18:47:58.000Z",
+   "categories": [
+    "ransomware",
+    "vuln",
+    "malware"
+   ],
+   "firstSeen": "2026-11-19T20:48:14.351Z"
   },
   {
    "id": "1ad926ada56b1565",
@@ -317,21 +348,6 @@
    "firstSeen": "2026-11-19T13:12:46.963Z"
   },
   {
-   "id": "c3f2f5031d340d57",
-   "title": "The Governance Gap in Open-Weight AI and What to Do About It",
-   "url": "https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/",
-   "summary": "Lower costs, data privacy, and greater control are driving open-weight AI adoption, but many organizations are not addressing the risks that come with it. The post The Governance Gap in Open-Weight AI and What to Do About It appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-19T12:00:00.000Z",
-   "categories": [
-    "breach",
-    "ai"
-   ],
-   "firstSeen": "2026-11-19T13:12:46.963Z"
-  },
-  {
    "id": "6d9cae83658efad6",
    "title": "Elecbrakes EB2, VM1, ELBC2000",
    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02",
@@ -377,6 +393,21 @@
     "vuln"
    ],
    "firstSeen": "2026-11-19T16:37:00.670Z"
+  },
+  {
+   "id": "c3f2f5031d340d57",
+   "title": "The Governance Gap in Open-Weight AI and What to Do About It",
+   "url": "https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/",
+   "summary": "Lower costs, data privacy, and greater control are driving open-weight AI adoption, but many organizations are not addressing the risks that come with it. The post The Governance Gap in Open-Weight AI and What to Do About It appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-19T12:00:00.000Z",
+   "categories": [
+    "breach",
+    "ai"
+   ],
+   "firstSeen": "2026-11-19T13:12:46.963Z"
   },
   {
    "id": "79fb717d814dd0bd",
@@ -2957,32 +2988,6 @@
     "ai"
    ],
    "firstSeen": "2026-11-13T09:54:49.564Z"
-  },
-  {
-   "id": "aafd1efa2d73de1e",
-   "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’",
-   "url": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
-   "summary": "It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process. The post Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’ appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-13T08:50:36.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-13T08:56:14.718Z"
-  },
-  {
-   "id": "dab9cf0b8c1aec08",
-   "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
-   "url": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
-   "summary": "Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-13T08:34:20.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-13T08:56:14.718Z"
   }
  ]
 }
