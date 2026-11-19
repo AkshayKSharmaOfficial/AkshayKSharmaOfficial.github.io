@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-19T14:27:40.145Z",
- "lastAttempt": "2026-11-19T14:27:40.145Z",
+ "lastSuccess": "2026-11-19T15:29:09.354Z",
+ "lastAttempt": "2026-11-19T15:29:09.354Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T14:27:40.145Z",
-   "lastSuccess": "2026-11-19T14:27:40.145Z",
+   "checkedAt": "2026-11-19T15:29:09.354Z",
+   "lastSuccess": "2026-11-19T15:29:09.354Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 12:44:53 GMT"
+   "lastModified": "Thu, 19 Nov 2026 15:14:00 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T14:27:40.145Z",
-   "lastSuccess": "2026-11-19T14:27:40.145Z",
-   "etag": "1ffb57dffd31d2642bd97d156064c05c",
-   "lastModified": "Thu, 19 Nov 2026 14:22:28 GMT"
+   "checkedAt": "2026-11-19T15:29:09.354Z",
+   "lastSuccess": "2026-11-19T15:29:09.354Z",
+   "etag": "ea73883adb7b531de0a49c04a10b7a2e",
+   "lastModified": "Thu, 19 Nov 2026 15:27:25 GMT"
   },
   {
    "id": "krebs",
@@ -34,20 +34,20 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T14:27:40.145Z",
-   "lastSuccess": "2026-11-19T14:27:40.145Z",
+   "checkedAt": "2026-11-19T15:29:09.354Z",
+   "lastSuccess": "2026-11-19T15:29:09.354Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 14:21:00 GMT"
+   "lastModified": "Thu, 19 Nov 2026 15:26:31 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T14:27:40.145Z",
-   "lastSuccess": "2026-11-19T14:27:40.145Z",
+   "checkedAt": "2026-11-19T15:29:09.354Z",
+   "lastSuccess": "2026-11-19T15:29:09.354Z",
    "etag": "W/\"be8b88342ba3ca41130b927734dddff4\"",
    "lastModified": "Thu, 19 Nov 2026 14:17:39 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T14:27:40.145Z",
-   "lastSuccess": "2026-11-19T14:27:40.145Z",
+   "checkedAt": "2026-11-19T15:29:09.354Z",
+   "lastSuccess": "2026-11-19T15:29:09.354Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 14:27:40 GMT"
+   "lastModified": "Thu, 19 Nov 2026 15:29:12 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,89 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-19T14:27:40.145Z",
-   "lastSuccess": "2026-11-19T14:27:40.145Z",
+   "checkedAt": "2026-11-19T15:29:09.354Z",
+   "lastSuccess": "2026-11-19T15:29:09.354Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "63edce0941e0edb0",
+   "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+   "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+   "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and the company lists no…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-19T15:11:06.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-19T15:29:09.354Z"
+  },
+  {
+   "id": "b540ed52e3baf87c",
+   "title": "Five warning signs of ransomware breach before encryption or data theft",
+   "url": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+   "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity, and protect critical…",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-19T15:00:10.000Z",
+   "categories": [
+    "ransomware",
+    "breach",
+    "phishing",
+    "attack"
+   ],
+   "firstSeen": "2026-11-19T15:29:09.354Z"
+  },
+  {
+   "id": "063fc47cfa9c3fa0",
+   "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
+   "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
+   "summary": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-19T14:57:24.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-19T15:29:09.354Z"
+  },
+  {
+   "id": "dcfa8134ceac9ad3",
+   "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+   "url": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+   "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560. The list of vulnerabilities is as follows - CVE-2026-115560 (CVSS score…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-19T14:45:06.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-19T15:29:09.354Z"
+  },
+  {
+   "id": "88c544823e0d1532",
+   "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+   "url": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+   "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a site takeover or remote code execution, and the project rates the vulnerable…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-19T14:33:06.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-19T15:29:09.354Z"
+  },
   {
    "id": "a1f68890a729bc1a",
    "title": "Nvidia Responds to Gentlemen Ransomware Claim",
@@ -2904,79 +2980,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-12T22:27:07.529Z"
-  },
-  {
-   "id": "670eee519d3d24dd",
-   "title": "Cyber Experts Weigh In: How to Fight Artex & AntiFox",
-   "url": "https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox",
-   "summary": "Cybercriminals using agentic pen-testing tools is a proverbial genie out of the bottle at this point, so enterprises need to get a defense plan in place right away.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-12T21:18:52.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-12T22:27:07.529Z"
-  },
-  {
-   "id": "fc01b8f5ab142240",
-   "title": "Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams",
-   "url": "https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/",
-   "summary": "Microsoft says failed server health checks disrupted Outlook and other Microsoft 365 services. The company is still investigating the cause and has disclosed no evidence of a cyberattack. The post Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams appeared first…",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-12T20:55:30.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-12T21:30:18.704Z"
-  },
-  {
-   "id": "cc6f04b423804060",
-   "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
-   "summary": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-12T20:15:16.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-12T20:43:29.031Z"
-  },
-  {
-   "id": "33f2c1c2cbefa0b4",
-   "title": "Extortion Group Luna Moth Flits Into Law Firms a Second Time",
-   "url": "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time",
-   "summary": "The cybercriminals are retargeting law firms that refused to pay its first ransom, with a social engineering con aimed at stealing Microsoft access tokens.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-12T20:09:41.000Z",
-   "categories": [
-    "ransomware",
-    "phishing",
-    "attack"
-   ],
-   "firstSeen": "2026-11-12T20:43:29.031Z"
-  },
-  {
-   "id": "0212533fdc388b5f",
-   "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
-   "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-   "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security…",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-12T19:51:16.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-12T20:43:29.031Z"
   }
  ]
 }
