@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-20T11:41:02.988Z",
- "lastAttempt": "2026-11-20T11:41:02.988Z",
+ "lastSuccess": "2026-11-20T12:43:30.628Z",
+ "lastAttempt": "2026-11-20T12:43:30.628Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T11:41:02.988Z",
-   "lastSuccess": "2026-11-20T11:41:02.988Z",
+   "checkedAt": "2026-11-20T12:43:30.628Z",
+   "lastSuccess": "2026-11-20T12:43:30.628Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 11:08:45 GMT"
+   "lastModified": "Fri, 20 Nov 2026 12:37:02 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T11:41:02.988Z",
-   "lastSuccess": "2026-11-20T11:41:02.988Z",
-   "etag": "024cfc9b1d837759bd6200c46c3bbaeb",
-   "lastModified": "Fri, 20 Nov 2026 11:35:08 GMT"
+   "checkedAt": "2026-11-20T12:43:30.628Z",
+   "lastSuccess": "2026-11-20T12:43:30.628Z",
+   "etag": "42c55c52cf82b9a6ca390a89a0b67b54",
+   "lastModified": "Fri, 20 Nov 2026 12:35:10 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T11:41:02.988Z",
-   "lastSuccess": "2026-11-20T11:41:02.988Z",
+   "checkedAt": "2026-11-20T12:43:30.628Z",
+   "lastSuccess": "2026-11-20T12:43:30.628Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 10:29:30 GMT"
+   "lastModified": "Fri, 20 Nov 2026 12:36:15 GMT"
   },
   {
    "id": "securityweek",
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T11:41:02.988Z",
-   "lastSuccess": "2026-11-20T11:41:02.988Z",
-   "etag": "W/\"4ac97b8fc5af1340b5845c6dcb3b1e05\"",
-   "lastModified": "Fri, 20 Nov 2026 11:36:56 GMT"
+   "checkedAt": "2026-11-20T12:43:30.628Z",
+   "lastSuccess": "2026-11-20T12:43:30.628Z",
+   "etag": "W/\"a84a075b1aaf07805eb45a16caf96b69\"",
+   "lastModified": "Fri, 20 Nov 2026 12:40:26 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T11:41:02.988Z",
-   "lastSuccess": "2026-11-20T11:41:02.988Z",
+   "checkedAt": "2026-11-20T12:43:30.628Z",
+   "lastSuccess": "2026-11-20T12:43:30.628Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 11:41:03 GMT"
+   "lastModified": "Fri, 20 Nov 2026 12:43:31 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,67 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T11:41:02.988Z",
-   "lastSuccess": "2026-11-20T11:41:02.988Z",
+   "checkedAt": "2026-11-20T12:43:30.628Z",
+   "lastSuccess": "2026-11-20T12:43:30.628Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "2c449bcaa9bab3f4",
+   "title": "Industry Reactions to Major Outages and AI Patching Questions: Feedback Friday",
+   "url": "https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/",
+   "summary": "Experts commented on whether AI-accelerated patching played a role, the need for tested rollback plans, and the fragility of interconnected systems. The post Industry Reactions to Major Outages and AI Patching Questions: Feedback Friday appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-20T12:38:55.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-20T12:43:30.628Z"
+  },
+  {
+   "id": "c7b209f2aed89407",
+   "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+   "url": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
+   "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can include other customers' virtual machines. The flaw, tracked…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-20T12:20:00.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-20T12:43:30.628Z"
+  },
+  {
+   "id": "04543eecaf546d7d",
+   "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
+   "summary": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-20T12:14:28.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-20T12:43:30.628Z"
+  },
+  {
+   "id": "b18719ed382d67da",
+   "title": "The Path to AI Autonomy in the SOC",
+   "url": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
+   "summary": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk security actions. In 12 months from now, 60%…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-20T12:00:00.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-20T12:43:30.628Z"
+  },
   {
    "id": "1f20f6eebe5aa294",
    "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
@@ -2939,63 +2993,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-13T20:35:31.814Z"
-  },
-  {
-   "id": "22ab92e404bf6d4e",
-   "title": "German military drone operations disrupted by cyberattack",
-   "url": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
-   "summary": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-13T17:31:56.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-13T17:44:56.072Z"
-  },
-  {
-   "id": "d8cc2172e29e81d0",
-   "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
-   "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
-   "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language extensions installed on the…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-13T16:53:08.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-13T17:44:56.072Z"
-  },
-  {
-   "id": "55be7db1247ce03d",
-   "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
-   "url": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
-   "summary": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-13T16:21:43.000Z",
-   "categories": [
-    "malware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-13T16:54:41.434Z"
-  },
-  {
-   "id": "d93f5e12f3c1794f",
-   "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
-   "url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
-   "summary": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can also modify a VM's memory and fake the signed report confirming which software it…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-13T15:27:05.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-13T16:54:41.434Z"
   }
  ]
 }
