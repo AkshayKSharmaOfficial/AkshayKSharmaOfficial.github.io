@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-20T09:32:32.710Z",
- "lastAttempt": "2026-11-20T09:32:32.710Z",
+ "lastSuccess": "2026-11-20T10:43:07.443Z",
+ "lastAttempt": "2026-11-20T10:43:07.443Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T09:32:32.710Z",
-   "lastSuccess": "2026-11-20T09:32:32.710Z",
+   "checkedAt": "2026-11-20T10:43:07.443Z",
+   "lastSuccess": "2026-11-20T10:43:07.443Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 09:23:43 GMT"
+   "lastModified": "Fri, 20 Nov 2026 10:12:59 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T09:32:32.710Z",
-   "lastSuccess": "2026-11-20T09:32:32.710Z",
-   "etag": "5beb8b7eba52d14ae6bf99a7a9590d05",
-   "lastModified": "Fri, 20 Nov 2026 09:30:53 GMT"
+   "checkedAt": "2026-11-20T10:43:07.443Z",
+   "lastSuccess": "2026-11-20T10:43:07.443Z",
+   "etag": "b402847d5b660a5824f042593fc3016c",
+   "lastModified": "Fri, 20 Nov 2026 10:40:55 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T09:32:32.710Z",
-   "lastSuccess": "2026-11-20T09:32:32.710Z",
+   "checkedAt": "2026-11-20T10:43:07.443Z",
+   "lastSuccess": "2026-11-20T10:43:07.443Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 09:32:16 GMT"
+   "lastModified": "Fri, 20 Nov 2026 10:29:30 GMT"
   },
   {
    "id": "securityweek",
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T09:32:32.710Z",
-   "lastSuccess": "2026-11-20T09:32:32.710Z",
-   "etag": "\"f59e4adbd033a3643b46f7c18cb76ff1\"",
-   "lastModified": "Fri, 20 Nov 2026 09:08:39 GMT"
+   "checkedAt": "2026-11-20T10:43:07.443Z",
+   "lastSuccess": "2026-11-20T10:43:07.443Z",
+   "etag": "W/\"3263f33857a56800208f42d9a0b09f8f\"",
+   "lastModified": "Fri, 20 Nov 2026 10:34:14 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T09:32:32.710Z",
-   "lastSuccess": "2026-11-20T09:32:32.710Z",
+   "checkedAt": "2026-11-20T10:43:07.443Z",
+   "lastSuccess": "2026-11-20T10:43:07.443Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 09:32:33 GMT"
+   "lastModified": "Fri, 20 Nov 2026 10:43:08 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,42 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T09:32:32.710Z",
-   "lastSuccess": "2026-11-20T09:32:32.710Z",
+   "checkedAt": "2026-11-20T10:43:07.443Z",
+   "lastSuccess": "2026-11-20T10:43:07.443Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "8423da4aad4dc596",
+   "title": "Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE",
+   "url": "https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/",
+   "summary": "Tracked as CVE-2026-132825, the bug is a heap-based buffer overflow that could lead to remote code execution (RCE). The post Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-20T10:34:10.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-20T10:43:07.443Z"
+  },
+  {
+   "id": "209921156d987de0",
+   "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+   "url": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+   "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as CVE-2026-123890 (CVSS score…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-20T09:38:15.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-20T07:04:36.291Z"
+  },
   {
    "id": "d01ea9d07911da57",
    "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
@@ -134,21 +163,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-20T08:28:15.622Z"
-  },
-  {
-   "id": "209921156d987de0",
-   "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
-   "url": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
-   "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as CVE-2026-123890 (CVSS score…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-20T06:33:31.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-20T07:04:36.291Z"
   },
   {
    "id": "4b0033536e5760bb",
@@ -2976,21 +2990,6 @@
    "published": "2026-11-13T13:47:42.000Z",
    "categories": [],
    "firstSeen": "2026-11-13T14:09:01.312Z"
-  },
-  {
-   "id": "5151972da2a2aac0",
-   "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls",
-   "url": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
-   "summary": "Blockchain complexities, such as attacker-deployed sweepers, hobble security controls designed to limit the damage of an exchange compromise.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-13T13:00:00.000Z",
-   "categories": [
-    "breach",
-    "attack"
-   ],
-   "firstSeen": "2026-11-13T12:55:32.621Z"
   }
  ]
 }
