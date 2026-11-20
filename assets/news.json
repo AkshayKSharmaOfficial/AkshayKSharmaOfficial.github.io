@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-20T02:38:01.656Z",
- "lastAttempt": "2026-11-20T02:38:01.656Z",
+ "lastSuccess": "2026-11-20T03:35:44.661Z",
+ "lastAttempt": "2026-11-20T03:35:44.661Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T02:38:01.656Z",
-   "lastSuccess": "2026-11-20T02:38:01.656Z",
+   "checkedAt": "2026-11-20T03:35:44.661Z",
+   "lastSuccess": "2026-11-20T03:35:44.661Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 02:24:52 GMT"
+   "lastModified": "Fri, 20 Nov 2026 03:33:59 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T02:38:01.656Z",
-   "lastSuccess": "2026-11-20T02:38:01.656Z",
-   "etag": "55ea375ff12f55ccf98e7450056dc96d",
-   "lastModified": "Fri, 20 Nov 2026 02:36:30 GMT"
+   "checkedAt": "2026-11-20T03:35:44.661Z",
+   "lastSuccess": "2026-11-20T03:35:44.661Z",
+   "etag": "b130ac1f478fdb6c7cb0e13f6aa532b6",
+   "lastModified": "Fri, 20 Nov 2026 03:26:32 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T02:38:01.656Z",
-   "lastSuccess": "2026-11-20T02:38:01.656Z",
+   "checkedAt": "2026-11-20T03:35:44.661Z",
+   "lastSuccess": "2026-11-20T03:35:44.661Z",
    "etag": null,
    "lastModified": "Thu, 19 Nov 2026 18:32:46 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T02:38:01.656Z",
-   "lastSuccess": "2026-11-20T02:38:01.656Z",
+   "checkedAt": "2026-11-20T03:35:44.661Z",
+   "lastSuccess": "2026-11-20T03:35:44.661Z",
    "etag": "\"2f2dad52f8eefcfd5c8ca0a9297b9246\"",
    "lastModified": "Thu, 19 Nov 2026 19:21:12 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T02:38:01.656Z",
-   "lastSuccess": "2026-11-20T02:38:01.656Z",
+   "checkedAt": "2026-11-20T03:35:44.661Z",
+   "lastSuccess": "2026-11-20T03:35:44.661Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 02:38:02 GMT"
+   "lastModified": "Fri, 20 Nov 2026 03:35:45 GMT"
   },
   {
    "id": "cisa",
@@ -70,8 +70,8 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T02:38:01.656Z",
-   "lastSuccess": "2026-11-20T02:38:01.656Z",
+   "checkedAt": "2026-11-20T03:35:44.661Z",
+   "lastSuccess": "2026-11-20T03:35:44.661Z",
    "etag": null,
    "lastModified": null
   }
@@ -285,7 +285,7 @@
   },
   {
    "id": "63edce0941e0edb0",
-   "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+   "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
    "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
    "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and the company lists no…",
    "source": "The Hacker News",
