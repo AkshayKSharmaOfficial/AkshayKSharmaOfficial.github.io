@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-20T07:04:36.291Z",
- "lastAttempt": "2026-11-20T07:04:36.291Z",
+ "lastSuccess": "2026-11-20T08:28:15.622Z",
+ "lastAttempt": "2026-11-20T08:28:15.622Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T07:04:36.291Z",
-   "lastSuccess": "2026-11-20T07:04:36.291Z",
+   "checkedAt": "2026-11-20T08:28:15.622Z",
+   "lastSuccess": "2026-11-20T08:28:15.622Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 06:53:29 GMT"
+   "lastModified": "Fri, 20 Nov 2026 07:37:52 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T07:04:36.291Z",
-   "lastSuccess": "2026-11-20T07:04:36.291Z",
-   "etag": "28f29f7d72a398c531959c332e259338",
-   "lastModified": "Fri, 20 Nov 2026 06:55:55 GMT"
+   "checkedAt": "2026-11-20T08:28:15.622Z",
+   "lastSuccess": "2026-11-20T08:28:15.622Z",
+   "etag": "861725f0dad3927985b258ee54278b6c",
+   "lastModified": "Fri, 20 Nov 2026 08:25:57 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T07:04:36.291Z",
-   "lastSuccess": "2026-11-20T07:04:36.291Z",
+   "checkedAt": "2026-11-20T08:28:15.622Z",
+   "lastSuccess": "2026-11-20T08:28:15.622Z",
    "etag": null,
    "lastModified": "Fri, 20 Nov 2026 04:37:16 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T07:04:36.291Z",
-   "lastSuccess": "2026-11-20T07:04:36.291Z",
-   "etag": "\"2f2dad52f8eefcfd5c8ca0a9297b9246\"",
-   "lastModified": "Thu, 19 Nov 2026 19:21:12 GMT"
+   "checkedAt": "2026-11-20T08:28:15.622Z",
+   "lastSuccess": "2026-11-20T08:28:15.622Z",
+   "etag": "\"a8eb39f87f1ed44ab653c81834cb82f2\"",
+   "lastModified": "Fri, 20 Nov 2026 07:37:42 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T07:04:36.291Z",
-   "lastSuccess": "2026-11-20T07:04:36.291Z",
+   "checkedAt": "2026-11-20T08:28:15.622Z",
+   "lastSuccess": "2026-11-20T08:28:15.622Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 07:04:37 GMT"
+   "lastModified": "Fri, 20 Nov 2026 08:28:16 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,44 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T07:04:36.291Z",
-   "lastSuccess": "2026-11-20T07:04:36.291Z",
+   "checkedAt": "2026-11-20T08:28:15.622Z",
+   "lastSuccess": "2026-11-20T08:28:15.622Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "30a689399cc6af3b",
+   "title": "JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak",
+   "url": "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/",
+   "summary": "The companies point to third-party providers after the N0n extortion group leaked data allegedly tied to their customers. The post JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-20T07:35:46.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-20T08:28:15.622Z"
+  },
+  {
+   "id": "e40617893cabf092",
+   "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+   "url": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
+   "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-20T07:11:39.000Z",
+   "categories": [
+    "malware",
+    "phishing",
+    "attack"
+   ],
+   "firstSeen": "2026-11-20T08:28:15.622Z"
+  },
   {
    "id": "209921156d987de0",
    "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
@@ -464,6 +495,21 @@
    "firstSeen": "2026-11-19T13:12:46.963Z"
   },
   {
+   "id": "c3f2f5031d340d57",
+   "title": "The Governance Gap in Open-Weight AI and What to Do About It",
+   "url": "https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/",
+   "summary": "Lower costs, data privacy, and greater control are driving open-weight AI adoption, but many organizations are not addressing the risks that come with it. The post The Governance Gap in Open-Weight AI and What to Do About It appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-19T12:00:00.000Z",
+   "categories": [
+    "breach",
+    "ai"
+   ],
+   "firstSeen": "2026-11-19T13:12:46.963Z"
+  },
+  {
    "id": "6d9cae83658efad6",
    "title": "Elecbrakes EB2, VM1, ELBC2000",
    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02",
@@ -509,21 +555,6 @@
     "vuln"
    ],
    "firstSeen": "2026-11-19T16:37:00.670Z"
-  },
-  {
-   "id": "c3f2f5031d340d57",
-   "title": "The Governance Gap in Open-Weight AI and What to Do About It",
-   "url": "https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/",
-   "summary": "Lower costs, data privacy, and greater control are driving open-weight AI adoption, but many organizations are not addressing the risks that come with it. The post The Governance Gap in Open-Weight AI and What to Do About It appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-19T12:00:00.000Z",
-   "categories": [
-    "breach",
-    "ai"
-   ],
-   "firstSeen": "2026-11-19T13:12:46.963Z"
   },
   {
    "id": "79fb717d814dd0bd",
@@ -641,7 +672,7 @@
   },
   {
    "id": "29eb33240b0fe571",
-   "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+   "title": "Ruby Ships Fixes for 7 Flaws, Including Critical Ruby2Shell, Said to Hit Default Rails Apps Pre-Auth",
    "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
    "summary": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine. \"We are aware of PoCs that prove…",
    "source": "The Hacker News",
@@ -2959,35 +2990,6 @@
    "published": "2026-11-13T12:27:40.000Z",
    "categories": [],
    "firstSeen": "2026-11-13T12:55:32.621Z"
-  },
-  {
-   "id": "522c3e4ee8bc220f",
-   "title": "SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks",
-   "url": "https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/",
-   "summary": "Enea says SilentAir hijacked mobile network nodes to intercept calls and messages, with Taiwanese subscribers the primary targets. The post SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-13T12:20:28.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-13T12:55:32.621Z"
-  },
-  {
-   "id": "0a6f308785e90d17",
-   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-   "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-   "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check Point Multiple Products Incorrect…",
-   "source": "CISA (US government)",
-   "sourceId": "cisa",
-   "kind": "official",
-   "published": "2026-11-13T12:00:00.000Z",
-   "categories": [
-    "advisory",
-    "vuln"
-   ],
-   "firstSeen": "2026-11-17T16:56:19.348Z"
   }
  ]
 }
