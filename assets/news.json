@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-20T16:53:48.856Z",
- "lastAttempt": "2026-11-20T16:53:48.856Z",
+ "lastSuccess": "2026-11-20T17:52:56.616Z",
+ "lastAttempt": "2026-11-20T17:52:56.616Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T16:53:48.856Z",
-   "lastSuccess": "2026-11-20T16:53:48.856Z",
+   "checkedAt": "2026-11-20T17:52:56.616Z",
+   "lastSuccess": "2026-11-20T17:52:56.616Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 16:07:53 GMT"
+   "lastModified": "Fri, 20 Nov 2026 17:20:08 GMT"
   },
   {
    "id": "bleeping",
@@ -22,32 +22,32 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T16:53:48.856Z",
-   "lastSuccess": "2026-11-20T16:53:48.856Z",
-   "etag": "d4a110288bbdd5bdd4f3fa0abb5d48ec",
-   "lastModified": "Fri, 20 Nov 2026 16:48:08 GMT"
+   "checkedAt": "2026-11-20T17:52:56.616Z",
+   "lastSuccess": "2026-11-20T17:52:56.616Z",
+   "etag": "80b0ebb591bcbe019abc1adef036e694",
+   "lastModified": "Fri, 20 Nov 2026 17:48:18 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T16:53:48.856Z",
-   "lastSuccess": "2026-11-20T16:53:48.856Z",
+   "checkedAt": "2026-11-20T17:52:56.616Z",
+   "lastSuccess": "2026-11-20T17:52:56.616Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 15:38:14 GMT"
+   "lastModified": "Fri, 20 Nov 2026 17:45:00 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T16:53:48.856Z",
-   "lastSuccess": "2026-11-20T16:53:48.856Z",
+   "checkedAt": "2026-11-20T17:52:56.616Z",
+   "lastSuccess": "2026-11-20T17:52:56.616Z",
    "etag": "\"2c92ccd3705a2f449c5e63d645217d79\"",
    "lastModified": "Fri, 20 Nov 2026 16:01:07 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T16:53:48.856Z",
-   "lastSuccess": "2026-11-20T16:53:48.856Z",
+   "checkedAt": "2026-11-20T17:52:56.616Z",
+   "lastSuccess": "2026-11-20T17:52:56.616Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 16:53:49 GMT"
+   "lastModified": "Fri, 20 Nov 2026 17:52:57 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,45 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T16:53:48.856Z",
-   "lastSuccess": "2026-11-20T16:53:48.856Z",
+   "checkedAt": "2026-11-20T17:52:56.616Z",
+   "lastSuccess": "2026-11-20T17:52:56.616Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "bc516efccac66cbe",
+   "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+   "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-20T17:30:00.000Z",
+   "categories": [
+    "vuln",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-20T17:52:56.616Z"
+  },
+  {
+   "id": "0b4042589720c604",
+   "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+   "url": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
+   "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile security company ThreatFabric said it discovered the…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-20T16:58:16.000Z",
+   "categories": [
+    "malware",
+    "phishing",
+    "ai"
+   ],
+   "firstSeen": "2026-11-20T17:52:56.616Z"
+  },
   {
    "id": "542f841516c417b4",
    "title": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign",
@@ -460,7 +492,7 @@
   },
   {
    "id": "c063ddad4bdac831",
-   "title": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style",
+   "title": "Critical PHP Flaws Allow Code Execution, but Don't Panic 'PHP2Shell'-Style",
    "url": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
    "summary": "November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.",
    "source": "Dark Reading",
@@ -2970,33 +3002,6 @@
     "ai"
    ],
    "firstSeen": "2026-11-14T15:13:17.230Z"
-  },
-  {
-   "id": "e577b898eca3316f",
-   "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
-   "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-14T12:38:35.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-14T13:36:19.603Z"
-  },
-  {
-   "id": "da1f3ca5fe15e3f7",
-   "title": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
-   "url": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
-   "summary": "The tech giant has detailed the architecture designed to isolate ambient sensor data from the main OS on HomeView and new iPhones. The post Apple Reveals How Secure Exclaves Shield Camera and Microphone Data appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-14T11:00:00.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-14T11:11:40.656Z"
   }
  ]
 }
