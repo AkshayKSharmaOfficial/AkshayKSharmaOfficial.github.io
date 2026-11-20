@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-20T14:55:28.186Z",
- "lastAttempt": "2026-11-20T14:55:28.186Z",
+ "lastSuccess": "2026-11-20T15:52:55.362Z",
+ "lastAttempt": "2026-11-20T15:52:55.362Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T14:55:28.186Z",
-   "lastSuccess": "2026-11-20T14:55:28.186Z",
+   "checkedAt": "2026-11-20T15:52:55.362Z",
+   "lastSuccess": "2026-11-20T15:52:55.362Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 14:05:00 GMT"
+   "lastModified": "Fri, 20 Nov 2026 15:30:02 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T14:55:28.186Z",
-   "lastSuccess": "2026-11-20T14:55:28.186Z",
-   "etag": "f5545be3c58ead009ac7d9b7b67b63c7",
-   "lastModified": "Fri, 20 Nov 2026 14:55:13 GMT"
+   "checkedAt": "2026-11-20T15:52:55.362Z",
+   "lastSuccess": "2026-11-20T15:52:55.362Z",
+   "etag": "f60d25a58a6754dcefd79035c517c8c5",
+   "lastModified": "Fri, 20 Nov 2026 15:45:14 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T14:55:28.186Z",
-   "lastSuccess": "2026-11-20T14:55:28.186Z",
+   "checkedAt": "2026-11-20T15:52:55.362Z",
+   "lastSuccess": "2026-11-20T15:52:55.362Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 12:36:15 GMT"
+   "lastModified": "Fri, 20 Nov 2026 15:38:14 GMT"
   },
   {
    "id": "securityweek",
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T14:55:28.186Z",
-   "lastSuccess": "2026-11-20T14:55:28.186Z",
-   "etag": "\"6dc68631ece6a7cfa731e14889593a6a\"",
-   "lastModified": "Fri, 20 Nov 2026 14:29:37 GMT"
+   "checkedAt": "2026-11-20T15:52:55.362Z",
+   "lastSuccess": "2026-11-20T15:52:55.362Z",
+   "etag": "\"dddf76c6825bae82f48cb2b83e2cf8da\"",
+   "lastModified": "Fri, 20 Nov 2026 14:56:27 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T14:55:28.186Z",
-   "lastSuccess": "2026-11-20T14:55:28.186Z",
+   "checkedAt": "2026-11-20T15:52:55.362Z",
+   "lastSuccess": "2026-11-20T15:52:55.362Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 14:55:28 GMT"
+   "lastModified": "Fri, 20 Nov 2026 15:52:56 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,44 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T14:55:28.186Z",
-   "lastSuccess": "2026-11-20T14:55:28.186Z",
+   "checkedAt": "2026-11-20T15:52:55.362Z",
+   "lastSuccess": "2026-11-20T15:52:55.362Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "83295ead357d9f95",
+   "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
+   "url": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+   "summary": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management can improve credential visibility, identify security…",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-20T15:00:10.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-20T15:52:55.362Z"
+  },
+  {
+   "id": "0998d1073e94cabe",
+   "title": "In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit",
+   "url": "https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/",
+   "summary": "Noteworthy stories that might have slipped under the radar: EU adds NoName057(16) to cyber sanctions list, malware targets CACs left in personal computers, Gemini agents targeted Epoch AI. The post In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New…",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-20T14:56:23.000Z",
+   "categories": [
+    "vuln",
+    "malware",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-20T15:52:55.362Z"
+  },
   {
    "id": "937c77104b042cc2",
    "title": "N-able says recent security breach led to major service outage",
@@ -2964,36 +2995,6 @@
     "ai"
    ],
    "firstSeen": "2026-11-13T15:00:14.768Z"
-  },
-  {
-   "id": "896faa96441b04c3",
-   "title": "FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’",
-   "url": "https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/",
-   "summary": "Federal officials have yet to say what caused the communications disruption or whether they are investigating a possible cyberattack. The post FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’ appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-13T21:33:27.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-13T22:26:59.208Z"
-  },
-  {
-   "id": "766a3ca157e90610",
-   "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
-   "url": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
-   "summary": "The Android malware has expanded from focusing on cryptocurrency theft to full device control, and the attackers have added advanced analysis of stolen information.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-13T20:20:27.000Z",
-   "categories": [
-    "malware",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-13T23:15:03.383Z"
   }
  ]
 }
