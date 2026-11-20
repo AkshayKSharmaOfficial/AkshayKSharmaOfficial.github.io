@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-20T12:43:30.628Z",
- "lastAttempt": "2026-11-20T12:43:30.628Z",
+ "lastSuccess": "2026-11-20T13:59:46.194Z",
+ "lastAttempt": "2026-11-20T13:59:46.194Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T12:43:30.628Z",
-   "lastSuccess": "2026-11-20T12:43:30.628Z",
+   "checkedAt": "2026-11-20T13:59:46.194Z",
+   "lastSuccess": "2026-11-20T13:59:46.194Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 12:37:02 GMT"
+   "lastModified": "Fri, 20 Nov 2026 13:34:57 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T12:43:30.628Z",
-   "lastSuccess": "2026-11-20T12:43:30.628Z",
-   "etag": "42c55c52cf82b9a6ca390a89a0b67b54",
-   "lastModified": "Fri, 20 Nov 2026 12:35:10 GMT"
+   "checkedAt": "2026-11-20T13:59:46.194Z",
+   "lastSuccess": "2026-11-20T13:59:46.194Z",
+   "etag": "53f2b1d30303893a115260a9926129f9",
+   "lastModified": "Fri, 20 Nov 2026 13:55:11 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T12:43:30.628Z",
-   "lastSuccess": "2026-11-20T12:43:30.628Z",
+   "checkedAt": "2026-11-20T13:59:46.194Z",
+   "lastSuccess": "2026-11-20T13:59:46.194Z",
    "etag": null,
    "lastModified": "Fri, 20 Nov 2026 12:36:15 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T12:43:30.628Z",
-   "lastSuccess": "2026-11-20T12:43:30.628Z",
-   "etag": "W/\"a84a075b1aaf07805eb45a16caf96b69\"",
-   "lastModified": "Fri, 20 Nov 2026 12:40:26 GMT"
+   "checkedAt": "2026-11-20T13:59:46.194Z",
+   "lastSuccess": "2026-11-20T13:59:46.194Z",
+   "etag": "\"9efd75d69453de4521843bab1758ee3b\"",
+   "lastModified": "Fri, 20 Nov 2026 12:47:12 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T12:43:30.628Z",
-   "lastSuccess": "2026-11-20T12:43:30.628Z",
+   "checkedAt": "2026-11-20T13:59:46.194Z",
+   "lastSuccess": "2026-11-20T13:59:46.194Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 12:43:31 GMT"
+   "lastModified": "Fri, 20 Nov 2026 13:59:46 GMT"
   },
   {
    "id": "cisa",
@@ -70,18 +70,33 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T12:43:30.628Z",
-   "lastSuccess": "2026-11-20T12:43:30.628Z",
+   "checkedAt": "2026-11-20T13:59:46.194Z",
+   "lastSuccess": "2026-11-20T13:59:46.194Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
   {
+   "id": "937c77104b042cc2",
+   "title": "N-able says recent security breach led to major service outage",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+   "summary": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-20T13:18:36.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-20T13:59:46.194Z"
+  },
+  {
    "id": "2c449bcaa9bab3f4",
-   "title": "Industry Reactions to Major Outages and AI Patching Questions: Feedback Friday",
+   "title": "Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday",
    "url": "https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/",
-   "summary": "Experts commented on whether AI-accelerated patching played a role, the need for tested rollback plans, and the fragility of interconnected systems. The post Industry Reactions to Major Outages and AI Patching Questions: Feedback Friday appeared first on SecurityWeek .",
+   "summary": "Experts commented on whether AI-accelerated patching played a role, the need for tested rollback plans, and the fragility of interconnected systems. The post Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday appeared first on SecurityWeek .",
    "source": "SecurityWeek",
    "sourceId": "securityweek",
    "kind": "media",
@@ -2979,20 +2994,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-13T23:15:03.383Z"
-  },
-  {
-   "id": "c47372a64a092875",
-   "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
-   "url": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
-   "summary": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send them to attackers over cellular networks. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-13T19:38:36.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-13T20:35:31.814Z"
   }
  ]
 }
