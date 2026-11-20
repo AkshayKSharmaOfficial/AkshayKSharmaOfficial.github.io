@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-20T13:59:46.194Z",
- "lastAttempt": "2026-11-20T13:59:46.194Z",
+ "lastSuccess": "2026-11-20T14:55:28.186Z",
+ "lastAttempt": "2026-11-20T14:55:28.186Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T13:59:46.194Z",
-   "lastSuccess": "2026-11-20T13:59:46.194Z",
+   "checkedAt": "2026-11-20T14:55:28.186Z",
+   "lastSuccess": "2026-11-20T14:55:28.186Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 13:34:57 GMT"
+   "lastModified": "Fri, 20 Nov 2026 14:05:00 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T13:59:46.194Z",
-   "lastSuccess": "2026-11-20T13:59:46.194Z",
-   "etag": "53f2b1d30303893a115260a9926129f9",
-   "lastModified": "Fri, 20 Nov 2026 13:55:11 GMT"
+   "checkedAt": "2026-11-20T14:55:28.186Z",
+   "lastSuccess": "2026-11-20T14:55:28.186Z",
+   "etag": "f5545be3c58ead009ac7d9b7b67b63c7",
+   "lastModified": "Fri, 20 Nov 2026 14:55:13 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T13:59:46.194Z",
-   "lastSuccess": "2026-11-20T13:59:46.194Z",
+   "checkedAt": "2026-11-20T14:55:28.186Z",
+   "lastSuccess": "2026-11-20T14:55:28.186Z",
    "etag": null,
    "lastModified": "Fri, 20 Nov 2026 12:36:15 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T13:59:46.194Z",
-   "lastSuccess": "2026-11-20T13:59:46.194Z",
-   "etag": "\"9efd75d69453de4521843bab1758ee3b\"",
-   "lastModified": "Fri, 20 Nov 2026 12:47:12 GMT"
+   "checkedAt": "2026-11-20T14:55:28.186Z",
+   "lastSuccess": "2026-11-20T14:55:28.186Z",
+   "etag": "\"6dc68631ece6a7cfa731e14889593a6a\"",
+   "lastModified": "Fri, 20 Nov 2026 14:29:37 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T13:59:46.194Z",
-   "lastSuccess": "2026-11-20T13:59:46.194Z",
+   "checkedAt": "2026-11-20T14:55:28.186Z",
+   "lastSuccess": "2026-11-20T14:55:28.186Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 13:59:46 GMT"
+   "lastModified": "Fri, 20 Nov 2026 14:55:28 GMT"
   },
   {
    "id": "cisa",
@@ -70,8 +70,8 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T13:59:46.194Z",
-   "lastSuccess": "2026-11-20T13:59:46.194Z",
+   "checkedAt": "2026-11-20T14:55:28.186Z",
+   "lastSuccess": "2026-11-20T14:55:28.186Z",
    "etag": null,
    "lastModified": null
   }
