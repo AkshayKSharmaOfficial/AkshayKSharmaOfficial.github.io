@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-20T17:52:56.616Z",
- "lastAttempt": "2026-11-20T17:52:56.616Z",
+ "lastSuccess": "2026-11-20T18:54:08.626Z",
+ "lastAttempt": "2026-11-20T18:54:08.626Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T17:52:56.616Z",
-   "lastSuccess": "2026-11-20T17:52:56.616Z",
+   "checkedAt": "2026-11-20T18:54:08.626Z",
+   "lastSuccess": "2026-11-20T18:54:08.626Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 17:20:08 GMT"
+   "lastModified": "Fri, 20 Nov 2026 17:55:59 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T17:52:56.616Z",
-   "lastSuccess": "2026-11-20T17:52:56.616Z",
-   "etag": "80b0ebb591bcbe019abc1adef036e694",
-   "lastModified": "Fri, 20 Nov 2026 17:48:18 GMT"
+   "checkedAt": "2026-11-20T18:54:08.626Z",
+   "lastSuccess": "2026-11-20T18:54:08.626Z",
+   "etag": "346c30dc0e959509b6a13a5e1708c1b2",
+   "lastModified": "Fri, 20 Nov 2026 18:51:43 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T17:52:56.616Z",
-   "lastSuccess": "2026-11-20T17:52:56.616Z",
+   "checkedAt": "2026-11-20T18:54:08.626Z",
+   "lastSuccess": "2026-11-20T18:54:08.626Z",
    "etag": null,
    "lastModified": "Fri, 20 Nov 2026 17:45:00 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T17:52:56.616Z",
-   "lastSuccess": "2026-11-20T17:52:56.616Z",
-   "etag": "\"2c92ccd3705a2f449c5e63d645217d79\"",
-   "lastModified": "Fri, 20 Nov 2026 16:01:07 GMT"
+   "checkedAt": "2026-11-20T18:54:08.626Z",
+   "lastSuccess": "2026-11-20T18:54:08.626Z",
+   "etag": "\"c47bd017e9704b7128cf25653fa5d6a8\"",
+   "lastModified": "Fri, 20 Nov 2026 17:55:33 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T17:52:56.616Z",
-   "lastSuccess": "2026-11-20T17:52:56.616Z",
+   "checkedAt": "2026-11-20T18:54:08.626Z",
+   "lastSuccess": "2026-11-20T18:54:08.626Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 17:52:57 GMT"
+   "lastModified": "Fri, 20 Nov 2026 18:54:09 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,43 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T17:52:56.616Z",
-   "lastSuccess": "2026-11-20T17:52:56.616Z",
+   "checkedAt": "2026-11-20T18:54:08.626Z",
+   "lastSuccess": "2026-11-20T18:54:08.626Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "b111cecbd761c5a5",
+   "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+   "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+   "summary": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications circuits. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-20T18:51:43.000Z",
+   "categories": [
+    "breach",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-20T18:54:08.626Z"
+  },
+  {
+   "id": "9dbcf380aa518b6a",
+   "title": "In Security, Words Matter as Much as Tools, Maybe More",
+   "url": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
+   "summary": "From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-20T18:35:40.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-20T18:54:08.626Z"
+  },
   {
    "id": "bc516efccac66cbe",
    "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
@@ -478,7 +508,7 @@
   },
   {
    "id": "582dd8bad70fd591",
-   "title": "Second Norwegian Energy Company Breached in Two Days",
+   "title": "Second Norwegian Energy Company Breached in 2 Days",
    "url": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
    "summary": "No specific link has been drawn between the two incidents, though they certainly sing the same notes.",
    "source": "Dark Reading",
@@ -2974,34 +3004,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-14T18:04:02.801Z"
-  },
-  {
-   "id": "fa28f1bf2ddb963a",
-   "title": "US disrupts North Korean campaign behind $400 million crypto theft",
-   "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
-   "summary": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-14T15:15:49.000Z",
-   "categories": [
-    "phishing"
-   ],
-   "firstSeen": "2026-11-14T15:55:31.984Z"
-  },
-  {
-   "id": "38d2938a9ce6c977",
-   "title": "Is AI Making Us Worse at Cybersecurity?",
-   "url": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
-   "summary": "Overreliance on AI could erode the creativity, clear communication, and critical thinking security teams need when there’s no playbook. The post Is AI Making Us Worse at Cybersecurity? appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-14T14:00:00.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-14T15:13:17.230Z"
   }
  ]
 }
