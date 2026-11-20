@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-20T20:45:29.640Z",
- "lastAttempt": "2026-11-20T20:45:29.640Z",
+ "lastSuccess": "2026-11-20T21:42:33.575Z",
+ "lastAttempt": "2026-11-20T21:42:33.575Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T20:45:29.640Z",
-   "lastSuccess": "2026-11-20T20:45:29.640Z",
+   "checkedAt": "2026-11-20T21:42:33.575Z",
+   "lastSuccess": "2026-11-20T21:42:33.575Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 20:36:21 GMT"
+   "lastModified": "Fri, 20 Nov 2026 21:09:52 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T20:45:29.640Z",
-   "lastSuccess": "2026-11-20T20:45:29.640Z",
-   "etag": "1318f50ee99e88cb3d535c9e5d15cb93",
-   "lastModified": "Fri, 20 Nov 2026 20:41:47 GMT"
+   "checkedAt": "2026-11-20T21:42:33.575Z",
+   "lastSuccess": "2026-11-20T21:42:33.575Z",
+   "etag": "ea600833767ae6b49356dcaf081dc812",
+   "lastModified": "Fri, 20 Nov 2026 21:41:48 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T20:45:29.640Z",
-   "lastSuccess": "2026-11-20T20:45:29.640Z",
+   "checkedAt": "2026-11-20T21:42:33.575Z",
+   "lastSuccess": "2026-11-20T21:42:33.575Z",
    "etag": null,
    "lastModified": "Fri, 20 Nov 2026 19:39:21 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T20:45:29.640Z",
-   "lastSuccess": "2026-11-20T20:45:29.640Z",
+   "checkedAt": "2026-11-20T21:42:33.575Z",
+   "lastSuccess": "2026-11-20T21:42:33.575Z",
    "etag": "\"c47bd017e9704b7128cf25653fa5d6a8\"",
    "lastModified": "Fri, 20 Nov 2026 17:55:33 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T20:45:29.640Z",
-   "lastSuccess": "2026-11-20T20:45:29.640Z",
+   "checkedAt": "2026-11-20T21:42:33.575Z",
+   "lastSuccess": "2026-11-20T21:42:33.575Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 20:45:30 GMT"
+   "lastModified": "Fri, 20 Nov 2026 21:42:33 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T20:45:29.640Z",
-   "lastSuccess": "2026-11-20T20:45:29.640Z",
+   "checkedAt": "2026-11-20T21:42:33.575Z",
+   "lastSuccess": "2026-11-20T21:42:33.575Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "ba5b77d20aaa8677",
+   "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
+   "summary": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-20T21:03:27.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-20T21:42:33.575Z"
+  },
   {
    "id": "b111cecbd761c5a5",
    "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
@@ -2989,22 +3003,6 @@
    "published": "2026-11-15T11:27:31.000Z",
    "categories": [],
    "firstSeen": "2026-11-15T12:46:00.024Z"
-  },
-  {
-   "id": "d5585df40181d87d",
-   "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
-   "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
-   "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an access key we had issued to Fireworks,\" Cursor…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-15T08:22:04.000Z",
-   "categories": [
-    "breach",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-15T09:28:16.709Z"
   }
  ]
 }
