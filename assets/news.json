@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-20T15:52:55.362Z",
- "lastAttempt": "2026-11-20T15:52:55.362Z",
+ "lastSuccess": "2026-11-20T16:53:48.856Z",
+ "lastAttempt": "2026-11-20T16:53:48.856Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T15:52:55.362Z",
-   "lastSuccess": "2026-11-20T15:52:55.362Z",
+   "checkedAt": "2026-11-20T16:53:48.856Z",
+   "lastSuccess": "2026-11-20T16:53:48.856Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 15:30:02 GMT"
+   "lastModified": "Fri, 20 Nov 2026 16:07:53 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T15:52:55.362Z",
-   "lastSuccess": "2026-11-20T15:52:55.362Z",
-   "etag": "f60d25a58a6754dcefd79035c517c8c5",
-   "lastModified": "Fri, 20 Nov 2026 15:45:14 GMT"
+   "checkedAt": "2026-11-20T16:53:48.856Z",
+   "lastSuccess": "2026-11-20T16:53:48.856Z",
+   "etag": "d4a110288bbdd5bdd4f3fa0abb5d48ec",
+   "lastModified": "Fri, 20 Nov 2026 16:48:08 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T15:52:55.362Z",
-   "lastSuccess": "2026-11-20T15:52:55.362Z",
+   "checkedAt": "2026-11-20T16:53:48.856Z",
+   "lastSuccess": "2026-11-20T16:53:48.856Z",
    "etag": null,
    "lastModified": "Fri, 20 Nov 2026 15:38:14 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T15:52:55.362Z",
-   "lastSuccess": "2026-11-20T15:52:55.362Z",
-   "etag": "\"dddf76c6825bae82f48cb2b83e2cf8da\"",
-   "lastModified": "Fri, 20 Nov 2026 14:56:27 GMT"
+   "checkedAt": "2026-11-20T16:53:48.856Z",
+   "lastSuccess": "2026-11-20T16:53:48.856Z",
+   "etag": "\"2c92ccd3705a2f449c5e63d645217d79\"",
+   "lastModified": "Fri, 20 Nov 2026 16:01:07 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T15:52:55.362Z",
-   "lastSuccess": "2026-11-20T15:52:55.362Z",
+   "checkedAt": "2026-11-20T16:53:48.856Z",
+   "lastSuccess": "2026-11-20T16:53:48.856Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 15:52:56 GMT"
+   "lastModified": "Fri, 20 Nov 2026 16:53:49 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,43 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T15:52:55.362Z",
-   "lastSuccess": "2026-11-20T15:52:55.362Z",
+   "checkedAt": "2026-11-20T16:53:48.856Z",
+   "lastSuccess": "2026-11-20T16:53:48.856Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "542f841516c417b4",
+   "title": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign",
+   "url": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/",
+   "summary": "Tracked as CVE-2026-23871, the vulnerability was found by WhatsApp’s security team, and it may have been used to make scam messages more credible. The post WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-20T16:01:02.000Z",
+   "categories": [
+    "vuln",
+    "phishing"
+   ],
+   "firstSeen": "2026-11-20T16:53:48.856Z"
+  },
+  {
+   "id": "e74d20e069241ed6",
+   "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+   "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+   "summary": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-20T15:58:06.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-20T16:53:48.856Z"
+  },
   {
    "id": "83295ead357d9f95",
    "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
@@ -2967,34 +2997,6 @@
    "published": "2026-11-14T11:00:00.000Z",
    "categories": [],
    "firstSeen": "2026-11-14T11:11:40.656Z"
-  },
-  {
-   "id": "1eb0a3260c79bd68",
-   "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
-   "url": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
-   "summary": "Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update. The post No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-14T08:40:22.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-14T09:27:33.706Z"
-  },
-  {
-   "id": "40598195792a7aab",
-   "title": "As Test Takers Turn to AI, Exam Security Plays Catch-Up",
-   "url": "https://www.darkreading.com/cybersecurity-operations/test-takers-ai-exam-security-catch-up",
-   "summary": "It's hard to detect whether someone is using artificial intelligence to cheat on IT certification exams, but new tools and processes are emerging to boost trust.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-13T22:27:00.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-13T15:00:14.768Z"
   }
  ]
 }
