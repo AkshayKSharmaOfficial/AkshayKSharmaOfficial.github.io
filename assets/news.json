@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-20T10:43:07.443Z",
- "lastAttempt": "2026-11-20T10:43:07.443Z",
+ "lastSuccess": "2026-11-20T11:41:02.988Z",
+ "lastAttempt": "2026-11-20T11:41:02.988Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T10:43:07.443Z",
-   "lastSuccess": "2026-11-20T10:43:07.443Z",
+   "checkedAt": "2026-11-20T11:41:02.988Z",
+   "lastSuccess": "2026-11-20T11:41:02.988Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 10:12:59 GMT"
+   "lastModified": "Fri, 20 Nov 2026 11:08:45 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T10:43:07.443Z",
-   "lastSuccess": "2026-11-20T10:43:07.443Z",
-   "etag": "b402847d5b660a5824f042593fc3016c",
-   "lastModified": "Fri, 20 Nov 2026 10:40:55 GMT"
+   "checkedAt": "2026-11-20T11:41:02.988Z",
+   "lastSuccess": "2026-11-20T11:41:02.988Z",
+   "etag": "024cfc9b1d837759bd6200c46c3bbaeb",
+   "lastModified": "Fri, 20 Nov 2026 11:35:08 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T10:43:07.443Z",
-   "lastSuccess": "2026-11-20T10:43:07.443Z",
+   "checkedAt": "2026-11-20T11:41:02.988Z",
+   "lastSuccess": "2026-11-20T11:41:02.988Z",
    "etag": null,
    "lastModified": "Fri, 20 Nov 2026 10:29:30 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T10:43:07.443Z",
-   "lastSuccess": "2026-11-20T10:43:07.443Z",
-   "etag": "W/\"3263f33857a56800208f42d9a0b09f8f\"",
-   "lastModified": "Fri, 20 Nov 2026 10:34:14 GMT"
+   "checkedAt": "2026-11-20T11:41:02.988Z",
+   "lastSuccess": "2026-11-20T11:41:02.988Z",
+   "etag": "W/\"4ac97b8fc5af1340b5845c6dcb3b1e05\"",
+   "lastModified": "Fri, 20 Nov 2026 11:36:56 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T10:43:07.443Z",
-   "lastSuccess": "2026-11-20T10:43:07.443Z",
+   "checkedAt": "2026-11-20T11:41:02.988Z",
+   "lastSuccess": "2026-11-20T11:41:02.988Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 10:43:08 GMT"
+   "lastModified": "Fri, 20 Nov 2026 11:41:03 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,74 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T10:43:07.443Z",
-   "lastSuccess": "2026-11-20T10:43:07.443Z",
+   "checkedAt": "2026-11-20T11:41:02.988Z",
+   "lastSuccess": "2026-11-20T11:41:02.988Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "1f20f6eebe5aa294",
+   "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
+   "url": "https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/",
+   "summary": "Threat actors accessed databases containing customer information associated with clinics in Japan. The post SBC Medical Group Data Breach Impacts Over 2 Million appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-20T11:36:51.000Z",
+   "categories": [
+    "breach"
+   ],
+   "firstSeen": "2026-11-20T11:41:02.988Z"
+  },
+  {
+   "id": "93ed47dd78990403",
+   "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+   "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
+   "summary": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-20T10:57:43.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-20T11:41:02.988Z"
+  },
+  {
+   "id": "dcff8ee3027c7cb3",
+   "title": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services",
+   "url": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/",
+   "summary": "The Commission took certain services offline to contain the incident, but it has no evidence of a data breach. The post European Commission Confirms AI-Assisted Cyberattack Disrupted Services appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-20T10:51:42.000Z",
+   "categories": [
+    "breach",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-20T11:41:02.988Z"
+  },
+  {
+   "id": "823ccfebdf7ab435",
+   "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
+   "url": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
+   "summary": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks. \"Attackers now use automation and AI to find and exploit…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-20T10:38:22.000Z",
+   "categories": [
+    "vuln",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-20T11:41:02.988Z"
+  },
   {
    "id": "8423da4aad4dc596",
    "title": "Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE",
@@ -90,6 +151,22 @@
     "vuln"
    ],
    "firstSeen": "2026-11-20T10:43:07.443Z"
+  },
+  {
+   "id": "c99f552cbbef77a0",
+   "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
+   "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit. The activity involves the exploitation of CVE-2026-76466 (CVSS…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-20T10:32:50.000Z",
+   "categories": [
+    "breach",
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-20T11:41:02.988Z"
   },
   {
    "id": "209921156d987de0",
@@ -536,21 +613,6 @@
    "firstSeen": "2026-11-19T13:12:46.963Z"
   },
   {
-   "id": "c3f2f5031d340d57",
-   "title": "The Governance Gap in Open-Weight AI and What to Do About It",
-   "url": "https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/",
-   "summary": "Lower costs, data privacy, and greater control are driving open-weight AI adoption, but many organizations are not addressing the risks that come with it. The post The Governance Gap in Open-Weight AI and What to Do About It appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-19T12:00:00.000Z",
-   "categories": [
-    "breach",
-    "ai"
-   ],
-   "firstSeen": "2026-11-19T13:12:46.963Z"
-  },
-  {
    "id": "6d9cae83658efad6",
    "title": "Elecbrakes EB2, VM1, ELBC2000",
    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02",
@@ -596,6 +658,21 @@
     "vuln"
    ],
    "firstSeen": "2026-11-19T16:37:00.670Z"
+  },
+  {
+   "id": "c3f2f5031d340d57",
+   "title": "The Governance Gap in Open-Weight AI and What to Do About It",
+   "url": "https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/",
+   "summary": "Lower costs, data privacy, and greater control are driving open-weight AI adoption, but many organizations are not addressing the risks that come with it. The post The Governance Gap in Open-Weight AI and What to Do About It appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-19T12:00:00.000Z",
+   "categories": [
+    "breach",
+    "ai"
+   ],
+   "firstSeen": "2026-11-19T13:12:46.963Z"
   },
   {
    "id": "79fb717d814dd0bd",
@@ -2919,77 +2996,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-13T16:54:41.434Z"
-  },
-  {
-   "id": "4588f38e44e6049d",
-   "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
-   "url": "https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/",
-   "summary": "Noteworthy stories that might have slipped under the radar: Siemens details security advisory policy, OpenAI Codex backdoor risk, Microsoft warns of model weight backdoors. The post In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach…",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-13T15:20:00.000Z",
-   "categories": [
-    "breach",
-    "malware",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-13T15:59:25.635Z"
-  },
-  {
-   "id": "4a3686306260ca37",
-   "title": "How one AI agent exposed five critical enterprise security gaps",
-   "url": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
-   "summary": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and shares practical guidance from…",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-13T15:01:11.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-13T15:59:25.635Z"
-  },
-  {
-   "id": "d32b5f97fc676bf8",
-   "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
-   "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
-   "summary": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as part of a social engineering scheme codenamed FaceStealer in…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-13T14:28:58.000Z",
-   "categories": [
-    "phishing",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-13T15:59:25.635Z"
-  },
-  {
-   "id": "ea8f2c6821428bc1",
-   "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
-   "url": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
-   "summary": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday. The implant reads the phrase from the wallet's screen and sends it over the mobile…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-13T13:54:20.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-13T15:59:25.635Z"
-  },
-  {
-   "id": "71d6f3c4bea9a711",
-   "title": "Microsoft Struggles to Restore Email and Other Services in a Global Outage",
-   "url": "https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/",
-   "summary": "Microsoft is trying different ways to identify the cause of the problem and get its servers back online, using “a measured approach to identify and repair affected infrastructure.” The post Microsoft Struggles to Restore Email and Other Services in a Global Outage appeared…",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-13T13:47:42.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-13T14:09:01.312Z"
   }
  ]
 }
