@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-20T00:17:50.261Z",
- "lastAttempt": "2026-11-20T00:17:50.261Z",
+ "lastSuccess": "2026-11-20T01:44:36.859Z",
+ "lastAttempt": "2026-11-20T01:44:36.859Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T00:17:50.261Z",
-   "lastSuccess": "2026-11-20T00:17:50.261Z",
+   "checkedAt": "2026-11-20T01:44:36.859Z",
+   "lastSuccess": "2026-11-20T01:44:36.859Z",
    "etag": null,
-   "lastModified": "Thu, 19 Nov 2026 23:57:48 GMT"
+   "lastModified": "Fri, 20 Nov 2026 01:26:15 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T00:17:50.261Z",
-   "lastSuccess": "2026-11-20T00:17:50.261Z",
-   "etag": "59b539c0533f9e2e2937fa65a3ab6e1d",
-   "lastModified": "Fri, 20 Nov 2026 00:15:46 GMT"
+   "checkedAt": "2026-11-20T01:44:36.859Z",
+   "lastSuccess": "2026-11-20T01:44:36.859Z",
+   "etag": "aa041711b18ee93fe2429d92df52e0af",
+   "lastModified": "Fri, 20 Nov 2026 01:36:28 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T00:17:50.261Z",
-   "lastSuccess": "2026-11-20T00:17:50.261Z",
+   "checkedAt": "2026-11-20T01:44:36.859Z",
+   "lastSuccess": "2026-11-20T01:44:36.859Z",
    "etag": null,
    "lastModified": "Thu, 19 Nov 2026 18:32:46 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T00:17:50.261Z",
-   "lastSuccess": "2026-11-20T00:17:50.261Z",
+   "checkedAt": "2026-11-20T01:44:36.859Z",
+   "lastSuccess": "2026-11-20T01:44:36.859Z",
    "etag": "\"2f2dad52f8eefcfd5c8ca0a9297b9246\"",
    "lastModified": "Thu, 19 Nov 2026 19:21:12 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T00:17:50.261Z",
-   "lastSuccess": "2026-11-20T00:17:50.261Z",
+   "checkedAt": "2026-11-20T01:44:36.859Z",
+   "lastSuccess": "2026-11-20T01:44:36.859Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 00:17:50 GMT"
+   "lastModified": "Fri, 20 Nov 2026 01:44:37 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-20T00:17:50.261Z",
-   "lastSuccess": "2026-11-20T00:17:50.261Z",
+   "checkedAt": "2026-11-20T01:44:36.859Z",
+   "lastSuccess": "2026-11-20T01:44:36.859Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "920ae083a6d11edd",
+   "title": "VMware patches vCenter zero-day exploited in attacks since September",
+   "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+   "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-20T00:26:25.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-20T01:44:36.859Z"
+  },
   {
    "id": "a409a7999122fe5f",
    "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
@@ -2969,22 +2984,6 @@
    "kind": "media",
    "published": "2026-11-13T11:10:40.000Z",
    "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-13T12:55:32.621Z"
-  },
-  {
-   "id": "d25f99854f909af5",
-   "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
-   "url": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
-   "summary": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks. Police also seized about 6.4 million stolen logins…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-13T10:55:03.000Z",
-   "categories": [
-    "ransomware",
-    "malware",
     "attack"
    ],
    "firstSeen": "2026-11-13T12:55:32.621Z"
