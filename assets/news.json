@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-21T15:27:41.617Z",
- "lastAttempt": "2026-11-21T15:27:41.617Z",
+ "lastSuccess": "2026-11-21T16:17:52.333Z",
+ "lastAttempt": "2026-11-21T16:17:52.333Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T15:27:41.617Z",
-   "lastSuccess": "2026-11-21T15:27:41.617Z",
+   "checkedAt": "2026-11-21T16:17:52.333Z",
+   "lastSuccess": "2026-11-21T16:17:52.333Z",
    "etag": null,
-   "lastModified": "Sat, 21 Nov 2026 14:43:12 GMT"
+   "lastModified": "Sat, 21 Nov 2026 15:38:19 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T15:27:41.617Z",
-   "lastSuccess": "2026-11-21T15:27:41.617Z",
-   "etag": "12f9f6f18f0a9acde3c7d902fcb1ae2a",
-   "lastModified": "Sat, 21 Nov 2026 15:19:46 GMT"
+   "checkedAt": "2026-11-21T16:17:52.333Z",
+   "lastSuccess": "2026-11-21T16:17:52.333Z",
+   "etag": "92a971485d79762d0a1a577461e5608a",
+   "lastModified": "Sat, 21 Nov 2026 16:08:18 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T15:27:41.617Z",
-   "lastSuccess": "2026-11-21T15:27:41.617Z",
+   "checkedAt": "2026-11-21T16:17:52.333Z",
+   "lastSuccess": "2026-11-21T16:17:52.333Z",
    "etag": null,
    "lastModified": "Sat, 21 Nov 2026 15:10:59 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T15:27:41.617Z",
-   "lastSuccess": "2026-11-21T15:27:41.617Z",
+   "checkedAt": "2026-11-21T16:17:52.333Z",
+   "lastSuccess": "2026-11-21T16:17:52.333Z",
    "etag": "W/\"2be9462cda3cab9ad0da9bab649e37c1\"",
    "lastModified": "Sat, 21 Nov 2026 12:09:48 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T15:27:41.617Z",
-   "lastSuccess": "2026-11-21T15:27:41.617Z",
+   "checkedAt": "2026-11-21T16:17:52.333Z",
+   "lastSuccess": "2026-11-21T16:17:52.333Z",
    "etag": null,
-   "lastModified": "Sat, 21 Nov 2026 15:27:41 GMT"
+   "lastModified": "Sat, 21 Nov 2026 16:17:52 GMT"
   },
   {
    "id": "cisa",
@@ -70,8 +70,8 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T15:27:41.617Z",
-   "lastSuccess": "2026-11-21T15:27:41.617Z",
+   "checkedAt": "2026-11-21T16:17:52.333Z",
+   "lastSuccess": "2026-11-21T16:17:52.333Z",
    "etag": null,
    "lastModified": null
   }
@@ -79,7 +79,7 @@
  "articles": [
   {
    "id": "45832b8789dd461c",
-   "title": "BADBOX 3.0 botnet returns with record-breaking 40 billion daily ad requests",
+   "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
    "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
    "summary": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]",
    "source": "BleepingComputer",
