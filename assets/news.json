@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-21T00:15:31.110Z",
- "lastAttempt": "2026-11-21T00:15:31.110Z",
+ "lastSuccess": "2026-11-21T01:45:27.083Z",
+ "lastAttempt": "2026-11-21T01:45:27.083Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T00:15:31.110Z",
-   "lastSuccess": "2026-11-21T00:15:31.110Z",
+   "checkedAt": "2026-11-21T01:45:27.083Z",
+   "lastSuccess": "2026-11-21T01:45:27.083Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 23:42:56 GMT"
+   "lastModified": "Sat, 21 Nov 2026 01:37:58 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T00:15:31.110Z",
-   "lastSuccess": "2026-11-21T00:15:31.110Z",
-   "etag": "6b62ccda7286fdaf0e2d45f4e61a347d",
-   "lastModified": "Sat, 21 Nov 2026 00:11:53 GMT"
+   "checkedAt": "2026-11-21T01:45:27.083Z",
+   "lastSuccess": "2026-11-21T01:45:27.083Z",
+   "etag": "e37f6ebee7762678ae5014045473e6a2",
+   "lastModified": "Sat, 21 Nov 2026 01:41:55 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T00:15:31.110Z",
-   "lastSuccess": "2026-11-21T00:15:31.110Z",
+   "checkedAt": "2026-11-21T01:45:27.083Z",
+   "lastSuccess": "2026-11-21T01:45:27.083Z",
    "etag": null,
-   "lastModified": "Fri, 20 Nov 2026 22:26:56 GMT"
+   "lastModified": "Sat, 21 Nov 2026 00:36:39 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T00:15:31.110Z",
-   "lastSuccess": "2026-11-21T00:15:31.110Z",
+   "checkedAt": "2026-11-21T01:45:27.083Z",
+   "lastSuccess": "2026-11-21T01:45:27.083Z",
    "etag": "\"c47bd017e9704b7128cf25653fa5d6a8\"",
    "lastModified": "Fri, 20 Nov 2026 17:55:33 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T00:15:31.110Z",
-   "lastSuccess": "2026-11-21T00:15:31.110Z",
+   "checkedAt": "2026-11-21T01:45:27.083Z",
+   "lastSuccess": "2026-11-21T01:45:27.083Z",
    "etag": null,
-   "lastModified": "Sat, 21 Nov 2026 00:15:33 GMT"
+   "lastModified": "Sat, 21 Nov 2026 01:45:27 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T00:15:31.110Z",
-   "lastSuccess": "2026-11-21T00:15:31.110Z",
+   "checkedAt": "2026-11-21T01:45:27.083Z",
+   "lastSuccess": "2026-11-21T01:45:27.083Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "10886014bf917685",
+   "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+   "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+   "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply…",
+   "source": "KrebsOnSecurity",
+   "sourceId": "krebs",
+   "kind": "media",
+   "published": "2026-11-21T00:36:39.000Z",
+   "categories": [
+    "ransomware",
+    "phishing"
+   ],
+   "firstSeen": "2026-11-21T01:45:27.083Z"
+  },
   {
    "id": "ba5b77d20aaa8677",
    "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
@@ -2991,18 +3006,6 @@
     "ai"
    ],
    "firstSeen": "2026-11-15T13:47:59.149Z"
-  },
-  {
-   "id": "dabf7b9c559f7a5e",
-   "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
-   "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
-   "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that the feature was enabled by default and that the app…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-15T11:27:31.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-15T12:46:00.024Z"
   }
  ]
 }
