@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-21T10:43:25.942Z",
- "lastAttempt": "2026-11-21T10:43:25.942Z",
+ "lastSuccess": "2026-11-21T11:29:21.390Z",
+ "lastAttempt": "2026-11-21T11:29:21.390Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T10:43:25.942Z",
-   "lastSuccess": "2026-11-21T10:43:25.942Z",
+   "checkedAt": "2026-11-21T11:29:21.390Z",
+   "lastSuccess": "2026-11-21T11:29:21.390Z",
    "etag": null,
-   "lastModified": "Sat, 21 Nov 2026 09:46:56 GMT"
+   "lastModified": "Sat, 21 Nov 2026 11:25:43 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T10:43:25.942Z",
-   "lastSuccess": "2026-11-21T10:43:25.942Z",
-   "etag": "d8fa4a6f016a682d1355d754af6dd502",
-   "lastModified": "Sat, 21 Nov 2026 10:42:10 GMT"
+   "checkedAt": "2026-11-21T11:29:21.390Z",
+   "lastSuccess": "2026-11-21T11:29:21.390Z",
+   "etag": "306cec379d35516ffec5de8bdf84d997",
+   "lastModified": "Sat, 21 Nov 2026 11:22:11 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T10:43:25.942Z",
-   "lastSuccess": "2026-11-21T10:43:25.942Z",
+   "checkedAt": "2026-11-21T11:29:21.390Z",
+   "lastSuccess": "2026-11-21T11:29:21.390Z",
    "etag": null,
    "lastModified": "Sat, 21 Nov 2026 10:34:54 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T10:43:25.942Z",
-   "lastSuccess": "2026-11-21T10:43:25.942Z",
+   "checkedAt": "2026-11-21T11:29:21.390Z",
+   "lastSuccess": "2026-11-21T11:29:21.390Z",
    "etag": "\"c47bd017e9704b7128cf25653fa5d6a8\"",
    "lastModified": "Fri, 20 Nov 2026 17:55:33 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T10:43:25.942Z",
-   "lastSuccess": "2026-11-21T10:43:25.942Z",
+   "checkedAt": "2026-11-21T11:29:21.390Z",
+   "lastSuccess": "2026-11-21T11:29:21.390Z",
    "etag": null,
-   "lastModified": "Sat, 21 Nov 2026 10:43:26 GMT"
+   "lastModified": "Sat, 21 Nov 2026 11:29:21 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,43 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T10:43:25.942Z",
-   "lastSuccess": "2026-11-21T10:43:25.942Z",
+   "checkedAt": "2026-11-21T11:29:21.390Z",
+   "lastSuccess": "2026-11-21T11:29:21.390Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "3b426a1ae4872b68",
+   "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+   "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+   "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-21T11:05:53.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-21T11:29:21.390Z"
+  },
+  {
+   "id": "31de93106fde76af",
+   "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+   "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+   "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week. The flaw allows an attacker with no account…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-21T11:03:17.000Z",
+   "categories": [
+    "vuln",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-21T11:29:21.390Z"
+  },
   {
    "id": "c5410e0ea07b3ca7",
    "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
@@ -2976,37 +3006,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-16T10:01:47.155Z"
-  },
-  {
-   "id": "1abe8912cb223ae4",
-   "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
-   "url": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
-   "summary": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server. The activity, documented by Kaspersky's ICS CERT team after it was contacted by…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-16T06:53:34.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-16T10:01:47.155Z"
-  },
-  {
-   "id": "f5c6a0108f4137fd",
-   "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-   "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
-   "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-15T18:29:53.000Z",
-   "categories": [
-    "breach",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-15T18:58:17.626Z"
   }
  ]
 }
