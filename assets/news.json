@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-21T22:39:36.485Z",
- "lastAttempt": "2026-11-21T22:39:36.485Z",
+ "lastSuccess": "2026-11-21T23:21:38.899Z",
+ "lastAttempt": "2026-11-21T23:21:38.899Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T22:39:36.485Z",
-   "lastSuccess": "2026-11-21T22:39:36.485Z",
+   "checkedAt": "2026-11-21T23:21:38.899Z",
+   "lastSuccess": "2026-11-21T23:21:38.899Z",
    "etag": null,
-   "lastModified": "Sat, 21 Nov 2026 22:03:30 GMT"
+   "lastModified": "Sat, 21 Nov 2026 23:05:52 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T22:39:36.485Z",
-   "lastSuccess": "2026-11-21T22:39:36.485Z",
-   "etag": "ab18e3ba158fa528f2550966eae9d272",
-   "lastModified": "Sat, 21 Nov 2026 22:33:49 GMT"
+   "checkedAt": "2026-11-21T23:21:38.899Z",
+   "lastSuccess": "2026-11-21T23:21:38.899Z",
+   "etag": "3e4131e4a5e97d3e0b9b7bdda77ce781",
+   "lastModified": "Sat, 21 Nov 2026 23:20:00 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T22:39:36.485Z",
-   "lastSuccess": "2026-11-21T22:39:36.485Z",
+   "checkedAt": "2026-11-21T23:21:38.899Z",
+   "lastSuccess": "2026-11-21T23:21:38.899Z",
    "etag": null,
-   "lastModified": "Sat, 21 Nov 2026 22:32:52 GMT"
+   "lastModified": "Sat, 21 Nov 2026 23:08:26 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T22:39:36.485Z",
-   "lastSuccess": "2026-11-21T22:39:36.485Z",
+   "checkedAt": "2026-11-21T23:21:38.899Z",
+   "lastSuccess": "2026-11-21T23:21:38.899Z",
    "etag": "W/\"2be9462cda3cab9ad0da9bab649e37c1\"",
    "lastModified": "Sat, 21 Nov 2026 12:09:48 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T22:39:36.485Z",
-   "lastSuccess": "2026-11-21T22:39:36.485Z",
+   "checkedAt": "2026-11-21T23:21:38.899Z",
+   "lastSuccess": "2026-11-21T23:21:38.899Z",
    "etag": null,
-   "lastModified": "Sat, 21 Nov 2026 22:39:36 GMT"
+   "lastModified": "Sat, 21 Nov 2026 23:21:39 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T22:39:36.485Z",
-   "lastSuccess": "2026-11-21T22:39:36.485Z",
+   "checkedAt": "2026-11-21T23:21:38.899Z",
+   "lastSuccess": "2026-11-21T23:21:38.899Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "c6f3c35b77c9d3ac",
+   "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+   "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+   "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-21T22:59:58.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-21T23:21:38.899Z"
+  },
   {
    "id": "9e0095a6e1a0f1f0",
    "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
@@ -2993,21 +3008,6 @@
    "published": "2026-11-16T11:00:00.000Z",
    "categories": [
     "ai"
-   ],
-   "firstSeen": "2026-11-16T11:34:16.849Z"
-  },
-  {
-   "id": "5ceeaae8e26f5eb8",
-   "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
-   "url": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
-   "summary": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU workloads. Central to the intrusion is a toolkit called SANSAR, a Rust-based…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-16T09:32:57.000Z",
-   "categories": [
-    "malware",
-    "attack"
    ],
    "firstSeen": "2026-11-16T11:34:16.849Z"
   }
