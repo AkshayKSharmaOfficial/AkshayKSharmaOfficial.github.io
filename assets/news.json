@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-21T09:00:02.014Z",
- "lastAttempt": "2026-11-21T09:00:02.014Z",
+ "lastSuccess": "2026-11-21T09:48:37.689Z",
+ "lastAttempt": "2026-11-21T09:48:37.689Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T09:00:02.014Z",
-   "lastSuccess": "2026-11-21T09:00:02.014Z",
+   "checkedAt": "2026-11-21T09:48:37.689Z",
+   "lastSuccess": "2026-11-21T09:48:37.689Z",
    "etag": null,
-   "lastModified": "Sat, 21 Nov 2026 08:10:28 GMT"
+   "lastModified": "Sat, 21 Nov 2026 09:46:56 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T09:00:02.014Z",
-   "lastSuccess": "2026-11-21T09:00:02.014Z",
-   "etag": "85d1377684eaa6b9ccfd7a6318810978",
-   "lastModified": "Sat, 21 Nov 2026 08:52:07 GMT"
+   "checkedAt": "2026-11-21T09:48:37.689Z",
+   "lastSuccess": "2026-11-21T09:48:37.689Z",
+   "etag": "8ed46a71365401538d165da27ea16d2e",
+   "lastModified": "Sat, 21 Nov 2026 09:42:09 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T09:00:02.014Z",
-   "lastSuccess": "2026-11-21T09:00:02.014Z",
+   "checkedAt": "2026-11-21T09:48:37.689Z",
+   "lastSuccess": "2026-11-21T09:48:37.689Z",
    "etag": null,
    "lastModified": "Sat, 21 Nov 2026 08:49:20 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T09:00:02.014Z",
-   "lastSuccess": "2026-11-21T09:00:02.014Z",
+   "checkedAt": "2026-11-21T09:48:37.689Z",
+   "lastSuccess": "2026-11-21T09:48:37.689Z",
    "etag": "\"c47bd017e9704b7128cf25653fa5d6a8\"",
    "lastModified": "Fri, 20 Nov 2026 17:55:33 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T09:00:02.014Z",
-   "lastSuccess": "2026-11-21T09:00:02.014Z",
+   "checkedAt": "2026-11-21T09:48:37.689Z",
+   "lastSuccess": "2026-11-21T09:48:37.689Z",
    "etag": null,
-   "lastModified": "Sat, 21 Nov 2026 09:00:02 GMT"
+   "lastModified": "Sat, 21 Nov 2026 09:48:38 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,42 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T09:00:02.014Z",
-   "lastSuccess": "2026-11-21T09:00:02.014Z",
+   "checkedAt": "2026-11-21T09:48:37.689Z",
+   "lastSuccess": "2026-11-21T09:48:37.689Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "c5410e0ea07b3ca7",
+   "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+   "url": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+   "summary": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\" The feature applies to agentic systems built into iOS 27 and on…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-21T08:49:20.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-21T09:48:37.689Z"
+  },
+  {
+   "id": "552b60cb29a0722a",
+   "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-21T08:49:13.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-21T09:48:37.689Z"
+  },
   {
    "id": "10886014bf917685",
    "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
@@ -140,7 +169,7 @@
    "id": "b44c0a854e15b185",
    "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
    "url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
-   "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871, has been described as a case of incomplete validation of…",
+   "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871 (CVSS score: 3.5), has been described as a case of…",
    "source": "The Hacker News",
    "sourceId": "thn",
    "kind": "media",
@@ -2978,34 +3007,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-15T18:58:17.626Z"
-  },
-  {
-   "id": "f2da8dc548b35592",
-   "title": "TSMC employee data breach linked to cloud provider",
-   "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
-   "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-15T15:23:48.000Z",
-   "categories": [
-    "breach"
-   ],
-   "firstSeen": "2026-11-15T16:09:55.076Z"
-  },
-  {
-   "id": "a88a40d4e743b6d9",
-   "title": "Pentagon Renames CDAO ‘Super Intelligence Office’",
-   "url": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
-   "summary": "The move follows President Trump’s order to replace “artificial intelligence” with “super intelligence” in executive branch communications. The post Pentagon Renames CDAO ‘Super Intelligence Office’ appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-15T12:51:33.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-15T13:47:59.149Z"
   }
  ]
 }
