@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-21T11:29:21.390Z",
- "lastAttempt": "2026-11-21T11:29:21.390Z",
+ "lastSuccess": "2026-11-21T12:20:16.143Z",
+ "lastAttempt": "2026-11-21T12:20:16.143Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T11:29:21.390Z",
-   "lastSuccess": "2026-11-21T11:29:21.390Z",
+   "checkedAt": "2026-11-21T12:20:16.143Z",
+   "lastSuccess": "2026-11-21T12:20:16.143Z",
    "etag": null,
-   "lastModified": "Sat, 21 Nov 2026 11:25:43 GMT"
+   "lastModified": "Sat, 21 Nov 2026 12:03:18 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T11:29:21.390Z",
-   "lastSuccess": "2026-11-21T11:29:21.390Z",
-   "etag": "306cec379d35516ffec5de8bdf84d997",
-   "lastModified": "Sat, 21 Nov 2026 11:22:11 GMT"
+   "checkedAt": "2026-11-21T12:20:16.143Z",
+   "lastSuccess": "2026-11-21T12:20:16.143Z",
+   "etag": "24f78f2730ff923694f7f4a2eeaa65d4",
+   "lastModified": "Sat, 21 Nov 2026 12:12:13 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T11:29:21.390Z",
-   "lastSuccess": "2026-11-21T11:29:21.390Z",
+   "checkedAt": "2026-11-21T12:20:16.143Z",
+   "lastSuccess": "2026-11-21T12:20:16.143Z",
    "etag": null,
    "lastModified": "Sat, 21 Nov 2026 10:34:54 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T11:29:21.390Z",
-   "lastSuccess": "2026-11-21T11:29:21.390Z",
-   "etag": "\"c47bd017e9704b7128cf25653fa5d6a8\"",
-   "lastModified": "Fri, 20 Nov 2026 17:55:33 GMT"
+   "checkedAt": "2026-11-21T12:20:16.143Z",
+   "lastSuccess": "2026-11-21T12:20:16.143Z",
+   "etag": "W/\"2be9462cda3cab9ad0da9bab649e37c1\"",
+   "lastModified": "Sat, 21 Nov 2026 12:09:48 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T11:29:21.390Z",
-   "lastSuccess": "2026-11-21T11:29:21.390Z",
+   "checkedAt": "2026-11-21T12:20:16.143Z",
+   "lastSuccess": "2026-11-21T12:20:16.143Z",
    "etag": null,
-   "lastModified": "Sat, 21 Nov 2026 11:29:21 GMT"
+   "lastModified": "Sat, 21 Nov 2026 12:20:16 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,43 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T11:29:21.390Z",
-   "lastSuccess": "2026-11-21T11:29:21.390Z",
+   "checkedAt": "2026-11-21T12:20:16.143Z",
+   "lastSuccess": "2026-11-21T12:20:16.143Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "53abcb6f4704464b",
+   "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
+   "url": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
+   "summary": "A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability. The post Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-21T12:08:50.000Z",
+   "categories": [
+    "vuln",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-21T12:20:16.143Z"
+  },
+  {
+   "id": "059e30cfca7341a0",
+   "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+   "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+   "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to reach the credentials Muse stores for the user's connected…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-21T11:53:07.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-21T12:20:16.143Z"
+  },
   {
    "id": "3b426a1ae4872b68",
    "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
@@ -2975,36 +3005,6 @@
    "kind": "media",
    "published": "2026-11-16T08:26:52.000Z",
    "categories": [],
-   "firstSeen": "2026-11-16T10:01:47.155Z"
-  },
-  {
-   "id": "0b2f1e9ea8111012",
-   "title": "Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign",
-   "url": "https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/",
-   "summary": "Phishing emails posing as Microsoft 365 service notices referenced the real outage incident and threatened to delete held messages. The post Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-16T08:15:12.000Z",
-   "categories": [
-    "phishing",
-    "attack"
-   ],
-   "firstSeen": "2026-11-16T10:01:47.155Z"
-  },
-  {
-   "id": "d6a0c3df6c7fff40",
-   "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
-   "url": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
-   "summary": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records. The records, which Amazon's threat intelligence team captured with decoy…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-16T07:34:21.000Z",
-   "categories": [
-    "ai",
-    "attack"
-   ],
    "firstSeen": "2026-11-16T10:01:47.155Z"
   }
  ]
