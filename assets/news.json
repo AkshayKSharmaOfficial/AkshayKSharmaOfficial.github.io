@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-21T17:58:53.764Z",
- "lastAttempt": "2026-11-21T17:58:53.764Z",
+ "lastSuccess": "2026-11-21T18:45:10.848Z",
+ "lastAttempt": "2026-11-21T18:45:10.848Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T17:58:53.764Z",
-   "lastSuccess": "2026-11-21T17:58:53.764Z",
+   "checkedAt": "2026-11-21T18:45:10.848Z",
+   "lastSuccess": "2026-11-21T18:45:10.848Z",
    "etag": null,
    "lastModified": "Sat, 21 Nov 2026 17:52:59 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T17:58:53.764Z",
-   "lastSuccess": "2026-11-21T17:58:53.764Z",
-   "etag": "41ce5806c92b91a314e3b294b329e952",
-   "lastModified": "Sat, 21 Nov 2026 17:58:23 GMT"
+   "checkedAt": "2026-11-21T18:45:10.848Z",
+   "lastSuccess": "2026-11-21T18:45:10.848Z",
+   "etag": "c49b8a46a49c1889910e3970d32084c7",
+   "lastModified": "Sat, 21 Nov 2026 18:43:43 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T17:58:53.764Z",
-   "lastSuccess": "2026-11-21T17:58:53.764Z",
+   "checkedAt": "2026-11-21T18:45:10.848Z",
+   "lastSuccess": "2026-11-21T18:45:10.848Z",
    "etag": null,
-   "lastModified": "Sat, 21 Nov 2026 17:56:37 GMT"
+   "lastModified": "Sat, 21 Nov 2026 18:35:49 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T17:58:53.764Z",
-   "lastSuccess": "2026-11-21T17:58:53.764Z",
+   "checkedAt": "2026-11-21T18:45:10.848Z",
+   "lastSuccess": "2026-11-21T18:45:10.848Z",
    "etag": "W/\"2be9462cda3cab9ad0da9bab649e37c1\"",
    "lastModified": "Sat, 21 Nov 2026 12:09:48 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T17:58:53.764Z",
-   "lastSuccess": "2026-11-21T17:58:53.764Z",
+   "checkedAt": "2026-11-21T18:45:10.848Z",
+   "lastSuccess": "2026-11-21T18:45:10.848Z",
    "etag": null,
-   "lastModified": "Sat, 21 Nov 2026 17:58:54 GMT"
+   "lastModified": "Sat, 21 Nov 2026 18:45:11 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,29 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-21T17:58:53.764Z",
-   "lastSuccess": "2026-11-21T17:58:53.764Z",
+   "checkedAt": "2026-11-21T18:45:10.848Z",
+   "lastSuccess": "2026-11-21T18:45:10.848Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "9e0095a6e1a0f1f0",
+   "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+   "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+   "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-21T18:01:58.000Z",
+   "categories": [
+    "breach",
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-21T18:45:10.848Z"
+  },
   {
    "id": "45832b8789dd461c",
    "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
@@ -2994,21 +3010,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-16T11:34:16.849Z"
-  },
-  {
-   "id": "0203bd13a7bb8ac7",
-   "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
-   "url": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
-   "summary": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-16T09:30:04.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-16T10:01:47.155Z"
   }
  ]
 }
