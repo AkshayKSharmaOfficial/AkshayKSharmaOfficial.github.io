@@ -37,4 +37,5 @@ window.GALLERY_ITEMS = [
   { src: "images/gallery/cybersec-akshay-plaque.jpg", alt: "Akshay Kumar Sharma receiving a CyberSec Akshay plaque", caption: "CyberSec Akshay plaque", category: "Memories", date: "" },
   { src: "images/gallery/milestone-award.jpg", alt: "Akshay Kumar Sharma receiving a Milestone commemorative plaque", caption: "Milestone plaque", category: "Memories", date: "" },
   { src: "images/gallery/working-laptop.jpg", alt: "Akshay Kumar Sharma working on a laptop", caption: "Working on a laptop", category: "Memories", date: "" },
-];
+
+];{ src: "images/gallery/vbyld-2027-sawai-madhopur.jpg", alt: "Viksit Bharat Young Leaders Dialogue 2027", caption: "Viksit Bharat Young Leaders Dialogue 2027 – District-Level Challenge Track, MY Bharat Kendra, Sawai Madhopur (21 November 2026)", category: "Events", date: "21 November 2026" },
