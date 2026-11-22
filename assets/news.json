@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-22T00:06:43.625Z",
- "lastAttempt": "2026-11-22T00:06:43.625Z",
+ "lastSuccess": "2026-11-22T01:24:03.723Z",
+ "lastAttempt": "2026-11-22T01:24:03.723Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-22T00:06:43.625Z",
-   "lastSuccess": "2026-11-22T00:06:43.625Z",
+   "checkedAt": "2026-11-22T01:24:03.723Z",
+   "lastSuccess": "2026-11-22T01:24:03.723Z",
    "etag": null,
-   "lastModified": "Sat, 21 Nov 2026 23:46:54 GMT"
+   "lastModified": "Sun, 22 Nov 2026 00:40:31 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-22T00:06:43.625Z",
-   "lastSuccess": "2026-11-22T00:06:43.625Z",
-   "etag": "c70942f7b56126bff720d1657b7b2f39",
-   "lastModified": "Sun, 22 Nov 2026 00:00:01 GMT"
+   "checkedAt": "2026-11-22T01:24:03.723Z",
+   "lastSuccess": "2026-11-22T01:24:03.723Z",
+   "etag": "7fd594367795a9e2bd919f15922ad766",
+   "lastModified": "Sun, 22 Nov 2026 01:20:02 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-22T00:06:43.625Z",
-   "lastSuccess": "2026-11-22T00:06:43.625Z",
+   "checkedAt": "2026-11-22T01:24:03.723Z",
+   "lastSuccess": "2026-11-22T01:24:03.723Z",
    "etag": null,
    "lastModified": "Sat, 21 Nov 2026 23:08:26 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-22T00:06:43.625Z",
-   "lastSuccess": "2026-11-22T00:06:43.625Z",
-   "etag": "W/\"2be9462cda3cab9ad0da9bab649e37c1\"",
-   "lastModified": "Sat, 21 Nov 2026 12:09:48 GMT"
+   "checkedAt": "2026-11-22T01:24:03.723Z",
+   "lastSuccess": "2026-11-22T01:24:03.723Z",
+   "etag": "W/\"c0e927079f0a3681615d3a40097e2a5a\"",
+   "lastModified": "Sun, 22 Nov 2026 01:15:31 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-22T00:06:43.625Z",
-   "lastSuccess": "2026-11-22T00:06:43.625Z",
+   "checkedAt": "2026-11-22T01:24:03.723Z",
+   "lastSuccess": "2026-11-22T01:24:03.723Z",
    "etag": null,
-   "lastModified": "Sun, 22 Nov 2026 00:06:44 GMT"
+   "lastModified": "Sun, 22 Nov 2026 01:24:04 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-22T00:06:43.625Z",
-   "lastSuccess": "2026-11-22T00:06:43.625Z",
+   "checkedAt": "2026-11-22T01:24:03.723Z",
+   "lastSuccess": "2026-11-22T01:24:03.723Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "3f5ee645257dd6e2",
+   "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+   "url": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
+   "summary": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains. The post FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-22T00:53:02.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-22T01:24:03.723Z"
+  },
   {
    "id": "c6f3c35b77c9d3ac",
    "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
@@ -137,6 +151,18 @@
     "attack"
    ],
    "firstSeen": "2026-11-21T14:31:49.931Z"
+  },
+  {
+   "id": "f115330a1cf433f1",
+   "title": "President Trump Taps Kirsten Davies as National Cyber Director",
+   "url": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/",
+   "summary": "White House says the battle-tested cyber leader will drive an America First cyber strategy. The post President Trump Taps Kirsten Davies as National Cyber Director appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-21T13:00:00.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-22T01:24:03.723Z"
   },
   {
    "id": "53abcb6f4704464b",
@@ -2979,35 +3005,6 @@
    "categories": [
     "vuln",
     "attack"
-   ],
-   "firstSeen": "2026-11-16T11:34:16.849Z"
-  },
-  {
-   "id": "762dd792ff104c4f",
-   "title": "Uber Data Breach Impacts 150,000 People",
-   "url": "https://www.securityweek.com/uber-data-breach-impacts-150000-people/",
-   "summary": "Hackers compromised a third-party services provider and stole names, addresses, and driver’s license numbers. The post Uber Data Breach Impacts 150,000 People appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-16T11:02:48.000Z",
-   "categories": [
-    "breach",
-    "attack"
-   ],
-   "firstSeen": "2026-11-16T11:34:16.849Z"
-  },
-  {
-   "id": "c80d2943859608c6",
-   "title": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
-   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
-   "summary": "Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting cybersecurity changes. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-16T11:00:00.000Z",
-   "categories": [
-    "ai"
    ],
    "firstSeen": "2026-11-16T11:34:16.849Z"
   }
