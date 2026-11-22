@@ -808,3 +808,33 @@ html.intro body::after { content: "AKSHAY KUMAR SHARMA"; position: fixed; left: 
     object-fit: contain;
     border-radius: 14px;
 }
+/* HOME PAGE - PERFECT CIRCULAR PROFILE PHOTO */
+
+.hero .portrait-wrap {
+    position: relative !important;
+    width: min(100%, 408px) !important;
+    aspect-ratio: 1 / 1 !important;
+    padding: 24px !important;
+}
+
+.hero .portrait-frame {
+    width: 100% !important;
+    height: 100% !important;
+    aspect-ratio: 1 / 1 !important;
+    border-radius: 50% !important;
+    overflow: hidden !important;
+}
+
+.hero .portrait-frame img {
+    width: 100% !important;
+    height: 100% !important;
+    display: block !important;
+    border-radius: 50% !important;
+    object-fit: cover !important;
+    object-position: center !important;
+}
+
+/* Remove dotted outer circle */
+.hero .portrait-wrap::after {
+    display: none !important;
+}
