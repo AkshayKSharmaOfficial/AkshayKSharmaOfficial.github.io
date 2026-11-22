@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-22T22:15:31.919Z",
- "lastAttempt": "2026-11-22T22:15:31.919Z",
+ "lastSuccess": "2026-11-22T23:14:14.423Z",
+ "lastAttempt": "2026-11-22T23:14:14.423Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-22T22:15:31.919Z",
-   "lastSuccess": "2026-11-22T22:15:31.919Z",
+   "checkedAt": "2026-11-22T23:14:14.423Z",
+   "lastSuccess": "2026-11-22T23:14:14.423Z",
    "etag": null,
-   "lastModified": "Sun, 22 Nov 2026 21:30:43 GMT"
+   "lastModified": "Sun, 22 Nov 2026 22:26:46 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-22T22:15:31.919Z",
-   "lastSuccess": "2026-11-22T22:15:31.919Z",
-   "etag": "0906b510047adc896c15ab084707e953",
-   "lastModified": "Sun, 22 Nov 2026 22:05:44 GMT"
+   "checkedAt": "2026-11-22T23:14:14.423Z",
+   "lastSuccess": "2026-11-22T23:14:14.423Z",
+   "etag": "7f77afbbef460a008f50d7156c541cb1",
+   "lastModified": "Sun, 22 Nov 2026 23:05:46 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-22T22:15:31.919Z",
-   "lastSuccess": "2026-11-22T22:15:31.919Z",
+   "checkedAt": "2026-11-22T23:14:14.423Z",
+   "lastSuccess": "2026-11-22T23:14:14.423Z",
    "etag": null,
-   "lastModified": "Sun, 22 Nov 2026 22:10:29 GMT"
+   "lastModified": "Sun, 22 Nov 2026 23:06:58 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-22T22:15:31.919Z",
-   "lastSuccess": "2026-11-22T22:15:31.919Z",
+   "checkedAt": "2026-11-22T23:14:14.423Z",
+   "lastSuccess": "2026-11-22T23:14:14.423Z",
    "etag": "W/\"c0e927079f0a3681615d3a40097e2a5a\"",
    "lastModified": "Sun, 22 Nov 2026 01:15:31 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-22T22:15:31.919Z",
-   "lastSuccess": "2026-11-22T22:15:31.919Z",
+   "checkedAt": "2026-11-22T23:14:14.423Z",
+   "lastSuccess": "2026-11-22T23:14:14.423Z",
    "etag": null,
-   "lastModified": "Sun, 22 Nov 2026 22:15:32 GMT"
+   "lastModified": "Sun, 22 Nov 2026 23:14:14 GMT"
   },
   {
    "id": "cisa",
@@ -70,8 +70,8 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-22T22:15:31.919Z",
-   "lastSuccess": "2026-11-22T22:15:31.919Z",
+   "checkedAt": "2026-11-22T23:14:14.423Z",
+   "lastSuccess": "2026-11-22T23:14:14.423Z",
    "etag": null,
    "lastModified": null
   }
@@ -507,6 +507,20 @@
     "attack"
    ],
    "firstSeen": "2026-11-20T15:52:55.362Z"
+  },
+  {
+   "id": "ff3d25bd3c519d64",
+   "title": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era",
+   "url": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools",
+   "summary": "Microsoft announces new AI agent security tools and transparency standards to protect enterprise systems at its Ignite technical conference.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-20T13:51:30.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-22T23:14:14.423Z"
   },
   {
    "id": "937c77104b042cc2",
@@ -2994,21 +3008,6 @@
    "kind": "media",
    "published": "2026-11-16T12:53:18.000Z",
    "categories": [],
-   "firstSeen": "2026-11-16T14:09:35.988Z"
-  },
-  {
-   "id": "a9fae18393a4908b",
-   "title": "Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch",
-   "url": "https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/",
-   "summary": "Kaspersky suspects exploitation of Telegram’s new widgets to deliver WebRAT, as researchers demo RCE and Pavel Durov disputes the claims. The post Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-16T12:48:03.000Z",
-   "categories": [
-    "vuln",
-    "malware"
-   ],
    "firstSeen": "2026-11-16T14:09:35.988Z"
   }
  ]
