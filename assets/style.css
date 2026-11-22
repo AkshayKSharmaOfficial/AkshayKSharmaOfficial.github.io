@@ -753,3 +753,21 @@ html.intro body::after { content: "AKSHAY KUMAR SHARMA"; position: fixed; left: 
     height: auto;
     object-fit: contain;
 }
+.portrait-wrap,
+.portrait-frame {
+    width: 100%;
+    height: auto;
+    border-radius: 0 !important;
+    overflow: visible !important;
+}
+
+.portrait-frame img {
+    display: block;
+    width: 100%;
+    height: auto !important;
+    max-height: none !important;
+    aspect-ratio: auto !important;
+    object-fit: contain !important;
+    object-position: center;
+    border-radius: 0 !important;
+}
