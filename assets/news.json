@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-22T15:15:54.861Z",
- "lastAttempt": "2026-11-22T15:15:54.861Z",
+ "lastSuccess": "2026-11-22T16:15:32.304Z",
+ "lastAttempt": "2026-11-22T16:15:32.304Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-22T15:15:54.861Z",
-   "lastSuccess": "2026-11-22T15:15:54.861Z",
+   "checkedAt": "2026-11-22T16:15:32.304Z",
+   "lastSuccess": "2026-11-22T16:15:32.304Z",
    "etag": null,
-   "lastModified": "Sun, 22 Nov 2026 15:12:29 GMT"
+   "lastModified": "Sun, 22 Nov 2026 16:05:06 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-22T15:15:54.861Z",
-   "lastSuccess": "2026-11-22T15:15:54.861Z",
-   "etag": "f38c5728f38e3383822d3ede893d835d",
-   "lastModified": "Sun, 22 Nov 2026 15:10:24 GMT"
+   "checkedAt": "2026-11-22T16:15:32.304Z",
+   "lastSuccess": "2026-11-22T16:15:32.304Z",
+   "etag": "4a7b89e435c26cde2cbf4f33138b6e67",
+   "lastModified": "Sun, 22 Nov 2026 16:13:07 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-22T15:15:54.861Z",
-   "lastSuccess": "2026-11-22T15:15:54.861Z",
+   "checkedAt": "2026-11-22T16:15:32.304Z",
+   "lastSuccess": "2026-11-22T16:15:32.304Z",
    "etag": null,
-   "lastModified": "Sun, 22 Nov 2026 09:33:06 GMT"
+   "lastModified": "Sun, 22 Nov 2026 16:04:46 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-22T15:15:54.861Z",
-   "lastSuccess": "2026-11-22T15:15:54.861Z",
+   "checkedAt": "2026-11-22T16:15:32.304Z",
+   "lastSuccess": "2026-11-22T16:15:32.304Z",
    "etag": "W/\"c0e927079f0a3681615d3a40097e2a5a\"",
    "lastModified": "Sun, 22 Nov 2026 01:15:31 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-22T15:15:54.861Z",
-   "lastSuccess": "2026-11-22T15:15:54.861Z",
+   "checkedAt": "2026-11-22T16:15:32.304Z",
+   "lastSuccess": "2026-11-22T16:15:32.304Z",
    "etag": null,
-   "lastModified": "Sun, 22 Nov 2026 15:15:55 GMT"
+   "lastModified": "Sun, 22 Nov 2026 16:15:32 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,42 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-22T15:15:54.861Z",
-   "lastSuccess": "2026-11-22T15:15:54.861Z",
+   "checkedAt": "2026-11-22T16:15:32.304Z",
+   "lastSuccess": "2026-11-22T16:15:32.304Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "77dc2a4954120533",
+   "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+   "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+   "summary": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-22T15:43:04.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-22T16:15:32.304Z"
+  },
+  {
+   "id": "c41239907c0cc603",
+   "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+   "url": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+   "summary": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-22T15:15:25.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-22T16:15:32.304Z"
+  },
   {
    "id": "6d087c898942cc0c",
    "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
@@ -2980,32 +3009,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-16T14:09:35.988Z"
-  },
-  {
-   "id": "c4086de05142b1d9",
-   "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
-   "url": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
-   "summary": "Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines. \"On launch, the NSIS-based installer executable dropped a file named '7z.dll' into a temporary directory and ran it through…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-16T12:33:18.000Z",
-   "categories": [
-    "malware"
-   ],
-   "firstSeen": "2026-11-16T14:09:35.988Z"
-  },
-  {
-   "id": "12419a69b5a7818e",
-   "title": "Australian retail giant Coles investigates cybersecurity incident",
-   "url": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
-   "summary": "Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a \"cyber security incident\" that has not impacted the company's stores. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-16T11:18:09.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-16T11:34:16.849Z"
   }
  ]
 }
