@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-22T05:29:24.385Z",
- "lastAttempt": "2026-11-22T05:29:24.385Z",
+ "lastSuccess": "2026-11-22T06:27:51.312Z",
+ "lastAttempt": "2026-11-22T06:27:51.312Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-22T05:29:24.385Z",
-   "lastSuccess": "2026-11-22T05:29:24.385Z",
+   "checkedAt": "2026-11-22T06:27:51.312Z",
+   "lastSuccess": "2026-11-22T06:27:51.312Z",
    "etag": null,
-   "lastModified": "Sun, 22 Nov 2026 04:40:55 GMT"
+   "lastModified": "Sun, 22 Nov 2026 06:14:18 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-22T05:29:24.385Z",
-   "lastSuccess": "2026-11-22T05:29:24.385Z",
-   "etag": "9072cb8c5e45b712ece8e6a6a02a19cb",
-   "lastModified": "Sun, 22 Nov 2026 05:20:08 GMT"
+   "checkedAt": "2026-11-22T06:27:51.312Z",
+   "lastSuccess": "2026-11-22T06:27:51.312Z",
+   "etag": "067bd7facd1b209253280eab5ba0d3e3",
+   "lastModified": "Sun, 22 Nov 2026 06:20:10 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-22T05:29:24.385Z",
-   "lastSuccess": "2026-11-22T05:29:24.385Z",
+   "checkedAt": "2026-11-22T06:27:51.312Z",
+   "lastSuccess": "2026-11-22T06:27:51.312Z",
    "etag": null,
    "lastModified": "Sun, 22 Nov 2026 05:24:24 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-22T05:29:24.385Z",
-   "lastSuccess": "2026-11-22T05:29:24.385Z",
+   "checkedAt": "2026-11-22T06:27:51.312Z",
+   "lastSuccess": "2026-11-22T06:27:51.312Z",
    "etag": "W/\"c0e927079f0a3681615d3a40097e2a5a\"",
    "lastModified": "Sun, 22 Nov 2026 01:15:31 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-22T05:29:24.385Z",
-   "lastSuccess": "2026-11-22T05:29:24.385Z",
+   "checkedAt": "2026-11-22T06:27:51.312Z",
+   "lastSuccess": "2026-11-22T06:27:51.312Z",
    "etag": null,
-   "lastModified": "Sun, 22 Nov 2026 05:29:24 GMT"
+   "lastModified": "Sun, 22 Nov 2026 06:27:51 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,42 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-22T05:29:24.385Z",
-   "lastSuccess": "2026-11-22T05:29:24.385Z",
+   "checkedAt": "2026-11-22T06:27:51.312Z",
+   "lastSuccess": "2026-11-22T06:27:51.312Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "6d087c898942cc0c",
+   "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+   "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+   "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged as Zero Data Retention, the setting that is…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-22T05:06:55.000Z",
+   "categories": [
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-22T06:27:51.312Z"
+  },
+  {
+   "id": "a3c63e958cb92eef",
+   "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+   "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+   "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-22T05:03:41.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-22T06:27:51.312Z"
+  },
   {
    "id": "3f5ee645257dd6e2",
    "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
@@ -2976,36 +3005,6 @@
    "kind": "media",
    "published": "2026-11-16T11:18:09.000Z",
    "categories": [],
-   "firstSeen": "2026-11-16T11:34:16.849Z"
-  },
-  {
-   "id": "130e819b149f321d",
-   "title": "Recent UnrealIRCd Vulnerability Exploited in Attacks",
-   "url": "https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/",
-   "summary": "Tracked as CVE-2026-114713, the high-severity flaw allows attackers to execute commands with server/IRCOp privileges. The post Recent UnrealIRCd Vulnerability Exploited in Attacks appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-16T11:15:48.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-16T11:34:16.849Z"
-  },
-  {
-   "id": "a85cb661cedde986",
-   "title": "Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers",
-   "url": "https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/",
-   "summary": "Vulncheck disclosed 14 vulnerabilities affecting Copeland XWEB EVO controllers, including two that threat actors quickly targeted. The post Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-16T11:05:42.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
    "firstSeen": "2026-11-16T11:34:16.849Z"
   }
  ]
