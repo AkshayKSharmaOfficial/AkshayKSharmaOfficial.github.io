@@ -771,3 +771,9 @@ html.intro body::after { content: "AKSHAY KUMAR SHARMA"; position: fixed; left: 
     object-position: center;
     border-radius: 0 !important;
 }
+
+#about-grid .portrait-frame img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
