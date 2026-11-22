@@ -40,4 +40,5 @@ window.GALLERY_ITEMS = [
 { src: "images/gallery/vbyld-2027-sawai-madhopur.jpg", alt: "Viksit Bharat Young Leaders Dialogue 2027", caption: "Viksit Bharat Young Leaders Dialogue 2027 – District-Level Challenge Track, MY Bharat Kendra, Sawai Madhopur (21 November 2026)", category: "Events", date: "21 November 2026" },
   { src: "images/gallery/vbyld-2027-smart-innovation-presentation.jpg", alt: "Smart Innovation Presentation", caption: "Smart Innovation", category: "Events",  date: "21 November 2026" },
   { src: "images/gallery/vbyld-2027-challenge-track-audience.jpg", alt: "Viksit Bharat Young Leaders Dialogue 2027", caption: "Viksit Bharat Young Leaders Dialogue 2027", category: "Events", date: "21 November 2026" },
+{src: "images/gallery/connect-with-me-banner.jpg",alt: "Connect With Me - Akshay Kumar Sharma, LinkedIn, X, YouTube and Official Website"},
 ];
