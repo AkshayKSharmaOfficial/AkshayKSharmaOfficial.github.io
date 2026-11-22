@@ -852,3 +852,22 @@ html.intro body::after { content: "AKSHAY KUMAR SHARMA"; position: fixed; left: 
     object-fit: cover;
     border-radius: 50%;
 }
+/* Connect With Me - Larger Gallery Card */
+
+.gallery-item:has(img[src*="connect-with-me-banner.jpg"]) {
+grid-column: span 2;
+width: 100%;
+}
+
+.gallery-item:has(img[src*="connect-with-me-banner.jpg"]) img {
+width: 100%;
+height: auto;
+object-fit: contain;
+display: block;
+}
+
+@media (max-width: 600px) {
+.gallery-item:has(img[src*="connect-with-me-banner.jpg"]) {
+grid-column: span 2;
+}
+}
