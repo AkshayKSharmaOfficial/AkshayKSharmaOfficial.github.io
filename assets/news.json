@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-23T15:20:21.180Z",
- "lastAttempt": "2026-11-23T15:20:21.180Z",
+ "lastSuccess": "2026-11-23T16:28:57.374Z",
+ "lastAttempt": "2026-11-23T16:28:57.374Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T15:20:21.180Z",
-   "lastSuccess": "2026-11-23T15:20:21.180Z",
+   "checkedAt": "2026-11-23T16:28:57.374Z",
+   "lastSuccess": "2026-11-23T16:28:57.374Z",
    "etag": null,
-   "lastModified": "Mon, 23 Nov 2026 15:02:56 GMT"
+   "lastModified": "Mon, 23 Nov 2026 16:11:29 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T15:20:21.180Z",
-   "lastSuccess": "2026-11-23T15:20:21.180Z",
-   "etag": "a4af0faa2b530b9e1421feb3b81e98a5",
-   "lastModified": "Mon, 23 Nov 2026 15:12:18 GMT"
+   "checkedAt": "2026-11-23T16:28:57.374Z",
+   "lastSuccess": "2026-11-23T16:28:57.374Z",
+   "etag": "d4cddc3fe183e5b6751d88a228096d62",
+   "lastModified": "Mon, 23 Nov 2026 16:22:20 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T15:20:21.180Z",
-   "lastSuccess": "2026-11-23T15:20:21.180Z",
+   "checkedAt": "2026-11-23T16:28:57.374Z",
+   "lastSuccess": "2026-11-23T16:28:57.374Z",
    "etag": null,
-   "lastModified": "Mon, 23 Nov 2026 11:21:27 GMT"
+   "lastModified": "Mon, 23 Nov 2026 16:24:00 GMT"
   },
   {
    "id": "securityweek",
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T15:20:21.180Z",
-   "lastSuccess": "2026-11-23T15:20:21.180Z",
-   "etag": "\"990a8142bafa782b926ba5b9a410ef7a\"",
-   "lastModified": "Mon, 23 Nov 2026 15:06:54 GMT"
+   "checkedAt": "2026-11-23T16:28:57.374Z",
+   "lastSuccess": "2026-11-23T16:28:57.374Z",
+   "etag": "\"70e8282ff97605728ce16f59c536f510\"",
+   "lastModified": "Mon, 23 Nov 2026 15:47:45 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T15:20:21.180Z",
-   "lastSuccess": "2026-11-23T15:20:21.180Z",
+   "checkedAt": "2026-11-23T16:28:57.374Z",
+   "lastSuccess": "2026-11-23T16:28:57.374Z",
    "etag": null,
-   "lastModified": "Mon, 23 Nov 2026 15:20:21 GMT"
+   "lastModified": "Mon, 23 Nov 2026 16:28:57 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,42 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T15:20:21.180Z",
-   "lastSuccess": "2026-11-23T15:20:21.180Z",
+   "checkedAt": "2026-11-23T16:28:57.374Z",
+   "lastSuccess": "2026-11-23T16:28:57.374Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "45ba490a7eb6781e",
+   "title": "Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms",
+   "url": "https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/",
+   "summary": "Microsoft closed an Azure API Management flaw exploited to target secrets at Norwegian energy companies, with other sectors also affected. The post Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-23T15:47:40.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-23T16:28:57.374Z"
+  },
+  {
+   "id": "a75fd36abba00688",
+   "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
+   "url": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
+   "summary": "A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break down a door. Sometimes they just use one that's already open. This week's stories show how…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-23T15:10:48.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-23T16:28:57.374Z"
+  },
   {
    "id": "41f9b6eff4bed090",
    "title": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack",
@@ -592,7 +621,7 @@
    "id": "06ec935bb2ce938b",
    "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
    "url": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges",
-   "summary": "Identity, runtime and development controls are converging as enterprises are tasked with keeping agents within their assigned tasks. But vendors' approaches vary, so CISOs face a choice.",
+   "summary": "Identity, runtime, and development controls are converging as enterprises look for ways to keep agents within their assigned tasks. But vendors' approaches vary, so CISOs face a choice.",
    "source": "Dark Reading",
    "sourceId": "darkreading",
    "kind": "media",
@@ -2973,36 +3002,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-17T05:43:18.456Z"
-  },
-  {
-   "id": "2c094dfef6ae0839",
-   "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-   "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
-   "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and…",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-17T02:12:17.000Z",
-   "categories": [
-    "malware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-17T04:40:58.404Z"
-  },
-  {
-   "id": "6b0538b626499913",
-   "title": "Optimizely supply chain attack infects major brands' sites with malware",
-   "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware/",
-   "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and…",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-17T02:12:17.000Z",
-   "categories": [
-    "malware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-17T02:37:29.229Z"
   }
  ]
 }
