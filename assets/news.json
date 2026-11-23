@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-23T16:28:57.374Z",
- "lastAttempt": "2026-11-23T16:28:57.374Z",
+ "lastSuccess": "2026-11-23T17:29:11.715Z",
+ "lastAttempt": "2026-11-23T17:29:11.715Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T16:28:57.374Z",
-   "lastSuccess": "2026-11-23T16:28:57.374Z",
+   "checkedAt": "2026-11-23T17:29:11.715Z",
+   "lastSuccess": "2026-11-23T17:29:11.715Z",
    "etag": null,
-   "lastModified": "Mon, 23 Nov 2026 16:11:29 GMT"
+   "lastModified": "Mon, 23 Nov 2026 17:09:56 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T16:28:57.374Z",
-   "lastSuccess": "2026-11-23T16:28:57.374Z",
-   "etag": "d4cddc3fe183e5b6751d88a228096d62",
-   "lastModified": "Mon, 23 Nov 2026 16:22:20 GMT"
+   "checkedAt": "2026-11-23T17:29:11.715Z",
+   "lastSuccess": "2026-11-23T17:29:11.715Z",
+   "etag": "9c387a7bede7efcc83e8dbdf5a3cb9db",
+   "lastModified": "Mon, 23 Nov 2026 17:20:03 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T16:28:57.374Z",
-   "lastSuccess": "2026-11-23T16:28:57.374Z",
+   "checkedAt": "2026-11-23T17:29:11.715Z",
+   "lastSuccess": "2026-11-23T17:29:11.715Z",
    "etag": null,
    "lastModified": "Mon, 23 Nov 2026 16:24:00 GMT"
   },
@@ -43,11 +43,11 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T16:28:57.374Z",
-   "lastSuccess": "2026-11-23T16:28:57.374Z",
+   "checkedAt": "2026-11-23T17:29:11.715Z",
+   "lastSuccess": "2026-11-23T17:29:11.715Z",
    "etag": "\"70e8282ff97605728ce16f59c536f510\"",
    "lastModified": "Mon, 23 Nov 2026 15:47:45 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T16:28:57.374Z",
-   "lastSuccess": "2026-11-23T16:28:57.374Z",
+   "checkedAt": "2026-11-23T17:29:11.715Z",
+   "lastSuccess": "2026-11-23T17:29:11.715Z",
    "etag": null,
-   "lastModified": "Mon, 23 Nov 2026 16:28:57 GMT"
+   "lastModified": "Mon, 23 Nov 2026 17:29:12 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,43 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T16:28:57.374Z",
-   "lastSuccess": "2026-11-23T16:28:57.374Z",
+   "checkedAt": "2026-11-23T17:29:11.715Z",
+   "lastSuccess": "2026-11-23T17:29:11.715Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "a6613c20ce3a8410",
+   "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
+   "url": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
+   "summary": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-23T16:50:01.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-23T17:29:11.715Z"
+  },
+  {
+   "id": "4180e2385a593bd1",
+   "title": "AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes",
+   "summary": "A China-nexus actor used the Cairn penetration testing tool in attacks against East Asian universities, exploiting a zero-day in a medical imaging app.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-23T16:17:21.000Z",
+   "categories": [
+    "vuln",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-23T17:29:11.715Z"
+  },
   {
    "id": "45ba490a7eb6781e",
    "title": "Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms",
@@ -2973,35 +3003,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-17T08:18:25.428Z"
-  },
-  {
-   "id": "dd31e5151870eabc",
-   "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
-   "url": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
-   "summary": "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5 or later. The company said additional activity targeting…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-17T06:29:27.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-17T06:48:48.261Z"
-  },
-  {
-   "id": "7d8a94de5f64d8dd",
-   "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
-   "url": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
-   "summary": "N-able has released a new security update to address additional critical security flaws impacting N-central. Describing N-central 2026.4 Hotfix 3 as a critical security update, the company said it includes a number of security patches and fixes that enhance the security of the…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-17T05:00:34.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-17T05:43:18.456Z"
   }
  ]
 }
