@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-23T09:02:16.126Z",
- "lastAttempt": "2026-11-23T09:02:16.126Z",
+ "lastSuccess": "2026-11-23T10:25:37.356Z",
+ "lastAttempt": "2026-11-23T10:25:37.356Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T09:02:16.126Z",
-   "lastSuccess": "2026-11-23T09:02:16.126Z",
+   "checkedAt": "2026-11-23T10:25:37.356Z",
+   "lastSuccess": "2026-11-23T10:25:37.356Z",
    "etag": null,
-   "lastModified": "Mon, 23 Nov 2026 08:43:12 GMT"
+   "lastModified": "Mon, 23 Nov 2026 10:09:13 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T09:02:16.126Z",
-   "lastSuccess": "2026-11-23T09:02:16.126Z",
-   "etag": "977e436d7c6c6c5d93d4df93585e617c",
-   "lastModified": "Mon, 23 Nov 2026 08:57:04 GMT"
+   "checkedAt": "2026-11-23T10:25:37.356Z",
+   "lastSuccess": "2026-11-23T10:25:37.356Z",
+   "etag": "9233b3ae5af23de8400616c8e838b4e3",
+   "lastModified": "Mon, 23 Nov 2026 10:22:57 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T09:02:16.126Z",
-   "lastSuccess": "2026-11-23T09:02:16.126Z",
+   "checkedAt": "2026-11-23T10:25:37.356Z",
+   "lastSuccess": "2026-11-23T10:25:37.356Z",
    "etag": null,
    "lastModified": "Sun, 22 Nov 2026 23:48:07 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T09:02:16.126Z",
-   "lastSuccess": "2026-11-23T09:02:16.126Z",
+   "checkedAt": "2026-11-23T10:25:37.356Z",
+   "lastSuccess": "2026-11-23T10:25:37.356Z",
    "etag": "\"4fe8bd1063f56f229332ca4648b80d5e\"",
    "lastModified": "Mon, 23 Nov 2026 06:19:39 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T09:02:16.126Z",
-   "lastSuccess": "2026-11-23T09:02:16.126Z",
+   "checkedAt": "2026-11-23T10:25:37.356Z",
+   "lastSuccess": "2026-11-23T10:25:37.356Z",
    "etag": null,
-   "lastModified": "Mon, 23 Nov 2026 09:02:16 GMT"
+   "lastModified": "Mon, 23 Nov 2026 10:25:38 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,56 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T09:02:16.126Z",
-   "lastSuccess": "2026-11-23T09:02:16.126Z",
+   "checkedAt": "2026-11-23T10:25:37.356Z",
+   "lastSuccess": "2026-11-23T10:25:37.356Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "659149ed49d822a8",
+   "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
+   "summary": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wild. The vulnerability, tracked as…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-23T09:11:56.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-23T10:25:37.356Z"
+  },
+  {
+   "id": "5af775ed4d6ef6e0",
+   "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
+   "summary": "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-23T09:11:15.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-23T10:25:37.356Z"
+  },
+  {
+   "id": "8dee64bf666c5ac0",
+   "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
+   "url": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
+   "summary": "Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a security notice updated today. The company identified and fixed…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-23T09:04:08.000Z",
+   "categories": [
+    "vuln",
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-23T10:25:37.356Z"
+  },
   {
    "id": "3077523564b045f2",
    "title": "AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
@@ -2965,51 +3008,6 @@
     "vuln"
    ],
    "firstSeen": "2026-11-16T16:15:01.290Z"
-  },
-  {
-   "id": "f2deff46f18eb0e3",
-   "title": "Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks",
-   "url": "https://www.securityweek.com/barracuda-hacked-amid-surge-in-artex-powered-cyberattacks/",
-   "summary": "Chinese threat actors are broadly adopting the agentic AI penetration testing framework to accelerate their attacks. The post Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-16T15:07:32.000Z",
-   "categories": [
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-16T16:15:01.290Z"
-  },
-  {
-   "id": "870db003bf79c1b3",
-   "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
-   "url": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
-   "summary": "The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-privileged accounts. Specops Software outlines seven practical steps to meet these requirements, block compromised passwords, and…",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-16T15:01:11.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-16T16:15:01.290Z"
-  },
-  {
-   "id": "a863217f46213f94",
-   "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
-   "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
-   "summary": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-16T14:00:00.000Z",
-   "categories": [
-    "vuln",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-16T17:33:07.096Z"
   }
  ]
 }
