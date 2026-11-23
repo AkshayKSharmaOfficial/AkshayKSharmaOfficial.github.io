@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-23T18:24:34.873Z",
- "lastAttempt": "2026-11-23T18:24:34.873Z",
+ "lastSuccess": "2026-11-23T19:31:50.301Z",
+ "lastAttempt": "2026-11-23T19:31:50.301Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T18:24:34.873Z",
-   "lastSuccess": "2026-11-23T18:24:34.873Z",
+   "checkedAt": "2026-11-23T19:31:50.301Z",
+   "lastSuccess": "2026-11-23T19:31:50.301Z",
    "etag": null,
-   "lastModified": "Mon, 23 Nov 2026 17:55:44 GMT"
+   "lastModified": "Mon, 23 Nov 2026 19:04:49 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T18:24:34.873Z",
-   "lastSuccess": "2026-11-23T18:24:34.873Z",
-   "etag": "9627dab7b252e69dc8a56b263b186b6a",
-   "lastModified": "Mon, 23 Nov 2026 18:20:05 GMT"
+   "checkedAt": "2026-11-23T19:31:50.301Z",
+   "lastSuccess": "2026-11-23T19:31:50.301Z",
+   "etag": "5dcb492c2747eb6dbdc0c73a1c1791dc",
+   "lastModified": "Mon, 23 Nov 2026 19:28:42 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T18:24:34.873Z",
-   "lastSuccess": "2026-11-23T18:24:34.873Z",
+   "checkedAt": "2026-11-23T19:31:50.301Z",
+   "lastSuccess": "2026-11-23T19:31:50.301Z",
    "etag": null,
    "lastModified": "Mon, 23 Nov 2026 16:24:00 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T18:24:34.873Z",
-   "lastSuccess": "2026-11-23T18:24:34.873Z",
-   "etag": "W/\"1f0ee77f3722a4d1cd19caea8e9b0d0e\"",
-   "lastModified": "Mon, 23 Nov 2026 18:19:20 GMT"
+   "checkedAt": "2026-11-23T19:31:50.301Z",
+   "lastSuccess": "2026-11-23T19:31:50.301Z",
+   "etag": "\"f795f73cbcd7c338d717905bb0eeb254\"",
+   "lastModified": "Mon, 23 Nov 2026 18:23:19 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T18:24:34.873Z",
-   "lastSuccess": "2026-11-23T18:24:34.873Z",
+   "checkedAt": "2026-11-23T19:31:50.301Z",
+   "lastSuccess": "2026-11-23T19:31:50.301Z",
    "etag": null,
-   "lastModified": "Mon, 23 Nov 2026 18:24:35 GMT"
+   "lastModified": "Mon, 23 Nov 2026 19:31:50 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T18:24:34.873Z",
-   "lastSuccess": "2026-11-23T18:24:34.873Z",
+   "checkedAt": "2026-11-23T19:31:50.301Z",
+   "lastSuccess": "2026-11-23T19:31:50.301Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "666e514d93ade6eb",
+   "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
+   "url": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
+   "summary": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-23T18:38:40.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-23T19:31:50.301Z"
+  },
   {
    "id": "7d62c6481837edd9",
    "title": "Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors",
@@ -2980,20 +2995,6 @@
    "categories": [
     "vuln",
     "malware"
-   ],
-   "firstSeen": "2026-11-17T10:41:52.794Z"
-  },
-  {
-   "id": "9027be967812b33a",
-   "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
-   "url": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
-   "summary": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-17T09:44:22.000Z",
-   "categories": [
-    "vuln"
    ],
    "firstSeen": "2026-11-17T10:41:52.794Z"
   }
