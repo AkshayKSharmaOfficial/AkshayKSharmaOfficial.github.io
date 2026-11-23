@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-23T07:34:16.989Z",
- "lastAttempt": "2026-11-23T07:34:16.989Z",
+ "lastSuccess": "2026-11-23T09:02:16.126Z",
+ "lastAttempt": "2026-11-23T09:02:16.126Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T07:34:16.989Z",
-   "lastSuccess": "2026-11-23T07:34:16.989Z",
+   "checkedAt": "2026-11-23T09:02:16.126Z",
+   "lastSuccess": "2026-11-23T09:02:16.126Z",
    "etag": null,
-   "lastModified": "Mon, 23 Nov 2026 07:32:57 GMT"
+   "lastModified": "Mon, 23 Nov 2026 08:43:12 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T07:34:16.989Z",
-   "lastSuccess": "2026-11-23T07:34:16.989Z",
-   "etag": "b1d0ff4082248a69162d161ee7dc53fd",
-   "lastModified": "Mon, 23 Nov 2026 07:26:00 GMT"
+   "checkedAt": "2026-11-23T09:02:16.126Z",
+   "lastSuccess": "2026-11-23T09:02:16.126Z",
+   "etag": "977e436d7c6c6c5d93d4df93585e617c",
+   "lastModified": "Mon, 23 Nov 2026 08:57:04 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T07:34:16.989Z",
-   "lastSuccess": "2026-11-23T07:34:16.989Z",
+   "checkedAt": "2026-11-23T09:02:16.126Z",
+   "lastSuccess": "2026-11-23T09:02:16.126Z",
    "etag": null,
    "lastModified": "Sun, 22 Nov 2026 23:48:07 GMT"
   },
@@ -43,11 +43,11 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T07:34:16.989Z",
-   "lastSuccess": "2026-11-23T07:34:16.989Z",
+   "checkedAt": "2026-11-23T09:02:16.126Z",
+   "lastSuccess": "2026-11-23T09:02:16.126Z",
    "etag": "\"4fe8bd1063f56f229332ca4648b80d5e\"",
    "lastModified": "Mon, 23 Nov 2026 06:19:39 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T07:34:16.989Z",
-   "lastSuccess": "2026-11-23T07:34:16.989Z",
+   "checkedAt": "2026-11-23T09:02:16.126Z",
+   "lastSuccess": "2026-11-23T09:02:16.126Z",
    "etag": null,
-   "lastModified": "Mon, 23 Nov 2026 07:34:17 GMT"
+   "lastModified": "Mon, 23 Nov 2026 09:02:16 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,44 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T07:34:16.989Z",
-   "lastSuccess": "2026-11-23T07:34:16.989Z",
+   "checkedAt": "2026-11-23T09:02:16.126Z",
+   "lastSuccess": "2026-11-23T09:02:16.126Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "3077523564b045f2",
+   "title": "AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
+   "url": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
+   "summary": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country. This unsanctioned activity has resulted in…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-23T08:24:15.000Z",
+   "categories": [
+    "ai",
+    "attack",
+    "india"
+   ],
+   "firstSeen": "2026-11-23T09:02:16.126Z"
+  },
+  {
+   "id": "62ed9919ee82b3ba",
+   "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+   "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-23T07:44:19.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-23T09:02:16.126Z"
+  },
   {
    "id": "260cd5572d3a12c3",
    "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
@@ -2977,38 +3008,6 @@
     "vuln",
     "ai",
     "attack"
-   ],
-   "firstSeen": "2026-11-16T17:33:07.096Z"
-  },
-  {
-   "id": "d6c39cc4190a2de1",
-   "title": "Google warns that fully-automated AI attacks are coming soon",
-   "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
-   "summary": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-16T14:00:00.000Z",
-   "categories": [
-    "vuln",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-16T14:09:35.988Z"
-  },
-  {
-   "id": "e021b9febf9ed0b7",
-   "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
-   "url": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
-   "summary": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always doing their job. Meanwhile, AI is making bug hunting faster…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-16T13:27:20.000Z",
-   "categories": [
-    "vuln",
-    "malware",
-    "ai"
    ],
    "firstSeen": "2026-11-16T17:33:07.096Z"
   }
