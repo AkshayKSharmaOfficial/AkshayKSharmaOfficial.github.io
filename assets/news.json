@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-23T20:30:08.527Z",
- "lastAttempt": "2026-11-23T20:30:08.527Z",
+ "lastSuccess": "2026-11-23T21:26:09.592Z",
+ "lastAttempt": "2026-11-23T21:26:09.592Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T20:30:08.527Z",
-   "lastSuccess": "2026-11-23T20:30:08.527Z",
+   "checkedAt": "2026-11-23T21:26:09.592Z",
+   "lastSuccess": "2026-11-23T21:26:09.592Z",
    "etag": null,
-   "lastModified": "Mon, 23 Nov 2026 19:56:49 GMT"
+   "lastModified": "Mon, 23 Nov 2026 20:35:20 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T20:30:08.527Z",
-   "lastSuccess": "2026-11-23T20:30:08.527Z",
-   "etag": "712b382df77762a1f234a4bc177b73f1",
-   "lastModified": "Mon, 23 Nov 2026 20:20:22 GMT"
+   "checkedAt": "2026-11-23T21:26:09.592Z",
+   "lastSuccess": "2026-11-23T21:26:09.592Z",
+   "etag": "a91749d69f39914ed9bf23f99432701d",
+   "lastModified": "Mon, 23 Nov 2026 21:24:53 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T20:30:08.527Z",
-   "lastSuccess": "2026-11-23T20:30:08.527Z",
+   "checkedAt": "2026-11-23T21:26:09.592Z",
+   "lastSuccess": "2026-11-23T21:26:09.592Z",
    "etag": null,
    "lastModified": "Mon, 23 Nov 2026 16:24:00 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T20:30:08.527Z",
-   "lastSuccess": "2026-11-23T20:30:08.527Z",
+   "checkedAt": "2026-11-23T21:26:09.592Z",
+   "lastSuccess": "2026-11-23T21:26:09.592Z",
    "etag": "\"f795f73cbcd7c338d717905bb0eeb254\"",
    "lastModified": "Mon, 23 Nov 2026 18:23:19 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T20:30:08.527Z",
-   "lastSuccess": "2026-11-23T20:30:08.527Z",
+   "checkedAt": "2026-11-23T21:26:09.592Z",
+   "lastSuccess": "2026-11-23T21:26:09.592Z",
    "etag": null,
-   "lastModified": "Mon, 23 Nov 2026 20:30:09 GMT"
+   "lastModified": "Mon, 23 Nov 2026 21:26:10 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,39 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T20:30:08.527Z",
-   "lastSuccess": "2026-11-23T20:30:08.527Z",
+   "checkedAt": "2026-11-23T21:26:09.592Z",
+   "lastSuccess": "2026-11-23T21:26:09.592Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "75ad5c55ce98b678",
+   "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
+   "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+   "summary": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-23T20:54:51.000Z",
+   "categories": [
+    "breach"
+   ],
+   "firstSeen": "2026-11-23T21:26:09.592Z"
+  },
+  {
+   "id": "53119e9f0656a234",
+   "title": "US Cyber Director Pick Signals Shift Toward Expertise",
+   "url": "https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise",
+   "summary": "Trump named Kirsten Davies as Acting National Cyber Director, bringing greater industry experience to the role amid recent outages and rising geopolitical tensions.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-23T20:13:48.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-23T21:26:09.592Z"
+  },
   {
    "id": "6af5f3ecf997dc2b",
    "title": "OpenRouter drops AI providers over leaked prompts and secrets",
@@ -2972,32 +2998,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-17T12:38:12.643Z"
-  },
-  {
-   "id": "1f9af5fe35a30d12",
-   "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
-   "url": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
-   "summary": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for command‑and‑control (C2). The activity has been codenamed…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-17T11:20:18.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-17T11:32:28.656Z"
-  },
-  {
-   "id": "ab764437c1a4eb1f",
-   "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
-   "summary": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-17T11:19:51.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-17T11:32:28.656Z"
   }
  ]
 }
