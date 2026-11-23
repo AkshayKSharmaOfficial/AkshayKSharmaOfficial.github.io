@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-23T21:26:09.592Z",
- "lastAttempt": "2026-11-23T21:26:09.592Z",
+ "lastSuccess": "2026-11-23T22:22:54.680Z",
+ "lastAttempt": "2026-11-23T22:22:54.680Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T21:26:09.592Z",
-   "lastSuccess": "2026-11-23T21:26:09.592Z",
+   "checkedAt": "2026-11-23T22:22:54.680Z",
+   "lastSuccess": "2026-11-23T22:22:54.680Z",
    "etag": null,
-   "lastModified": "Mon, 23 Nov 2026 20:35:20 GMT"
+   "lastModified": "Mon, 23 Nov 2026 21:52:59 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T21:26:09.592Z",
-   "lastSuccess": "2026-11-23T21:26:09.592Z",
-   "etag": "a91749d69f39914ed9bf23f99432701d",
-   "lastModified": "Mon, 23 Nov 2026 21:24:53 GMT"
+   "checkedAt": "2026-11-23T22:22:54.680Z",
+   "lastSuccess": "2026-11-23T22:22:54.680Z",
+   "etag": "00df113db9287c92ca7b6bc9e0aa8c8a",
+   "lastModified": "Mon, 23 Nov 2026 22:14:54 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T21:26:09.592Z",
-   "lastSuccess": "2026-11-23T21:26:09.592Z",
+   "checkedAt": "2026-11-23T22:22:54.680Z",
+   "lastSuccess": "2026-11-23T22:22:54.680Z",
    "etag": null,
-   "lastModified": "Mon, 23 Nov 2026 16:24:00 GMT"
+   "lastModified": "Mon, 23 Nov 2026 22:07:38 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T21:26:09.592Z",
-   "lastSuccess": "2026-11-23T21:26:09.592Z",
+   "checkedAt": "2026-11-23T22:22:54.680Z",
+   "lastSuccess": "2026-11-23T22:22:54.680Z",
    "etag": "\"f795f73cbcd7c338d717905bb0eeb254\"",
    "lastModified": "Mon, 23 Nov 2026 18:23:19 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T21:26:09.592Z",
-   "lastSuccess": "2026-11-23T21:26:09.592Z",
+   "checkedAt": "2026-11-23T22:22:54.680Z",
+   "lastSuccess": "2026-11-23T22:22:54.680Z",
    "etag": null,
-   "lastModified": "Mon, 23 Nov 2026 21:26:10 GMT"
+   "lastModified": "Mon, 23 Nov 2026 22:22:55 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,39 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T21:26:09.592Z",
-   "lastSuccess": "2026-11-23T21:26:09.592Z",
+   "checkedAt": "2026-11-23T22:22:54.680Z",
+   "lastSuccess": "2026-11-23T22:22:54.680Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "bec6c9103c5948c0",
+   "title": "Industrial Serial Gateways Broadcast That They're Insecure",
+   "url": "https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure",
+   "summary": "Critical OT access devices will often tell you, and anyone else, whether they're protected by authentication — and many aren't.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-23T22:02:46.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-23T22:22:54.680Z"
+  },
+  {
+   "id": "61206ec2b4504ce2",
+   "title": "CrowdStrike Makes AI Security Push With Blockbuster Zscaler Deal",
+   "url": "https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal",
+   "summary": "CrowdStrike's $44 billion acquisition of Zscaler would unite endpoint protection and zero-trust network security to obtain greater control over AI agents.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-23T21:21:42.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-23T22:22:54.680Z"
+  },
   {
    "id": "75ad5c55ce98b678",
    "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
@@ -379,6 +405,21 @@
     "phishing"
    ],
    "firstSeen": "2026-11-23T12:31:38.004Z"
+  },
+  {
+   "id": "a2084ac87e5c99c2",
+   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+   "url": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+   "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-133968 Project MONAI MONAI Label Path Traversal Vulnerability CVE-2026-134624 N-able Mail Assure (SpamExperts) Server-Side Request…",
+   "source": "CISA (US government)",
+   "sourceId": "cisa",
+   "kind": "official",
+   "published": "2026-11-23T12:00:00.000Z",
+   "categories": [
+    "advisory",
+    "vuln"
+   ],
+   "firstSeen": "2026-11-23T22:22:54.680Z"
   },
   {
    "id": "041620758d038869",
@@ -2781,10 +2822,10 @@
    "firstSeen": "2026-11-17T12:38:12.643Z"
   },
   {
-   "id": "374e09fd2cec7459",
-   "title": "Siemens Simcenter Femap",
-   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
-   "summary": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for…",
+   "id": "404c0c128931f062",
+   "title": "Siemens ROS#",
+   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
+   "summary": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS#…",
    "source": "CISA (US government)",
    "sourceId": "cisa",
    "kind": "official",
@@ -2875,10 +2916,10 @@
    "firstSeen": "2026-11-17T16:56:19.348Z"
   },
   {
-   "id": "404c0c128931f062",
-   "title": "Siemens ROS#",
-   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
-   "summary": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS#…",
+   "id": "374e09fd2cec7459",
+   "title": "Siemens Simcenter Femap",
+   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
+   "summary": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for…",
    "source": "CISA (US government)",
    "sourceId": "cisa",
    "kind": "official",
@@ -2951,53 +2992,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-17T16:56:19.348Z"
-  },
-  {
-   "id": "442d64e65534e2e0",
-   "title": "Siemens meta-iot2050",
-   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
-   "summary": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root…",
-   "source": "CISA (US government)",
-   "sourceId": "cisa",
-   "kind": "official",
-   "published": "2026-11-17T12:00:00.000Z",
-   "categories": [
-    "advisory",
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-17T16:56:19.348Z"
-  },
-  {
-   "id": "b3145b7236f4b2dd",
-   "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-   "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
-   "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack…",
-   "source": "CISA (US government)",
-   "sourceId": "cisa",
-   "kind": "official",
-   "published": "2026-11-17T12:00:00.000Z",
-   "categories": [
-    "advisory",
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-17T19:59:41.708Z"
-  },
-  {
-   "id": "ecbb45c59e1aeb21",
-   "title": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
-   "url": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/",
-   "summary": "The lawsuit alleges that OpenAI misled and endangered the public and users by knowingly developing advanced AI models without necessary safeguards. The post California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-17T12:00:00.000Z",
-   "categories": [
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-17T12:38:12.643Z"
   }
  ]
 }
