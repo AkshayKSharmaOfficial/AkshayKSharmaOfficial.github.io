@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-23T17:29:11.715Z",
- "lastAttempt": "2026-11-23T17:29:11.715Z",
+ "lastSuccess": "2026-11-23T18:24:34.873Z",
+ "lastAttempt": "2026-11-23T18:24:34.873Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T17:29:11.715Z",
-   "lastSuccess": "2026-11-23T17:29:11.715Z",
+   "checkedAt": "2026-11-23T18:24:34.873Z",
+   "lastSuccess": "2026-11-23T18:24:34.873Z",
    "etag": null,
-   "lastModified": "Mon, 23 Nov 2026 17:09:56 GMT"
+   "lastModified": "Mon, 23 Nov 2026 17:55:44 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T17:29:11.715Z",
-   "lastSuccess": "2026-11-23T17:29:11.715Z",
-   "etag": "9c387a7bede7efcc83e8dbdf5a3cb9db",
-   "lastModified": "Mon, 23 Nov 2026 17:20:03 GMT"
+   "checkedAt": "2026-11-23T18:24:34.873Z",
+   "lastSuccess": "2026-11-23T18:24:34.873Z",
+   "etag": "9627dab7b252e69dc8a56b263b186b6a",
+   "lastModified": "Mon, 23 Nov 2026 18:20:05 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T17:29:11.715Z",
-   "lastSuccess": "2026-11-23T17:29:11.715Z",
+   "checkedAt": "2026-11-23T18:24:34.873Z",
+   "lastSuccess": "2026-11-23T18:24:34.873Z",
    "etag": null,
    "lastModified": "Mon, 23 Nov 2026 16:24:00 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T17:29:11.715Z",
-   "lastSuccess": "2026-11-23T17:29:11.715Z",
-   "etag": "\"70e8282ff97605728ce16f59c536f510\"",
-   "lastModified": "Mon, 23 Nov 2026 15:47:45 GMT"
+   "checkedAt": "2026-11-23T18:24:34.873Z",
+   "lastSuccess": "2026-11-23T18:24:34.873Z",
+   "etag": "W/\"1f0ee77f3722a4d1cd19caea8e9b0d0e\"",
+   "lastModified": "Mon, 23 Nov 2026 18:19:20 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T17:29:11.715Z",
-   "lastSuccess": "2026-11-23T17:29:11.715Z",
+   "checkedAt": "2026-11-23T18:24:34.873Z",
+   "lastSuccess": "2026-11-23T18:24:34.873Z",
    "etag": null,
-   "lastModified": "Mon, 23 Nov 2026 17:29:12 GMT"
+   "lastModified": "Mon, 23 Nov 2026 18:24:35 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,40 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T17:29:11.715Z",
-   "lastSuccess": "2026-11-23T17:29:11.715Z",
+   "checkedAt": "2026-11-23T18:24:34.873Z",
+   "lastSuccess": "2026-11-23T18:24:34.873Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "7d62c6481837edd9",
+   "title": "Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors",
+   "url": "https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors",
+   "summary": "Ransomware isn't slowing down. A new framework gives security teams the edge to trace attackers back to their source.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-23T17:45:52.000Z",
+   "categories": [
+    "ransomware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-23T18:24:34.873Z"
+  },
+  {
+   "id": "5495a06dee26529f",
+   "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
+   "url": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
+   "summary": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as network-monitoring software to establish covert remote…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-23T17:45:15.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-23T18:24:34.873Z"
+  },
   {
    "id": "a6613c20ce3a8410",
    "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
@@ -689,6 +716,18 @@
     "vuln"
    ],
    "firstSeen": "2026-11-20T21:42:33.575Z"
+  },
+  {
+   "id": "b139c102b052842c",
+   "title": "Nok et norsk energiselskap har blitt utsatt for et datainnbrudd på to dager",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached-norwegian",
+   "summary": "Det er ikke påvist noen konkret sammenheng mellom de to hendelsene, selv om de helt klart har mange likhetstrekk.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-20T20:43:45.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-23T18:24:34.873Z"
   },
   {
    "id": "b111cecbd761c5a5",
@@ -2957,52 +2996,6 @@
     "vuln"
    ],
    "firstSeen": "2026-11-17T10:41:52.794Z"
-  },
-  {
-   "id": "6dc83338db6f4439",
-   "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
-   "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
-   "summary": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-17T08:35:42.000Z",
-   "categories": [
-    "breach",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-17T09:32:35.248Z"
-  },
-  {
-   "id": "9d15397d2d81d720",
-   "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
-   "url": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
-   "summary": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-17T07:25:44.000Z",
-   "categories": [
-    "ransomware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-17T08:18:25.428Z"
-  },
-  {
-   "id": "64d59e5e3ac8caa0",
-   "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
-   "url": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
-   "summary": "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today. Visitors to sites run by at least 178 organizations, including CNN, the BBC and Zoom…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-17T07:12:13.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-17T08:18:25.428Z"
   }
  ]
 }
