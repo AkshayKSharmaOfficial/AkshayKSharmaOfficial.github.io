@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-23T14:04:35.714Z",
- "lastAttempt": "2026-11-23T14:04:35.714Z",
+ "lastSuccess": "2026-11-23T15:20:21.180Z",
+ "lastAttempt": "2026-11-23T15:20:21.180Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T14:04:35.714Z",
-   "lastSuccess": "2026-11-23T14:04:35.714Z",
+   "checkedAt": "2026-11-23T15:20:21.180Z",
+   "lastSuccess": "2026-11-23T15:20:21.180Z",
    "etag": null,
-   "lastModified": "Mon, 23 Nov 2026 13:50:45 GMT"
+   "lastModified": "Mon, 23 Nov 2026 15:02:56 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T14:04:35.714Z",
-   "lastSuccess": "2026-11-23T14:04:35.714Z",
-   "etag": "ddbf073a95548e1fab54311cfdfdac30",
-   "lastModified": "Mon, 23 Nov 2026 14:02:16 GMT"
+   "checkedAt": "2026-11-23T15:20:21.180Z",
+   "lastSuccess": "2026-11-23T15:20:21.180Z",
+   "etag": "a4af0faa2b530b9e1421feb3b81e98a5",
+   "lastModified": "Mon, 23 Nov 2026 15:12:18 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T14:04:35.714Z",
-   "lastSuccess": "2026-11-23T14:04:35.714Z",
+   "checkedAt": "2026-11-23T15:20:21.180Z",
+   "lastSuccess": "2026-11-23T15:20:21.180Z",
    "etag": null,
    "lastModified": "Mon, 23 Nov 2026 11:21:27 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T14:04:35.714Z",
-   "lastSuccess": "2026-11-23T14:04:35.714Z",
-   "etag": "W/\"993780333de6a0ada36074eca51d84d5\"",
-   "lastModified": "Mon, 23 Nov 2026 13:58:11 GMT"
+   "checkedAt": "2026-11-23T15:20:21.180Z",
+   "lastSuccess": "2026-11-23T15:20:21.180Z",
+   "etag": "\"990a8142bafa782b926ba5b9a410ef7a\"",
+   "lastModified": "Mon, 23 Nov 2026 15:06:54 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T14:04:35.714Z",
-   "lastSuccess": "2026-11-23T14:04:35.714Z",
+   "checkedAt": "2026-11-23T15:20:21.180Z",
+   "lastSuccess": "2026-11-23T15:20:21.180Z",
    "etag": null,
-   "lastModified": "Mon, 23 Nov 2026 14:04:36 GMT"
+   "lastModified": "Mon, 23 Nov 2026 15:20:21 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,42 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T14:04:35.714Z",
-   "lastSuccess": "2026-11-23T14:04:35.714Z",
+   "checkedAt": "2026-11-23T15:20:21.180Z",
+   "lastSuccess": "2026-11-23T15:20:21.180Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "41f9b6eff4bed090",
+   "title": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack",
+   "url": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
+   "summary": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-23T15:06:49.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-23T15:20:21.180Z"
+  },
+  {
+   "id": "f696402186bda445",
+   "title": "AI Agents Are Creating a Shared Responsibility Gap",
+   "url": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
+   "summary": "AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can better manage agent identities, permissions, and…",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-23T15:00:10.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-23T15:20:21.180Z"
+  },
   {
    "id": "a14722dc7ce5f1b4",
    "title": "phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path",
@@ -758,7 +787,7 @@
    "id": "ff3d25bd3c519d64",
    "title": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era",
    "url": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools",
-   "summary": "Microsoft announces new AI agent security tools and transparency standards to protect enterprise systems at its Ignite technical conference.",
+   "summary": "Microsoft uses its Ignite technical conference to announce new AI agent security tools and transparency standards to protect enterprise systems.",
    "source": "Dark Reading",
    "sourceId": "darkreading",
    "kind": "media",
@@ -2974,33 +3003,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-17T02:37:29.229Z"
-  },
-  {
-   "id": "24378a396c4e8326",
-   "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
-   "url": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
-   "summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-16T22:54:00.000Z",
-   "categories": [
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-16T23:19:36.377Z"
-  },
-  {
-   "id": "a49ed37a0ae7d6a6",
-   "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
-   "url": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
-   "summary": "One of the oldest running bug disclosure programs announced it would shorten public disclosure timelines to vendors from 120 days to 30 over the next 14 months.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-16T22:08:20.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-16T22:29:46.941Z"
   }
  ]
 }
