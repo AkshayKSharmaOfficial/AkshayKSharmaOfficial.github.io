@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-23T03:28:28.348Z",
- "lastAttempt": "2026-11-23T03:28:28.348Z",
+ "lastSuccess": "2026-11-23T04:45:31.159Z",
+ "lastAttempt": "2026-11-23T04:45:31.159Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T03:28:28.348Z",
-   "lastSuccess": "2026-11-23T03:28:28.348Z",
+   "checkedAt": "2026-11-23T04:45:31.159Z",
+   "lastSuccess": "2026-11-23T04:45:31.159Z",
    "etag": null,
-   "lastModified": "Mon, 23 Nov 2026 02:32:27 GMT"
+   "lastModified": "Mon, 23 Nov 2026 04:40:51 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T03:28:28.348Z",
-   "lastSuccess": "2026-11-23T03:28:28.348Z",
-   "etag": "4a7c127274220b49b3e2e7bbbc154fab",
-   "lastModified": "Mon, 23 Nov 2026 03:25:54 GMT"
+   "checkedAt": "2026-11-23T04:45:31.159Z",
+   "lastSuccess": "2026-11-23T04:45:31.159Z",
+   "etag": "4f06379bf0fd9e8f41da5e0c1bae585a",
+   "lastModified": "Mon, 23 Nov 2026 04:35:56 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T03:28:28.348Z",
-   "lastSuccess": "2026-11-23T03:28:28.348Z",
+   "checkedAt": "2026-11-23T04:45:31.159Z",
+   "lastSuccess": "2026-11-23T04:45:31.159Z",
    "etag": null,
    "lastModified": "Sun, 22 Nov 2026 23:48:07 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T03:28:28.348Z",
-   "lastSuccess": "2026-11-23T03:28:28.348Z",
+   "checkedAt": "2026-11-23T04:45:31.159Z",
+   "lastSuccess": "2026-11-23T04:45:31.159Z",
    "etag": "W/\"c0e927079f0a3681615d3a40097e2a5a\"",
    "lastModified": "Sun, 22 Nov 2026 01:15:31 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T03:28:28.348Z",
-   "lastSuccess": "2026-11-23T03:28:28.348Z",
+   "checkedAt": "2026-11-23T04:45:31.159Z",
+   "lastSuccess": "2026-11-23T04:45:31.159Z",
    "etag": null,
-   "lastModified": "Mon, 23 Nov 2026 03:28:28 GMT"
+   "lastModified": "Mon, 23 Nov 2026 04:45:31 GMT"
   },
   {
    "id": "cisa",
@@ -70,8 +70,8 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T03:28:28.348Z",
-   "lastSuccess": "2026-11-23T03:28:28.348Z",
+   "checkedAt": "2026-11-23T04:45:31.159Z",
+   "lastSuccess": "2026-11-23T04:45:31.159Z",
    "etag": null,
    "lastModified": null
   }
@@ -326,6 +326,20 @@
     "attack"
    ],
    "firstSeen": "2026-11-21T09:48:37.689Z"
+  },
+  {
+   "id": "06ec935bb2ce938b",
+   "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
+   "url": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges",
+   "summary": "Identity, runtime and development controls are converging as enterprises are tasked with keeping agents within their assigned tasks. But vendors' approaches vary, so CISOs face a choice.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-21T01:31:23.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-23T04:45:31.159Z"
   },
   {
    "id": "10886014bf917685",
@@ -2997,18 +3011,6 @@
     "ai"
    ],
    "firstSeen": "2026-11-16T17:33:07.096Z"
-  },
-  {
-   "id": "eb8d6a82b03e3ee8",
-   "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
-   "summary": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-16T12:53:18.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-16T14:09:35.988Z"
   }
  ]
 }
