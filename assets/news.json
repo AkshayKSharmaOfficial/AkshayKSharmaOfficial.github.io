@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-23T12:31:38.004Z",
- "lastAttempt": "2026-11-23T12:31:38.004Z",
+ "lastSuccess": "2026-11-23T14:04:35.714Z",
+ "lastAttempt": "2026-11-23T14:04:35.714Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T12:31:38.004Z",
-   "lastSuccess": "2026-11-23T12:31:38.004Z",
+   "checkedAt": "2026-11-23T14:04:35.714Z",
+   "lastSuccess": "2026-11-23T14:04:35.714Z",
    "etag": null,
-   "lastModified": "Mon, 23 Nov 2026 10:09:13 GMT"
+   "lastModified": "Mon, 23 Nov 2026 13:50:45 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T12:31:38.004Z",
-   "lastSuccess": "2026-11-23T12:31:38.004Z",
-   "etag": "8c73cd036c3d8341d3c5a4abb8becdf7",
-   "lastModified": "Mon, 23 Nov 2026 12:27:22 GMT"
+   "checkedAt": "2026-11-23T14:04:35.714Z",
+   "lastSuccess": "2026-11-23T14:04:35.714Z",
+   "etag": "ddbf073a95548e1fab54311cfdfdac30",
+   "lastModified": "Mon, 23 Nov 2026 14:02:16 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T12:31:38.004Z",
-   "lastSuccess": "2026-11-23T12:31:38.004Z",
+   "checkedAt": "2026-11-23T14:04:35.714Z",
+   "lastSuccess": "2026-11-23T14:04:35.714Z",
    "etag": null,
    "lastModified": "Mon, 23 Nov 2026 11:21:27 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T12:31:38.004Z",
-   "lastSuccess": "2026-11-23T12:31:38.004Z",
-   "etag": "W/\"6e50d0ab44f9ef870d629dea93d21f8e\"",
-   "lastModified": "Mon, 23 Nov 2026 12:16:24 GMT"
+   "checkedAt": "2026-11-23T14:04:35.714Z",
+   "lastSuccess": "2026-11-23T14:04:35.714Z",
+   "etag": "W/\"993780333de6a0ada36074eca51d84d5\"",
+   "lastModified": "Mon, 23 Nov 2026 13:58:11 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T12:31:38.004Z",
-   "lastSuccess": "2026-11-23T12:31:38.004Z",
+   "checkedAt": "2026-11-23T14:04:35.714Z",
+   "lastSuccess": "2026-11-23T14:04:35.714Z",
    "etag": null,
-   "lastModified": "Mon, 23 Nov 2026 12:31:38 GMT"
+   "lastModified": "Mon, 23 Nov 2026 14:04:36 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,101 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-23T12:31:38.004Z",
-   "lastSuccess": "2026-11-23T12:31:38.004Z",
+   "checkedAt": "2026-11-23T14:04:35.714Z",
+   "lastSuccess": "2026-11-23T14:04:35.714Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "a14722dc7ce5f1b4",
+   "title": "phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path",
+   "url": "https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/",
+   "summary": "If a session overwrite operation is interrupted, an attacker who controls the fresh data could trigger data deserialization and RCE. The post phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-23T13:58:07.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-23T14:04:35.714Z"
+  },
+  {
+   "id": "1ca734e2ee46906d",
+   "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/",
+   "summary": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-23T13:28:45.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-23T14:04:35.714Z"
+  },
+  {
+   "id": "e3ade829ef70a886",
+   "title": "GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw",
+   "url": "https://www.securityweek.com/gl-inet-routers-kvms-compromised-via-remote-management-service-flaw/",
+   "summary": "Attackers abused a flaw in the GoodCloud remote management service to push malware to devices, and cleaning them requires new firmware. The post GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-23T13:26:22.000Z",
+   "categories": [
+    "vuln",
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-23T14:04:35.714Z"
+  },
+  {
+   "id": "fa4289a3f22edc8c",
+   "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
+   "url": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
+   "summary": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code. The vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), is a case of code injection impacting…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-23T13:22:20.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-23T14:04:35.714Z"
+  },
+  {
+   "id": "2da724996ccb9ddb",
+   "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
+   "summary": "Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers. The activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical ScreenConnect client flaw that allows a guest to transfer and…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-23T12:41:04.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-23T14:04:35.714Z"
+  },
+  {
+   "id": "89ef724f9ef49976",
+   "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
+   "url": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
+   "summary": "N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers. The bug, tracked as CVE-2026-134624, is a server-side request forgery (SSRF)…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-23T12:28:09.000Z",
+   "categories": [
+    "breach",
+    "vuln"
+   ],
+   "firstSeen": "2026-11-23T14:04:35.714Z"
+  },
   {
    "id": "239336f9bb1bcfe8",
    "title": "AI Inference Providers Failed to Detect Hacking and Prompt Theft, Says Dragos",
@@ -96,7 +184,7 @@
    "id": "d25c0faef1ac9cd5",
    "title": "Call center operator gets 8 years for helping scam 30,000 Americans",
    "url": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
-   "summary": "A Peruvian call center operator was sentenced to eight years in prison for stealing millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [...]",
+   "summary": "A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [...]",
    "source": "BleepingComputer",
    "sourceId": "bleeping",
    "kind": "media",
@@ -192,7 +280,7 @@
   },
   {
    "id": "3077523564b045f2",
-   "title": "AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
+   "title": "AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
    "url": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
    "summary": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country. This unsanctioned activity has resulted in…",
    "source": "The Hacker News",
@@ -2913,98 +3001,6 @@
    "published": "2026-11-16T22:08:20.000Z",
    "categories": [],
    "firstSeen": "2026-11-16T22:29:46.941Z"
-  },
-  {
-   "id": "e9f37ead75bc7f11",
-   "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
-   "url": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
-   "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-16T21:31:44.000Z",
-   "categories": [
-    "vuln",
-    "ai"
-   ],
-   "firstSeen": "2026-11-16T21:31:59.298Z"
-  },
-  {
-   "id": "567aee08f52e9c5d",
-   "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
-   "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
-   "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks…",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-16T20:59:44.000Z",
-   "categories": [
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-16T21:31:59.298Z"
-  },
-  {
-   "id": "157098b8768bc867",
-   "title": "Trump Administration Moves to Block China From Indirect Access to American AI Technology",
-   "url": "https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/",
-   "summary": "Under the new rule, overseas data centers that serve companies in countries including China, Russia, Iran and Cuba are required to identify their end users. The post Trump Administration Moves to Block China From Indirect Access to American AI Technology appeared first on…",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-16T20:00:00.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-16T20:33:35.528Z"
-  },
-  {
-   "id": "e848028b4826e885",
-   "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
-   "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
-   "summary": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-16T19:57:13.000Z",
-   "categories": [
-    "breach",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-16T20:33:35.528Z"
-  },
-  {
-   "id": "4bf1698b8600f096",
-   "title": "Ransomware Attacks Increase Behind AI, but Payments Decline",
-   "url": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
-   "summary": "Large language models and other AI systems allow a growing number of ransomware groups to create convincing phishing emails and identify sensitive data quickly.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-16T19:56:05.000Z",
-   "categories": [
-    "ransomware",
-    "phishing",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-16T20:33:35.528Z"
-  },
-  {
-   "id": "aa9d1b869414dfca",
-   "title": "'Sleeper Agent' Tactic Hides Payloads in Open-Weight AI Models",
-   "url": "https://www.darkreading.com/vulnerabilities-threats/sleeper-agent-tactic-payloads-open-weight-ai-models",
-   "summary": "Malware can lurk inside just 0.00001% of a neural network. How, then, can any user tell it's there?",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-16T19:10:03.000Z",
-   "categories": [
-    "malware",
-    "ai"
-   ],
-   "firstSeen": "2026-11-16T19:41:58.444Z"
   }
  ]
 }
