@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-24T18:53:42.207Z",
- "lastAttempt": "2026-11-24T18:53:42.207Z",
+ "lastSuccess": "2026-11-24T19:58:12.421Z",
+ "lastAttempt": "2026-11-24T19:58:12.421Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T18:53:42.207Z",
-   "lastSuccess": "2026-11-24T18:53:42.207Z",
+   "checkedAt": "2026-11-24T19:58:12.421Z",
+   "lastSuccess": "2026-11-24T19:58:12.421Z",
    "etag": null,
-   "lastModified": "Tue, 24 Nov 2026 18:14:46 GMT"
+   "lastModified": "Tue, 24 Nov 2026 19:25:17 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T18:53:42.207Z",
-   "lastSuccess": "2026-11-24T18:53:42.207Z",
-   "etag": "943ae63dc113c5c7e0fe0bfe399bb32f",
-   "lastModified": "Tue, 24 Nov 2026 18:49:07 GMT"
+   "checkedAt": "2026-11-24T19:58:12.421Z",
+   "lastSuccess": "2026-11-24T19:58:12.421Z",
+   "etag": "ac010f820d653a5e385fb929a92d5dc0",
+   "lastModified": "Tue, 24 Nov 2026 19:49:55 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T18:53:42.207Z",
-   "lastSuccess": "2026-11-24T18:53:42.207Z",
+   "checkedAt": "2026-11-24T19:58:12.421Z",
+   "lastSuccess": "2026-11-24T19:58:12.421Z",
    "etag": null,
    "lastModified": "Tue, 24 Nov 2026 18:46:02 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T18:53:42.207Z",
-   "lastSuccess": "2026-11-24T18:53:42.207Z",
+   "checkedAt": "2026-11-24T19:58:12.421Z",
+   "lastSuccess": "2026-11-24T19:58:12.421Z",
    "etag": "\"c3bd8ebe6c3739cbbbabce0b1bc69afe\"",
    "lastModified": "Tue, 24 Nov 2026 16:33:00 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T18:53:42.207Z",
-   "lastSuccess": "2026-11-24T18:53:42.207Z",
+   "checkedAt": "2026-11-24T19:58:12.421Z",
+   "lastSuccess": "2026-11-24T19:58:12.421Z",
    "etag": null,
-   "lastModified": "Tue, 24 Nov 2026 18:53:43 GMT"
+   "lastModified": "Tue, 24 Nov 2026 19:58:12 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T18:53:42.207Z",
-   "lastSuccess": "2026-11-24T18:53:42.207Z",
+   "checkedAt": "2026-11-24T19:58:12.421Z",
+   "lastSuccess": "2026-11-24T19:58:12.421Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "7bb4ac0612379986",
+   "title": "Turnitin discloses cyberattack affecting customer-facing systems",
+   "url": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+   "summary": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-24T18:59:52.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-24T19:58:12.421Z"
+  },
   {
    "id": "b579e0a007b8ab45",
    "title": "Radware discloses breach exposing customer cloud access keys",
@@ -2982,22 +2996,6 @@
    "published": "2026-11-17T19:24:07.000Z",
    "categories": [],
    "firstSeen": "2026-11-17T19:59:41.708Z"
-  },
-  {
-   "id": "f3e27c8997beb326",
-   "title": "Cursor Traces Malicious Claude Code Extensions to Third-Party Breach",
-   "url": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
-   "summary": "A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-17T18:38:37.000Z",
-   "categories": [
-    "breach",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-17T18:56:45.134Z"
   }
  ]
 }
