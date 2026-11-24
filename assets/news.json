@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-24T10:02:07.709Z",
- "lastAttempt": "2026-11-24T10:02:07.709Z",
+ "lastSuccess": "2026-11-24T11:05:39.669Z",
+ "lastAttempt": "2026-11-24T11:05:39.669Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T10:02:07.709Z",
-   "lastSuccess": "2026-11-24T10:02:07.709Z",
+   "checkedAt": "2026-11-24T11:05:39.669Z",
+   "lastSuccess": "2026-11-24T11:05:39.669Z",
    "etag": null,
-   "lastModified": "Tue, 24 Nov 2026 08:23:08 GMT"
+   "lastModified": "Tue, 24 Nov 2026 10:54:26 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T10:02:07.709Z",
-   "lastSuccess": "2026-11-24T10:02:07.709Z",
-   "etag": "137cd0c82c0f3fbfa5100082e9762539",
-   "lastModified": "Tue, 24 Nov 2026 09:56:21 GMT"
+   "checkedAt": "2026-11-24T11:05:39.669Z",
+   "lastSuccess": "2026-11-24T11:05:39.669Z",
+   "etag": "8e7cc7765554cc03ae0bbd264aedea3b",
+   "lastModified": "Tue, 24 Nov 2026 10:56:22 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T10:02:07.709Z",
-   "lastSuccess": "2026-11-24T10:02:07.709Z",
+   "checkedAt": "2026-11-24T11:05:39.669Z",
+   "lastSuccess": "2026-11-24T11:05:39.669Z",
    "etag": null,
    "lastModified": "Tue, 24 Nov 2026 08:37:25 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T10:02:07.709Z",
-   "lastSuccess": "2026-11-24T10:02:07.709Z",
-   "etag": "\"c8048d3b4e8748b0cce577df73c42434\"",
-   "lastModified": "Tue, 24 Nov 2026 05:31:19 GMT"
+   "checkedAt": "2026-11-24T11:05:39.669Z",
+   "lastSuccess": "2026-11-24T11:05:39.669Z",
+   "etag": "W/\"09206a4b1d15041e46a17ca0e3c7ecf2\"",
+   "lastModified": "Tue, 24 Nov 2026 10:50:23 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T10:02:07.709Z",
-   "lastSuccess": "2026-11-24T10:02:07.709Z",
+   "checkedAt": "2026-11-24T11:05:39.669Z",
+   "lastSuccess": "2026-11-24T11:05:39.669Z",
    "etag": null,
-   "lastModified": "Tue, 24 Nov 2026 10:02:08 GMT"
+   "lastModified": "Tue, 24 Nov 2026 11:05:40 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,68 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T10:02:07.709Z",
-   "lastSuccess": "2026-11-24T10:02:07.709Z",
+   "checkedAt": "2026-11-24T11:05:39.669Z",
+   "lastSuccess": "2026-11-24T11:05:39.669Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "47c6e40ac66c9d3b",
+   "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+   "url": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+   "summary": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor and Skagerak Energi. \"An unknown actor…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-24T10:44:49.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-24T11:05:39.669Z"
+  },
+  {
+   "id": "9f15c02381009f28",
+   "title": "Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking",
+   "url": "https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/",
+   "summary": "Critical Bluetooth flaws in Elecbrakes controllers could let nearby attackers force trailer braking, potentially causing accidents. The post Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-24T10:44:44.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-24T11:05:39.669Z"
+  },
+  {
+   "id": "30090936ea474492",
+   "title": "Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine",
+   "url": "https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/",
+   "summary": "The company told the ASX that a cybersecurity incident at its Wyoming uranium project would temporarily affect operations. The post Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-24T10:35:04.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-24T11:05:39.669Z"
+  },
+  {
+   "id": "63045753ac008998",
+   "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
+   "url": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
+   "summary": "A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password hashes from an installation's database. No login is needed…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-24T08:34:20.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-24T11:05:39.669Z"
+  },
   {
    "id": "b0d72916ebeceea8",
    "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
@@ -2930,68 +2985,6 @@
     "vuln"
    ],
    "firstSeen": "2026-11-17T22:49:40.851Z"
-  },
-  {
-   "id": "b0e0e042a6ce2a07",
-   "title": "Siemens Industrial Software Products",
-   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04",
-   "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write…",
-   "source": "CISA (US government)",
-   "sourceId": "cisa",
-   "kind": "official",
-   "published": "2026-11-17T12:00:00.000Z",
-   "categories": [
-    "advisory",
-    "vuln"
-   ],
-   "firstSeen": "2026-11-17T16:56:19.348Z"
-  },
-  {
-   "id": "374e09fd2cec7459",
-   "title": "Siemens Simcenter Femap",
-   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
-   "summary": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for…",
-   "source": "CISA (US government)",
-   "sourceId": "cisa",
-   "kind": "official",
-   "published": "2026-11-17T12:00:00.000Z",
-   "categories": [
-    "advisory",
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-17T16:56:19.348Z"
-  },
-  {
-   "id": "afab4a1d961583db",
-   "title": "Siemens SIMATIC",
-   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-08",
-   "summary": "View CSAF Summary The products listed below contain an authentication bypass vulnerability that could allow an on-path attacker to take over the session of a legitimate user and execute arbitrary code with the privileges of the victim user. Siemens is preparing fixes and…",
-   "source": "CISA (US government)",
-   "sourceId": "cisa",
-   "kind": "official",
-   "published": "2026-11-17T12:00:00.000Z",
-   "categories": [
-    "advisory",
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-17T16:56:19.348Z"
-  },
-  {
-   "id": "4bc2639e87ff7d82",
-   "title": "Siemens Industrial Automation Software Products",
-   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03",
-   "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write…",
-   "source": "CISA (US government)",
-   "sourceId": "cisa",
-   "kind": "official",
-   "published": "2026-11-17T12:00:00.000Z",
-   "categories": [
-    "advisory",
-    "vuln"
-   ],
-   "firstSeen": "2026-11-17T16:56:19.348Z"
   }
  ]
 }
