@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-24T15:48:09.468Z",
- "lastAttempt": "2026-11-24T15:48:09.468Z",
+ "lastSuccess": "2026-11-24T16:59:11.959Z",
+ "lastAttempt": "2026-11-24T16:59:11.959Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T15:48:09.468Z",
-   "lastSuccess": "2026-11-24T15:48:09.468Z",
+   "checkedAt": "2026-11-24T16:59:11.959Z",
+   "lastSuccess": "2026-11-24T16:59:11.959Z",
    "etag": null,
-   "lastModified": "Tue, 24 Nov 2026 15:11:36 GMT"
+   "lastModified": "Tue, 24 Nov 2026 16:48:55 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T15:48:09.468Z",
-   "lastSuccess": "2026-11-24T15:48:09.468Z",
-   "etag": "cd2431b33df9454c07e95f14c5eb4111",
-   "lastModified": "Tue, 24 Nov 2026 15:46:47 GMT"
+   "checkedAt": "2026-11-24T16:59:11.959Z",
+   "lastSuccess": "2026-11-24T16:59:11.959Z",
+   "etag": "e47b75c082f2c850cfa157c74fdadf62",
+   "lastModified": "Tue, 24 Nov 2026 16:53:54 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T15:48:09.468Z",
-   "lastSuccess": "2026-11-24T15:48:09.468Z",
+   "checkedAt": "2026-11-24T16:59:11.959Z",
+   "lastSuccess": "2026-11-24T16:59:11.959Z",
    "etag": null,
    "lastModified": "Tue, 24 Nov 2026 15:42:23 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T15:48:09.468Z",
-   "lastSuccess": "2026-11-24T15:48:09.468Z",
-   "etag": "\"37d2e3d6861c5eaeb3c7bd6711ec2894\"",
-   "lastModified": "Tue, 24 Nov 2026 14:50:06 GMT"
+   "checkedAt": "2026-11-24T16:59:11.959Z",
+   "lastSuccess": "2026-11-24T16:59:11.959Z",
+   "etag": "\"c3bd8ebe6c3739cbbbabce0b1bc69afe\"",
+   "lastModified": "Tue, 24 Nov 2026 16:33:00 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T15:48:09.468Z",
-   "lastSuccess": "2026-11-24T15:48:09.468Z",
+   "checkedAt": "2026-11-24T16:59:11.959Z",
+   "lastSuccess": "2026-11-24T16:59:11.959Z",
    "etag": null,
-   "lastModified": "Tue, 24 Nov 2026 15:48:09 GMT"
+   "lastModified": "Tue, 24 Nov 2026 16:59:12 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,73 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T15:48:09.468Z",
-   "lastSuccess": "2026-11-24T15:48:09.468Z",
+   "checkedAt": "2026-11-24T16:59:11.959Z",
+   "lastSuccess": "2026-11-24T16:59:11.959Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "35fe72ceeccae56d",
+   "title": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities",
+   "url": "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/",
+   "summary": "The critical bugs include an authentication bypass in vCenter and flaws that could allow code execution on ESX hosts. The post VMware Updates Patch Critical ESX, vCenter Vulnerabilities appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-24T16:32:56.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-24T16:59:11.959Z"
+  },
+  {
+   "id": "373b2c4f93488570",
+   "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+   "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+   "summary": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-24T16:30:19.000Z",
+   "categories": [
+    "ransomware",
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-24T16:59:11.959Z"
+  },
+  {
+   "id": "1be3a540fac13a9b",
+   "title": "European Commission confirms data theft in EU Academy breach",
+   "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+   "summary": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-24T16:22:44.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-24T16:59:11.959Z"
+  },
+  {
+   "id": "a652d786bf75c8bb",
+   "title": "Hackers compromise Check Point Servers in 22 organizations",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+   "summary": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-24T16:15:23.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-24T16:59:11.959Z"
+  },
   {
    "id": "441339d5102dc8d0",
    "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
@@ -2939,60 +2999,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-17T18:56:45.134Z"
-  },
-  {
-   "id": "a7be54dbbeeaa213",
-   "title": "Tor releases emergency update amid ongoing DDoS attack",
-   "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
-   "summary": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-17T18:04:15.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-17T18:56:45.134Z"
-  },
-  {
-   "id": "ca546dc73e20f4ac",
-   "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
-   "url": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
-   "summary": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-17T16:00:00.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-17T16:56:19.348Z"
-  },
-  {
-   "id": "e5492f9867506c17",
-   "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
-   "url": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
-   "summary": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially critical remote code execution (RCE) flaw affecting OpenJDK…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-17T15:17:36.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-17T19:59:41.708Z"
-  },
-  {
-   "id": "4f9516b8f5d72d7a",
-   "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
-   "url": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
-   "summary": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram. \"Trigram is a large-scale campaign that impersonates about 50 brands in the blockchain and AI sectors…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-17T15:17:28.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-17T19:59:41.708Z"
   }
  ]
 }
