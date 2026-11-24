@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-24T13:32:32.250Z",
- "lastAttempt": "2026-11-24T13:32:32.250Z",
+ "lastSuccess": "2026-11-24T15:48:09.468Z",
+ "lastAttempt": "2026-11-24T15:48:09.468Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T13:32:32.250Z",
-   "lastSuccess": "2026-11-24T13:32:32.250Z",
+   "checkedAt": "2026-11-24T15:48:09.468Z",
+   "lastSuccess": "2026-11-24T15:48:09.468Z",
    "etag": null,
-   "lastModified": "Tue, 24 Nov 2026 12:44:46 GMT"
+   "lastModified": "Tue, 24 Nov 2026 15:11:36 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T13:32:32.250Z",
-   "lastSuccess": "2026-11-24T13:32:32.250Z",
-   "etag": "10d9971af177d3b8b52645351f7887e8",
-   "lastModified": "Tue, 24 Nov 2026 13:26:25 GMT"
+   "checkedAt": "2026-11-24T15:48:09.468Z",
+   "lastSuccess": "2026-11-24T15:48:09.468Z",
+   "etag": "cd2431b33df9454c07e95f14c5eb4111",
+   "lastModified": "Tue, 24 Nov 2026 15:46:47 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T13:32:32.250Z",
-   "lastSuccess": "2026-11-24T13:32:32.250Z",
+   "checkedAt": "2026-11-24T15:48:09.468Z",
+   "lastSuccess": "2026-11-24T15:48:09.468Z",
    "etag": null,
-   "lastModified": "Tue, 24 Nov 2026 13:31:27 GMT"
+   "lastModified": "Tue, 24 Nov 2026 15:42:23 GMT"
   },
   {
    "id": "securityweek",
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T13:32:32.250Z",
-   "lastSuccess": "2026-11-24T13:32:32.250Z",
-   "etag": "\"5dc2457b5cfd80ca9f2966456c40804f\"",
-   "lastModified": "Tue, 24 Nov 2026 12:21:55 GMT"
+   "checkedAt": "2026-11-24T15:48:09.468Z",
+   "lastSuccess": "2026-11-24T15:48:09.468Z",
+   "etag": "\"37d2e3d6861c5eaeb3c7bd6711ec2894\"",
+   "lastModified": "Tue, 24 Nov 2026 14:50:06 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T13:32:32.250Z",
-   "lastSuccess": "2026-11-24T13:32:32.250Z",
+   "checkedAt": "2026-11-24T15:48:09.468Z",
+   "lastSuccess": "2026-11-24T15:48:09.468Z",
    "etag": null,
-   "lastModified": "Tue, 24 Nov 2026 13:32:33 GMT"
+   "lastModified": "Tue, 24 Nov 2026 15:48:09 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,146 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T13:32:32.250Z",
-   "lastSuccess": "2026-11-24T13:32:32.250Z",
+   "checkedAt": "2026-11-24T15:48:09.468Z",
+   "lastSuccess": "2026-11-24T15:48:09.468Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "441339d5102dc8d0",
+   "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
+   "url": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
+   "summary": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-24T15:10:10.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-24T15:48:09.468Z"
+  },
+  {
+   "id": "f087047e9083b861",
+   "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
+   "url": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
+   "summary": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening, and automated remediation can reduce vulnerability noise…",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-24T15:01:11.000Z",
+   "categories": [
+    "vuln",
+    "ai"
+   ],
+   "firstSeen": "2026-11-24T15:48:09.468Z"
+  },
+  {
+   "id": "cf7096738120d9d5",
+   "title": "European Commission Uncovers Data Breach in Cyberattack Investigation",
+   "url": "https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/",
+   "summary": "Names and email addresses of EU Academy users were exposed in the AI-assisted cyberattack the European Commission detected in October. The post European Commission Uncovers Data Breach in Cyberattack Investigation appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-24T14:49:59.000Z",
+   "categories": [
+    "breach",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-24T15:48:09.468Z"
+  },
+  {
+   "id": "8e2e8968330fa8b7",
+   "title": "Check Point Security Management Servers Hacked in AI-Assisted Campaign",
+   "url": "https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/",
+   "summary": "The attacks were launched from 99 IP addresses and targeted organizations across multiple industries and countries. The post Check Point Security Management Servers Hacked in AI-Assisted Campaign appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-24T14:21:56.000Z",
+   "categories": [
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-24T15:48:09.468Z"
+  },
+  {
+   "id": "b9c3decab7e959fb",
+   "title": "McDonald's Japan data breach exposes customer location information",
+   "url": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
+   "summary": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-24T14:09:37.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-24T15:48:09.468Z"
+  },
+  {
+   "id": "1c72123964b88316",
+   "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+   "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
+   "summary": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-24T13:34:23.000Z",
+   "categories": [
+    "vuln",
+    "ai"
+   ],
+   "firstSeen": "2026-11-24T15:48:09.468Z"
+  },
+  {
+   "id": "5415f48ad5b67739",
+   "title": "Anthropic Expands Enterprise Safeguards for Detecting AI Misuse",
+   "url": "https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/",
+   "summary": "EFS helps zero-retention customers spot Claude misuse spread across many requests while keeping conversation data in their own cloud. The post Anthropic Expands Enterprise Safeguards for Detecting AI Misuse appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-24T13:30:23.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-24T15:48:09.468Z"
+  },
+  {
+   "id": "aa014f4b55f462a9",
+   "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+   "url": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+   "summary": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. The critical vulnerability, tracked as CVE-2026-123903, is rated 9.8…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-24T13:28:26.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-24T15:48:09.468Z"
+  },
+  {
+   "id": "c4ed564253ff3bb5",
+   "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+   "url": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
+   "summary": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team. The cluster, dubbed O-UNC-053, is characterized by the use of…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-24T13:28:21.000Z",
+   "categories": [
+    "ransomware",
+    "breach",
+    "phishing",
+    "attack"
+   ],
+   "firstSeen": "2026-11-24T15:48:09.468Z"
+  },
   {
    "id": "88d6d55f0b06ce11",
    "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
@@ -131,6 +264,53 @@
    "published": "2026-11-24T12:01:54.000Z",
    "categories": [],
    "firstSeen": "2026-11-24T13:32:32.250Z"
+  },
+  {
+   "id": "9facf43cf80c1f12",
+   "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
+   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
+   "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of material of your switchboard, including all…",
+   "source": "CISA (US government)",
+   "sourceId": "cisa",
+   "kind": "official",
+   "published": "2026-11-24T12:00:00.000Z",
+   "categories": [
+    "advisory",
+    "vuln"
+   ],
+   "firstSeen": "2026-11-24T15:48:09.468Z"
+  },
+  {
+   "id": "0320d31c7ca0a5f2",
+   "title": "Danfoss AK-SM 8xxA Series",
+   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
+   "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA =5.4.0 (CVE-2026-129713) CVSS Vendor Equipment v3 9.8 Danfoss…",
+   "source": "CISA (US government)",
+   "sourceId": "cisa",
+   "kind": "official",
+   "published": "2026-11-24T12:00:00.000Z",
+   "categories": [
+    "advisory",
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-24T15:48:09.468Z"
+  },
+  {
+   "id": "79be6ce24977332f",
+   "title": "AutomationDirect C-More EA9 Programming Software",
+   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
+   "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malicious file. The following versions of…",
+   "source": "CISA (US government)",
+   "sourceId": "cisa",
+   "kind": "official",
+   "published": "2026-11-24T12:00:00.000Z",
+   "categories": [
+    "advisory",
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-24T15:48:09.468Z"
   },
   {
    "id": "32e5cd02c4f4dd6a",
@@ -1799,6 +1979,21 @@
    "firstSeen": "2026-11-19T16:37:00.670Z"
   },
   {
+   "id": "e3ef1f6d8280774d",
+   "title": "Autonomy Logic OpenPLC Runtime",
+   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01",
+   "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow several unauthenticated admin accounts to be created. The following versions of Autonomy Logic OpenPLC Runtime are affected: OpenPLC Runtime =4.2.4 (CVE-2026-126088) CVSS Vendor Equipment v3 8.1…",
+   "source": "CISA (US government)",
+   "sourceId": "cisa",
+   "kind": "official",
+   "published": "2026-11-19T12:00:00.000Z",
+   "categories": [
+    "advisory",
+    "vuln"
+   ],
+   "firstSeen": "2026-11-19T16:37:00.670Z"
+  },
+  {
    "id": "da93c20d6fb48599",
    "title": "libumqtt",
    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
@@ -1811,21 +2006,6 @@
     "advisory",
     "vuln",
     "attack"
-   ],
-   "firstSeen": "2026-11-19T16:37:00.670Z"
-  },
-  {
-   "id": "e3ef1f6d8280774d",
-   "title": "Autonomy Logic OpenPLC Runtime",
-   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01",
-   "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow several unauthenticated admin accounts to be created. The following versions of Autonomy Logic OpenPLC Runtime are affected: OpenPLC Runtime =4.2.4 (CVE-2026-126088) CVSS Vendor Equipment v3 8.1…",
-   "source": "CISA (US government)",
-   "sourceId": "cisa",
-   "kind": "official",
-   "published": "2026-11-19T12:00:00.000Z",
-   "categories": [
-    "advisory",
-    "vuln"
    ],
    "firstSeen": "2026-11-19T16:37:00.670Z"
   },
@@ -2813,171 +2993,6 @@
     "ai"
    ],
    "firstSeen": "2026-11-17T19:59:41.708Z"
-  },
-  {
-   "id": "924110481a05bb2d",
-   "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
-   "url": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
-   "summary": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-17T15:01:11.000Z",
-   "categories": [
-    "phishing"
-   ],
-   "firstSeen": "2026-11-17T15:51:13.586Z"
-  },
-  {
-   "id": "b0ac25159f831f8c",
-   "title": "Market Research Giant Ipsos Investigating Breach of Internal System",
-   "url": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
-   "summary": "The company made the incident public on Monday, November 16, five days after filing a complaint with authorities. The post Market Research Giant Ipsos Investigating Breach of Internal System appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-17T14:55:30.000Z",
-   "categories": [
-    "breach"
-   ],
-   "firstSeen": "2026-11-17T15:51:13.586Z"
-  },
-  {
-   "id": "33ac08bd1029a874",
-   "title": "Fandango Warns Ticket Buyers of Payment Card Data Exposure",
-   "url": "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/",
-   "summary": "Card numbers, CVVs, expiration dates, and email addresses used at Fandango’s ticketing checkout over four days in October may have been exposed. The post Fandango Warns Ticket Buyers of Payment Card Data Exposure appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-17T14:14:24.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-17T14:54:17.631Z"
-  },
-  {
-   "id": "1d3e3a27273fe176",
-   "title": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool",
-   "url": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/",
-   "summary": "Pretxt provides technology to prevent AI agents escaping their guardrails and causing unintended harm. The post Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-17T14:00:00.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-17T14:54:17.631Z"
-  },
-  {
-   "id": "945082f4c57fd66d",
-   "title": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
-   "url": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/",
-   "summary": "More than 40 servers received over 688,000 requests exploiting CVE-2026-84869 to execute guest-pushed files. The post MSP ScreenConnect Servers Targeted in Month-Long Campaign appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-17T13:24:43.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-17T13:57:33.484Z"
-  },
-  {
-   "id": "86c44696098e84c5",
-   "title": "NIST Finalizes Post-Quantum Cryptography Guidance, GAO Offers a Reality Check",
-   "url": "https://www.darkreading.com/cyber-risk/nist-finalizes-post-quantum-cryptography-guidance-gao-offers-a-reality-check",
-   "summary": "The emerging technology will soon break the \"lock and key\" encryption currently protecting sensitive data. A new GAO report shows agencies are behind on building their defenses.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-17T13:22:15.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-17T13:57:33.484Z"
-  },
-  {
-   "id": "6cf4238ac9ad9f86",
-   "title": "Grok Bots Attempt to Access Corporate Data Without User Approval",
-   "url": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval",
-   "summary": "Two AI agents, separately over a five-day period, autonomously tried to access connected applications, including Google Calendar, Gmail, Slack, and GitHub, without account owner permission.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-17T13:12:56.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-17T15:51:13.586Z"
-  },
-  {
-   "id": "73d03c3694367ca9",
-   "title": "Access Dental Management Data Breach Impacts Over 340,000",
-   "url": "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/",
-   "summary": "Hackers breached Access Dental’s network and stole personal, health, and insurance information. The post Access Dental Management Data Breach Impacts Over 340,000 appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-17T12:59:04.000Z",
-   "categories": [
-    "breach",
-    "attack"
-   ],
-   "firstSeen": "2026-11-17T13:57:33.484Z"
-  },
-  {
-   "id": "f521cbe118cacac3",
-   "title": "Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity",
-   "url": "https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/",
-   "summary": "Led by NEA and supported by existing investors, the funding brings the company’s valuation to $1 billion. The post Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-17T12:51:54.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-17T13:57:33.484Z"
-  },
-  {
-   "id": "e0eeccae847ccecd",
-   "title": "N-able Kills Legacy APIs, Patches 17 N-central Zero-Days",
-   "url": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/",
-   "summary": "The patches target recently disclosed zero-days, as well as vulnerabilities already exploited in the wild. The post N-able Kills Legacy APIs, Patches 17 N-central Zero-Days appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-17T12:28:45.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-17T12:38:12.643Z"
-  },
-  {
-   "id": "1d648e0700680ba4",
-   "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
-   "url": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
-   "summary": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt. The first security updates with the fix came out on August 17. Neither Apple nor the two researchers who found the flaw…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-17T12:14:36.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-17T12:38:12.643Z"
-  },
-  {
-   "id": "404c0c128931f062",
-   "title": "Siemens ROS#",
-   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
-   "summary": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS#…",
-   "source": "CISA (US government)",
-   "sourceId": "cisa",
-   "kind": "official",
-   "published": "2026-11-17T12:00:00.000Z",
-   "categories": [
-    "advisory",
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-17T16:56:19.348Z"
   }
  ]
 }
