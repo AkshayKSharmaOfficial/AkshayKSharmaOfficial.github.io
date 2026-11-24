@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-24T16:59:11.959Z",
- "lastAttempt": "2026-11-24T16:59:11.959Z",
+ "lastSuccess": "2026-11-24T17:54:31.936Z",
+ "lastAttempt": "2026-11-24T17:54:31.936Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T16:59:11.959Z",
-   "lastSuccess": "2026-11-24T16:59:11.959Z",
+   "checkedAt": "2026-11-24T17:54:31.936Z",
+   "lastSuccess": "2026-11-24T17:54:31.936Z",
    "etag": null,
-   "lastModified": "Tue, 24 Nov 2026 16:48:55 GMT"
+   "lastModified": "Tue, 24 Nov 2026 17:45:21 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T16:59:11.959Z",
-   "lastSuccess": "2026-11-24T16:59:11.959Z",
-   "etag": "e47b75c082f2c850cfa157c74fdadf62",
-   "lastModified": "Tue, 24 Nov 2026 16:53:54 GMT"
+   "checkedAt": "2026-11-24T17:54:31.936Z",
+   "lastSuccess": "2026-11-24T17:54:31.936Z",
+   "etag": "862b06f480c405606fb93158d913e2b9",
+   "lastModified": "Tue, 24 Nov 2026 17:49:05 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T16:59:11.959Z",
-   "lastSuccess": "2026-11-24T16:59:11.959Z",
+   "checkedAt": "2026-11-24T17:54:31.936Z",
+   "lastSuccess": "2026-11-24T17:54:31.936Z",
    "etag": null,
    "lastModified": "Tue, 24 Nov 2026 15:42:23 GMT"
   },
@@ -43,11 +43,11 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T16:59:11.959Z",
-   "lastSuccess": "2026-11-24T16:59:11.959Z",
+   "checkedAt": "2026-11-24T17:54:31.936Z",
+   "lastSuccess": "2026-11-24T17:54:31.936Z",
    "etag": "\"c3bd8ebe6c3739cbbbabce0b1bc69afe\"",
    "lastModified": "Tue, 24 Nov 2026 16:33:00 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T16:59:11.959Z",
-   "lastSuccess": "2026-11-24T16:59:11.959Z",
+   "checkedAt": "2026-11-24T17:54:31.936Z",
+   "lastSuccess": "2026-11-24T17:54:31.936Z",
    "etag": null,
-   "lastModified": "Tue, 24 Nov 2026 16:59:12 GMT"
+   "lastModified": "Tue, 24 Nov 2026 17:54:32 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,43 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T16:59:11.959Z",
-   "lastSuccess": "2026-11-24T16:59:11.959Z",
+   "checkedAt": "2026-11-24T17:54:31.936Z",
+   "lastSuccess": "2026-11-24T17:54:31.936Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "b579e0a007b8ab45",
+   "title": "Radware discloses breach exposing customer cloud access keys",
+   "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+   "summary": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-24T17:49:05.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-24T17:54:31.936Z"
+  },
+  {
+   "id": "9582e29a3fdc5bee",
+   "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+   "url": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+   "summary": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a backdoor called KuboShell that uses the InterPlanetary File…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-24T16:54:07.000Z",
+   "categories": [
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-24T17:54:31.936Z"
+  },
   {
    "id": "35fe72ceeccae56d",
    "title": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities",
@@ -2964,37 +2994,6 @@
    "published": "2026-11-17T18:38:37.000Z",
    "categories": [
     "breach",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-17T18:56:45.134Z"
-  },
-  {
-   "id": "916ac3409a732a95",
-   "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
-   "url": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
-   "summary": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-17T18:21:24.000Z",
-   "categories": [
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-17T18:56:45.134Z"
-  },
-  {
-   "id": "21bc063dd697b02a",
-   "title": "AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says",
-   "url": "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/",
-   "summary": "Threat actors are deploying multi-agent offensive frameworks to increase the velocity of multi-stage intrusions. The post AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-17T18:16:17.000Z",
-   "categories": [
-    "vuln",
     "ai",
     "attack"
    ],
