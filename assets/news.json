@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-24T20:53:49.383Z",
- "lastAttempt": "2026-11-24T20:53:49.383Z",
+ "lastSuccess": "2026-11-24T21:51:53.918Z",
+ "lastAttempt": "2026-11-24T21:51:53.918Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T20:53:49.383Z",
-   "lastSuccess": "2026-11-24T20:53:49.383Z",
+   "checkedAt": "2026-11-24T21:51:53.918Z",
+   "lastSuccess": "2026-11-24T21:51:53.918Z",
    "etag": null,
-   "lastModified": "Tue, 24 Nov 2026 20:03:47 GMT"
+   "lastModified": "Tue, 24 Nov 2026 21:39:18 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T20:53:49.383Z",
-   "lastSuccess": "2026-11-24T20:53:49.383Z",
-   "etag": "69f04231ce188cbd8d81958229adba2e",
-   "lastModified": "Tue, 24 Nov 2026 20:51:21 GMT"
+   "checkedAt": "2026-11-24T21:51:53.918Z",
+   "lastSuccess": "2026-11-24T21:51:53.918Z",
+   "etag": "81c06a7f7512c84d20563a98a79cf6db",
+   "lastModified": "Tue, 24 Nov 2026 21:47:32 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T20:53:49.383Z",
-   "lastSuccess": "2026-11-24T20:53:49.383Z",
+   "checkedAt": "2026-11-24T21:51:53.918Z",
+   "lastSuccess": "2026-11-24T21:51:53.918Z",
    "etag": null,
    "lastModified": "Tue, 24 Nov 2026 18:46:02 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T20:53:49.383Z",
-   "lastSuccess": "2026-11-24T20:53:49.383Z",
+   "checkedAt": "2026-11-24T21:51:53.918Z",
+   "lastSuccess": "2026-11-24T21:51:53.918Z",
    "etag": "\"c3bd8ebe6c3739cbbbabce0b1bc69afe\"",
    "lastModified": "Tue, 24 Nov 2026 16:33:00 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T20:53:49.383Z",
-   "lastSuccess": "2026-11-24T20:53:49.383Z",
+   "checkedAt": "2026-11-24T21:51:53.918Z",
+   "lastSuccess": "2026-11-24T21:51:53.918Z",
    "etag": null,
-   "lastModified": "Tue, 24 Nov 2026 20:53:49 GMT"
+   "lastModified": "Tue, 24 Nov 2026 21:51:55 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,43 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T20:53:49.383Z",
-   "lastSuccess": "2026-11-24T20:53:49.383Z",
+   "checkedAt": "2026-11-24T21:51:53.918Z",
+   "lastSuccess": "2026-11-24T21:51:53.918Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "6dee6793280499bf",
+   "title": "Rackspace shuts down Spot cloud platform after security breach",
+   "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+   "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-24T21:37:30.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-24T21:51:53.918Z"
+  },
+  {
+   "id": "dcbff854c2236213",
+   "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
+   "url": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
+   "summary": "Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-24T21:36:11.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-24T21:51:53.918Z"
+  },
   {
    "id": "a0b83142806dafb2",
    "title": "New Inception extortion gang launches large-scale vishing campaign",
@@ -2971,35 +3001,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-17T21:48:06.099Z"
-  },
-  {
-   "id": "5c9aad0b8819694d",
-   "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
-   "url": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
-   "summary": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-17T20:51:21.000Z",
-   "categories": [
-    "breach",
-    "attack"
-   ],
-   "firstSeen": "2026-11-17T20:54:42.509Z"
-  },
-  {
-   "id": "6bab39afba048d48",
-   "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
-   "url": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
-   "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send inside chat messages, and their JavaScript runs on the…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-17T19:34:20.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-17T20:54:42.509Z"
   }
  ]
 }
