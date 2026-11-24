@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-24T19:58:12.421Z",
- "lastAttempt": "2026-11-24T19:58:12.421Z",
+ "lastSuccess": "2026-11-24T20:53:49.383Z",
+ "lastAttempt": "2026-11-24T20:53:49.383Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T19:58:12.421Z",
-   "lastSuccess": "2026-11-24T19:58:12.421Z",
+   "checkedAt": "2026-11-24T20:53:49.383Z",
+   "lastSuccess": "2026-11-24T20:53:49.383Z",
    "etag": null,
-   "lastModified": "Tue, 24 Nov 2026 19:25:17 GMT"
+   "lastModified": "Tue, 24 Nov 2026 20:03:47 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T19:58:12.421Z",
-   "lastSuccess": "2026-11-24T19:58:12.421Z",
-   "etag": "ac010f820d653a5e385fb929a92d5dc0",
-   "lastModified": "Tue, 24 Nov 2026 19:49:55 GMT"
+   "checkedAt": "2026-11-24T20:53:49.383Z",
+   "lastSuccess": "2026-11-24T20:53:49.383Z",
+   "etag": "69f04231ce188cbd8d81958229adba2e",
+   "lastModified": "Tue, 24 Nov 2026 20:51:21 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T19:58:12.421Z",
-   "lastSuccess": "2026-11-24T19:58:12.421Z",
+   "checkedAt": "2026-11-24T20:53:49.383Z",
+   "lastSuccess": "2026-11-24T20:53:49.383Z",
    "etag": null,
    "lastModified": "Tue, 24 Nov 2026 18:46:02 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T19:58:12.421Z",
-   "lastSuccess": "2026-11-24T19:58:12.421Z",
+   "checkedAt": "2026-11-24T20:53:49.383Z",
+   "lastSuccess": "2026-11-24T20:53:49.383Z",
    "etag": "\"c3bd8ebe6c3739cbbbabce0b1bc69afe\"",
    "lastModified": "Tue, 24 Nov 2026 16:33:00 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T19:58:12.421Z",
-   "lastSuccess": "2026-11-24T19:58:12.421Z",
+   "checkedAt": "2026-11-24T20:53:49.383Z",
+   "lastSuccess": "2026-11-24T20:53:49.383Z",
    "etag": null,
-   "lastModified": "Tue, 24 Nov 2026 19:58:12 GMT"
+   "lastModified": "Tue, 24 Nov 2026 20:53:49 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,29 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T19:58:12.421Z",
-   "lastSuccess": "2026-11-24T19:58:12.421Z",
+   "checkedAt": "2026-11-24T20:53:49.383Z",
+   "lastSuccess": "2026-11-24T20:53:49.383Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "a0b83142806dafb2",
+   "title": "New Inception extortion gang launches large-scale vishing campaign",
+   "url": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+   "summary": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-24T20:21:20.000Z",
+   "categories": [
+    "ransomware",
+    "phishing",
+    "attack"
+   ],
+   "firstSeen": "2026-11-24T20:53:49.383Z"
+  },
   {
    "id": "7bb4ac0612379986",
    "title": "Turnitin discloses cyberattack affecting customer-facing systems",
@@ -2984,18 +3000,6 @@
     "vuln"
    ],
    "firstSeen": "2026-11-17T20:54:42.509Z"
-  },
-  {
-   "id": "9e709210a3bbca44",
-   "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
-   "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
-   "summary": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-17T19:24:07.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-17T19:59:41.708Z"
   }
  ]
 }
