@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-24T04:59:26.318Z",
- "lastAttempt": "2026-11-24T04:59:26.318Z",
+ "lastSuccess": "2026-11-24T06:00:31.707Z",
+ "lastAttempt": "2026-11-24T06:00:31.707Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T04:59:26.318Z",
-   "lastSuccess": "2026-11-24T04:59:26.318Z",
+   "checkedAt": "2026-11-24T06:00:31.707Z",
+   "lastSuccess": "2026-11-24T06:00:31.707Z",
    "etag": null,
-   "lastModified": "Tue, 24 Nov 2026 04:58:48 GMT"
+   "lastModified": "Tue, 24 Nov 2026 05:24:27 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T04:59:26.318Z",
-   "lastSuccess": "2026-11-24T04:59:26.318Z",
-   "etag": "0dc7d179a4edf9f959c283298a98aa4d",
-   "lastModified": "Tue, 24 Nov 2026 04:58:12 GMT"
+   "checkedAt": "2026-11-24T06:00:31.707Z",
+   "lastSuccess": "2026-11-24T06:00:31.707Z",
+   "etag": "7144c560c2646c97e6ccdf94e9418924",
+   "lastModified": "Tue, 24 Nov 2026 05:58:14 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T04:59:26.318Z",
-   "lastSuccess": "2026-11-24T04:59:26.318Z",
+   "checkedAt": "2026-11-24T06:00:31.707Z",
+   "lastSuccess": "2026-11-24T06:00:31.707Z",
    "etag": null,
    "lastModified": "Tue, 24 Nov 2026 04:45:12 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T04:59:26.318Z",
-   "lastSuccess": "2026-11-24T04:59:26.318Z",
-   "etag": "\"f795f73cbcd7c338d717905bb0eeb254\"",
-   "lastModified": "Mon, 23 Nov 2026 18:23:19 GMT"
+   "checkedAt": "2026-11-24T06:00:31.707Z",
+   "lastSuccess": "2026-11-24T06:00:31.707Z",
+   "etag": "\"c8048d3b4e8748b0cce577df73c42434\"",
+   "lastModified": "Tue, 24 Nov 2026 05:31:19 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T04:59:26.318Z",
-   "lastSuccess": "2026-11-24T04:59:26.318Z",
+   "checkedAt": "2026-11-24T06:00:31.707Z",
+   "lastSuccess": "2026-11-24T06:00:31.707Z",
    "etag": null,
-   "lastModified": "Tue, 24 Nov 2026 04:59:26 GMT"
+   "lastModified": "Tue, 24 Nov 2026 06:00:31 GMT"
   },
   {
    "id": "cisa",
@@ -70,8 +70,8 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-24T04:59:26.318Z",
-   "lastSuccess": "2026-11-24T04:59:26.318Z",
+   "checkedAt": "2026-11-24T06:00:31.707Z",
+   "lastSuccess": "2026-11-24T06:00:31.707Z",
    "etag": null,
    "lastModified": null
   }
@@ -262,9 +262,9 @@
   },
   {
    "id": "41f9b6eff4bed090",
-   "title": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack",
+   "title": "N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack",
    "url": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
-   "summary": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack appeared first on SecurityWeek .",
+   "summary": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack appeared first on SecurityWeek .",
    "source": "SecurityWeek",
    "sourceId": "securityweek",
    "kind": "media",
