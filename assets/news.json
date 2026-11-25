@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-25T03:12:07.322Z",
- "lastAttempt": "2026-11-25T03:12:07.322Z",
+ "lastSuccess": "2026-11-25T04:26:38.064Z",
+ "lastAttempt": "2026-11-25T04:26:38.064Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T03:12:07.322Z",
-   "lastSuccess": "2026-11-25T03:12:07.322Z",
+   "checkedAt": "2026-11-25T04:26:38.064Z",
+   "lastSuccess": "2026-11-25T04:26:38.064Z",
    "etag": null,
-   "lastModified": "Wed, 25 Nov 2026 03:10:13 GMT"
+   "lastModified": "Wed, 25 Nov 2026 04:07:05 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T03:12:07.322Z",
-   "lastSuccess": "2026-11-25T03:12:07.322Z",
-   "etag": "74cb6c01816c2d98683153d3fd913575",
-   "lastModified": "Wed, 25 Nov 2026 03:07:41 GMT"
+   "checkedAt": "2026-11-25T04:26:38.064Z",
+   "lastSuccess": "2026-11-25T04:26:38.064Z",
+   "etag": "6bdda4e9ce99412f44771854ed72b1ae",
+   "lastModified": "Wed, 25 Nov 2026 04:26:14 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T03:12:07.322Z",
-   "lastSuccess": "2026-11-25T03:12:07.322Z",
+   "checkedAt": "2026-11-25T04:26:38.064Z",
+   "lastSuccess": "2026-11-25T04:26:38.064Z",
    "etag": null,
-   "lastModified": "Wed, 25 Nov 2026 03:02:09 GMT"
+   "lastModified": "Wed, 25 Nov 2026 04:14:20 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T03:12:07.322Z",
-   "lastSuccess": "2026-11-25T03:12:07.322Z",
+   "checkedAt": "2026-11-25T04:26:38.064Z",
+   "lastSuccess": "2026-11-25T04:26:38.064Z",
    "etag": "\"c0697240933da47e556c21384b2e3226\"",
    "lastModified": "Tue, 24 Nov 2026 22:42:02 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T03:12:07.322Z",
-   "lastSuccess": "2026-11-25T03:12:07.322Z",
+   "checkedAt": "2026-11-25T04:26:38.064Z",
+   "lastSuccess": "2026-11-25T04:26:38.064Z",
    "etag": null,
-   "lastModified": "Wed, 25 Nov 2026 03:12:07 GMT"
+   "lastModified": "Wed, 25 Nov 2026 04:26:41 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T03:12:07.322Z",
-   "lastSuccess": "2026-11-25T03:12:07.322Z",
+   "checkedAt": "2026-11-25T04:26:38.064Z",
+   "lastSuccess": "2026-11-25T04:26:38.064Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "367bae174f5a346c",
+   "title": "Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'",
+   "url": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide",
+   "summary": "Dark Reading Confidential Episode 23: Cyber insurers share their view of the AI-driven threat landscape and how mounting challenges are putting pressure on both sides of the policy, leaving the current model unsustainable.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-25T15:00:00.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-25T04:26:38.064Z"
+  },
   {
    "id": "4a3c8a2258dc59eb",
    "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
@@ -2983,18 +2997,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-18T03:50:30.305Z"
-  },
-  {
-   "id": "95987653365d53d7",
-   "title": "Classified Communications Network at the National Security Agency Goes Down, Defense Official Says",
-   "url": "https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/",
-   "summary": "The problem disrupted the operations of NSANet, a classified internal network used by employees of the agency. The post Classified Communications Network at the National Security Agency Goes Down, Defense Official Says appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-18T02:15:07.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-18T02:53:15.068Z"
   }
  ]
 }
