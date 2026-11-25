@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-25T18:46:36.685Z",
- "lastAttempt": "2026-11-25T18:46:36.685Z",
+ "lastSuccess": "2026-11-25T19:52:02.061Z",
+ "lastAttempt": "2026-11-25T19:52:02.061Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T18:46:36.685Z",
-   "lastSuccess": "2026-11-25T18:46:36.685Z",
+   "checkedAt": "2026-11-25T19:52:02.061Z",
+   "lastSuccess": "2026-11-25T19:52:02.061Z",
    "etag": null,
-   "lastModified": "Wed, 25 Nov 2026 17:54:26 GMT"
+   "lastModified": "Wed, 25 Nov 2026 19:45:27 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T18:46:36.685Z",
-   "lastSuccess": "2026-11-25T18:46:36.685Z",
-   "etag": "019f1737bfe1fbacfe871ed82e236a94",
-   "lastModified": "Wed, 25 Nov 2026 18:39:33 GMT"
+   "checkedAt": "2026-11-25T19:52:02.061Z",
+   "lastSuccess": "2026-11-25T19:52:02.061Z",
+   "etag": "762b63d8437c1f5cd71a655bd69cec9a",
+   "lastModified": "Wed, 25 Nov 2026 19:49:33 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T18:46:36.685Z",
-   "lastSuccess": "2026-11-25T18:46:36.685Z",
+   "checkedAt": "2026-11-25T19:52:02.061Z",
+   "lastSuccess": "2026-11-25T19:52:02.061Z",
    "etag": null,
    "lastModified": "Wed, 25 Nov 2026 17:35:31 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T18:46:36.685Z",
-   "lastSuccess": "2026-11-25T18:46:36.685Z",
+   "checkedAt": "2026-11-25T19:52:02.061Z",
+   "lastSuccess": "2026-11-25T19:52:02.061Z",
    "etag": "W/\"53125853df2d956ea3fa8fd73f5415d3\"",
    "lastModified": "Wed, 25 Nov 2026 15:27:40 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T18:46:36.685Z",
-   "lastSuccess": "2026-11-25T18:46:36.685Z",
+   "checkedAt": "2026-11-25T19:52:02.061Z",
+   "lastSuccess": "2026-11-25T19:52:02.061Z",
    "etag": null,
-   "lastModified": "Wed, 25 Nov 2026 18:46:37 GMT"
+   "lastModified": "Wed, 25 Nov 2026 19:52:02 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T18:46:36.685Z",
-   "lastSuccess": "2026-11-25T18:46:36.685Z",
+   "checkedAt": "2026-11-25T19:52:02.061Z",
+   "lastSuccess": "2026-11-25T19:52:02.061Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "30251e137c31bb1d",
+   "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+   "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+   "summary": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-25T19:39:31.000Z",
+   "categories": [
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-25T19:52:02.061Z"
+  },
   {
    "id": "33b096a4b11127e7",
    "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
@@ -2974,20 +2989,6 @@
    "categories": [
     "vuln",
     "attack"
-   ],
-   "firstSeen": "2026-11-18T19:54:03.874Z"
-  },
-  {
-   "id": "6ec0dce548ff06fe",
-   "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
-   "url": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
-   "summary": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-18T17:10:45.000Z",
-   "categories": [
-    "vuln"
    ],
    "firstSeen": "2026-11-18T19:54:03.874Z"
   }
