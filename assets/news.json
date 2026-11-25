@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-25T10:43:17.969Z",
- "lastAttempt": "2026-11-25T10:43:17.969Z",
+ "lastSuccess": "2026-11-25T11:43:10.368Z",
+ "lastAttempt": "2026-11-25T11:43:10.368Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T10:43:17.969Z",
-   "lastSuccess": "2026-11-25T10:43:17.969Z",
+   "checkedAt": "2026-11-25T11:43:10.368Z",
+   "lastSuccess": "2026-11-25T11:43:10.368Z",
    "etag": null,
-   "lastModified": "Wed, 25 Nov 2026 10:14:34 GMT"
+   "lastModified": "Wed, 25 Nov 2026 11:15:30 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T10:43:17.969Z",
-   "lastSuccess": "2026-11-25T10:43:17.969Z",
-   "etag": "955b33392e14df9e887d0efd431a6ec5",
-   "lastModified": "Wed, 25 Nov 2026 10:33:26 GMT"
+   "checkedAt": "2026-11-25T11:43:10.368Z",
+   "lastSuccess": "2026-11-25T11:43:10.368Z",
+   "etag": "91ece8c3c090b31b58cd9f4ebeef2db9",
+   "lastModified": "Wed, 25 Nov 2026 11:33:32 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T10:43:17.969Z",
-   "lastSuccess": "2026-11-25T10:43:17.969Z",
+   "checkedAt": "2026-11-25T11:43:10.368Z",
+   "lastSuccess": "2026-11-25T11:43:10.368Z",
    "etag": null,
    "lastModified": "Wed, 25 Nov 2026 10:33:47 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T10:43:17.969Z",
-   "lastSuccess": "2026-11-25T10:43:17.969Z",
-   "etag": "\"160317e2dd500c754d772fd1bfc2b6aa\"",
-   "lastModified": "Wed, 25 Nov 2026 09:14:20 GMT"
+   "checkedAt": "2026-11-25T11:43:10.368Z",
+   "lastSuccess": "2026-11-25T11:43:10.368Z",
+   "etag": "\"6a5d95d557177e4e149ae659d8751e6a\"",
+   "lastModified": "Wed, 25 Nov 2026 10:43:41 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T10:43:17.969Z",
-   "lastSuccess": "2026-11-25T10:43:17.969Z",
+   "checkedAt": "2026-11-25T11:43:10.368Z",
+   "lastSuccess": "2026-11-25T11:43:10.368Z",
    "etag": null,
-   "lastModified": "Wed, 25 Nov 2026 10:43:19 GMT"
+   "lastModified": "Wed, 25 Nov 2026 11:43:11 GMT"
   },
   {
    "id": "cisa",
@@ -70,8 +70,8 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T10:43:17.969Z",
-   "lastSuccess": "2026-11-25T10:43:17.969Z",
+   "checkedAt": "2026-11-25T11:43:10.368Z",
+   "lastSuccess": "2026-11-25T11:43:10.368Z",
    "etag": null,
    "lastModified": null
   }
@@ -90,6 +90,46 @@
     "ai"
    ],
    "firstSeen": "2026-11-25T04:26:38.064Z"
+  },
+  {
+   "id": "2fcb8093085b6de5",
+   "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
+   "summary": "Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-25T11:16:32.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-25T11:43:10.368Z"
+  },
+  {
+   "id": "df7e6d35b0bf706d",
+   "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
+   "url": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
+   "summary": "A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled Tuesday. Abdulrahman Alfozan, a 35-year-old Saudi national…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-25T10:43:07.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-25T11:43:10.368Z"
+  },
+  {
+   "id": "6d80ffcb133d6fe1",
+   "title": "Plagiarism Checker Turnitin Investigating Cyberattack",
+   "url": "https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/",
+   "summary": "The edtech company says the systems are fully operational and safe to use while it investigates the incident. The post Plagiarism Checker Turnitin Investigating Cyberattack appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-25T10:40:07.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-25T11:43:10.368Z"
   },
   {
    "id": "bbfb4c46a7bbf4fe",
@@ -2957,52 +2997,6 @@
     "vuln"
    ],
    "firstSeen": "2026-11-18T12:42:38.917Z"
-  },
-  {
-   "id": "f3185c52953727c4",
-   "title": "Microsoft Agent Framework Releases Poisoned With Credential Stealer",
-   "url": "https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/",
-   "summary": "Versions 1.26.1 and 1.26.2 of agent-framework on PyPI steal Azure, Azure DevOps, and GitHub Actions credentials when Python starts. The post Microsoft Agent Framework Releases Poisoned With Credential Stealer appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-18T11:05:39.000Z",
-   "categories": [
-    "malware"
-   ],
-   "firstSeen": "2026-11-18T11:41:30.831Z"
-  },
-  {
-   "id": "1df2f3726abcb8b7",
-   "title": "Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are",
-   "url": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
-   "summary": "AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how attackers find and exploit them too, with time-to-exploit now down to a single day. Security testing has to keep up with…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-18T11:03:57.000Z",
-   "categories": [
-    "breach",
-    "vuln",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-18T12:42:38.917Z"
-  },
-  {
-   "id": "24ef07023cc8fafb",
-   "title": "Critical Perforce Puppet RCE Exploited in Attacks",
-   "url": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/",
-   "summary": "Tracked as CVE-2026-115731, it allows a client that holds any CA-signed agent certificate to execute code on the server. The post Critical Perforce Puppet RCE Exploited in Attacks appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-18T10:37:08.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-18T10:42:28.443Z"
   }
  ]
 }
