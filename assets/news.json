@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-25T05:33:31.636Z",
- "lastAttempt": "2026-11-25T05:33:31.636Z",
+ "lastSuccess": "2026-11-25T06:43:25.530Z",
+ "lastAttempt": "2026-11-25T06:43:25.530Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T05:33:31.636Z",
-   "lastSuccess": "2026-11-25T05:33:31.636Z",
+   "checkedAt": "2026-11-25T06:43:25.530Z",
+   "lastSuccess": "2026-11-25T06:43:25.530Z",
    "etag": null,
-   "lastModified": "Wed, 25 Nov 2026 04:47:27 GMT"
+   "lastModified": "Wed, 25 Nov 2026 06:28:03 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T05:33:31.636Z",
-   "lastSuccess": "2026-11-25T05:33:31.636Z",
-   "etag": "171dbf44fc6bae86c2af9c8fb746035b",
-   "lastModified": "Wed, 25 Nov 2026 05:26:17 GMT"
+   "checkedAt": "2026-11-25T06:43:25.530Z",
+   "lastSuccess": "2026-11-25T06:43:25.530Z",
+   "etag": "b5cfbb53719718ff80cb0875f225bf09",
+   "lastModified": "Wed, 25 Nov 2026 06:36:19 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T05:33:31.636Z",
-   "lastSuccess": "2026-11-25T05:33:31.636Z",
+   "checkedAt": "2026-11-25T06:43:25.530Z",
+   "lastSuccess": "2026-11-25T06:43:25.530Z",
    "etag": null,
    "lastModified": "Wed, 25 Nov 2026 04:14:20 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T05:33:31.636Z",
-   "lastSuccess": "2026-11-25T05:33:31.636Z",
+   "checkedAt": "2026-11-25T06:43:25.530Z",
+   "lastSuccess": "2026-11-25T06:43:25.530Z",
    "etag": "\"c0697240933da47e556c21384b2e3226\"",
    "lastModified": "Tue, 24 Nov 2026 22:42:02 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T05:33:31.636Z",
-   "lastSuccess": "2026-11-25T05:33:31.636Z",
+   "checkedAt": "2026-11-25T06:43:25.530Z",
+   "lastSuccess": "2026-11-25T06:43:25.530Z",
    "etag": null,
-   "lastModified": "Wed, 25 Nov 2026 05:33:32 GMT"
+   "lastModified": "Wed, 25 Nov 2026 06:43:26 GMT"
   },
   {
    "id": "cisa",
@@ -70,8 +70,8 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T05:33:31.636Z",
-   "lastSuccess": "2026-11-25T05:33:31.636Z",
+   "checkedAt": "2026-11-25T06:43:25.530Z",
+   "lastSuccess": "2026-11-25T06:43:25.530Z",
    "etag": null,
    "lastModified": null
   }
@@ -90,6 +90,20 @@
     "ai"
    ],
    "firstSeen": "2026-11-25T04:26:38.064Z"
+  },
+  {
+   "id": "da78c9293f40e55b",
+   "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
+   "url": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
+   "summary": "WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed, following a suspected compromise of the developer's account. The WordPress plugins team has…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-25T06:21:12.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-25T06:43:25.530Z"
   },
   {
    "id": "4a3c8a2258dc59eb",
@@ -2981,22 +2995,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-18T07:12:25.512Z"
-  },
-  {
-   "id": "572b7212343397c3",
-   "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
-   "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
-   "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say…",
-   "source": "KrebsOnSecurity",
-   "sourceId": "krebs",
-   "kind": "media",
-   "published": "2026-11-18T02:52:04.000Z",
-   "categories": [
-    "vuln",
-    "malware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-18T03:50:30.305Z"
   }
  ]
 }
