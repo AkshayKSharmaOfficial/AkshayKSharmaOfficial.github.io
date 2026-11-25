@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-25T16:47:00.801Z",
- "lastAttempt": "2026-11-25T16:47:00.801Z",
+ "lastSuccess": "2026-11-25T17:46:08.087Z",
+ "lastAttempt": "2026-11-25T17:46:08.087Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T16:47:00.801Z",
-   "lastSuccess": "2026-11-25T16:47:00.801Z",
+   "checkedAt": "2026-11-25T17:46:08.087Z",
+   "lastSuccess": "2026-11-25T17:46:08.087Z",
    "etag": null,
    "lastModified": "Wed, 25 Nov 2026 16:41:51 GMT"
   },
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T16:47:00.801Z",
-   "lastSuccess": "2026-11-25T16:47:00.801Z",
-   "etag": "bea2ccd42a2404410626fe6b124fe2c3",
-   "lastModified": "Wed, 25 Nov 2026 16:43:41 GMT"
+   "checkedAt": "2026-11-25T17:46:08.087Z",
+   "lastSuccess": "2026-11-25T17:46:08.087Z",
+   "etag": "78b5277e1a5f50fa9fb0b224f0c14aef",
+   "lastModified": "Wed, 25 Nov 2026 17:39:32 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T16:47:00.801Z",
-   "lastSuccess": "2026-11-25T16:47:00.801Z",
+   "checkedAt": "2026-11-25T17:46:08.087Z",
+   "lastSuccess": "2026-11-25T17:46:08.087Z",
    "etag": null,
-   "lastModified": "Wed, 25 Nov 2026 10:33:47 GMT"
+   "lastModified": "Wed, 25 Nov 2026 17:35:31 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T16:47:00.801Z",
-   "lastSuccess": "2026-11-25T16:47:00.801Z",
+   "checkedAt": "2026-11-25T17:46:08.087Z",
+   "lastSuccess": "2026-11-25T17:46:08.087Z",
    "etag": "W/\"53125853df2d956ea3fa8fd73f5415d3\"",
    "lastModified": "Wed, 25 Nov 2026 15:27:40 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T16:47:00.801Z",
-   "lastSuccess": "2026-11-25T16:47:00.801Z",
+   "checkedAt": "2026-11-25T17:46:08.087Z",
+   "lastSuccess": "2026-11-25T17:46:08.087Z",
    "etag": null,
-   "lastModified": "Wed, 25 Nov 2026 16:47:02 GMT"
+   "lastModified": "Wed, 25 Nov 2026 17:46:08 GMT"
   },
   {
    "id": "cisa",
@@ -70,8 +70,8 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T16:47:00.801Z",
-   "lastSuccess": "2026-11-25T16:47:00.801Z",
+   "checkedAt": "2026-11-25T17:46:08.087Z",
+   "lastSuccess": "2026-11-25T17:46:08.087Z",
    "etag": null,
    "lastModified": null
   }
