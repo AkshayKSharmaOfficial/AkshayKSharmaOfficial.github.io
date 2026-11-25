@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-25T09:44:52.496Z",
- "lastAttempt": "2026-11-25T09:44:52.496Z",
+ "lastSuccess": "2026-11-25T10:43:17.969Z",
+ "lastAttempt": "2026-11-25T10:43:17.969Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T09:44:52.496Z",
-   "lastSuccess": "2026-11-25T09:44:52.496Z",
+   "checkedAt": "2026-11-25T10:43:17.969Z",
+   "lastSuccess": "2026-11-25T10:43:17.969Z",
    "etag": null,
-   "lastModified": "Wed, 25 Nov 2026 09:42:50 GMT"
+   "lastModified": "Wed, 25 Nov 2026 10:14:34 GMT"
   },
   {
    "id": "bleeping",
@@ -22,32 +22,32 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T09:44:52.496Z",
-   "lastSuccess": "2026-11-25T09:44:52.496Z",
-   "etag": "ec35df96c3e3cab31df9c1de683673b5",
-   "lastModified": "Wed, 25 Nov 2026 09:33:03 GMT"
+   "checkedAt": "2026-11-25T10:43:17.969Z",
+   "lastSuccess": "2026-11-25T10:43:17.969Z",
+   "etag": "955b33392e14df9e887d0efd431a6ec5",
+   "lastModified": "Wed, 25 Nov 2026 10:33:26 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T09:44:52.496Z",
-   "lastSuccess": "2026-11-25T09:44:52.496Z",
+   "checkedAt": "2026-11-25T10:43:17.969Z",
+   "lastSuccess": "2026-11-25T10:43:17.969Z",
    "etag": null,
-   "lastModified": "Wed, 25 Nov 2026 04:14:20 GMT"
+   "lastModified": "Wed, 25 Nov 2026 10:33:47 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T09:44:52.496Z",
-   "lastSuccess": "2026-11-25T09:44:52.496Z",
+   "checkedAt": "2026-11-25T10:43:17.969Z",
+   "lastSuccess": "2026-11-25T10:43:17.969Z",
    "etag": "\"160317e2dd500c754d772fd1bfc2b6aa\"",
    "lastModified": "Wed, 25 Nov 2026 09:14:20 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T09:44:52.496Z",
-   "lastSuccess": "2026-11-25T09:44:52.496Z",
+   "checkedAt": "2026-11-25T10:43:17.969Z",
+   "lastSuccess": "2026-11-25T10:43:17.969Z",
    "etag": null,
-   "lastModified": "Wed, 25 Nov 2026 09:44:52 GMT"
+   "lastModified": "Wed, 25 Nov 2026 10:43:19 GMT"
   },
   {
    "id": "cisa",
@@ -70,8 +70,8 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T09:44:52.496Z",
-   "lastSuccess": "2026-11-25T09:44:52.496Z",
+   "checkedAt": "2026-11-25T10:43:17.969Z",
+   "lastSuccess": "2026-11-25T10:43:17.969Z",
    "etag": null,
    "lastModified": null
   }
@@ -90,6 +90,21 @@
     "ai"
    ],
    "firstSeen": "2026-11-25T04:26:38.064Z"
+  },
+  {
+   "id": "bbfb4c46a7bbf4fe",
+   "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
+   "summary": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-25T10:10:20.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-25T10:43:17.969Z"
   },
   {
    "id": "c4aa0fb847865c57",
@@ -2988,21 +3003,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-18T10:42:28.443Z"
-  },
-  {
-   "id": "44043f37c7fb6a9d",
-   "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
-   "summary": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-18T10:35:05.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-18T11:41:30.831Z"
   }
  ]
 }
