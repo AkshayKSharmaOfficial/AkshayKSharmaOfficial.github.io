@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-25T12:51:17.830Z",
- "lastAttempt": "2026-11-25T12:51:17.830Z",
+ "lastSuccess": "2026-11-25T14:19:46.601Z",
+ "lastAttempt": "2026-11-25T14:19:46.601Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T12:51:17.830Z",
-   "lastSuccess": "2026-11-25T12:51:17.830Z",
+   "checkedAt": "2026-11-25T14:19:46.601Z",
+   "lastSuccess": "2026-11-25T14:19:46.601Z",
    "etag": null,
-   "lastModified": "Wed, 25 Nov 2026 12:04:20 GMT"
+   "lastModified": "Wed, 25 Nov 2026 14:02:46 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T12:51:17.830Z",
-   "lastSuccess": "2026-11-25T12:51:17.830Z",
-   "etag": "12c78814e536705d651c3896a9e643cb",
-   "lastModified": "Wed, 25 Nov 2026 12:43:41 GMT"
+   "checkedAt": "2026-11-25T14:19:46.601Z",
+   "lastSuccess": "2026-11-25T14:19:46.601Z",
+   "etag": "9d1decc40807edd7628417a03cee6d04",
+   "lastModified": "Wed, 25 Nov 2026 14:13:48 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T12:51:17.830Z",
-   "lastSuccess": "2026-11-25T12:51:17.830Z",
+   "checkedAt": "2026-11-25T14:19:46.601Z",
+   "lastSuccess": "2026-11-25T14:19:46.601Z",
    "etag": null,
    "lastModified": "Wed, 25 Nov 2026 10:33:47 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T12:51:17.830Z",
-   "lastSuccess": "2026-11-25T12:51:17.830Z",
-   "etag": "\"6a5d95d557177e4e149ae659d8751e6a\"",
-   "lastModified": "Wed, 25 Nov 2026 10:43:41 GMT"
+   "checkedAt": "2026-11-25T14:19:46.601Z",
+   "lastSuccess": "2026-11-25T14:19:46.601Z",
+   "etag": "W/\"eb49c10fc420d4bbcec31b2af6d8c1c1\"",
+   "lastModified": "Wed, 25 Nov 2026 14:15:29 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T12:51:17.830Z",
-   "lastSuccess": "2026-11-25T12:51:17.830Z",
+   "checkedAt": "2026-11-25T14:19:46.601Z",
+   "lastSuccess": "2026-11-25T14:19:46.601Z",
    "etag": null,
-   "lastModified": "Wed, 25 Nov 2026 12:51:18 GMT"
+   "lastModified": "Wed, 25 Nov 2026 14:19:47 GMT"
   },
   {
    "id": "cisa",
@@ -70,8 +70,8 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T12:51:17.830Z",
-   "lastSuccess": "2026-11-25T12:51:17.830Z",
+   "checkedAt": "2026-11-25T14:19:46.601Z",
+   "lastSuccess": "2026-11-25T14:19:46.601Z",
    "etag": null,
    "lastModified": null
   }
@@ -90,6 +90,90 @@
     "ai"
    ],
    "firstSeen": "2026-11-25T04:26:38.064Z"
+  },
+  {
+   "id": "c4f3b222e86a1fba",
+   "title": "ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties",
+   "url": "https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/",
+   "summary": "An account tied to ShinyHunters announced the group’s return, as Okta spots possible links between Inception and ShinyHunters hackers. The post ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-25T14:15:25.000Z",
+   "categories": [
+    "ransomware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-25T14:19:46.601Z"
+  },
+  {
+   "id": "6e88c7d778dbafc1",
+   "title": "Latin America Sees Cyberattacks on Ports, Pipelines & Manufacturing",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing",
+   "summary": "From the Port of Santos in Brazil to a pipeline in Argentina, cyberattacks are increasingly affecting industrial systems throughout the region.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-25T14:00:00.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-25T14:19:46.601Z"
+  },
+  {
+   "id": "df6e699f095b517c",
+   "title": "US Treasury’s FinCEN Disconnects Systems Following Cyber Incident",
+   "url": "https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/",
+   "summary": "FinCEN has extended deadlines for filers affected by the disruptions while it is investigating the incident. The post US Treasury’s FinCEN Disconnects Systems Following Cyber Incident appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-25T13:39:21.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-25T14:19:46.601Z"
+  },
+  {
+   "id": "dbebe18ca5cdfe8a",
+   "title": "Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget",
+   "url": "https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/",
+   "summary": "Matthew Martin is Chief Information Security and Privacy Officer at Western Carolina University. The post Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-25T13:30:00.000Z",
+   "categories": [
+    "breach"
+   ],
+   "firstSeen": "2026-11-25T14:19:46.601Z"
+  },
+  {
+   "id": "27873297949c895b",
+   "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
+   "summary": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below - CVE-2026-120705 (CVSS score: 8.6) - An arbitrary file read…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-25T12:48:54.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-25T14:19:46.601Z"
+  },
+  {
+   "id": "b72d4a699599c9ac",
+   "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
+   "url": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
+   "summary": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the bureau said on Tuesday. As a precaution, it has taken some systems offline. The…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-25T12:30:08.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-25T14:19:46.601Z"
   },
   {
    "id": "2d3fe69c638a5cda",
@@ -498,6 +582,20 @@
     "attack"
    ],
    "firstSeen": "2026-11-24T16:59:11.959Z"
+  },
+  {
+   "id": "d77a67e4b463a381",
+   "title": "How Southeastern University Got a Handle on Its Data",
+   "url": "https://www.darkreading.com/cybersecurity-operations/how-southeastern-university-handle-data",
+   "summary": "Data security posture management (DSPM) allowed the university to uncover sensitive information, tighten access controls, and lay the groundwork for safer AI adoption.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-24T15:46:46.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-25T14:19:46.601Z"
   },
   {
    "id": "441339d5102dc8d0",
@@ -2896,107 +2994,6 @@
     "phishing"
    ],
    "firstSeen": "2026-11-18T14:53:53.356Z"
-  },
-  {
-   "id": "d67ffdda4c529dbc",
-   "title": "Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization",
-   "url": "https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/",
-   "summary": "Star Blizzard weaponized data and identities stolen in late 2025 to phish and compromise a US organization. The post Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-18T13:33:47.000Z",
-   "categories": [
-    "breach",
-    "attack"
-   ],
-   "firstSeen": "2026-11-18T13:58:35.155Z"
-  },
-  {
-   "id": "a57b7354a0d4d31e",
-   "title": "Last of Five Defendants Sentenced in US Scattered Spider Hacking Case",
-   "url": "https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/",
-   "summary": "British national Tyler Robert Buchanan has been sentenced to 6 years in prison in the United States, the DOJ announced. The post Last of Five Defendants Sentenced in US Scattered Spider Hacking Case appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-18T13:19:32.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-18T13:58:35.155Z"
-  },
-  {
-   "id": "90f84e48047fe43a",
-   "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
-   "url": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
-   "summary": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universität Berlin say. That leaves short PINs open to guessing. In lab tests, the researchers found a four-digit…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-18T12:28:30.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-18T13:58:35.155Z"
-  },
-  {
-   "id": "e3f6e444c8dea912",
-   "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
-   "url": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
-   "summary": "TL;DR Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck added to its exploited list were hit on or before disclosure day. AI pentesting vendors aren't interchangeable. Most look…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-18T12:15:00.000Z",
-   "categories": [
-    "vuln",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-18T12:42:38.917Z"
-  },
-  {
-   "id": "c9cfccaa2ff51228",
-   "title": "Microsoft Takes Perception Agentic Security Platform Out of Preview",
-   "url": "https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/",
-   "summary": "Four blue team agents and the Recon Agent are now generally available, while integrations and vulnerability shielding are in preview. The post Microsoft Takes Perception Agentic Security Platform Out of Preview appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-18T12:14:23.000Z",
-   "categories": [
-    "vuln",
-    "ai"
-   ],
-   "firstSeen": "2026-11-18T12:42:38.917Z"
-  },
-  {
-   "id": "aedb90e607df0d51",
-   "title": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do",
-   "url": "https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/",
-   "summary": "Patti Degnan’s identity was stolen in 2006. It set her on a path to the CISO seat at endpoint security firm Glow. The post CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-18T12:00:00.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-18T12:42:38.917Z"
-  },
-  {
-   "id": "5966ac56e61b79d5",
-   "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
-   "url": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
-   "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week. The flaw is present in Java 17.0.6 and later, and the…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-18T11:55:49.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-18T05:57:17.125Z"
   }
  ]
 }
