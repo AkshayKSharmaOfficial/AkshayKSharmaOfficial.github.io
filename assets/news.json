@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-25T14:19:46.601Z",
- "lastAttempt": "2026-11-25T14:19:46.601Z",
+ "lastSuccess": "2026-11-25T15:33:44.742Z",
+ "lastAttempt": "2026-11-25T15:33:44.742Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T14:19:46.601Z",
-   "lastSuccess": "2026-11-25T14:19:46.601Z",
+   "checkedAt": "2026-11-25T15:33:44.742Z",
+   "lastSuccess": "2026-11-25T15:33:44.742Z",
    "etag": null,
-   "lastModified": "Wed, 25 Nov 2026 14:02:46 GMT"
+   "lastModified": "Wed, 25 Nov 2026 15:26:46 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T14:19:46.601Z",
-   "lastSuccess": "2026-11-25T14:19:46.601Z",
-   "etag": "9d1decc40807edd7628417a03cee6d04",
-   "lastModified": "Wed, 25 Nov 2026 14:13:48 GMT"
+   "checkedAt": "2026-11-25T15:33:44.742Z",
+   "lastSuccess": "2026-11-25T15:33:44.742Z",
+   "etag": "bfb5c6fdd390e8582fa8e7d90d2ede46",
+   "lastModified": "Wed, 25 Nov 2026 15:29:54 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T14:19:46.601Z",
-   "lastSuccess": "2026-11-25T14:19:46.601Z",
+   "checkedAt": "2026-11-25T15:33:44.742Z",
+   "lastSuccess": "2026-11-25T15:33:44.742Z",
    "etag": null,
    "lastModified": "Wed, 25 Nov 2026 10:33:47 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T14:19:46.601Z",
-   "lastSuccess": "2026-11-25T14:19:46.601Z",
-   "etag": "W/\"eb49c10fc420d4bbcec31b2af6d8c1c1\"",
-   "lastModified": "Wed, 25 Nov 2026 14:15:29 GMT"
+   "checkedAt": "2026-11-25T15:33:44.742Z",
+   "lastSuccess": "2026-11-25T15:33:44.742Z",
+   "etag": "W/\"53125853df2d956ea3fa8fd73f5415d3\"",
+   "lastModified": "Wed, 25 Nov 2026 15:27:40 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T14:19:46.601Z",
-   "lastSuccess": "2026-11-25T14:19:46.601Z",
+   "checkedAt": "2026-11-25T15:33:44.742Z",
+   "lastSuccess": "2026-11-25T15:33:44.742Z",
    "etag": null,
-   "lastModified": "Wed, 25 Nov 2026 14:19:47 GMT"
+   "lastModified": "Wed, 25 Nov 2026 15:33:45 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,69 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T14:19:46.601Z",
-   "lastSuccess": "2026-11-25T14:19:46.601Z",
+   "checkedAt": "2026-11-25T15:33:44.742Z",
+   "lastSuccess": "2026-11-25T15:33:44.742Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "7efdfdca69a01eef",
+   "title": "Two Newly Disclosed GeoServer Vulnerabilities Under Attack",
+   "url": "https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/",
+   "summary": "Attackers are probing GeoServer instances for two high-severity flaws that can be chained with other bugs for unauthenticated RCE. The post Two Newly Disclosed GeoServer Vulnerabilities Under Attack appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-25T15:27:36.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-25T15:33:44.742Z"
+  },
+  {
+   "id": "9488a865db05f78a",
+   "title": "It's a Bot World. We're Just Living in It",
+   "url": "https://www.darkreading.com/cyber-risk/bot-world-just-living",
+   "summary": "Bot detection has become a losing game. Security teams need to limit privileged access for humans and their machine counterparts equally.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-25T15:20:27.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-25T15:33:44.742Z"
+  },
+  {
+   "id": "04daa00ef39d1a4e",
+   "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
+   "url": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+   "summary": "Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad explains how AI can reduce this workload, help teams handle more engagements, and keep sensitive client data within their own…",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-25T15:00:10.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-25T15:33:44.742Z"
+  },
+  {
+   "id": "9545122a34a59466",
+   "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
+   "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+   "summary": "Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into products rather than code developed by the vendors themselves. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-25T15:00:00.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-25T15:33:44.742Z"
+  },
   {
    "id": "367bae174f5a346c",
    "title": "Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'",
@@ -2935,65 +2991,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-18T17:55:26.117Z"
-  },
-  {
-   "id": "dae62c8b875add9d",
-   "title": "Vero Security Raises $11 Million for AI Security Engineering Platform",
-   "url": "https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/",
-   "summary": "AI Security Engineering is a new and essential security discipline now being brought into focus by VeroSecurity. The post Vero Security Raises $11 Million for AI Security Engineering Platform appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-18T15:30:42.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-18T15:54:27.538Z"
-  },
-  {
-   "id": "9f58666bbaab02fc",
-   "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
-   "url": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
-   "summary": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains how stronger identity verification can help organizations…",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-18T15:00:10.000Z",
-   "categories": [
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-18T15:54:27.538Z"
-  },
-  {
-   "id": "16d1e418da7ea1b7",
-   "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
-   "url": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
-   "summary": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines. \"When attackers are exposed, the cheap response is to rotate,\" Bitdefender said…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-18T14:11:28.000Z",
-   "categories": [
-    "malware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-18T15:54:27.538Z"
-  },
-  {
-   "id": "1615ac0646dba75b",
-   "title": "Major Brazilian Signature Apps Enable RCE & Fraud",
-   "url": "https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud",
-   "summary": "Government-sanctioned authentication middleware is used for exceptionally important legal documents, yet it's often rife with RCE bugs.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-18T14:00:00.000Z",
-   "categories": [
-    "vuln",
-    "phishing"
-   ],
-   "firstSeen": "2026-11-18T14:53:53.356Z"
   }
  ]
 }
