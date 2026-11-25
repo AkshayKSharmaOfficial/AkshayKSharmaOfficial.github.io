@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-25T15:33:44.742Z",
- "lastAttempt": "2026-11-25T15:33:44.742Z",
+ "lastSuccess": "2026-11-25T16:47:00.801Z",
+ "lastAttempt": "2026-11-25T16:47:00.801Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T15:33:44.742Z",
-   "lastSuccess": "2026-11-25T15:33:44.742Z",
+   "checkedAt": "2026-11-25T16:47:00.801Z",
+   "lastSuccess": "2026-11-25T16:47:00.801Z",
    "etag": null,
-   "lastModified": "Wed, 25 Nov 2026 15:26:46 GMT"
+   "lastModified": "Wed, 25 Nov 2026 16:41:51 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T15:33:44.742Z",
-   "lastSuccess": "2026-11-25T15:33:44.742Z",
-   "etag": "bfb5c6fdd390e8582fa8e7d90d2ede46",
-   "lastModified": "Wed, 25 Nov 2026 15:29:54 GMT"
+   "checkedAt": "2026-11-25T16:47:00.801Z",
+   "lastSuccess": "2026-11-25T16:47:00.801Z",
+   "etag": "bea2ccd42a2404410626fe6b124fe2c3",
+   "lastModified": "Wed, 25 Nov 2026 16:43:41 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T15:33:44.742Z",
-   "lastSuccess": "2026-11-25T15:33:44.742Z",
+   "checkedAt": "2026-11-25T16:47:00.801Z",
+   "lastSuccess": "2026-11-25T16:47:00.801Z",
    "etag": null,
    "lastModified": "Wed, 25 Nov 2026 10:33:47 GMT"
   },
@@ -43,11 +43,11 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T15:33:44.742Z",
-   "lastSuccess": "2026-11-25T15:33:44.742Z",
+   "checkedAt": "2026-11-25T16:47:00.801Z",
+   "lastSuccess": "2026-11-25T16:47:00.801Z",
    "etag": "W/\"53125853df2d956ea3fa8fd73f5415d3\"",
    "lastModified": "Wed, 25 Nov 2026 15:27:40 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T15:33:44.742Z",
-   "lastSuccess": "2026-11-25T15:33:44.742Z",
+   "checkedAt": "2026-11-25T16:47:00.801Z",
+   "lastSuccess": "2026-11-25T16:47:00.801Z",
    "etag": null,
-   "lastModified": "Wed, 25 Nov 2026 15:33:45 GMT"
+   "lastModified": "Wed, 25 Nov 2026 16:47:02 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,42 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T15:33:44.742Z",
-   "lastSuccess": "2026-11-25T15:33:44.742Z",
+   "checkedAt": "2026-11-25T16:47:00.801Z",
+   "lastSuccess": "2026-11-25T16:47:00.801Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "33b096a4b11127e7",
+   "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
+   "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial refrigeration, HVAC, and lighting systems. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-25T16:13:40.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-25T16:47:00.801Z"
+  },
+  {
+   "id": "bb8505d640a9fc9c",
+   "title": "Attackers Target .NET Developers With Poisoned Job Assessments",
+   "url": "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments",
+   "summary": "Researchers discovered 13 malicious NuGet packages as part of a fake recruitment campaign that spreads malware and gives attackers access to developers' machines.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-25T15:48:04.000Z",
+   "categories": [
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-25T16:47:00.801Z"
+  },
   {
    "id": "7efdfdca69a01eef",
    "title": "Two Newly Disclosed GeoServer Vulnerabilities Under Attack",
@@ -2961,36 +2990,6 @@
     "vuln"
    ],
    "firstSeen": "2026-11-18T19:54:03.874Z"
-  },
-  {
-   "id": "1e0b085dfc4e9c3b",
-   "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
-   "url": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
-   "summary": "Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-18T16:58:42.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-18T17:55:26.117Z"
-  },
-  {
-   "id": "49f977f56baf910c",
-   "title": "Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem",
-   "url": "https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem",
-   "summary": "Discovered using AI, the memory corruption vulnerability affects the OpenJDK runtime and could allow unauthenticated attackers to take over systems.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-18T16:54:52.000Z",
-   "categories": [
-    "vuln",
-    "ai",
-    "attack"
-   ],
-   "firstSeen": "2026-11-18T17:55:26.117Z"
   }
  ]
 }
