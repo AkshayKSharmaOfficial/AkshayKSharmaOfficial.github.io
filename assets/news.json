@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-25T21:53:40.263Z",
- "lastAttempt": "2026-11-25T21:53:40.263Z",
+ "lastSuccess": "2026-11-25T22:50:09.569Z",
+ "lastAttempt": "2026-11-25T22:50:09.569Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T21:53:40.263Z",
-   "lastSuccess": "2026-11-25T21:53:40.263Z",
+   "checkedAt": "2026-11-25T22:50:09.569Z",
+   "lastSuccess": "2026-11-25T22:50:09.569Z",
    "etag": null,
-   "lastModified": "Wed, 25 Nov 2026 21:22:09 GMT"
+   "lastModified": "Wed, 25 Nov 2026 22:08:12 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T21:53:40.263Z",
-   "lastSuccess": "2026-11-25T21:53:40.263Z",
-   "etag": "350a552343e13657979f2a099a236e25",
-   "lastModified": "Wed, 25 Nov 2026 21:53:35 GMT"
+   "checkedAt": "2026-11-25T22:50:09.569Z",
+   "lastSuccess": "2026-11-25T22:50:09.569Z",
+   "etag": "37fd361b137960fdcffcd9d1668a551c",
+   "lastModified": "Wed, 25 Nov 2026 22:45:12 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T21:53:40.263Z",
-   "lastSuccess": "2026-11-25T21:53:40.263Z",
+   "checkedAt": "2026-11-25T22:50:09.569Z",
+   "lastSuccess": "2026-11-25T22:50:09.569Z",
    "etag": null,
-   "lastModified": "Wed, 25 Nov 2026 17:35:31 GMT"
+   "lastModified": "Wed, 25 Nov 2026 22:46:49 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T21:53:40.263Z",
-   "lastSuccess": "2026-11-25T21:53:40.263Z",
+   "checkedAt": "2026-11-25T22:50:09.569Z",
+   "lastSuccess": "2026-11-25T22:50:09.569Z",
    "etag": "W/\"53125853df2d956ea3fa8fd73f5415d3\"",
    "lastModified": "Wed, 25 Nov 2026 15:27:40 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T21:53:40.263Z",
-   "lastSuccess": "2026-11-25T21:53:40.263Z",
+   "checkedAt": "2026-11-25T22:50:09.569Z",
+   "lastSuccess": "2026-11-25T22:50:09.569Z",
    "etag": null,
-   "lastModified": "Wed, 25 Nov 2026 21:53:41 GMT"
+   "lastModified": "Wed, 25 Nov 2026 22:50:11 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T21:53:40.263Z",
-   "lastSuccess": "2026-11-25T21:53:40.263Z",
+   "checkedAt": "2026-11-25T22:50:09.569Z",
+   "lastSuccess": "2026-11-25T22:50:09.569Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "74d46a76216c3842",
+   "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+   "summary": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-25T22:05:09.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-25T22:50:09.569Z"
+  },
   {
    "id": "aab1a5ea8399bd6d",
    "title": "1Password customer data stolen after employee GitHub account breach",
@@ -2976,21 +2991,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-18T20:49:00.232Z"
-  },
-  {
-   "id": "dbaa5bb3885aa8d2",
-   "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
-   "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
-   "summary": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-18T19:39:33.000Z",
-   "categories": [
-    "breach",
-    "attack"
-   ],
-   "firstSeen": "2026-11-18T19:54:03.874Z"
   }
  ]
 }
