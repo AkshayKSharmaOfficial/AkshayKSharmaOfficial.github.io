@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-25T08:16:58.441Z",
- "lastAttempt": "2026-11-25T08:16:58.441Z",
+ "lastSuccess": "2026-11-25T09:44:52.496Z",
+ "lastAttempt": "2026-11-25T09:44:52.496Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T08:16:58.441Z",
-   "lastSuccess": "2026-11-25T08:16:58.441Z",
+   "checkedAt": "2026-11-25T09:44:52.496Z",
+   "lastSuccess": "2026-11-25T09:44:52.496Z",
    "etag": null,
-   "lastModified": "Wed, 25 Nov 2026 08:01:53 GMT"
+   "lastModified": "Wed, 25 Nov 2026 09:42:50 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T08:16:58.441Z",
-   "lastSuccess": "2026-11-25T08:16:58.441Z",
-   "etag": "2ab2bbed0092dfe0c99d00adc951dfd6",
-   "lastModified": "Wed, 25 Nov 2026 08:15:10 GMT"
+   "checkedAt": "2026-11-25T09:44:52.496Z",
+   "lastSuccess": "2026-11-25T09:44:52.496Z",
+   "etag": "ec35df96c3e3cab31df9c1de683673b5",
+   "lastModified": "Wed, 25 Nov 2026 09:33:03 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T08:16:58.441Z",
-   "lastSuccess": "2026-11-25T08:16:58.441Z",
+   "checkedAt": "2026-11-25T09:44:52.496Z",
+   "lastSuccess": "2026-11-25T09:44:52.496Z",
    "etag": null,
    "lastModified": "Wed, 25 Nov 2026 04:14:20 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T08:16:58.441Z",
-   "lastSuccess": "2026-11-25T08:16:58.441Z",
-   "etag": "W/\"d8d50d62a3e9f89a0cb675c0a90e3476\"",
-   "lastModified": "Wed, 25 Nov 2026 08:12:29 GMT"
+   "checkedAt": "2026-11-25T09:44:52.496Z",
+   "lastSuccess": "2026-11-25T09:44:52.496Z",
+   "etag": "\"160317e2dd500c754d772fd1bfc2b6aa\"",
+   "lastModified": "Wed, 25 Nov 2026 09:14:20 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T08:16:58.441Z",
-   "lastSuccess": "2026-11-25T08:16:58.441Z",
+   "checkedAt": "2026-11-25T09:44:52.496Z",
+   "lastSuccess": "2026-11-25T09:44:52.496Z",
    "etag": null,
-   "lastModified": "Wed, 25 Nov 2026 08:16:59 GMT"
+   "lastModified": "Wed, 25 Nov 2026 09:44:52 GMT"
   },
   {
    "id": "cisa",
@@ -70,8 +70,8 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-25T08:16:58.441Z",
-   "lastSuccess": "2026-11-25T08:16:58.441Z",
+   "checkedAt": "2026-11-25T09:44:52.496Z",
+   "lastSuccess": "2026-11-25T09:44:52.496Z",
    "etag": null,
    "lastModified": null
   }
@@ -90,6 +90,50 @@
     "ai"
    ],
    "firstSeen": "2026-11-25T04:26:38.064Z"
+  },
+  {
+   "id": "c4aa0fb847865c57",
+   "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
+   "url": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
+   "summary": "An attacker ran operating system commands on Monday on six production servers of Hex.pm, the package registry that Elixir and Erlang developers fetch their dependencies from. The flaw used in the attack had been in the registry's code since February 2016, and the team that…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-25T09:06:59.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-25T09:44:52.496Z"
+  },
+  {
+   "id": "5fd2bcccc39d95d0",
+   "title": "Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library",
+   "url": "https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/",
+   "summary": "Attackers can exploit CVE-2026-131914 to achieve remote code execution via a single web request containing specially crafted data. The post Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-25T09:05:13.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-25T09:44:52.496Z"
+  },
+  {
+   "id": "b433ec76d4e6ad6b",
+   "title": "Microsoft confirms authentication issues after November updates",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
+   "summary": "Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-25T09:02:57.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-25T09:44:52.496Z"
   },
   {
    "id": "6450d5406898cdfa",
@@ -2959,47 +3003,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-18T11:41:30.831Z"
-  },
-  {
-   "id": "89666a3016568a27",
-   "title": "Microsoft announces Windows Server 2028 with hardened security",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
-   "summary": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-18T09:24:31.000Z",
-   "categories": [],
-   "firstSeen": "2026-11-18T09:40:27.098Z"
-  },
-  {
-   "id": "f2df99f3496147ea",
-   "title": "Oracle Patches 950 Vulnerabilities With November 2026 CSPU",
-   "url": "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
-   "summary": "Over 300 patches address unauthenticated, remotely exploitable flaws, while 62 fix critical-severity flaws. The post Oracle Patches 950 Vulnerabilities With November 2026 CSPU appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-18T08:47:18.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-18T09:40:27.098Z"
-  },
-  {
-   "id": "eeab189c34751318",
-   "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
-   "url": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to its Known Exploited Vulnerabilities (KEV) catalog, citing…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-18T08:24:31.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-18T10:42:28.443Z"
   }
  ]
 }
