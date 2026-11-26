@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-26T19:58:51.172Z",
- "lastAttempt": "2026-11-26T19:58:51.172Z",
+ "lastSuccess": "2026-11-26T20:55:44.829Z",
+ "lastAttempt": "2026-11-26T20:55:44.829Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T19:58:51.172Z",
-   "lastSuccess": "2026-11-26T19:58:51.172Z",
+   "checkedAt": "2026-11-26T20:55:44.829Z",
+   "lastSuccess": "2026-11-26T20:55:44.829Z",
    "etag": null,
-   "lastModified": "Thu, 26 Nov 2026 19:26:01 GMT"
+   "lastModified": "Thu, 26 Nov 2026 20:55:20 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T19:58:51.172Z",
-   "lastSuccess": "2026-11-26T19:58:51.172Z",
-   "etag": "a9d38d2365aa375ed70bad41eb481ca8",
-   "lastModified": "Thu, 26 Nov 2026 19:58:32 GMT"
+   "checkedAt": "2026-11-26T20:55:44.829Z",
+   "lastSuccess": "2026-11-26T20:55:44.829Z",
+   "etag": "b64268fefe1ca6a1c622af4cc987a233",
+   "lastModified": "Thu, 26 Nov 2026 20:48:32 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T19:58:51.172Z",
-   "lastSuccess": "2026-11-26T19:58:51.172Z",
+   "checkedAt": "2026-11-26T20:55:44.829Z",
+   "lastSuccess": "2026-11-26T20:55:44.829Z",
    "etag": null,
    "lastModified": "Thu, 26 Nov 2026 19:42:23 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T19:58:51.172Z",
-   "lastSuccess": "2026-11-26T19:58:51.172Z",
+   "checkedAt": "2026-11-26T20:55:44.829Z",
+   "lastSuccess": "2026-11-26T20:55:44.829Z",
    "etag": "\"e81f1633b43dd691b407863c6c6b1695\"",
    "lastModified": "Thu, 26 Nov 2026 17:07:32 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T19:58:51.172Z",
-   "lastSuccess": "2026-11-26T19:58:51.172Z",
+   "checkedAt": "2026-11-26T20:55:44.829Z",
+   "lastSuccess": "2026-11-26T20:55:44.829Z",
    "etag": null,
-   "lastModified": "Thu, 26 Nov 2026 19:58:51 GMT"
+   "lastModified": "Thu, 26 Nov 2026 20:55:45 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T19:58:51.172Z",
-   "lastSuccess": "2026-11-26T19:58:51.172Z",
+   "checkedAt": "2026-11-26T20:55:44.829Z",
+   "lastSuccess": "2026-11-26T20:55:44.829Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "0b75246ced860331",
+   "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+   "url": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+   "summary": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install one can change what it does. Checking whether software…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-26T19:39:57.000Z",
+   "categories": [
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-26T20:55:44.829Z"
+  },
   {
    "id": "b510f66bd1369a7f",
    "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
@@ -2977,18 +2992,6 @@
    "categories": [
     "vuln"
    ],
-   "firstSeen": "2026-11-19T10:59:31.672Z"
-  },
-  {
-   "id": "88cdddb27d0a1d90",
-   "title": "Microsoft confirms app installation, launch issues after hotpatch",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
-   "summary": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-19T10:35:05.000Z",
-   "categories": [],
    "firstSeen": "2026-11-19T10:59:31.672Z"
   }
  ]
