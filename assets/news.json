@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-26T07:13:58.779Z",
- "lastAttempt": "2026-11-26T07:13:58.779Z",
+ "lastSuccess": "2026-11-26T08:40:45.925Z",
+ "lastAttempt": "2026-11-26T08:40:45.925Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T07:13:58.779Z",
-   "lastSuccess": "2026-11-26T07:13:58.779Z",
+   "checkedAt": "2026-11-26T08:40:45.925Z",
+   "lastSuccess": "2026-11-26T08:40:45.925Z",
    "etag": null,
-   "lastModified": "Thu, 26 Nov 2026 06:42:57 GMT"
+   "lastModified": "Thu, 26 Nov 2026 08:01:19 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T07:13:58.779Z",
-   "lastSuccess": "2026-11-26T07:13:58.779Z",
-   "etag": "8af4cc3fd309c8bed950382d2d769ce0",
-   "lastModified": "Thu, 26 Nov 2026 07:05:24 GMT"
+   "checkedAt": "2026-11-26T08:40:45.925Z",
+   "lastSuccess": "2026-11-26T08:40:45.925Z",
+   "etag": "e5fd15f256c174f163492a7b6fa605ed",
+   "lastModified": "Thu, 26 Nov 2026 08:35:27 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T07:13:58.779Z",
-   "lastSuccess": "2026-11-26T07:13:58.779Z",
+   "checkedAt": "2026-11-26T08:40:45.925Z",
+   "lastSuccess": "2026-11-26T08:40:45.925Z",
    "etag": null,
    "lastModified": "Thu, 26 Nov 2026 07:05:33 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T07:13:58.779Z",
-   "lastSuccess": "2026-11-26T07:13:58.779Z",
-   "etag": "W/\"53125853df2d956ea3fa8fd73f5415d3\"",
-   "lastModified": "Wed, 25 Nov 2026 15:27:40 GMT"
+   "checkedAt": "2026-11-26T08:40:45.925Z",
+   "lastSuccess": "2026-11-26T08:40:45.925Z",
+   "etag": "W/\"7dd773edba0897667c555b592988b216\"",
+   "lastModified": "Thu, 26 Nov 2026 08:32:36 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T07:13:58.779Z",
-   "lastSuccess": "2026-11-26T07:13:58.779Z",
+   "checkedAt": "2026-11-26T08:40:45.925Z",
+   "lastSuccess": "2026-11-26T08:40:45.925Z",
    "etag": null,
-   "lastModified": "Thu, 26 Nov 2026 07:13:59 GMT"
+   "lastModified": "Thu, 26 Nov 2026 08:40:46 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,72 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T07:13:58.779Z",
-   "lastSuccess": "2026-11-26T07:13:58.779Z",
+   "checkedAt": "2026-11-26T08:40:45.925Z",
+   "lastSuccess": "2026-11-26T08:40:45.925Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "b56769afbcbbf16f",
+   "title": "1Password Breach Exposes Customer Data, Internal Source Code",
+   "url": "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/",
+   "summary": "A hacker used a compromised employee GitHub account to push malicious code and steal customer records, but vaults were not accessed. The post 1Password Breach Exposes Customer Data, Internal Source Code appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-26T08:32:10.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-26T08:40:45.925Z"
+  },
+  {
+   "id": "36c1ca1b0f9c9f19",
+   "title": "Cyprus Becomes Espionage Target for Iranian Hackers",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers",
+   "summary": "A previously undocumented Iranian threat group called \"Volant Manticore\" is targeting Cypriot organizations as part of an intelligence-gathering effort for Tehran.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-26T08:00:00.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-26T08:40:45.925Z"
+  },
+  {
+   "id": "61e3be14c2b6cad9",
+   "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+   "url": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+   "summary": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checking for unusual or exceptional…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-26T07:02:34.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-26T08:40:45.925Z"
+  },
+  {
+   "id": "451f3a785e324bf1",
+   "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that were disclosed last week. The Mitel MiCollab vulnerabilities…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-26T06:44:46.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-26T08:40:45.925Z"
+  },
   {
    "id": "5e5b0d3bb248d414",
    "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
@@ -2108,20 +2167,6 @@
    "firstSeen": "2026-11-20T12:43:30.628Z"
   },
   {
-   "id": "b18719ed382d67da",
-   "title": "The Path to AI Autonomy in the SOC",
-   "url": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
-   "summary": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk security actions. In 12 months from now, 60%…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-20T12:00:00.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-20T12:43:30.628Z"
-  },
-  {
    "id": "697d279eec8883e3",
    "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
    "url": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog",
@@ -2135,6 +2180,20 @@
     "vuln"
    ],
    "firstSeen": "2026-11-20T19:55:22.437Z"
+  },
+  {
+   "id": "b18719ed382d67da",
+   "title": "The Path to AI Autonomy in the SOC",
+   "url": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
+   "summary": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk security actions. In 12 months from now, 60%…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-20T12:00:00.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-20T12:43:30.628Z"
   },
   {
    "id": "1f20f6eebe5aa294",
@@ -2932,65 +2991,6 @@
     "vuln"
    ],
    "firstSeen": "2026-11-19T04:58:15.953Z"
-  },
-  {
-   "id": "0224da5af1883d5f",
-   "title": "Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion",
-   "url": "https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/",
-   "summary": "The all-stock deal will give the cybersecurity company a platform for fine-tuning and running open-weight AI models in public and sovereign clouds. The post Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-19T03:25:23.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-19T03:52:11.319Z"
-  },
-  {
-   "id": "7bb371abd97fc20f",
-   "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
-   "url": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
-   "summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-18T23:08:33.000Z",
-   "categories": [
-    "ransomware"
-   ],
-   "firstSeen": "2026-11-18T23:45:14.314Z"
-  },
-  {
-   "id": "318d988adfa09705",
-   "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
-   "url": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
-   "summary": "The state-sponsored threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-18T21:59:46.000Z",
-   "categories": [
-    "breach",
-    "phishing",
-    "attack"
-   ],
-   "firstSeen": "2026-11-18T22:47:05.506Z"
-  },
-  {
-   "id": "35974bbd470a4570",
-   "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
-   "url": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
-   "summary": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-18T20:49:32.000Z",
-   "categories": [
-    "phishing",
-    "ai"
-   ],
-   "firstSeen": "2026-11-18T21:47:43.977Z"
   }
  ]
 }
