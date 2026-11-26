@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-26T10:55:14.762Z",
- "lastAttempt": "2026-11-26T10:55:14.762Z",
+ "lastSuccess": "2026-11-26T11:55:21.357Z",
+ "lastAttempt": "2026-11-26T11:55:21.357Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T10:55:14.762Z",
-   "lastSuccess": "2026-11-26T10:55:14.762Z",
+   "checkedAt": "2026-11-26T11:55:21.357Z",
+   "lastSuccess": "2026-11-26T11:55:21.357Z",
    "etag": null,
-   "lastModified": "Thu, 26 Nov 2026 10:35:54 GMT"
+   "lastModified": "Thu, 26 Nov 2026 11:44:39 GMT"
   },
   {
    "id": "bleeping",
@@ -22,34 +22,34 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T10:55:14.762Z",
-   "lastSuccess": "2026-11-26T10:55:14.762Z",
-   "etag": "fb92243c591a7cbecfd5886604d98a20",
-   "lastModified": "Thu, 26 Nov 2026 10:45:28 GMT"
+   "checkedAt": "2026-11-26T11:55:21.357Z",
+   "lastSuccess": "2026-11-26T11:55:21.357Z",
+   "etag": "ad23fde0e94a6596d29d604cf36a9117",
+   "lastModified": "Thu, 26 Nov 2026 11:50:17 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T10:55:14.762Z",
-   "lastSuccess": "2026-11-26T10:55:14.762Z",
+   "checkedAt": "2026-11-26T11:55:21.357Z",
+   "lastSuccess": "2026-11-26T11:55:21.357Z",
    "etag": null,
-   "lastModified": "Thu, 26 Nov 2026 07:05:33 GMT"
+   "lastModified": "Thu, 26 Nov 2026 11:44:04 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T10:55:14.762Z",
-   "lastSuccess": "2026-11-26T10:55:14.762Z",
-   "etag": "\"b0ae7fce8a6c93abdf5e8853357b18cb\"",
-   "lastModified": "Thu, 26 Nov 2026 09:12:31 GMT"
+   "checkedAt": "2026-11-26T11:55:21.357Z",
+   "lastSuccess": "2026-11-26T11:55:21.357Z",
+   "etag": "\"e64ed1ca9bbccaf0e54e99778ebd8405\"",
+   "lastModified": "Thu, 26 Nov 2026 11:35:31 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T10:55:14.762Z",
-   "lastSuccess": "2026-11-26T10:55:14.762Z",
+   "checkedAt": "2026-11-26T11:55:21.357Z",
+   "lastSuccess": "2026-11-26T11:55:21.357Z",
    "etag": null,
-   "lastModified": "Thu, 26 Nov 2026 10:55:14 GMT"
+   "lastModified": "Thu, 26 Nov 2026 11:55:21 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,73 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T10:55:14.762Z",
-   "lastSuccess": "2026-11-26T10:55:14.762Z",
+   "checkedAt": "2026-11-26T11:55:21.357Z",
+   "lastSuccess": "2026-11-26T11:55:21.357Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "fa5b4223c1e37ae2",
+   "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+   "url": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+   "summary": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and Outlook emails. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-26T11:50:17.000Z",
+   "categories": [
+    "malware"
+   ],
+   "firstSeen": "2026-11-26T11:55:21.357Z"
+  },
+  {
+   "id": "4d885c3460c8bb42",
+   "title": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
+   "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
+   "summary": "Accenture says hackers exploited MiCollab flaws before Mitel’s advisory, likely aided by AI, in a suspected extortion campaign. The post Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-26T11:35:25.000Z",
+   "categories": [
+    "vuln",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-26T11:55:21.357Z"
+  },
+  {
+   "id": "54cc21ceab246c65",
+   "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+   "url": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+   "summary": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to know about. At Push Security, we measure this as…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-26T10:57:55.000Z",
+   "categories": [
+    "phishing",
+    "attack"
+   ],
+   "firstSeen": "2026-11-26T11:55:21.357Z"
+  },
+  {
+   "id": "5e5b0d3bb248d414",
+   "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+   "url": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+   "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed. \"While we…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-26T10:57:25.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-26T05:56:52.353Z"
+  },
   {
    "id": "cafed3bc53183aef",
    "title": "Drupal Installer Patch Left a Gap Attackers Are Already Exploiting",
@@ -150,21 +210,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-26T08:40:45.925Z"
-  },
-  {
-   "id": "5e5b0d3bb248d414",
-   "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
-   "url": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
-   "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed. \"While we…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-26T04:20:22.000Z",
-   "categories": [
-    "breach",
-    "attack"
-   ],
-   "firstSeen": "2026-11-26T05:56:52.353Z"
   },
   {
    "id": "8720d53f46442204",
@@ -2948,50 +2993,6 @@
     "vuln"
    ],
    "firstSeen": "2026-11-19T09:57:31.859Z"
-  },
-  {
-   "id": "36246bca53424b67",
-   "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
-   "url": "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge",
-   "summary": "Nigeria faced more than double the cyber threats of the previous year, with Angola and Kenya also in the top 5 most-attacked countries globally.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-19T08:00:00.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-19T08:45:30.381Z"
-  },
-  {
-   "id": "dd71654a2f478334",
-   "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
-   "url": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap) to its Known Exploited…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-19T08:00:00.000Z",
-   "categories": [
-    "ransomware",
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-19T10:59:31.672Z"
-  },
-  {
-   "id": "99e978dd631f5742",
-   "title": "PHP Readies Critical Security Updates to Patch Another RCE Flaw",
-   "url": "https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/",
-   "summary": "Affecting the session upload progress, CVE-2026-115560 was publicly disclosed two days after PHP2Shell patches landed. The post PHP Readies Critical Security Updates to Patch Another RCE Flaw appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-19T07:45:17.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-19T08:45:30.381Z"
   }
  ]
 }
