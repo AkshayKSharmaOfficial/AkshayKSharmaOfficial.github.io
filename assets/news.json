@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-26T11:55:21.357Z",
- "lastAttempt": "2026-11-26T11:55:21.357Z",
+ "lastSuccess": "2026-11-26T13:09:41.416Z",
+ "lastAttempt": "2026-11-26T13:09:41.416Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T11:55:21.357Z",
-   "lastSuccess": "2026-11-26T11:55:21.357Z",
+   "checkedAt": "2026-11-26T13:09:41.416Z",
+   "lastSuccess": "2026-11-26T13:09:41.416Z",
    "etag": null,
-   "lastModified": "Thu, 26 Nov 2026 11:44:39 GMT"
+   "lastModified": "Thu, 26 Nov 2026 12:58:39 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T11:55:21.357Z",
-   "lastSuccess": "2026-11-26T11:55:21.357Z",
-   "etag": "ad23fde0e94a6596d29d604cf36a9117",
-   "lastModified": "Thu, 26 Nov 2026 11:50:17 GMT"
+   "checkedAt": "2026-11-26T13:09:41.416Z",
+   "lastSuccess": "2026-11-26T13:09:41.416Z",
+   "etag": "5b1fe09c2f9d51f31323e6495cc5780f",
+   "lastModified": "Thu, 26 Nov 2026 13:00:17 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T11:55:21.357Z",
-   "lastSuccess": "2026-11-26T11:55:21.357Z",
+   "checkedAt": "2026-11-26T13:09:41.416Z",
+   "lastSuccess": "2026-11-26T13:09:41.416Z",
    "etag": null,
    "lastModified": "Thu, 26 Nov 2026 11:44:04 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T11:55:21.357Z",
-   "lastSuccess": "2026-11-26T11:55:21.357Z",
-   "etag": "\"e64ed1ca9bbccaf0e54e99778ebd8405\"",
-   "lastModified": "Thu, 26 Nov 2026 11:35:31 GMT"
+   "checkedAt": "2026-11-26T13:09:41.416Z",
+   "lastSuccess": "2026-11-26T13:09:41.416Z",
+   "etag": "W/\"1a06f8e7139ce1e73d874518813b5226\"",
+   "lastModified": "Thu, 26 Nov 2026 13:05:18 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T11:55:21.357Z",
-   "lastSuccess": "2026-11-26T11:55:21.357Z",
+   "checkedAt": "2026-11-26T13:09:41.416Z",
+   "lastSuccess": "2026-11-26T13:09:41.416Z",
    "etag": null,
-   "lastModified": "Thu, 26 Nov 2026 11:55:21 GMT"
+   "lastModified": "Thu, 26 Nov 2026 13:09:41 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T11:55:21.357Z",
-   "lastSuccess": "2026-11-26T11:55:21.357Z",
+   "checkedAt": "2026-11-26T13:09:41.416Z",
+   "lastSuccess": "2026-11-26T13:09:41.416Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "4ba2b35cce64f5b2",
+   "title": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
+   "url": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/",
+   "summary": "Tracked as CVE-2026-103406, the vulnerability allows remote attackers to execute arbitrary commands as root. The post Critical Juniper Session Smart Conductor Flaw Exploited in Attacks appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-26T13:04:06.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-26T13:09:41.416Z"
+  },
   {
    "id": "fa5b4223c1e37ae2",
    "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
@@ -2975,20 +2990,6 @@
    "sourceId": "thn",
    "kind": "media",
    "published": "2026-11-19T08:42:11.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-19T09:57:31.859Z"
-  },
-  {
-   "id": "3914c4d93285bf93",
-   "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
-   "url": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
-   "summary": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behind ordinary SQL. The exploits, published yesterday, are the…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-19T08:14:00.000Z",
    "categories": [
     "vuln"
    ],
