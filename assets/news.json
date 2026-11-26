@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-26T16:46:24.514Z",
- "lastAttempt": "2026-11-26T16:46:24.514Z",
+ "lastSuccess": "2026-11-26T17:51:15.815Z",
+ "lastAttempt": "2026-11-26T17:51:15.815Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T16:46:24.514Z",
-   "lastSuccess": "2026-11-26T16:46:24.514Z",
+   "checkedAt": "2026-11-26T17:51:15.815Z",
+   "lastSuccess": "2026-11-26T17:51:15.815Z",
    "etag": null,
-   "lastModified": "Thu, 26 Nov 2026 16:04:52 GMT"
+   "lastModified": "Thu, 26 Nov 2026 17:49:20 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T16:46:24.514Z",
-   "lastSuccess": "2026-11-26T16:46:24.514Z",
-   "etag": "97fdb18bc0def95d6d11355c4cbe8cd9",
-   "lastModified": "Thu, 26 Nov 2026 16:40:17 GMT"
+   "checkedAt": "2026-11-26T17:51:15.815Z",
+   "lastSuccess": "2026-11-26T17:51:15.815Z",
+   "etag": "e76d35a6eed1cf64fc48104892523065",
+   "lastModified": "Thu, 26 Nov 2026 17:48:50 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T16:46:24.514Z",
-   "lastSuccess": "2026-11-26T16:46:24.514Z",
+   "checkedAt": "2026-11-26T17:51:15.815Z",
+   "lastSuccess": "2026-11-26T17:51:15.815Z",
    "etag": null,
-   "lastModified": "Thu, 26 Nov 2026 15:22:05 GMT"
+   "lastModified": "Thu, 26 Nov 2026 17:50:04 GMT"
   },
   {
    "id": "securityweek",
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T16:46:24.514Z",
-   "lastSuccess": "2026-11-26T16:46:24.514Z",
-   "etag": "W/\"6a24c4862dfd7680a5cdf49a3ef65565\"",
-   "lastModified": "Thu, 26 Nov 2026 16:38:39 GMT"
+   "checkedAt": "2026-11-26T17:51:15.815Z",
+   "lastSuccess": "2026-11-26T17:51:15.815Z",
+   "etag": "\"e81f1633b43dd691b407863c6c6b1695\"",
+   "lastModified": "Thu, 26 Nov 2026 17:07:32 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T16:46:24.514Z",
-   "lastSuccess": "2026-11-26T16:46:24.514Z",
+   "checkedAt": "2026-11-26T17:51:15.815Z",
+   "lastSuccess": "2026-11-26T17:51:15.815Z",
    "etag": null,
-   "lastModified": "Thu, 26 Nov 2026 16:46:24 GMT"
+   "lastModified": "Thu, 26 Nov 2026 17:51:16 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,41 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T16:46:24.514Z",
-   "lastSuccess": "2026-11-26T16:46:24.514Z",
+   "checkedAt": "2026-11-26T17:51:15.815Z",
+   "lastSuccess": "2026-11-26T17:51:15.815Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "ce082820261970e8",
+   "title": "Fake paid expert interviews impersonate brands to steal Google logins",
+   "url": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
+   "summary": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews and webinars. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-26T17:15:27.000Z",
+   "categories": [
+    "phishing"
+   ],
+   "firstSeen": "2026-11-26T17:51:15.815Z"
+  },
+  {
+   "id": "64b3d030b3f49e9d",
+   "title": "FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’",
+   "url": "https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/",
+   "summary": "FIFA didn’t say when the cyberattack took place, or the precise nature of the hacked information. The post FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’ appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-26T17:06:55.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-26T17:51:15.815Z"
+  },
   {
    "id": "4d78d175aa00eb7f",
    "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
@@ -2965,36 +2993,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-19T10:59:31.672Z"
-  },
-  {
-   "id": "6ebe391a8b41bbc0",
-   "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
-   "url": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
-   "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We have taken steps to mitigate the threat and are continuing to…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-19T09:31:26.000Z",
-   "categories": [
-    "breach",
-    "attack"
-   ],
-   "firstSeen": "2026-11-19T10:59:31.672Z"
-  },
-  {
-   "id": "88283576a7d5e922",
-   "title": "NVIDIA investigating Gentlemen ransomware breach claims",
-   "url": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
-   "summary": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-19T09:23:21.000Z",
-   "categories": [
-    "ransomware",
-    "breach"
-   ],
-   "firstSeen": "2026-11-19T09:57:31.859Z"
   }
  ]
 }
