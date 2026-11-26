@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-26T03:31:01.123Z",
- "lastAttempt": "2026-11-26T03:31:01.123Z",
+ "lastSuccess": "2026-11-26T04:48:19.515Z",
+ "lastAttempt": "2026-11-26T04:48:19.515Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T03:31:01.123Z",
-   "lastSuccess": "2026-11-26T03:31:01.123Z",
+   "checkedAt": "2026-11-26T04:48:19.515Z",
+   "lastSuccess": "2026-11-26T04:48:19.515Z",
    "etag": null,
-   "lastModified": "Thu, 26 Nov 2026 02:46:36 GMT"
+   "lastModified": "Thu, 26 Nov 2026 04:12:34 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T03:31:01.123Z",
-   "lastSuccess": "2026-11-26T03:31:01.123Z",
-   "etag": "9d3589f4205282f5643ed172e41882c7",
-   "lastModified": "Thu, 26 Nov 2026 03:25:18 GMT"
+   "checkedAt": "2026-11-26T04:48:19.515Z",
+   "lastSuccess": "2026-11-26T04:48:19.515Z",
+   "etag": "75455b06eb822170d6a4eece38785e4f",
+   "lastModified": "Thu, 26 Nov 2026 04:45:21 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T03:31:01.123Z",
-   "lastSuccess": "2026-11-26T03:31:01.123Z",
+   "checkedAt": "2026-11-26T04:48:19.515Z",
+   "lastSuccess": "2026-11-26T04:48:19.515Z",
    "etag": null,
    "lastModified": "Thu, 26 Nov 2026 03:21:26 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T03:31:01.123Z",
-   "lastSuccess": "2026-11-26T03:31:01.123Z",
+   "checkedAt": "2026-11-26T04:48:19.515Z",
+   "lastSuccess": "2026-11-26T04:48:19.515Z",
    "etag": "W/\"53125853df2d956ea3fa8fd73f5415d3\"",
    "lastModified": "Wed, 25 Nov 2026 15:27:40 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T03:31:01.123Z",
-   "lastSuccess": "2026-11-26T03:31:01.123Z",
+   "checkedAt": "2026-11-26T04:48:19.515Z",
+   "lastSuccess": "2026-11-26T04:48:19.515Z",
    "etag": null,
-   "lastModified": "Thu, 26 Nov 2026 03:31:02 GMT"
+   "lastModified": "Thu, 26 Nov 2026 04:48:20 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T03:31:01.123Z",
-   "lastSuccess": "2026-11-26T03:31:01.123Z",
+   "checkedAt": "2026-11-26T04:48:19.515Z",
+   "lastSuccess": "2026-11-26T04:48:19.515Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "8720d53f46442204",
+   "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+   "url": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+   "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose as WinUI 3 and WPF [Windows Presentation Foundation] button controls,\" Socket…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-26T03:48:52.000Z",
+   "categories": [
+    "malware"
+   ],
+   "firstSeen": "2026-11-26T04:48:19.515Z"
+  },
   {
    "id": "74d46a76216c3842",
    "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
@@ -2976,21 +2990,6 @@
     "ai"
    ],
    "firstSeen": "2026-11-18T21:47:43.977Z"
-  },
-  {
-   "id": "96bb59b93a67ea48",
-   "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
-   "url": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
-   "summary": "Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-18T20:38:42.000Z",
-   "categories": [
-    "ransomware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-18T20:49:00.232Z"
   }
  ]
 }
