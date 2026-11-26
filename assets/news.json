@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-26T04:48:19.515Z",
- "lastAttempt": "2026-11-26T04:48:19.515Z",
+ "lastSuccess": "2026-11-26T05:56:52.353Z",
+ "lastAttempt": "2026-11-26T05:56:52.353Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T04:48:19.515Z",
-   "lastSuccess": "2026-11-26T04:48:19.515Z",
+   "checkedAt": "2026-11-26T05:56:52.353Z",
+   "lastSuccess": "2026-11-26T05:56:52.353Z",
    "etag": null,
-   "lastModified": "Thu, 26 Nov 2026 04:12:34 GMT"
+   "lastModified": "Thu, 26 Nov 2026 05:13:41 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T04:48:19.515Z",
-   "lastSuccess": "2026-11-26T04:48:19.515Z",
-   "etag": "75455b06eb822170d6a4eece38785e4f",
-   "lastModified": "Thu, 26 Nov 2026 04:45:21 GMT"
+   "checkedAt": "2026-11-26T05:56:52.353Z",
+   "lastSuccess": "2026-11-26T05:56:52.353Z",
+   "etag": "e38816d8acd3874fc73b2d3c7865cb43",
+   "lastModified": "Thu, 26 Nov 2026 05:55:22 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T04:48:19.515Z",
-   "lastSuccess": "2026-11-26T04:48:19.515Z",
+   "checkedAt": "2026-11-26T05:56:52.353Z",
+   "lastSuccess": "2026-11-26T05:56:52.353Z",
    "etag": null,
-   "lastModified": "Thu, 26 Nov 2026 03:21:26 GMT"
+   "lastModified": "Thu, 26 Nov 2026 05:55:11 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T04:48:19.515Z",
-   "lastSuccess": "2026-11-26T04:48:19.515Z",
+   "checkedAt": "2026-11-26T05:56:52.353Z",
+   "lastSuccess": "2026-11-26T05:56:52.353Z",
    "etag": "W/\"53125853df2d956ea3fa8fd73f5415d3\"",
    "lastModified": "Wed, 25 Nov 2026 15:27:40 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T04:48:19.515Z",
-   "lastSuccess": "2026-11-26T04:48:19.515Z",
+   "checkedAt": "2026-11-26T05:56:52.353Z",
+   "lastSuccess": "2026-11-26T05:56:52.353Z",
    "etag": null,
-   "lastModified": "Thu, 26 Nov 2026 04:48:20 GMT"
+   "lastModified": "Thu, 26 Nov 2026 05:56:52 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T04:48:19.515Z",
-   "lastSuccess": "2026-11-26T04:48:19.515Z",
+   "checkedAt": "2026-11-26T05:56:52.353Z",
+   "lastSuccess": "2026-11-26T05:56:52.353Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "5e5b0d3bb248d414",
+   "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+   "url": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+   "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed. \"While we…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-26T04:20:22.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-26T05:56:52.353Z"
+  },
   {
    "id": "8720d53f46442204",
    "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
@@ -2973,20 +2988,6 @@
    "published": "2026-11-18T20:49:32.000Z",
    "categories": [
     "phishing",
-    "ai"
-   ],
-   "firstSeen": "2026-11-18T21:47:43.977Z"
-  },
-  {
-   "id": "e6461265ead3fe65",
-   "title": "Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool",
-   "url": "https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool",
-   "summary": "New agentic AI solution leverages APIs to collect compliance evidence from systems and applies it to over 30 frameworks with no duplicate work.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-18T20:45:49.000Z",
-   "categories": [
     "ai"
    ],
    "firstSeen": "2026-11-18T21:47:43.977Z"
