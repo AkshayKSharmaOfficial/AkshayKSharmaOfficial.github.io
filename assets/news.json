@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-26T14:28:59.382Z",
- "lastAttempt": "2026-11-26T14:28:59.382Z",
+ "lastSuccess": "2026-11-26T15:34:10.014Z",
+ "lastAttempt": "2026-11-26T15:34:10.014Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T14:28:59.382Z",
-   "lastSuccess": "2026-11-26T14:28:59.382Z",
+   "checkedAt": "2026-11-26T15:34:10.014Z",
+   "lastSuccess": "2026-11-26T15:34:10.014Z",
    "etag": null,
-   "lastModified": "Thu, 26 Nov 2026 14:21:10 GMT"
+   "lastModified": "Thu, 26 Nov 2026 15:14:40 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T14:28:59.382Z",
-   "lastSuccess": "2026-11-26T14:28:59.382Z",
-   "etag": "3b76c84c14d97b1a62ff868096c7bcd3",
-   "lastModified": "Thu, 26 Nov 2026 14:20:17 GMT"
+   "checkedAt": "2026-11-26T15:34:10.014Z",
+   "lastSuccess": "2026-11-26T15:34:10.014Z",
+   "etag": "25d33ef738a1c753ef730de3dc1d1550",
+   "lastModified": "Thu, 26 Nov 2026 15:30:17 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T14:28:59.382Z",
-   "lastSuccess": "2026-11-26T14:28:59.382Z",
+   "checkedAt": "2026-11-26T15:34:10.014Z",
+   "lastSuccess": "2026-11-26T15:34:10.014Z",
    "etag": null,
-   "lastModified": "Thu, 26 Nov 2026 14:25:51 GMT"
+   "lastModified": "Thu, 26 Nov 2026 15:22:05 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T14:28:59.382Z",
-   "lastSuccess": "2026-11-26T14:28:59.382Z",
+   "checkedAt": "2026-11-26T15:34:10.014Z",
+   "lastSuccess": "2026-11-26T15:34:10.014Z",
    "etag": "W/\"1a06f8e7139ce1e73d874518813b5226\"",
    "lastModified": "Thu, 26 Nov 2026 13:05:18 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T14:28:59.382Z",
-   "lastSuccess": "2026-11-26T14:28:59.382Z",
+   "checkedAt": "2026-11-26T15:34:10.014Z",
+   "lastSuccess": "2026-11-26T15:34:10.014Z",
    "etag": null,
-   "lastModified": "Thu, 26 Nov 2026 14:28:59 GMT"
+   "lastModified": "Thu, 26 Nov 2026 15:34:11 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,42 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T14:28:59.382Z",
-   "lastSuccess": "2026-11-26T14:28:59.382Z",
+   "checkedAt": "2026-11-26T15:34:10.014Z",
+   "lastSuccess": "2026-11-26T15:34:10.014Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "4d78d175aa00eb7f",
+   "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
+   "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+   "summary": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-26T15:23:28.000Z",
+   "categories": [
+    "vuln",
+    "malware"
+   ],
+   "firstSeen": "2026-11-26T15:34:10.014Z"
+  },
+  {
+   "id": "0574110d7d17666e",
+   "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+   "url": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+   "summary": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025. \"The loader hides in a small utils package or in conftest.py,\" SafeDep said…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-26T15:13:41.000Z",
+   "categories": [
+    "malware"
+   ],
+   "firstSeen": "2026-11-26T15:34:10.014Z"
+  },
   {
    "id": "4ba2b35cce64f5b2",
    "title": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
@@ -2964,34 +2993,6 @@
    "categories": [
     "ransomware",
     "breach"
-   ],
-   "firstSeen": "2026-11-19T09:57:31.859Z"
-  },
-  {
-   "id": "67cc3290b3824230",
-   "title": "Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories",
-   "url": "https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/",
-   "summary": "GreyNoise, WatchTowr and Cloudflare report probing and exploit attempts, while Cisco, Elastic, Red Hat and Siemens detail impact. The post Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-19T09:10:58.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-19T09:57:31.859Z"
-  },
-  {
-   "id": "29eb33240b0fe571",
-   "title": "Ruby Ships Fixes for 7 Flaws, Including Critical Ruby2Shell, Said to Hit Default Rails Apps Pre-Auth",
-   "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
-   "summary": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine. \"We are aware of PoCs that prove…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-19T08:42:11.000Z",
-   "categories": [
-    "vuln"
    ],
    "firstSeen": "2026-11-19T09:57:31.859Z"
   }
