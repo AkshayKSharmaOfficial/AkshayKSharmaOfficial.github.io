@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-26T08:40:45.925Z",
- "lastAttempt": "2026-11-26T08:40:45.925Z",
+ "lastSuccess": "2026-11-26T09:49:51.353Z",
+ "lastAttempt": "2026-11-26T09:49:51.353Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T08:40:45.925Z",
-   "lastSuccess": "2026-11-26T08:40:45.925Z",
+   "checkedAt": "2026-11-26T09:49:51.353Z",
+   "lastSuccess": "2026-11-26T09:49:51.353Z",
    "etag": null,
-   "lastModified": "Thu, 26 Nov 2026 08:01:19 GMT"
+   "lastModified": "Thu, 26 Nov 2026 09:37:42 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T08:40:45.925Z",
-   "lastSuccess": "2026-11-26T08:40:45.925Z",
-   "etag": "e5fd15f256c174f163492a7b6fa605ed",
-   "lastModified": "Thu, 26 Nov 2026 08:35:27 GMT"
+   "checkedAt": "2026-11-26T09:49:51.353Z",
+   "lastSuccess": "2026-11-26T09:49:51.353Z",
+   "etag": "d0d83ddc40e16e521e0a607c9a61172d",
+   "lastModified": "Thu, 26 Nov 2026 09:45:28 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T08:40:45.925Z",
-   "lastSuccess": "2026-11-26T08:40:45.925Z",
+   "checkedAt": "2026-11-26T09:49:51.353Z",
+   "lastSuccess": "2026-11-26T09:49:51.353Z",
    "etag": null,
    "lastModified": "Thu, 26 Nov 2026 07:05:33 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T08:40:45.925Z",
-   "lastSuccess": "2026-11-26T08:40:45.925Z",
-   "etag": "W/\"7dd773edba0897667c555b592988b216\"",
-   "lastModified": "Thu, 26 Nov 2026 08:32:36 GMT"
+   "checkedAt": "2026-11-26T09:49:51.353Z",
+   "lastSuccess": "2026-11-26T09:49:51.353Z",
+   "etag": "\"b0ae7fce8a6c93abdf5e8853357b18cb\"",
+   "lastModified": "Thu, 26 Nov 2026 09:12:31 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T08:40:45.925Z",
-   "lastSuccess": "2026-11-26T08:40:45.925Z",
+   "checkedAt": "2026-11-26T09:49:51.353Z",
+   "lastSuccess": "2026-11-26T09:49:51.353Z",
    "etag": null,
-   "lastModified": "Thu, 26 Nov 2026 08:40:46 GMT"
+   "lastModified": "Thu, 26 Nov 2026 09:49:51 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T08:40:45.925Z",
-   "lastSuccess": "2026-11-26T08:40:45.925Z",
+   "checkedAt": "2026-11-26T09:49:51.353Z",
+   "lastSuccess": "2026-11-26T09:49:51.353Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "cafed3bc53183aef",
+   "title": "Drupal Installer Patch Left a Gap Attackers Are Already Exploiting",
+   "url": "https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/",
+   "summary": "Drupal warns that its previous installer patch left some websites vulnerable to takeover, with attackers already exploiting the gap. The post Drupal Installer Patch Left a Gap Attackers Are Already Exploiting appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-26T09:12:26.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-26T09:49:51.353Z"
+  },
   {
    "id": "b56769afbcbbf16f",
    "title": "1Password Breach Exposes Customer Data, Internal Source Code",
@@ -2977,20 +2992,6 @@
     "vuln"
    ],
    "firstSeen": "2026-11-19T08:45:30.381Z"
-  },
-  {
-   "id": "75b5f95941280ec2",
-   "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
-   "url": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
-   "summary": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The release is scheduled for November 19, 2026, between 2 and 2:30 p.m. UTC. \"These releases are part of PHP's regular…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-19T04:33:46.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-19T04:58:15.953Z"
   }
  ]
 }
