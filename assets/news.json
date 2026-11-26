@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-26T20:55:44.829Z",
- "lastAttempt": "2026-11-26T20:55:44.829Z",
+ "lastSuccess": "2026-11-26T21:50:21.832Z",
+ "lastAttempt": "2026-11-26T21:50:21.832Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T20:55:44.829Z",
-   "lastSuccess": "2026-11-26T20:55:44.829Z",
+   "checkedAt": "2026-11-26T21:50:21.832Z",
+   "lastSuccess": "2026-11-26T21:50:21.832Z",
    "etag": null,
    "lastModified": "Thu, 26 Nov 2026 20:55:20 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T20:55:44.829Z",
-   "lastSuccess": "2026-11-26T20:55:44.829Z",
-   "etag": "b64268fefe1ca6a1c622af4cc987a233",
-   "lastModified": "Thu, 26 Nov 2026 20:48:32 GMT"
+   "checkedAt": "2026-11-26T21:50:21.832Z",
+   "lastSuccess": "2026-11-26T21:50:21.832Z",
+   "etag": "7d1508e94dcc9c6ee0b6020ab83cf80a",
+   "lastModified": "Thu, 26 Nov 2026 21:46:23 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T20:55:44.829Z",
-   "lastSuccess": "2026-11-26T20:55:44.829Z",
+   "checkedAt": "2026-11-26T21:50:21.832Z",
+   "lastSuccess": "2026-11-26T21:50:21.832Z",
    "etag": null,
    "lastModified": "Thu, 26 Nov 2026 19:42:23 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T20:55:44.829Z",
-   "lastSuccess": "2026-11-26T20:55:44.829Z",
+   "checkedAt": "2026-11-26T21:50:21.832Z",
+   "lastSuccess": "2026-11-26T21:50:21.832Z",
    "etag": "\"e81f1633b43dd691b407863c6c6b1695\"",
    "lastModified": "Thu, 26 Nov 2026 17:07:32 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T20:55:44.829Z",
-   "lastSuccess": "2026-11-26T20:55:44.829Z",
+   "checkedAt": "2026-11-26T21:50:21.832Z",
+   "lastSuccess": "2026-11-26T21:50:21.832Z",
    "etag": null,
-   "lastModified": "Thu, 26 Nov 2026 20:55:45 GMT"
+   "lastModified": "Thu, 26 Nov 2026 21:50:22 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-26T20:55:44.829Z",
-   "lastSuccess": "2026-11-26T20:55:44.829Z",
+   "checkedAt": "2026-11-26T21:50:21.832Z",
+   "lastSuccess": "2026-11-26T21:50:21.832Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "be5a85c0eb55c464",
+   "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+   "summary": "OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-26T21:06:22.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-26T21:50:21.832Z"
+  },
   {
    "id": "0b75246ced860331",
    "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
@@ -2979,20 +2993,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-19T11:58:22.730Z"
-  },
-  {
-   "id": "32ef8f24c5d8b99f",
-   "title": "Splunk Patches Nearly 140 Flaws Across Three Core Products",
-   "url": "https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/",
-   "summary": "The security updates resolve critical and high-severity issues leading to authentication bypass, remote code execution, and privilege escalation. The post Splunk Patches Nearly 140 Flaws Across Three Core Products appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-19T10:41:05.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-19T10:59:31.672Z"
   }
  ]
 }
