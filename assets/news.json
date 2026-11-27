@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-27T08:44:35.902Z",
- "lastAttempt": "2026-11-27T08:44:35.902Z",
+ "lastSuccess": "2026-11-27T09:50:28.896Z",
+ "lastAttempt": "2026-11-27T09:50:28.896Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T08:44:35.902Z",
-   "lastSuccess": "2026-11-27T08:44:35.902Z",
+   "checkedAt": "2026-11-27T09:50:28.896Z",
+   "lastSuccess": "2026-11-27T09:50:28.896Z",
    "etag": null,
-   "lastModified": "Fri, 27 Nov 2026 07:10:32 GMT"
+   "lastModified": "Fri, 27 Nov 2026 09:16:55 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T08:44:35.902Z",
-   "lastSuccess": "2026-11-27T08:44:35.902Z",
-   "etag": "c111483e6f086440cecff2802d4c5bff",
-   "lastModified": "Fri, 27 Nov 2026 08:36:59 GMT"
+   "checkedAt": "2026-11-27T09:50:28.896Z",
+   "lastSuccess": "2026-11-27T09:50:28.896Z",
+   "etag": "494181bd9469ee445e69c81ef3e6fcb7",
+   "lastModified": "Fri, 27 Nov 2026 09:46:59 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T08:44:35.902Z",
-   "lastSuccess": "2026-11-27T08:44:35.902Z",
+   "checkedAt": "2026-11-27T09:50:28.896Z",
+   "lastSuccess": "2026-11-27T09:50:28.896Z",
    "etag": null,
    "lastModified": "Fri, 27 Nov 2026 08:30:20 GMT"
   },
@@ -46,10 +46,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T08:44:35.902Z",
-   "lastSuccess": "2026-11-27T08:44:35.902Z",
-   "etag": "\"aae4e7c3193595dde2052a8349a06a13\"",
-   "lastModified": "Fri, 27 Nov 2026 07:44:54 GMT"
+   "checkedAt": "2026-11-27T09:50:28.896Z",
+   "lastSuccess": "2026-11-27T09:50:28.896Z",
+   "etag": "\"627276fd9524abcb78cd73f02b4850c7\"",
+   "lastModified": "Fri, 27 Nov 2026 09:30:59 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T08:44:35.902Z",
-   "lastSuccess": "2026-11-27T08:44:35.902Z",
+   "checkedAt": "2026-11-27T09:50:28.896Z",
+   "lastSuccess": "2026-11-27T09:50:28.896Z",
    "etag": null,
-   "lastModified": "Fri, 27 Nov 2026 08:44:36 GMT"
+   "lastModified": "Fri, 27 Nov 2026 09:50:29 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,40 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T08:44:35.902Z",
-   "lastSuccess": "2026-11-27T08:44:35.902Z",
+   "checkedAt": "2026-11-27T09:50:28.896Z",
+   "lastSuccess": "2026-11-27T09:50:28.896Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "043d692b68dde722",
+   "title": "100,000 Potentially Impacted by Colorado Data Breach",
+   "url": "https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach/",
+   "summary": "Hackers breached the digital identification and document storage application myColorado and accessed user-uploaded data. The post 100,000 Potentially Impacted by Colorado Data Breach appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-27T09:30:54.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-27T09:50:28.896Z"
+  },
+  {
+   "id": "d1159dad6f4a83a6",
+   "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+   "summary": "Microsoft has released an emergency hotpatch update to address Windows Server 2025 crashes triggered after installing this month's security hotpatch update (KB5131077). [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-27T09:08:16.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-27T09:50:28.896Z"
+  },
   {
    "id": "3a682d5dd798bf02",
    "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
@@ -2962,37 +2989,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-19T13:12:46.963Z"
-  },
-  {
-   "id": "7790ee5441624a48",
-   "title": "Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks",
-   "url": "https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/",
-   "summary": "Attackers are targeting Confluence Data Center through an Axis flaw and Apache is warning of attacks against Roller. The post Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-19T12:13:24.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-19T13:12:46.963Z"
-  },
-  {
-   "id": "6d9cae83658efad6",
-   "title": "Elecbrakes EB2, VM1, ELBC2000",
-   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02",
-   "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain control of the brakes of a trailer, modify the firmware, disable the brake lights, modify the brake conditions or disable other critical safety features. The following versions of…",
-   "source": "CISA (US government)",
-   "sourceId": "cisa",
-   "kind": "official",
-   "published": "2026-11-19T12:00:00.000Z",
-   "categories": [
-    "advisory",
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-19T16:37:00.670Z"
   }
  ]
 }
