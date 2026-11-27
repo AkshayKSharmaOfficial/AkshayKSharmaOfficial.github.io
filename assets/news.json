@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-27T10:51:59.024Z",
- "lastAttempt": "2026-11-27T10:51:59.024Z",
+ "lastSuccess": "2026-11-27T11:52:33.132Z",
+ "lastAttempt": "2026-11-27T11:52:33.132Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T10:51:59.024Z",
-   "lastSuccess": "2026-11-27T10:51:59.024Z",
+   "checkedAt": "2026-11-27T11:52:33.132Z",
+   "lastSuccess": "2026-11-27T11:52:33.132Z",
    "etag": null,
-   "lastModified": "Fri, 27 Nov 2026 09:16:55 GMT"
+   "lastModified": "Fri, 27 Nov 2026 11:45:28 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T10:51:59.024Z",
-   "lastSuccess": "2026-11-27T10:51:59.024Z",
-   "etag": "660e1fd5ce8704f926cb46460e861fb8",
-   "lastModified": "Fri, 27 Nov 2026 10:46:37 GMT"
+   "checkedAt": "2026-11-27T11:52:33.132Z",
+   "lastSuccess": "2026-11-27T11:52:33.132Z",
+   "etag": "9d76570aafd4b475c8295716b79481fb",
+   "lastModified": "Fri, 27 Nov 2026 11:48:58 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T10:51:59.024Z",
-   "lastSuccess": "2026-11-27T10:51:59.024Z",
+   "checkedAt": "2026-11-27T11:52:33.132Z",
+   "lastSuccess": "2026-11-27T11:52:33.132Z",
    "etag": null,
    "lastModified": "Fri, 27 Nov 2026 08:30:20 GMT"
   },
@@ -43,13 +43,13 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T10:51:59.024Z",
-   "lastSuccess": "2026-11-27T10:51:59.024Z",
-   "etag": "\"627276fd9524abcb78cd73f02b4850c7\"",
-   "lastModified": "Fri, 27 Nov 2026 09:30:59 GMT"
+   "checkedAt": "2026-11-27T11:52:33.132Z",
+   "lastSuccess": "2026-11-27T11:52:33.132Z",
+   "etag": "\"75e962e085b573afec980d40d474af49\"",
+   "lastModified": "Fri, 27 Nov 2026 11:00:00 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T10:51:59.024Z",
-   "lastSuccess": "2026-11-27T10:51:59.024Z",
+   "checkedAt": "2026-11-27T11:52:33.132Z",
+   "lastSuccess": "2026-11-27T11:52:33.132Z",
    "etag": null,
-   "lastModified": "Fri, 27 Nov 2026 10:51:59 GMT"
+   "lastModified": "Fri, 27 Nov 2026 11:52:33 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,56 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T10:51:59.024Z",
-   "lastSuccess": "2026-11-27T10:51:59.024Z",
+   "checkedAt": "2026-11-27T11:52:33.132Z",
+   "lastSuccess": "2026-11-27T11:52:33.132Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "efadfdb9012f697d",
+   "title": "Microsoft removes WSUS server role in Windows Server 2028",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
+   "summary": "Microsoft will remove the WSUS server role from Windows Server 2028, the next major release of its server operating system. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-27T11:18:36.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-27T11:52:33.132Z"
+  },
+  {
+   "id": "aacff82517138081",
+   "title": "In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities",
+   "url": "https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/",
+   "summary": "Noteworthy stories that might have slipped under the radar: RansomwareHelp accused of profiting from ransom payments, USDA payment systems breach, cybersecurity firm Radware hacked. The post In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities…",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-27T11:00:00.000Z",
+   "categories": [
+    "ransomware",
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-27T11:52:33.132Z"
+  },
+  {
+   "id": "982bfc2fadcbc685",
+   "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+   "url": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+   "summary": "Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks reassuring in a room and tells almost no one what is actually happening across the…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-27T10:32:18.000Z",
+   "categories": [
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-27T11:52:33.132Z"
+  },
   {
    "id": "44ad15a57f706a32",
    "title": "Drupal warns of new site takeover flaw exploited in attacks",
@@ -119,6 +162,21 @@
     "attack"
    ],
    "firstSeen": "2026-11-27T09:50:28.896Z"
+  },
+  {
+   "id": "d8fcf47e119ce6e7",
+   "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+   "url": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+   "summary": "Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official SoftwareOK website. \"Evidence indicates that malicious files were generated not only when users…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-27T09:29:30.000Z",
+   "categories": [
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-27T11:52:33.132Z"
   },
   {
    "id": "d1159dad6f4a83a6",
@@ -295,13 +353,14 @@
    "id": "0574110d7d17666e",
    "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
    "url": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
-   "summary": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025. \"The loader hides in a small utils package or in conftest.py,\" SafeDep said…",
+   "summary": "The threat actors behind the PolinRider campaign have compromised over 7,600 GitHub repositories, in some cases planting a Python loader capable of delivering next-stage payloads, as evidence emerges that the activity may have started as far back as February 2025. \"These are…",
    "source": "The Hacker News",
    "sourceId": "thn",
    "kind": "media",
    "published": "2026-11-26T15:13:41.000Z",
    "categories": [
-    "malware"
+    "malware",
+    "attack"
    ],
    "firstSeen": "2026-11-26T15:34:10.014Z"
   },
@@ -584,6 +643,20 @@
    "firstSeen": "2026-11-25T15:33:44.742Z"
   },
   {
+   "id": "367bae174f5a346c",
+   "title": "Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'",
+   "url": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide",
+   "summary": "Dark Reading Confidential Episode 23: Cyber insurers share their view of the AI-driven threat landscape and how mounting challenges are putting pressure on both sides of the policy, leaving the current model unsustainable.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-25T15:00:00.000Z",
+   "categories": [
+    "ai"
+   ],
+   "firstSeen": "2026-11-25T04:26:38.064Z"
+  },
+  {
    "id": "9545122a34a59466",
    "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
    "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
@@ -597,20 +670,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-25T15:33:44.742Z"
-  },
-  {
-   "id": "367bae174f5a346c",
-   "title": "Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'",
-   "url": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide",
-   "summary": "Dark Reading Confidential Episode 23: Cyber insurers share their view of the AI-driven threat landscape and how mounting challenges are putting pressure on both sides of the policy, leaving the current model unsustainable.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-25T15:00:00.000Z",
-   "categories": [
-    "ai"
-   ],
-   "firstSeen": "2026-11-25T04:26:38.064Z"
   },
   {
    "id": "c4f3b222e86a1fba",
@@ -2928,66 +2987,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-19T15:29:09.354Z"
-  },
-  {
-   "id": "88c544823e0d1532",
-   "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-   "url": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-   "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a site takeover or remote code execution, and the project rates the vulnerable…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-19T14:33:06.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-19T15:29:09.354Z"
-  },
-  {
-   "id": "a1f68890a729bc1a",
-   "title": "Nvidia Responds to Gentlemen Ransomware Claim",
-   "url": "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/",
-   "summary": "Nvidia says it has found no indication that its systems were compromised after the Gentlemen ransomware group listed the company as a victim. The post Nvidia Responds to Gentlemen Ransomware Claim appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-19T14:17:32.000Z",
-   "categories": [
-    "ransomware",
-    "attack"
-   ],
-   "firstSeen": "2026-11-19T14:27:40.145Z"
-  },
-  {
-   "id": "7e7f4dbb5464bb58",
-   "title": "Why Holiday Security Can't Wait for Black Friday",
-   "url": "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday",
-   "summary": "Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-19T14:00:00.000Z",
-   "categories": [
-    "phishing",
-    "attack"
-   ],
-   "firstSeen": "2026-11-19T14:27:40.145Z"
-  },
-  {
-   "id": "4484dbc145650e7c",
-   "title": "Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release",
-   "url": "https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/",
-   "summary": "Attackers hacked clustered Cisco Expressway devices at a Russian organization and prepared tooling for lateral movement. The post Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-19T13:12:20.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-19T14:27:40.145Z"
   }
  ]
 }
