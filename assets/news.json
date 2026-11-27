@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-27T14:27:03.096Z",
- "lastAttempt": "2026-11-27T14:27:03.096Z",
+ "lastSuccess": "2026-11-27T15:30:05.034Z",
+ "lastAttempt": "2026-11-27T15:30:05.034Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T14:27:03.096Z",
-   "lastSuccess": "2026-11-27T14:27:03.096Z",
+   "checkedAt": "2026-11-27T15:30:05.034Z",
+   "lastSuccess": "2026-11-27T15:30:05.034Z",
    "etag": null,
-   "lastModified": "Fri, 27 Nov 2026 13:23:50 GMT"
+   "lastModified": "Fri, 27 Nov 2026 14:46:38 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T14:27:03.096Z",
-   "lastSuccess": "2026-11-27T14:27:03.096Z",
-   "etag": "4e5c1ca604fa36abc9d04d05f72fef45",
-   "lastModified": "Fri, 27 Nov 2026 14:22:33 GMT"
+   "checkedAt": "2026-11-27T15:30:05.034Z",
+   "lastSuccess": "2026-11-27T15:30:05.034Z",
+   "etag": "3163a7084bb68499c1f677f1957f9e94",
+   "lastModified": "Fri, 27 Nov 2026 15:29:40 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T14:27:03.096Z",
-   "lastSuccess": "2026-11-27T14:27:03.096Z",
+   "checkedAt": "2026-11-27T15:30:05.034Z",
+   "lastSuccess": "2026-11-27T15:30:05.034Z",
    "etag": null,
-   "lastModified": "Fri, 27 Nov 2026 14:25:00 GMT"
+   "lastModified": "Fri, 27 Nov 2026 15:19:04 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T14:27:03.096Z",
-   "lastSuccess": "2026-11-27T14:27:03.096Z",
+   "checkedAt": "2026-11-27T15:30:05.034Z",
+   "lastSuccess": "2026-11-27T15:30:05.034Z",
    "etag": "\"75e962e085b573afec980d40d474af49\"",
    "lastModified": "Fri, 27 Nov 2026 11:00:00 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T14:27:03.096Z",
-   "lastSuccess": "2026-11-27T14:27:03.096Z",
+   "checkedAt": "2026-11-27T15:30:05.034Z",
+   "lastSuccess": "2026-11-27T15:30:05.034Z",
    "etag": null,
-   "lastModified": "Fri, 27 Nov 2026 14:27:03 GMT"
+   "lastModified": "Fri, 27 Nov 2026 15:30:06 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,40 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T14:27:03.096Z",
-   "lastSuccess": "2026-11-27T14:27:03.096Z",
+   "checkedAt": "2026-11-27T15:30:05.034Z",
+   "lastSuccess": "2026-11-27T15:30:05.034Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "709cdba78f722590",
+   "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
+   "url": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+   "summary": "Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Department. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-27T15:09:40.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-27T15:30:05.034Z"
+  },
+  {
+   "id": "8ccc7fdced851fc8",
+   "title": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs",
+   "url": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
+   "summary": "Forgotten virtual machines, unpatched servers, and excessive access permissions can create security blind spots across IT infrastructure. ISPsystem explains how centralized infrastructure management, access controls, and resource lifecycle automation can help reduce these…",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-27T15:00:10.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-27T15:30:05.034Z"
+  },
   {
    "id": "2cb7eb2edea44be5",
    "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
@@ -2955,35 +2982,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-19T16:37:00.670Z"
-  },
-  {
-   "id": "dcfa8134ceac9ad3",
-   "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-   "url": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-   "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560. The release of the patch follows an advance notice in which the project…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-19T15:18:07.000Z",
-   "categories": [
-    "vuln"
-   ],
-   "firstSeen": "2026-11-19T15:29:09.354Z"
-  },
-  {
-   "id": "63edce0941e0edb0",
-   "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
-   "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-   "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and the company lists no…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-19T15:11:06.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-19T15:29:09.354Z"
   }
  ]
 }
