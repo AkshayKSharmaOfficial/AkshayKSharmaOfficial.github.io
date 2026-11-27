@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-27T05:58:15.915Z",
- "lastAttempt": "2026-11-27T05:58:15.915Z",
+ "lastSuccess": "2026-11-27T07:16:21.112Z",
+ "lastAttempt": "2026-11-27T07:16:21.112Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T05:58:15.915Z",
-   "lastSuccess": "2026-11-27T05:58:15.915Z",
+   "checkedAt": "2026-11-27T07:16:21.112Z",
+   "lastSuccess": "2026-11-27T07:16:21.112Z",
    "etag": null,
-   "lastModified": "Fri, 27 Nov 2026 04:37:48 GMT"
+   "lastModified": "Fri, 27 Nov 2026 07:10:32 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T05:58:15.915Z",
-   "lastSuccess": "2026-11-27T05:58:15.915Z",
-   "etag": "89dad56c8bb7fdf812719afda11f1883",
-   "lastModified": "Fri, 27 Nov 2026 05:56:23 GMT"
+   "checkedAt": "2026-11-27T07:16:21.112Z",
+   "lastSuccess": "2026-11-27T07:16:21.112Z",
+   "etag": "fafb0acd2835c68f757943b35c2dfe47",
+   "lastModified": "Fri, 27 Nov 2026 07:06:23 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T05:58:15.915Z",
-   "lastSuccess": "2026-11-27T05:58:15.915Z",
+   "checkedAt": "2026-11-27T07:16:21.112Z",
+   "lastSuccess": "2026-11-27T07:16:21.112Z",
    "etag": null,
-   "lastModified": "Fri, 27 Nov 2026 04:37:32 GMT"
+   "lastModified": "Fri, 27 Nov 2026 07:15:05 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T05:58:15.915Z",
-   "lastSuccess": "2026-11-27T05:58:15.915Z",
+   "checkedAt": "2026-11-27T07:16:21.112Z",
+   "lastSuccess": "2026-11-27T07:16:21.112Z",
    "etag": "\"e81f1633b43dd691b407863c6c6b1695\"",
    "lastModified": "Thu, 26 Nov 2026 17:07:32 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T05:58:15.915Z",
-   "lastSuccess": "2026-11-27T05:58:15.915Z",
+   "checkedAt": "2026-11-27T07:16:21.112Z",
+   "lastSuccess": "2026-11-27T07:16:21.112Z",
    "etag": null,
-   "lastModified": "Fri, 27 Nov 2026 05:58:16 GMT"
+   "lastModified": "Fri, 27 Nov 2026 07:16:22 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,43 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T05:58:15.915Z",
-   "lastSuccess": "2026-11-27T05:58:15.915Z",
+   "checkedAt": "2026-11-27T07:16:21.112Z",
+   "lastSuccess": "2026-11-27T07:16:21.112Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "979e934b372966d4",
+   "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+   "url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+   "summary": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday. Three of the attacks targeted critical infrastructure operators, and two…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-27T06:04:20.000Z",
+   "categories": [
+    "breach",
+    "ai",
+    "attack"
+   ],
+   "firstSeen": "2026-11-27T07:16:21.112Z"
+  },
+  {
+   "id": "27f1645ed04a4e7e",
+   "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+   "url": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+   "summary": "Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution. The proof-of-concept (PoC) exploit, which has yet to be assigned a CVE identifier, has been tracked as 4HTTP2SHELL…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-27T05:48:20.000Z",
+   "categories": [
+    "vuln"
+   ],
+   "firstSeen": "2026-11-27T07:16:21.112Z"
+  },
   {
    "id": "be5a85c0eb55c464",
    "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
@@ -2964,35 +2994,6 @@
     "ai"
    ],
    "firstSeen": "2026-11-19T13:12:46.963Z"
-  },
-  {
-   "id": "79fb717d814dd0bd",
-   "title": "Everything Is a Web Application, Including Your Firewall",
-   "url": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-   "summary": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to the internet. Both…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-19T11:52:23.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-19T13:12:46.963Z"
-  },
-  {
-   "id": "5f020c5c43f9d08d",
-   "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
-   "summary": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-19T11:46:00.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-19T11:58:22.730Z"
   }
  ]
 }
