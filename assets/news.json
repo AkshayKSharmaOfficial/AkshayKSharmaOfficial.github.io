@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-27T15:30:05.034Z",
- "lastAttempt": "2026-11-27T15:30:05.034Z",
+ "lastSuccess": "2026-11-27T16:39:42.312Z",
+ "lastAttempt": "2026-11-27T16:39:42.312Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T15:30:05.034Z",
-   "lastSuccess": "2026-11-27T15:30:05.034Z",
+   "checkedAt": "2026-11-27T16:39:42.312Z",
+   "lastSuccess": "2026-11-27T16:39:42.312Z",
    "etag": null,
-   "lastModified": "Fri, 27 Nov 2026 14:46:38 GMT"
+   "lastModified": "Fri, 27 Nov 2026 16:18:05 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T15:30:05.034Z",
-   "lastSuccess": "2026-11-27T15:30:05.034Z",
-   "etag": "3163a7084bb68499c1f677f1957f9e94",
-   "lastModified": "Fri, 27 Nov 2026 15:29:40 GMT"
+   "checkedAt": "2026-11-27T16:39:42.312Z",
+   "lastSuccess": "2026-11-27T16:39:42.312Z",
+   "etag": "7f4a501bdcdf4cf37fe90d3c92e9899c",
+   "lastModified": "Fri, 27 Nov 2026 16:29:40 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T15:30:05.034Z",
-   "lastSuccess": "2026-11-27T15:30:05.034Z",
+   "checkedAt": "2026-11-27T16:39:42.312Z",
+   "lastSuccess": "2026-11-27T16:39:42.312Z",
    "etag": null,
    "lastModified": "Fri, 27 Nov 2026 15:19:04 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T15:30:05.034Z",
-   "lastSuccess": "2026-11-27T15:30:05.034Z",
+   "checkedAt": "2026-11-27T16:39:42.312Z",
+   "lastSuccess": "2026-11-27T16:39:42.312Z",
    "etag": "\"75e962e085b573afec980d40d474af49\"",
    "lastModified": "Fri, 27 Nov 2026 11:00:00 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T15:30:05.034Z",
-   "lastSuccess": "2026-11-27T15:30:05.034Z",
+   "checkedAt": "2026-11-27T16:39:42.312Z",
+   "lastSuccess": "2026-11-27T16:39:42.312Z",
    "etag": null,
-   "lastModified": "Fri, 27 Nov 2026 15:30:06 GMT"
+   "lastModified": "Fri, 27 Nov 2026 16:39:42 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,28 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T15:30:05.034Z",
-   "lastSuccess": "2026-11-27T15:30:05.034Z",
+   "checkedAt": "2026-11-27T16:39:42.312Z",
+   "lastSuccess": "2026-11-27T16:39:42.312Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "f8d16e3a9875054e",
+   "title": "Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks",
+   "url": "https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks",
+   "summary": "The security startup consolidates four legacy security tools into an autonomous platform that uses context-aware AI to trace sensitive data lineage, analyze user intent, and automatically remediate threats across enterprise environments.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-27T15:27:20.000Z",
+   "categories": [
+    "ai",
+    "india"
+   ],
+   "firstSeen": "2026-11-27T16:39:42.312Z"
+  },
   {
    "id": "709cdba78f722590",
    "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
@@ -2962,21 +2977,6 @@
    "sourceId": "bleeping",
    "kind": "media",
    "published": "2026-11-19T16:28:23.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-19T16:37:00.670Z"
-  },
-  {
-   "id": "ea4c46c111bcd432",
-   "title": "PHP Patches Seven Critical RCE Vulnerabilities",
-   "url": "https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/",
-   "summary": "Successful exploitation could allow attackers to crash the worker process and execute code with the PHP worker’s privileges. The post PHP Patches Seven Critical RCE Vulnerabilities appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-19T15:54:20.000Z",
    "categories": [
     "vuln",
     "attack"
