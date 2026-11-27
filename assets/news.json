@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-27T19:43:36.294Z",
- "lastAttempt": "2026-11-27T19:43:36.294Z",
+ "lastSuccess": "2026-11-27T20:39:08.700Z",
+ "lastAttempt": "2026-11-27T20:39:08.700Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T19:43:36.294Z",
-   "lastSuccess": "2026-11-27T19:43:36.294Z",
+   "checkedAt": "2026-11-27T20:39:08.700Z",
+   "lastSuccess": "2026-11-27T20:39:08.700Z",
    "etag": null,
-   "lastModified": "Fri, 27 Nov 2026 18:59:23 GMT"
+   "lastModified": "Fri, 27 Nov 2026 20:16:44 GMT"
   },
   {
    "id": "bleeping",
@@ -22,20 +22,20 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T19:43:36.294Z",
-   "lastSuccess": "2026-11-27T19:43:36.294Z",
-   "etag": "743beb98a59131c93f467aaaa461ef56",
-   "lastModified": "Fri, 27 Nov 2026 19:36:08 GMT"
+   "checkedAt": "2026-11-27T20:39:08.700Z",
+   "lastSuccess": "2026-11-27T20:39:08.700Z",
+   "etag": "a123c4f9ea86ec4173bf89f799f5c2d7",
+   "lastModified": "Fri, 27 Nov 2026 20:36:08 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T19:43:36.294Z",
-   "lastSuccess": "2026-11-27T19:43:36.294Z",
+   "checkedAt": "2026-11-27T20:39:08.700Z",
+   "lastSuccess": "2026-11-27T20:39:08.700Z",
    "etag": null,
    "lastModified": "Fri, 27 Nov 2026 19:37:20 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T19:43:36.294Z",
-   "lastSuccess": "2026-11-27T19:43:36.294Z",
+   "checkedAt": "2026-11-27T20:39:08.700Z",
+   "lastSuccess": "2026-11-27T20:39:08.700Z",
    "etag": "\"75e962e085b573afec980d40d474af49\"",
    "lastModified": "Fri, 27 Nov 2026 11:00:00 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T19:43:36.294Z",
-   "lastSuccess": "2026-11-27T19:43:36.294Z",
+   "checkedAt": "2026-11-27T20:39:08.700Z",
+   "lastSuccess": "2026-11-27T20:39:08.700Z",
    "etag": null,
-   "lastModified": "Fri, 27 Nov 2026 19:43:36 GMT"
+   "lastModified": "Fri, 27 Nov 2026 20:39:09 GMT"
   },
   {
    "id": "cisa",
@@ -70,8 +70,8 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T19:43:36.294Z",
-   "lastSuccess": "2026-11-27T19:43:36.294Z",
+   "checkedAt": "2026-11-27T20:39:08.700Z",
+   "lastSuccess": "2026-11-27T20:39:08.700Z",
    "etag": null,
    "lastModified": null
   }
@@ -205,6 +205,21 @@
     "attack"
    ],
    "firstSeen": "2026-11-24T21:51:53.918Z"
+  },
+  {
+   "id": "3fee6348fd6fbfb2",
+   "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+   "url": "https://www.cisa.gov/news-events/alerts/2026/11/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+   "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-120705 OSGeo GeoServer XML Injection Vulnerability CVE-2026-129243 OSGeo GeoServer Incorrect Authorization Vulnerability…",
+   "source": "CISA (US government)",
+   "sourceId": "cisa",
+   "kind": "official",
+   "published": "2026-11-27T12:00:00.000Z",
+   "categories": [
+    "advisory",
+    "vuln"
+   ],
+   "firstSeen": "2026-11-27T20:39:08.700Z"
   },
   {
    "id": "c60eeeaa334b435f",
@@ -1524,21 +1539,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-24T15:48:09.468Z"
-  },
-  {
-   "id": "f0f315ee6afeb11f",
-   "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-   "url": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-   "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability CVE-2026-132165 Drupal Core Remote Code Execution…",
-   "source": "CISA (US government)",
-   "sourceId": "cisa",
-   "kind": "official",
-   "published": "2026-11-24T12:00:00.000Z",
-   "categories": [
-    "advisory",
-    "vuln"
-   ],
-   "firstSeen": "2026-11-24T22:52:55.402Z"
   },
   {
    "id": "9facf43cf80c1f12",
