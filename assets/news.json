@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-27T13:05:13.864Z",
- "lastAttempt": "2026-11-27T13:05:13.864Z",
+ "lastSuccess": "2026-11-27T14:27:03.096Z",
+ "lastAttempt": "2026-11-27T14:27:03.096Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T13:05:13.864Z",
-   "lastSuccess": "2026-11-27T13:05:13.864Z",
+   "checkedAt": "2026-11-27T14:27:03.096Z",
+   "lastSuccess": "2026-11-27T14:27:03.096Z",
    "etag": null,
-   "lastModified": "Fri, 27 Nov 2026 11:45:28 GMT"
+   "lastModified": "Fri, 27 Nov 2026 13:23:50 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T13:05:13.864Z",
-   "lastSuccess": "2026-11-27T13:05:13.864Z",
-   "etag": "12dc964ff0d9bf13d50966d047916636",
-   "lastModified": "Fri, 27 Nov 2026 12:58:58 GMT"
+   "checkedAt": "2026-11-27T14:27:03.096Z",
+   "lastSuccess": "2026-11-27T14:27:03.096Z",
+   "etag": "4e5c1ca604fa36abc9d04d05f72fef45",
+   "lastModified": "Fri, 27 Nov 2026 14:22:33 GMT"
   },
   {
    "id": "krebs",
@@ -34,10 +34,10 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T13:05:13.864Z",
-   "lastSuccess": "2026-11-27T13:05:13.864Z",
+   "checkedAt": "2026-11-27T14:27:03.096Z",
+   "lastSuccess": "2026-11-27T14:27:03.096Z",
    "etag": null,
-   "lastModified": "Fri, 27 Nov 2026 13:04:16 GMT"
+   "lastModified": "Fri, 27 Nov 2026 14:25:00 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T13:05:13.864Z",
-   "lastSuccess": "2026-11-27T13:05:13.864Z",
+   "checkedAt": "2026-11-27T14:27:03.096Z",
+   "lastSuccess": "2026-11-27T14:27:03.096Z",
    "etag": "\"75e962e085b573afec980d40d474af49\"",
    "lastModified": "Fri, 27 Nov 2026 11:00:00 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T13:05:13.864Z",
-   "lastSuccess": "2026-11-27T13:05:13.864Z",
+   "checkedAt": "2026-11-27T14:27:03.096Z",
+   "lastSuccess": "2026-11-27T14:27:03.096Z",
    "etag": null,
-   "lastModified": "Fri, 27 Nov 2026 13:05:14 GMT"
+   "lastModified": "Fri, 27 Nov 2026 14:27:03 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,57 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T13:05:13.864Z",
-   "lastSuccess": "2026-11-27T13:05:13.864Z",
+   "checkedAt": "2026-11-27T14:27:03.096Z",
+   "lastSuccess": "2026-11-27T14:27:03.096Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "2cb7eb2edea44be5",
+   "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
+   "url": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
+   "summary": "Malwarebytes' 2026 Black Friday and Cyber Monday sale is now live, offering 50% off security subscriptions for individuals, families, and small businesses, including its antivirus software, VPN, identity theft protection, and personal data removal services. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-27T14:22:06.000Z",
+   "categories": [
+    "breach"
+   ],
+   "firstSeen": "2026-11-27T14:27:03.096Z"
+  },
+  {
+   "id": "dcbff854c2236213",
+   "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
+   "url": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
+   "summary": "Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems.",
+   "source": "Dark Reading",
+   "sourceId": "darkreading",
+   "kind": "media",
+   "published": "2026-11-27T14:00:00.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-24T21:51:53.918Z"
+  },
+  {
+   "id": "c60eeeaa334b435f",
+   "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+   "url": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+   "summary": "Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT. The intrusion, according to eSentire, begins with a redirection to a bogus site for a…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-27T11:49:34.000Z",
+   "categories": [
+    "malware",
+    "attack"
+   ],
+   "firstSeen": "2026-11-27T14:27:03.096Z"
+  },
   {
    "id": "efadfdb9012f697d",
    "title": "Microsoft removes WSUS server role in Windows Server 2028",
@@ -1039,21 +1083,6 @@
    "published": "2026-11-24T21:37:30.000Z",
    "categories": [
     "breach",
-    "attack"
-   ],
-   "firstSeen": "2026-11-24T21:51:53.918Z"
-  },
-  {
-   "id": "dcbff854c2236213",
-   "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
-   "url": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
-   "summary": "Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems.",
-   "source": "Dark Reading",
-   "sourceId": "darkreading",
-   "kind": "media",
-   "published": "2026-11-24T21:36:11.000Z",
-   "categories": [
-    "vuln",
     "attack"
    ],
    "firstSeen": "2026-11-24T21:51:53.918Z"
@@ -2950,38 +2979,6 @@
    "sourceId": "thn",
    "kind": "media",
    "published": "2026-11-19T15:11:06.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-19T15:29:09.354Z"
-  },
-  {
-   "id": "b540ed52e3baf87c",
-   "title": "Five warning signs of ransomware breach before encryption or data theft",
-   "url": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-   "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity, and protect critical…",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-19T15:00:10.000Z",
-   "categories": [
-    "ransomware",
-    "breach",
-    "phishing",
-    "attack"
-   ],
-   "firstSeen": "2026-11-19T15:29:09.354Z"
-  },
-  {
-   "id": "063fc47cfa9c3fa0",
-   "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
-   "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
-   "summary": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-19T14:57:24.000Z",
    "categories": [
     "vuln",
     "attack"
