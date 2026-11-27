@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-27T09:50:28.896Z",
- "lastAttempt": "2026-11-27T09:50:28.896Z",
+ "lastSuccess": "2026-11-27T10:51:59.024Z",
+ "lastAttempt": "2026-11-27T10:51:59.024Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T09:50:28.896Z",
-   "lastSuccess": "2026-11-27T09:50:28.896Z",
+   "checkedAt": "2026-11-27T10:51:59.024Z",
+   "lastSuccess": "2026-11-27T10:51:59.024Z",
    "etag": null,
    "lastModified": "Fri, 27 Nov 2026 09:16:55 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T09:50:28.896Z",
-   "lastSuccess": "2026-11-27T09:50:28.896Z",
-   "etag": "494181bd9469ee445e69c81ef3e6fcb7",
-   "lastModified": "Fri, 27 Nov 2026 09:46:59 GMT"
+   "checkedAt": "2026-11-27T10:51:59.024Z",
+   "lastSuccess": "2026-11-27T10:51:59.024Z",
+   "etag": "660e1fd5ce8704f926cb46460e861fb8",
+   "lastModified": "Fri, 27 Nov 2026 10:46:37 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T09:50:28.896Z",
-   "lastSuccess": "2026-11-27T09:50:28.896Z",
+   "checkedAt": "2026-11-27T10:51:59.024Z",
+   "lastSuccess": "2026-11-27T10:51:59.024Z",
    "etag": null,
    "lastModified": "Fri, 27 Nov 2026 08:30:20 GMT"
   },
@@ -43,11 +43,11 @@
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T09:50:28.896Z",
-   "lastSuccess": "2026-11-27T09:50:28.896Z",
+   "checkedAt": "2026-11-27T10:51:59.024Z",
+   "lastSuccess": "2026-11-27T10:51:59.024Z",
    "etag": "\"627276fd9524abcb78cd73f02b4850c7\"",
    "lastModified": "Fri, 27 Nov 2026 09:30:59 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T09:50:28.896Z",
-   "lastSuccess": "2026-11-27T09:50:28.896Z",
+   "checkedAt": "2026-11-27T10:51:59.024Z",
+   "lastSuccess": "2026-11-27T10:51:59.024Z",
    "etag": null,
-   "lastModified": "Fri, 27 Nov 2026 09:50:29 GMT"
+   "lastModified": "Fri, 27 Nov 2026 10:51:59 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,41 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T09:50:28.896Z",
-   "lastSuccess": "2026-11-27T09:50:28.896Z",
+   "checkedAt": "2026-11-27T10:51:59.024Z",
+   "lastSuccess": "2026-11-27T10:51:59.024Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "44ad15a57f706a32",
+   "title": "Drupal warns of new site takeover flaw exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+   "summary": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-27T10:10:15.000Z",
+   "categories": [
+    "breach",
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-27T10:51:59.024Z"
+  },
+  {
+   "id": "54a3f8ec0451c43d",
+   "title": "SAP confirms security incident after suspicious GitHub activity",
+   "url": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+   "summary": "SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-27T09:56:36.000Z",
+   "categories": [],
+   "firstSeen": "2026-11-27T10:51:59.024Z"
+  },
   {
    "id": "043d692b68dde722",
    "title": "100,000 Potentially Impacted by Colorado Data Breach",
@@ -2960,35 +2988,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-19T14:27:40.145Z"
-  },
-  {
-   "id": "8984a827dce61bef",
-   "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
-   "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
-   "summary": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-19T13:08:08.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-19T13:12:46.963Z"
-  },
-  {
-   "id": "47801914c314542a",
-   "title": "StepSecurity Secures $20 Million to Expand Supply Chain Protection",
-   "url": "https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/",
-   "summary": "The company will use the funds to accelerate the development and distribution of its security platform. The post StepSecurity Secures $20 Million to Expand Supply Chain Protection appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-19T12:23:34.000Z",
-   "categories": [
-    "attack"
-   ],
-   "firstSeen": "2026-11-19T13:12:46.963Z"
   }
  ]
 }
