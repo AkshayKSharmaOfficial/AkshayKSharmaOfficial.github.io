@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-27T18:33:54.675Z",
- "lastAttempt": "2026-11-27T18:33:54.675Z",
+ "lastSuccess": "2026-11-27T19:43:36.294Z",
+ "lastAttempt": "2026-11-27T19:43:36.294Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T18:33:54.675Z",
-   "lastSuccess": "2026-11-27T18:33:54.675Z",
+   "checkedAt": "2026-11-27T19:43:36.294Z",
+   "lastSuccess": "2026-11-27T19:43:36.294Z",
    "etag": null,
-   "lastModified": "Fri, 27 Nov 2026 18:17:09 GMT"
+   "lastModified": "Fri, 27 Nov 2026 18:59:23 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T18:33:54.675Z",
-   "lastSuccess": "2026-11-27T18:33:54.675Z",
-   "etag": "2f55806f92821f7b1fc5d89e68dc2ba4",
-   "lastModified": "Fri, 27 Nov 2026 18:26:14 GMT"
+   "checkedAt": "2026-11-27T19:43:36.294Z",
+   "lastSuccess": "2026-11-27T19:43:36.294Z",
+   "etag": "743beb98a59131c93f467aaaa461ef56",
+   "lastModified": "Fri, 27 Nov 2026 19:36:08 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T18:33:54.675Z",
-   "lastSuccess": "2026-11-27T18:33:54.675Z",
+   "checkedAt": "2026-11-27T19:43:36.294Z",
+   "lastSuccess": "2026-11-27T19:43:36.294Z",
    "etag": null,
-   "lastModified": "Fri, 27 Nov 2026 17:25:51 GMT"
+   "lastModified": "Fri, 27 Nov 2026 19:37:20 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T18:33:54.675Z",
-   "lastSuccess": "2026-11-27T18:33:54.675Z",
+   "checkedAt": "2026-11-27T19:43:36.294Z",
+   "lastSuccess": "2026-11-27T19:43:36.294Z",
    "etag": "\"75e962e085b573afec980d40d474af49\"",
    "lastModified": "Fri, 27 Nov 2026 11:00:00 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T18:33:54.675Z",
-   "lastSuccess": "2026-11-27T18:33:54.675Z",
+   "checkedAt": "2026-11-27T19:43:36.294Z",
+   "lastSuccess": "2026-11-27T19:43:36.294Z",
    "etag": null,
-   "lastModified": "Fri, 27 Nov 2026 18:33:55 GMT"
+   "lastModified": "Fri, 27 Nov 2026 19:43:36 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,42 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T18:33:54.675Z",
-   "lastSuccess": "2026-11-27T18:33:54.675Z",
+   "checkedAt": "2026-11-27T19:43:36.294Z",
+   "lastSuccess": "2026-11-27T19:43:36.294Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "33328005737f1649",
+   "title": "pCloud confirms password manager hack after suspicious login alerts",
+   "url": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+   "summary": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-27T19:26:04.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-27T19:43:36.294Z"
+  },
+  {
+   "id": "b14c8889fde6c0b3",
+   "title": "New Boston Scientific data breach exposes personal, medical info",
+   "url": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+   "summary": "Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-27T18:57:42.000Z",
+   "categories": [
+    "breach",
+    "attack"
+   ],
+   "firstSeen": "2026-11-27T19:43:36.294Z"
+  },
   {
    "id": "1bd0a06e1829b1fa",
    "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
@@ -2951,36 +2980,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-19T19:46:05.501Z"
-  },
-  {
-   "id": "cc7a5715391457a2",
-   "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-   "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
-   "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-19T18:47:58.000Z",
-   "categories": [
-    "ransomware",
-    "vuln",
-    "malware"
-   ],
-   "firstSeen": "2026-11-19T20:48:14.351Z"
-  },
-  {
-   "id": "1ad926ada56b1565",
-   "title": "Transport for London breach exposes 265,000 Oyster card users' data",
-   "url": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
-   "summary": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-19T18:20:01.000Z",
-   "categories": [
-    "breach"
-   ],
-   "firstSeen": "2026-11-19T18:38:15.922Z"
   }
  ]
 }
