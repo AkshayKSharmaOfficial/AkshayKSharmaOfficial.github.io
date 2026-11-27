@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-27T16:39:42.312Z",
- "lastAttempt": "2026-11-27T16:39:42.312Z",
+ "lastSuccess": "2026-11-27T17:38:33.096Z",
+ "lastAttempt": "2026-11-27T17:38:33.096Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T16:39:42.312Z",
-   "lastSuccess": "2026-11-27T16:39:42.312Z",
+   "checkedAt": "2026-11-27T17:38:33.096Z",
+   "lastSuccess": "2026-11-27T17:38:33.096Z",
    "etag": null,
-   "lastModified": "Fri, 27 Nov 2026 16:18:05 GMT"
+   "lastModified": "Fri, 27 Nov 2026 17:00:42 GMT"
   },
   {
    "id": "bleeping",
@@ -22,22 +22,22 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T16:39:42.312Z",
-   "lastSuccess": "2026-11-27T16:39:42.312Z",
-   "etag": "7f4a501bdcdf4cf37fe90d3c92e9899c",
-   "lastModified": "Fri, 27 Nov 2026 16:29:40 GMT"
+   "checkedAt": "2026-11-27T17:38:33.096Z",
+   "lastSuccess": "2026-11-27T17:38:33.096Z",
+   "etag": "9c44c89cb4f09af4791baa3a6caa3fa4",
+   "lastModified": "Fri, 27 Nov 2026 17:36:14 GMT"
   },
   {
    "id": "krebs",
    "name": "Krebs on Security",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T16:39:42.312Z",
-   "lastSuccess": "2026-11-27T16:39:42.312Z",
+   "checkedAt": "2026-11-27T17:38:33.096Z",
+   "lastSuccess": "2026-11-27T17:38:33.096Z",
    "etag": null,
-   "lastModified": "Fri, 27 Nov 2026 15:19:04 GMT"
+   "lastModified": "Fri, 27 Nov 2026 17:25:51 GMT"
   },
   {
    "id": "securityweek",
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T16:39:42.312Z",
-   "lastSuccess": "2026-11-27T16:39:42.312Z",
+   "checkedAt": "2026-11-27T17:38:33.096Z",
+   "lastSuccess": "2026-11-27T17:38:33.096Z",
    "etag": "\"75e962e085b573afec980d40d474af49\"",
    "lastModified": "Fri, 27 Nov 2026 11:00:00 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T16:39:42.312Z",
-   "lastSuccess": "2026-11-27T16:39:42.312Z",
+   "checkedAt": "2026-11-27T17:38:33.096Z",
+   "lastSuccess": "2026-11-27T17:38:33.096Z",
    "etag": null,
-   "lastModified": "Fri, 27 Nov 2026 16:39:42 GMT"
+   "lastModified": "Fri, 27 Nov 2026 17:38:33 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,42 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T16:39:42.312Z",
-   "lastSuccess": "2026-11-27T16:39:42.312Z",
+   "checkedAt": "2026-11-27T17:38:33.096Z",
+   "lastSuccess": "2026-11-27T17:38:33.096Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "1bd0a06e1829b1fa",
+   "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+   "url": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+   "summary": "A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets unauthenticated attackers execute commands on vulnerable servers. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-27T17:06:13.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-27T17:38:33.096Z"
+  },
+  {
+   "id": "a061202fd8df49d8",
+   "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+   "url": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
+   "summary": "A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with an aim to gather intelligence on South China Sea defense and military agreements. The previously undocumented incursion set…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-27T16:36:11.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-27T17:38:33.096Z"
+  },
   {
    "id": "f8d16e3a9875054e",
    "title": "Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks",
@@ -2952,36 +2981,6 @@
     "breach"
    ],
    "firstSeen": "2026-11-19T18:38:15.922Z"
-  },
-  {
-   "id": "ea8cebf5d32bea67",
-   "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
-   "url": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
-   "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can allow the attacker to run code on…",
-   "source": "The Hacker News",
-   "sourceId": "thn",
-   "kind": "media",
-   "published": "2026-11-19T16:59:56.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-19T18:38:15.922Z"
-  },
-  {
-   "id": "76ebfcf24501b920",
-   "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
-   "url": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
-   "summary": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
-   "source": "BleepingComputer",
-   "sourceId": "bleeping",
-   "kind": "media",
-   "published": "2026-11-19T16:28:23.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-19T16:37:00.670Z"
   }
  ]
 }
