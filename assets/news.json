@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-27T07:16:21.112Z",
- "lastAttempt": "2026-11-27T07:16:21.112Z",
+ "lastSuccess": "2026-11-27T08:44:35.902Z",
+ "lastAttempt": "2026-11-27T08:44:35.902Z",
  "sources": [
   {
    "id": "thn",
@@ -10,8 +10,8 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T07:16:21.112Z",
-   "lastSuccess": "2026-11-27T07:16:21.112Z",
+   "checkedAt": "2026-11-27T08:44:35.902Z",
+   "lastSuccess": "2026-11-27T08:44:35.902Z",
    "etag": null,
    "lastModified": "Fri, 27 Nov 2026 07:10:32 GMT"
   },
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T07:16:21.112Z",
-   "lastSuccess": "2026-11-27T07:16:21.112Z",
-   "etag": "fafb0acd2835c68f757943b35c2dfe47",
-   "lastModified": "Fri, 27 Nov 2026 07:06:23 GMT"
+   "checkedAt": "2026-11-27T08:44:35.902Z",
+   "lastSuccess": "2026-11-27T08:44:35.902Z",
+   "etag": "c111483e6f086440cecff2802d4c5bff",
+   "lastModified": "Fri, 27 Nov 2026 08:36:59 GMT"
   },
   {
    "id": "krebs",
@@ -34,22 +34,22 @@
    "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T07:16:21.112Z",
-   "lastSuccess": "2026-11-27T07:16:21.112Z",
+   "checkedAt": "2026-11-27T08:44:35.902Z",
+   "lastSuccess": "2026-11-27T08:44:35.902Z",
    "etag": null,
-   "lastModified": "Fri, 27 Nov 2026 07:15:05 GMT"
+   "lastModified": "Fri, 27 Nov 2026 08:30:20 GMT"
   },
   {
    "id": "securityweek",
    "name": "SecurityWeek",
    "ok": true,
-   "count": 0,
+   "count": 10,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T07:16:21.112Z",
-   "lastSuccess": "2026-11-27T07:16:21.112Z",
-   "etag": "\"e81f1633b43dd691b407863c6c6b1695\"",
-   "lastModified": "Thu, 26 Nov 2026 17:07:32 GMT"
+   "checkedAt": "2026-11-27T08:44:35.902Z",
+   "lastSuccess": "2026-11-27T08:44:35.902Z",
+   "etag": "\"aae4e7c3193595dde2052a8349a06a13\"",
+   "lastModified": "Fri, 27 Nov 2026 07:44:54 GMT"
   },
   {
    "id": "darkreading",
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T07:16:21.112Z",
-   "lastSuccess": "2026-11-27T07:16:21.112Z",
+   "checkedAt": "2026-11-27T08:44:35.902Z",
+   "lastSuccess": "2026-11-27T08:44:35.902Z",
    "etag": null,
-   "lastModified": "Fri, 27 Nov 2026 07:16:22 GMT"
+   "lastModified": "Fri, 27 Nov 2026 08:44:36 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,58 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-27T07:16:21.112Z",
-   "lastSuccess": "2026-11-27T07:16:21.112Z",
+   "checkedAt": "2026-11-27T08:44:35.902Z",
+   "lastSuccess": "2026-11-27T08:44:35.902Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "3a682d5dd798bf02",
+   "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+   "url": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+   "summary": "​A 12-year-old critical vulnerability in the Linux kernel's Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges. [...]",
+   "source": "BleepingComputer",
+   "sourceId": "bleeping",
+   "kind": "media",
+   "published": "2026-11-27T08:06:58.000Z",
+   "categories": [
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-27T08:44:35.902Z"
+  },
+  {
+   "id": "87f9b5930d3d7c81",
+   "title": "Hex Package Manager Warns of Potential Data Breach",
+   "url": "https://www.securityweek.com/hex-package-manager-warns-of-potential-data-breach/",
+   "summary": "A vulnerability in hex.pm allowed hackers to run commands on web servers. No evidence of data modification was found, but database reads are not logged. The post Hex Package Manager Warns of Potential Data Breach appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-27T07:44:49.000Z",
+   "categories": [
+    "breach",
+    "vuln",
+    "attack"
+   ],
+   "firstSeen": "2026-11-27T08:44:35.902Z"
+  },
+  {
+   "id": "d952f398681c05da",
+   "title": "SAP Confirms Cyberattack, Source Code Reportedly Compromised",
+   "url": "https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/",
+   "summary": "SAP has detected suspicious activity on GitHub, where hackers reportedly used stolen employee tokens to copy and alter source code. The post SAP Confirms Cyberattack, Source Code Reportedly Compromised appeared first on SecurityWeek .",
+   "source": "SecurityWeek",
+   "sourceId": "securityweek",
+   "kind": "media",
+   "published": "2026-11-27T07:36:14.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-27T08:44:35.902Z"
+  },
   {
    "id": "979e934b372966d4",
    "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
@@ -2948,52 +2993,6 @@
     "attack"
    ],
    "firstSeen": "2026-11-19T16:37:00.670Z"
-  },
-  {
-   "id": "e3ef1f6d8280774d",
-   "title": "Autonomy Logic OpenPLC Runtime",
-   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01",
-   "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow several unauthenticated admin accounts to be created. The following versions of Autonomy Logic OpenPLC Runtime are affected: OpenPLC Runtime =4.2.4 (CVE-2026-126088) CVSS Vendor Equipment v3 8.1…",
-   "source": "CISA (US government)",
-   "sourceId": "cisa",
-   "kind": "official",
-   "published": "2026-11-19T12:00:00.000Z",
-   "categories": [
-    "advisory",
-    "vuln"
-   ],
-   "firstSeen": "2026-11-19T16:37:00.670Z"
-  },
-  {
-   "id": "da93c20d6fb48599",
-   "title": "libumqtt",
-   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
-   "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt =1.1.1 (CVE-2026-125132) CVSS Vendor Equipment v3…",
-   "source": "CISA (US government)",
-   "sourceId": "cisa",
-   "kind": "official",
-   "published": "2026-11-19T12:00:00.000Z",
-   "categories": [
-    "advisory",
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-19T16:37:00.670Z"
-  },
-  {
-   "id": "c3f2f5031d340d57",
-   "title": "The Governance Gap in Open-Weight AI and What to Do About It",
-   "url": "https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/",
-   "summary": "Lower costs, data privacy, and greater control are driving open-weight AI adoption, but many organizations are not addressing the risks that come with it. The post The Governance Gap in Open-Weight AI and What to Do About It appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-19T12:00:00.000Z",
-   "categories": [
-    "breach",
-    "ai"
-   ],
-   "firstSeen": "2026-11-19T13:12:46.963Z"
   }
  ]
 }
