@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "lastSuccess": "2026-11-28T07:47:32.625Z",
- "lastAttempt": "2026-11-28T07:47:32.625Z",
+ "lastSuccess": "2026-11-28T08:47:02.340Z",
+ "lastAttempt": "2026-11-28T08:47:02.340Z",
  "sources": [
   {
    "id": "thn",
@@ -10,10 +10,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-28T07:47:32.625Z",
-   "lastSuccess": "2026-11-28T07:47:32.625Z",
+   "checkedAt": "2026-11-28T08:47:02.340Z",
+   "lastSuccess": "2026-11-28T08:47:02.340Z",
    "etag": null,
-   "lastModified": "Sat, 28 Nov 2026 07:37:12 GMT"
+   "lastModified": "Sat, 28 Nov 2026 08:41:57 GMT"
   },
   {
    "id": "bleeping",
@@ -22,10 +22,10 @@
    "count": 15,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-28T07:47:32.625Z",
-   "lastSuccess": "2026-11-28T07:47:32.625Z",
-   "etag": "9d76b5ee62fee1fca75dd97d80d36e7e",
-   "lastModified": "Sat, 28 Nov 2026 07:46:10 GMT"
+   "checkedAt": "2026-11-28T08:47:02.340Z",
+   "lastSuccess": "2026-11-28T08:47:02.340Z",
+   "etag": "5520083dd2c9e96f6b70550cafdf88bc",
+   "lastModified": "Sat, 28 Nov 2026 08:46:10 GMT"
   },
   {
    "id": "krebs",
@@ -34,8 +34,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-28T07:47:32.625Z",
-   "lastSuccess": "2026-11-28T07:47:32.625Z",
+   "checkedAt": "2026-11-28T08:47:02.340Z",
+   "lastSuccess": "2026-11-28T08:47:02.340Z",
    "etag": null,
    "lastModified": "Sat, 28 Nov 2026 04:03:00 GMT"
   },
@@ -46,8 +46,8 @@
    "count": 0,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-28T07:47:32.625Z",
-   "lastSuccess": "2026-11-28T07:47:32.625Z",
+   "checkedAt": "2026-11-28T08:47:02.340Z",
+   "lastSuccess": "2026-11-28T08:47:02.340Z",
    "etag": "\"75e962e085b573afec980d40d474af49\"",
    "lastModified": "Fri, 27 Nov 2026 11:00:00 GMT"
   },
@@ -58,10 +58,10 @@
    "count": 40,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-28T07:47:32.625Z",
-   "lastSuccess": "2026-11-28T07:47:32.625Z",
+   "checkedAt": "2026-11-28T08:47:02.340Z",
+   "lastSuccess": "2026-11-28T08:47:02.340Z",
    "etag": null,
-   "lastModified": "Sat, 28 Nov 2026 07:47:32 GMT"
+   "lastModified": "Sat, 28 Nov 2026 08:47:02 GMT"
   },
   {
    "id": "cisa",
@@ -70,13 +70,27 @@
    "count": 30,
    "rejected": 0,
    "error": null,
-   "checkedAt": "2026-11-28T07:47:32.625Z",
-   "lastSuccess": "2026-11-28T07:47:32.625Z",
+   "checkedAt": "2026-11-28T08:47:02.340Z",
+   "lastSuccess": "2026-11-28T08:47:02.340Z",
    "etag": null,
    "lastModified": null
   }
  ],
  "articles": [
+  {
+   "id": "98be6a877e816947",
+   "title": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
+   "url": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+   "summary": "Cross-platform password manager pCloud Pass has confirmed it was targeted by a cyber attack after users reported seeing unknown devices being connected to their accounts. \"A cyber attack targeting pCloud Pass occurred, which was promptly contained by the pCloud team,\" the Swiss…",
+   "source": "The Hacker News",
+   "sourceId": "thn",
+   "kind": "media",
+   "published": "2026-11-28T08:08:11.000Z",
+   "categories": [
+    "attack"
+   ],
+   "firstSeen": "2026-11-28T08:47:02.340Z"
+  },
   {
    "id": "33328005737f1649",
    "title": "pCloud confirms password manager hack after suspicious login alerts",
@@ -2965,21 +2979,6 @@
     "ai"
    ],
    "firstSeen": "2026-11-19T20:48:14.351Z"
-  },
-  {
-   "id": "43f9b3509b46f663",
-   "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
-   "url": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/",
-   "summary": "Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch. The post Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT appeared first on SecurityWeek .",
-   "source": "SecurityWeek",
-   "sourceId": "securityweek",
-   "kind": "media",
-   "published": "2026-11-19T19:21:06.000Z",
-   "categories": [
-    "vuln",
-    "attack"
-   ],
-   "firstSeen": "2026-11-19T19:46:05.501Z"
   }
  ]
 }
